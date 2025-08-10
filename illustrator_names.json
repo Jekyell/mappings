@@ -1,0 +1,3383 @@
+{
+  "---": {
+    "JP": null,
+    "CN": "---",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Bすけ": {
+    "JP": null,
+    "CN": "BSUKE",
+    "TW": "Bすけ",
+    "NA": "Bsuke",
+    "KR": "B스케"
+  },
+  "Grandia元": {
+    "JP": null,
+    "CN": "Grandia元",
+    "TW": "Grandia元",
+    "NA": "Grandia Gen",
+    "KR": "Grandia모토"
+  },
+  "I-Ⅳ": {
+    "JP": null,
+    "CN": "I-Ⅳ",
+    "TW": "I-IV",
+    "NA": "I-Ⅳ",
+    "KR": "I-Ⅳ"
+  },
+  "ILLUST：---\n料理監修：遠藤雅司（音食紀行）": {
+    "JP": null,
+    "CN": "ILLUST：---\n食物监修：远藤雅司（音食纪行）",
+    "TW": "ILLUST：---\n料理監修：遠藤雅司（音食紀行）",
+    "NA": "ILLUST：---\nFood Supervision: Masashi Endo (OnShoku Kiko)",
+    "KR": "ILLUST：──\n요리감수: 엔도 마사시(음식기행)"
+  },
+  "M・S": {
+    "JP": null,
+    "CN": "M·S",
+    "TW": "M・S",
+    "NA": "M・S",
+    "KR": "M・S"
+  },
+  "NARUE": {
+    "JP": null,
+    "CN": "NARUE",
+    "TW": "NARUE",
+    "NA": "NARUE",
+    "KR": null
+  },
+  "RiRi/ティズクリエイション": {
+    "JP": null,
+    "CN": "RiRi/TIS Creation",
+    "TW": null,
+    "NA": "RiRi / TIS Creation",
+    "KR": null
+  },
+  "STAR影法師": {
+    "JP": null,
+    "CN": "STAR影法师",
+    "TW": "STAR影法師",
+    "NA": "STAR Shadow Magician",
+    "KR": "STAR영법사"
+  },
+  "TAPI岡": {
+    "JP": null,
+    "CN": "TAPI冈",
+    "TW": "TAPIOKA",
+    "NA": "TAPIOCA",
+    "KR": "TAPI오카"
+  },
+  "Y's": {
+    "JP": null,
+    "CN": "Y's",
+    "TW": "Y's",
+    "NA": "Y's",
+    "KR": null
+  },
+  "YOCO_N(LASENGLE)": {
+    "JP": null,
+    "CN": "YOCO_N(LASENGLE)",
+    "TW": "YOCO_N (LASENGLE)",
+    "NA": "YOCO_N (LASENGLE)",
+    "KR": null
+  },
+  "Zap.(LASENGLE)": {
+    "JP": null,
+    "CN": "Zap.",
+    "TW": "Zap.",
+    "NA": "Zap.",
+    "KR": "Zap."
+  },
+  "ari＆Zap.(LASENGLE)": {
+    "JP": null,
+    "CN": "阿里与萨普。（LASENGLE）",
+    "TW": "ari＆Zap. (LASENGLE)",
+    "NA": "ari & Zap.(LASENGLE)",
+    "KR": "ari&Zap.(LASENGLE)"
+  },
+  "banishment（FLAT STUDIO）": {
+    "JP": null,
+    "CN": "放逐（FLAT STUDIO）",
+    "TW": null,
+    "NA": "banishment (FLAT STUDIO)",
+    "KR": null
+  },
+  "danciao": {
+    "JP": null,
+    "CN": "danciao",
+    "TW": "danciao",
+    "NA": "danciao",
+    "KR": "Danciao"
+  },
+  "nあくた": {
+    "JP": null,
+    "CN": "n akuta",
+    "TW": "n akuta",
+    "NA": "nAkuta",
+    "KR": "n아쿠타"
+  },
+  "okojo＆ネコタワワ": {
+    "JP": null,
+    "CN": "猫娘＆猫咪塔娃",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "pako": {
+    "JP": null,
+    "CN": "pako",
+    "TW": "pako",
+    "NA": "pako",
+    "KR": "Pako"
+  },
+  "pako＆古海鐘一": {
+    "JP": null,
+    "CN": "pako＆古海钟一",
+    "TW": null,
+    "NA": "pako & Showichi Furumi",
+    "KR": null
+  },
+  "±": {
+    "JP": null,
+    "CN": "±",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "あいるむ": {
+    "JP": null,
+    "CN": "Airoom",
+    "TW": "Airoom",
+    "NA": "AiRM",
+    "KR": "아이루무"
+  },
+  "あかさあい": {
+    "JP": null,
+    "CN": "AkasaAi",
+    "TW": "AkasaAi",
+    "NA": "Ai Akasa",
+    "KR": "아카사 아이"
+  },
+  "あかつき聖": {
+    "JP": null,
+    "CN": "akatsuki圣",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "あさ光": {
+    "JP": null,
+    "CN": "asamitsu",
+    "TW": null,
+    "NA": "asamitsu",
+    "KR": null
+  },
+  "あるてら": {
+    "JP": null,
+    "CN": "ARUTERA",
+    "TW": "ARUTERA",
+    "NA": "Arutera",
+    "KR": "아루테라"
+  },
+  "いちご煮": {
+    "JP": null,
+    "CN": "ichigo煮",
+    "TW": null,
+    "NA": "152 in CAN",
+    "KR": null
+  },
+  "いとうのいぢ": {
+    "JP": null,
+    "CN": "伊东杂音",
+    "TW": "伊東雜音",
+    "NA": "Noizi Ito",
+    "KR": "이토 노이지"
+  },
+  "いな子": {
+    "JP": null,
+    "CN": "INAKO",
+    "TW": "いな子",
+    "NA": "Inako",
+    "KR": "이나코"
+  },
+  "いみぎむる": {
+    "JP": null,
+    "CN": "Imigimuru",
+    "TW": "いみぎむる",
+    "NA": "Imigimuru",
+    "KR": "이미기무루"
+  },
+  "いわさきたかし": {
+    "JP": null,
+    "CN": "Iwasaki Takashi",
+    "TW": null,
+    "NA": "Iwasaki Takashi",
+    "KR": "이와사키 타카시"
+  },
+  "うまくち醤油": {
+    "JP": null,
+    "CN": "umakuchu酱油",
+    "TW": null,
+    "NA": "Umakuchi Shouyu",
+    "KR": null
+  },
+  "えいひ": {
+    "JP": null,
+    "CN": "EIHI",
+    "TW": "えいひ",
+    "NA": "Eihi",
+    "KR": "에이히"
+  },
+  "おかざきおか": {
+    "JP": null,
+    "CN": "OKAZAKIOKA",
+    "TW": "おかざきおか",
+    "NA": "okazakioka",
+    "KR": "오카자키 오카"
+  },
+  "おかだアンミツ": {
+    "JP": null,
+    "CN": "okada anmitsu",
+    "TW": "OKADA ANMITSU",
+    "NA": "Okada Anmitsu",
+    "KR": "오카다 안미츠"
+  },
+  "おののいもこ": {
+    "JP": null,
+    "CN": "Ono no Imoko",
+    "TW": "Ono no Imoko",
+    "NA": "Imoko Onono",
+    "KR": "오노노 이모코"
+  },
+  "およ": {
+    "JP": null,
+    "CN": "OYO",
+    "TW": "OYO",
+    "NA": "Oyo",
+    "KR": "오요"
+  },
+  "おるだん": {
+    "JP": null,
+    "CN": "ordan",
+    "TW": "Ordan",
+    "NA": "Orudan",
+    "KR": "오르단"
+  },
+  "お久しぶり": {
+    "JP": null,
+    "CN": "ohisashiburi",
+    "TW": null,
+    "NA": "Ohisashiburi",
+    "KR": null
+  },
+  "お湯": {
+    "JP": null,
+    "CN": "OYU",
+    "TW": "お湯",
+    "NA": "Oyu",
+    "KR": "오유"
+  },
+  "お肉。": {
+    "JP": null,
+    "CN": "oniku。",
+    "TW": "oniku。",
+    "NA": "Oniku",
+    "KR": "오니쿠."
+  },
+  "かやはら": {
+    "JP": null,
+    "CN": "KAYAHARA",
+    "TW": "KAYAHARA",
+    "NA": "Kayahara",
+    "KR": "카야하라"
+  },
+  "きなみ由希": {
+    "JP": null,
+    "CN": "Kinami Yuki",
+    "TW": "きなみ由希",
+    "NA": "Yuki Kinami",
+    "KR": "키나미 유키"
+  },
+  "きばどりリュー": {
+    "JP": null,
+    "CN": "KIBADORI Rue",
+    "TW": "きばどりリュー",
+    "NA": "KIBADORI Rue",
+    "KR": "키바도리 류"
+  },
+  "きばどりリュー＆にたまめ": {
+    "JP": null,
+    "CN": "KIBADORI Rue＆nitamame",
+    "TW": "KIBADORI Rue＆nitamame",
+    "NA": "KIBADORI Rue & Nitamame",
+    "KR": "키바도리 류&니타마메"
+  },
+  "くゆ": {
+    "JP": null,
+    "CN": "9U",
+    "TW": null,
+    "NA": "Kuyu",
+    "KR": null
+  },
+  "くらは": {
+    "JP": null,
+    "CN": "KURAHA",
+    "TW": "KURAHA",
+    "NA": "Kuraha",
+    "KR": "쿠라하"
+  },
+  "くろぎり": {
+    "JP": null,
+    "CN": "kurgiri",
+    "TW": "kurgiri",
+    "NA": "Kurogiri",
+    "KR": "쿠로기리"
+  },
+  "けーしん": {
+    "JP": null,
+    "CN": "keisin",
+    "TW": null,
+    "NA": "keisin",
+    "KR": null
+  },
+  "こうましろ": {
+    "JP": null,
+    "CN": "KOUMASHIRO",
+    "TW": "こうましろ",
+    "NA": "Koumashiro",
+    "KR": "코우 마시로"
+  },
+  "こじまたけし": {
+    "JP": null,
+    "CN": "kojimasarako",
+    "TW": null,
+    "NA": "Takeshi Kojima",
+    "KR": "코지마 타케시"
+  },
+  "こやまひろかず": {
+    "JP": null,
+    "CN": "KOYAMA HIROKAZU",
+    "TW": "こやまひろかず",
+    "NA": "Koyama Hirokazu",
+    "KR": "코야마 히로카즈"
+  },
+  "こんぺいとう": {
+    "JP": null,
+    "CN": "KONPEITOU",
+    "TW": "こんぺいとう",
+    "NA": "Konpeito",
+    "KR": "콘페이토"
+  },
+  "さいとうみちる": {
+    "JP": null,
+    "CN": "saitoh michiru",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "さおとめあげは": {
+    "JP": null,
+    "CN": "saotomeageha",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "さくらもち": {
+    "JP": null,
+    "CN": "sakuramochi",
+    "TW": "sakuramochi",
+    "NA": "Sakuramochi",
+    "KR": "사쿠라모찌"
+  },
+  "さくら小春": {
+    "JP": null,
+    "CN": "SAKURA小春",
+    "TW": "SAKURA小春",
+    "NA": "Koharu Sakura",
+    "KR": "사쿠라 코하루"
+  },
+  "さらちよみ": {
+    "JP": null,
+    "CN": "SARACHIYOMI",
+    "TW": "さらちよみ",
+    "NA": "Yomi Sarachi",
+    "KR": "사라 치요미"
+  },
+  "しのとうこ": {
+    "JP": null,
+    "CN": "shinotouco",
+    "TW": "shinotouco",
+    "NA": "Touco Shino",
+    "KR": "시노 토코"
+  },
+  "しまどりる": {
+    "JP": null,
+    "CN": "SHIMADORILL",
+    "TW": "しまどりる",
+    "NA": "Shima Drill",
+    "KR": "시마도리루"
+  },
+  "しゅがお": {
+    "JP": null,
+    "CN": "sugaro",
+    "TW": "Syugao",
+    "NA": "Shugao",
+    "KR": "슈가오"
+  },
+  "しらび": {
+    "JP": null,
+    "CN": "SHIRABI",
+    "TW": "しらび",
+    "NA": "Shirabi",
+    "KR": "시라비"
+  },
+  "じゃこ兵衛": {
+    "JP": null,
+    "CN": "JAKO兵卫",
+    "TW": "じゃこ兵衛",
+    "NA": "Jakobei",
+    "KR": "쟈코베이"
+  },
+  "すず氷": {
+    "JP": null,
+    "CN": "SUZUHI",
+    "TW": "SUZUHI",
+    "NA": "Suzuhi",
+    "KR": "스즈히"
+  },
+  "すみす": {
+    "JP": null,
+    "CN": "SUMISU",
+    "TW": "SUMISU",
+    "NA": "Sumisu",
+    "KR": "스미스"
+  },
+  "すめらぎ琥珀": {
+    "JP": null,
+    "CN": "Sumeragi琥珀",
+    "TW": "すめらぎ琥珀",
+    "NA": "Kohaku Sumeragi",
+    "KR": "스메라기 코하쿠"
+  },
+  "それーゆ": {
+    "JP": null,
+    "CN": "Soreyu",
+    "TW": null,
+    "NA": "SOREYU",
+    "KR": "소레유"
+  },
+  "たけのこ星人": {
+    "JP": null,
+    "CN": "TAKENOKO SEIJIN",
+    "TW": "たけのこ星人",
+    "NA": "Takenoko Seijin",
+    "KR": "타케노코 세이진"
+  },
+  "たつよ": {
+    "JP": null,
+    "CN": "tatsuyo",
+    "TW": "たつよ",
+    "NA": "Tatsuyo",
+    "KR": "타츠요"
+  },
+  "たもりただぢ": {
+    "JP": null,
+    "CN": "tamoritadadi",
+    "TW": "tamoritadadi",
+    "NA": "Tadadi Tamori",
+    "KR": "타모리 타다지"
+  },
+  "たわわ実": {
+    "JP": null,
+    "CN": "TAWAWAMINORU",
+    "TW": "たわわ実",
+    "NA": "Tawawa Minoru",
+    "KR": "타와와 미노루"
+  },
+  "たんぽぽ隼丸": {
+    "JP": null,
+    "CN": "Tanpopo隼丸",
+    "TW": null,
+    "NA": "Hayabusamaru Tanpopo",
+    "KR": "탄포포 하야부사마루"
+  },
+  "ちょこ庵": {
+    "JP": null,
+    "CN": "CHOCOAN",
+    "TW": "ちょこ庵",
+    "NA": "Chocoan",
+    "KR": "초코안"
+  },
+  "つーはん": {
+    "JP": null,
+    "CN": "TSU-HAN",
+    "TW": "TSU-HAN",
+    "NA": "Tsuuhan",
+    "KR": "츠항"
+  },
+  "とうふ": {
+    "JP": null,
+    "CN": "Touhu",
+    "TW": "Touhu",
+    "NA": "Tofu",
+    "KR": "토후"
+  },
+  "どうしま": {
+    "JP": null,
+    "CN": "doshimash",
+    "TW": "DOUSHIMA",
+    "NA": "Doshima",
+    "KR": "도시마"
+  },
+  "ながべ": {
+    "JP": null,
+    "CN": "nagabe",
+    "TW": null,
+    "NA": "Nagabe",
+    "KR": "나가베"
+  },
+  "なまにくATK": {
+    "JP": null,
+    "CN": "NAMANIKU ATK(Nitro+)",
+    "TW": null,
+    "NA": "Namaniku ATK (Nitroplus)",
+    "KR": "나마니쿠 ATK(니트로 플러스)"
+  },
+  "なまにくATK(ニトロプラス)": {
+    "JP": null,
+    "CN": "NAMANIKU ATK(Nitro+)",
+    "TW": "なまにくATK(Nitro+)",
+    "NA": "Namaniku ATK (Nitroplus)",
+    "KR": "나마니쿠 ATK(니트로 플러스)"
+  },
+  "なもり": {
+    "JP": null,
+    "CN": "namori",
+    "TW": "namori",
+    "NA": "Namori",
+    "KR": "나모리"
+  },
+  "なるゑ": {
+    "JP": null,
+    "CN": "NARUE",
+    "TW": "NARUE",
+    "NA": "Narue",
+    "KR": "나루에"
+  },
+  "にたまめ": {
+    "JP": null,
+    "CN": "nitamame",
+    "TW": "NITAMAME",
+    "NA": "Nitamame",
+    "KR": null
+  },
+  "にんまる": {
+    "JP": null,
+    "CN": "NINMARU",
+    "TW": "にんまる",
+    "NA": "Ninmaru",
+    "KR": "닌마루"
+  },
+  "ねこだるま": {
+    "JP": null,
+    "CN": "nekodaruma",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ねこのけだま": {
+    "JP": null,
+    "CN": "NEKONOKEDAMA",
+    "TW": "NEKONOKEDAMA",
+    "NA": "Nekono Kedama",
+    "KR": "네코노케다마"
+  },
+  "ねづみどし": {
+    "JP": null,
+    "CN": "NEZUMIDOSI",
+    "TW": "NEZUMIDOSHI",
+    "NA": "Nezumidoshi",
+    "KR": "네즈미도시"
+  },
+  "のくらん": {
+    "JP": null,
+    "CN": "NOKURAN",
+    "TW": "のくらん",
+    "NA": "Nokuran",
+    "KR": "노쿠란"
+  },
+  "はいむらきよたか": {
+    "JP": null,
+    "CN": "HAIMURA KIYOTAKA",
+    "TW": "はいむらきよたか",
+    "NA": "Kiyotaka Haimura",
+    "KR": "하이무라 키요타카"
+  },
+  "はたや": {
+    "JP": null,
+    "CN": "hataya",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "はまじあき": {
+    "JP": null,
+    "CN": "浜路晶",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "はよせな": {
+    "JP": null,
+    "CN": "HAYOSENA",
+    "TW": "はよせな",
+    "NA": "Hayosena",
+    "KR": "하요세나"
+  },
+  "ばん！": {
+    "JP": null,
+    "CN": "ban！",
+    "TW": "BAN！",
+    "NA": "Ban!",
+    "KR": "반!"
+  },
+  "ひざか": {
+    "JP": null,
+    "CN": "HIZAKA",
+    "TW": "ひざか",
+    "NA": "Hizaka",
+    "KR": "히자카"
+  },
+  "ひつみ": {
+    "JP": null,
+    "CN": "Hitsumi",
+    "TW": null,
+    "NA": "hitumi",
+    "KR": "히츠미"
+  },
+  "ひろやまひろし": {
+    "JP": null,
+    "CN": "HIROYAMA HIROSHI",
+    "TW": "ひろやまひろし",
+    "NA": "Hiroshi Hiroyama",
+    "KR": "히로야마 히로시"
+  },
+  "ふじた": {
+    "JP": null,
+    "CN": "fujita",
+    "TW": "fujita",
+    "NA": "Fujita",
+    "KR": "후지타"
+  },
+  "ぶくろて": {
+    "JP": null,
+    "CN": "bukurote",
+    "TW": "bukurote",
+    "NA": "Bukurote",
+    "KR": "부쿠로테"
+  },
+  "へいろー": {
+    "JP": null,
+    "CN": "HEIRO",
+    "TW": null,
+    "NA": "Heiro",
+    "KR": "헤이로"
+  },
+  "へろすみ": {
+    "JP": null,
+    "CN": "herosumi",
+    "TW": "herosumi",
+    "NA": "Herosumi",
+    "KR": "헤로스미"
+  },
+  "ぺい": {
+    "JP": null,
+    "CN": "pei",
+    "TW": null,
+    "NA": "pei",
+    "KR": null
+  },
+  "ぽよよん♡ろっく": {
+    "JP": null,
+    "CN": "Poyoyon♥Rock",
+    "TW": "ぽよよん♥ろっく",
+    "NA": "Poyoyon♥Rock",
+    "KR": "포요용♡록쿠"
+  },
+  "ぽんかん⑧": {
+    "JP": null,
+    "CN": "ponkan⑧",
+    "TW": "ぽんかん⑧",
+    "NA": "Ponkan⑧",
+    "KR": "퐁칸⑧"
+  },
+  "まこと": {
+    "JP": null,
+    "CN": "MAKOTO",
+    "TW": "まこと",
+    "NA": "Makoto",
+    "KR": "마코토"
+  },
+  "ましゅー": {
+    "JP": null,
+    "CN": "MASHU",
+    "TW": "ましゅー",
+    "NA": "Mashu",
+    "KR": "마슈-"
+  },
+  "また": {
+    "JP": null,
+    "CN": "MATA",
+    "TW": "また",
+    "NA": "Mata",
+    "KR": "마타"
+  },
+  "また＆Bすけ": {
+    "JP": null,
+    "CN": "再会＆B助",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "まつゆき杏": {
+    "JP": null,
+    "CN": "MATSUYUKI杏",
+    "TW": "まつゆき杏",
+    "NA": "An Matsuyuki",
+    "KR": "마츠유키 안"
+  },
+  "みちきんぐ": {
+    "JP": null,
+    "CN": "michikingu",
+    "TW": "MICHIKINGU",
+    "NA": "Michiking",
+    "KR": "미치킹"
+  },
+  "みつみ美里": {
+    "JP": null,
+    "CN": "Mitsumi美里",
+    "TW": "みつみ美里",
+    "NA": "Misato Mitsumi",
+    "KR": "미츠미 미사토"
+  },
+  "みふじ喜一": {
+    "JP": null,
+    "CN": "MIFUJI喜一",
+    "TW": "みふじ喜一",
+    "NA": "Mifuji Kiichi",
+    "KR": "미후지 키이치"
+  },
+  "むに": {
+    "JP": null,
+    "CN": "muni",
+    "TW": "MUNI",
+    "NA": "Muni",
+    "KR": "무니"
+  },
+  "めいさい": {
+    "JP": null,
+    "CN": "meisai",
+    "TW": null,
+    "NA": "Meisai",
+    "KR": "메이사이"
+  },
+  "めたろぐ": {
+    "JP": null,
+    "CN": "metarogu",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "めばる": {
+    "JP": null,
+    "CN": "MEBARU",
+    "TW": "MEBARU",
+    "NA": "Mebaru",
+    "KR": "메바루"
+  },
+  "めろん22": {
+    "JP": null,
+    "CN": "MERON22",
+    "TW": "めろん22",
+    "NA": "MELON22",
+    "KR": "멜론22"
+  },
+  "めろん22＆TAKOLEGS": {
+    "JP": null,
+    "CN": "蜜瓜22＆TAKOLEGS",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "もみじ真魚": {
+    "JP": null,
+    "CN": "Momiji真鱼",
+    "TW": "Momiji真魚",
+    "NA": "Mao Momiji",
+    "KR": "모미지 마오"
+  },
+  "やすゆき": {
+    "JP": null,
+    "CN": "yasuyuki",
+    "TW": "yasuyuki",
+    "NA": "Yasuyuki",
+    "KR": "야스유키"
+  },
+  "ゆきさめ": {
+    "JP": null,
+    "CN": "YUKISAME",
+    "TW": "ゆきさめ",
+    "NA": "Yukisame",
+    "KR": "유키사메"
+  },
+  "ゆきさめ＆秋田犬": {
+    "JP": null,
+    "CN": "YUKISAME＆秋田犬",
+    "TW": "ゆきさめ＆秋田犬",
+    "NA": "Yukisame & Akita Inu",
+    "KR": "유키사메&아키타이누"
+  },
+  "ゆずしお": {
+    "JP": null,
+    "CN": "YUZUSHIO",
+    "TW": "ゆずしお",
+    "NA": "Yuzushio",
+    "KR": "유즈시오"
+  },
+  "よし男": {
+    "JP": null,
+    "CN": "yoshi男",
+    "TW": "YOSHI男",
+    "NA": "Yoshio",
+    "KR": "요시오"
+  },
+  "るいせんと": {
+    "JP": null,
+    "CN": "llluicent",
+    "TW": null,
+    "NA": "Illuicent",
+    "KR": null
+  },
+  "れおえん": {
+    "JP": null,
+    "CN": "reoenl",
+    "TW": "reoenl",
+    "NA": "Reoenl",
+    "KR": "레오엔"
+  },
+  "ろび～な": {
+    "JP": null,
+    "CN": "ROBI～NA",
+    "TW": "ろび～な",
+    "NA": "Robina",
+    "KR": "로비~나"
+  },
+  "わいあっと": {
+    "JP": null,
+    "CN": "Y at",
+    "TW": "Y at",
+    "NA": "Y_at",
+    "KR": "와이앳"
+  },
+  "わぽ吉": {
+    "JP": null,
+    "CN": "WAPO吉",
+    "TW": "わぽ吉",
+    "NA": "Wapokichi",
+    "KR": "와포키치"
+  },
+  "わるつ": {
+    "JP": null,
+    "CN": "warutsu",
+    "TW": "warutsu",
+    "NA": "Waltz",
+    "KR": "와루츠"
+  },
+  "アオジマイコ": {
+    "JP": null,
+    "CN": "AOJI Maiko",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アルコポルカ": {
+    "JP": null,
+    "CN": "arukoporuka",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "イノオカ": {
+    "JP": null,
+    "CN": "INOOKA",
+    "TW": "イノオカ",
+    "NA": "Inooka",
+    "KR": "이노오카"
+  },
+  "ウエハラ蜂": {
+    "JP": null,
+    "CN": "uehara8",
+    "TW": "uehara8",
+    "NA": "Hachi Uehara",
+    "KR": "우에하라 하치"
+  },
+  "ウーカタ/Andraft": {
+    "JP": null,
+    "CN": "乌卡塔/安德拉夫特",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エナミカツミ": {
+    "JP": null,
+    "CN": "Enami Katsumi",
+    "TW": "Enami Katsumi",
+    "NA": "Katsumi Enami",
+    "KR": "에나미 카츠미"
+  },
+  "オノ・タコ": {
+    "JP": null,
+    "CN": "ONO·TAKO",
+    "TW": "ONO．TAKO",
+    "NA": "Tako Ono",
+    "KR": "오노・타코"
+  },
+  "オロロ": {
+    "JP": null,
+    "CN": "Ororo",
+    "TW": null,
+    "NA": "Ororo",
+    "KR": "오로로"
+  },
+  "カシア": {
+    "JP": null,
+    "CN": "Kashia",
+    "TW": "Kashia",
+    "NA": "Kashia",
+    "KR": "카시아"
+  },
+  "カスカベアキラ": {
+    "JP": null,
+    "CN": "KASUKABEAKIRA",
+    "TW": "カスカベアキラ",
+    "NA": "Caskabe Akira",
+    "KR": "카스카베 아키라"
+  },
+  "カズアキ": {
+    "JP": null,
+    "CN": "KAZUAKI",
+    "TW": "カズアキ",
+    "NA": "Kazuaki",
+    "KR": "카즈아키"
+  },
+  "カズキヨネ": {
+    "JP": null,
+    "CN": "KAZUKIYONE",
+    "TW": "カズキヨネ",
+    "NA": "Kazuki Yone",
+    "KR": "카즈키요네"
+  },
+  "カミヤ ミヲ": {
+    "JP": null,
+    "CN": "KAMIYA MIWO",
+    "TW": "カミヤ ミヲ",
+    "NA": "Miwo Kamiya",
+    "KR": "카미야 미오"
+  },
+  "カラスBTK": {
+    "JP": null,
+    "CN": "karasu BTK",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カリマリカ": {
+    "JP": null,
+    "CN": "CARIMARICA",
+    "TW": null,
+    "NA": "CARIMARICA",
+    "KR": null
+  },
+  "カワグチタケシ": {
+    "JP": null,
+    "CN": "Kawaguchi Takeshi",
+    "TW": null,
+    "NA": "Takeshi Kawaguchi",
+    "KR": "카와구치 타케시"
+  },
+  "キナコ": {
+    "JP": null,
+    "CN": "KINAKO",
+    "TW": "KINAKO",
+    "NA": "Kinako",
+    "KR": "키나코"
+  },
+  "キョー介": {
+    "JP": null,
+    "CN": "Kyosuke",
+    "TW": "Kyosuke",
+    "NA": "Kyosuke",
+    "KR": "쿄스케"
+  },
+  "ギンカ": {
+    "JP": null,
+    "CN": "GINKA",
+    "TW": "ギンカ",
+    "NA": "Ginka",
+    "KR": "긴카"
+  },
+  "クロサワテツ": {
+    "JP": null,
+    "CN": "kurosawatetsu",
+    "TW": null,
+    "NA": "Tetsu Kurosawa",
+    "KR": "쿠로사와 테츠"
+  },
+  "ケースワベ": {
+    "JP": null,
+    "CN": "K-SUWABE",
+    "TW": "ケースワベ",
+    "NA": "K-SUWABE",
+    "KR": "케이 스와베"
+  },
+  "コウタ": {
+    "JP": null,
+    "CN": "KOUTA",
+    "TW": null,
+    "NA": "Kota",
+    "KR": null
+  },
+  "コダマ": {
+    "JP": null,
+    "CN": "KODAMA",
+    "TW": "コダマ",
+    "NA": "Kodama",
+    "KR": "코다마"
+  },
+  "サクマミツロ": {
+    "JP": null,
+    "CN": "SAKUMA MITSURO",
+    "TW": "サクマミツロ",
+    "NA": "Mitsuro Sakuma",
+    "KR": "사쿠마 미츠로"
+  },
+  "サテー": {
+    "JP": null,
+    "CN": "SYATEY",
+    "TW": "SYATEY",
+    "NA": "Syatey",
+    "KR": "syatey"
+  },
+  "シガタケ": {
+    "JP": null,
+    "CN": "SHIGATAKE",
+    "TW": "シガタケ",
+    "NA": "Shigatake",
+    "KR": "시가타케"
+  },
+  "シャカＰ(LASENGLE)": {
+    "JP": null,
+    "CN": "SHAKA P(LASENGLE)",
+    "TW": "シャカP(LASENGLE)",
+    "NA": "Shaka-P (Lasengle)",
+    "KR": "샤카P(LASENGLE)"
+  },
+  "シワスタカシ": {
+    "JP": null,
+    "CN": "shiwasutakashi",
+    "TW": "shiwasutakashi",
+    "NA": "Takashi Shiwasu",
+    "KR": "시와스 타카시"
+  },
+  "スオウ": {
+    "JP": null,
+    "CN": "Suoh",
+    "TW": "Suoh",
+    "NA": "Suou",
+    "KR": "스오우"
+  },
+  "スコッティ": {
+    "JP": null,
+    "CN": "Scottie",
+    "TW": null,
+    "NA": "Scottie",
+    "KR": "스코티"
+  },
+  "スタジオA": {
+    "JP": null,
+    "CN": "STUDIO A",
+    "TW": "STUDIO A",
+    "NA": "StudioA",
+    "KR": "스튜디오A"
+  },
+  "セキヤギ": {
+    "JP": null,
+    "CN": "SEKIYAGI",
+    "TW": "セキヤギ",
+    "NA": "Sekiyagi",
+    "KR": "세키야기"
+  },
+  "タイキ": {
+    "JP": null,
+    "CN": "TAIKI",
+    "TW": "タイキ",
+    "NA": "Taiki",
+    "KR": "타이키"
+  },
+  "タカヤマトシアキ": {
+    "JP": null,
+    "CN": "Takayama Toshiaki",
+    "TW": null,
+    "NA": "Toshiaki Takayama",
+    "KR": "타카야마 토시아키"
+  },
+  "タスクオーナ": {
+    "JP": null,
+    "CN": "TASKOHNA",
+    "TW": "タスクオーナ",
+    "NA": "Task Ohna",
+    "KR": "Task Ohna"
+  },
+  "タマシロ ケンジ": {
+    "JP": null,
+    "CN": "Tamashiro Kenji",
+    "TW": "タマシロ ケンジ",
+    "NA": "Kenji Tamashiro",
+    "KR": "타마시로 켄지"
+  },
+  "ダイエクスト": {
+    "JP": null,
+    "CN": "DAI-XT.",
+    "TW": "DAI-XT.",
+    "NA": "DAI-XT",
+    "KR": "다이엑스트"
+  },
+  "ダンミル": {
+    "JP": null,
+    "CN": "Dangmill",
+    "TW": "Dangmill",
+    "NA": "Dangmill",
+    "KR": "당밀"
+  },
+  "チェロキー": {
+    "JP": null,
+    "CN": "CHEROKI",
+    "TW": "チェロキー",
+    "NA": "Cherokee",
+    "KR": "체로키"
+  },
+  "トリダモノ": {
+    "JP": null,
+    "CN": "TORIDAMONO",
+    "TW": "TORIDAMONO",
+    "NA": "Toridamono",
+    "KR": "토리다모노"
+  },
+  "ニャタBE": {
+    "JP": null,
+    "CN": "nyataBE",
+    "TW": "nyataBE",
+    "NA": "NyataBE",
+    "KR": "냐타BE"
+  },
+  "ネコタワワ": {
+    "JP": null,
+    "CN": "NEKOTAWAWA",
+    "TW": "ネコタワワ",
+    "NA": "Nekotawawa",
+    "KR": "네코타와와"
+  },
+  "ノコもろこし": {
+    "JP": null,
+    "CN": "Noko Morokoshi",
+    "TW": null,
+    "NA": "Noko Morokoshi",
+    "KR": "노코모로코시"
+  },
+  "ヒライユキオ": {
+    "JP": null,
+    "CN": "HIRAIYUKIO",
+    "TW": "ヒライユキオ",
+    "NA": "Yukio Hirai",
+    "KR": "히라이 유키오"
+  },
+  "ヒラカワカズキ": {
+    "JP": null,
+    "CN": "平川和贵",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フカヒレ": {
+    "JP": null,
+    "CN": "fukahire",
+    "TW": "fukahire",
+    "NA": "Fukahire",
+    "KR": "후카히레"
+  },
+  "フライ": {
+    "JP": null,
+    "CN": "Fly",
+    "TW": "Fly",
+    "NA": "Fly",
+    "KR": "플라이"
+  },
+  "ブリキ": {
+    "JP": null,
+    "CN": "BURIKI",
+    "TW": "BURIKI",
+    "NA": "Buriki",
+    "KR": "브리키"
+  },
+  "ベップミツナカ": {
+    "JP": null,
+    "CN": "PEPUMITSUNAKA",
+    "TW": "ベップミツナカ",
+    "NA": "Bep Mitsunaka",
+    "KR": "베프미츠나카"
+  },
+  "ペペロン": {
+    "JP": null,
+    "CN": "PEPEROU",
+    "TW": "PEPEROU",
+    "NA": "Peperon",
+    "KR": "페페론"
+  },
+  "ホトソウカ": {
+    "JP": null,
+    "CN": "HOTOSOUKA",
+    "TW": "HOTOSOUKA",
+    "NA": "hotosoka",
+    "KR": "호토소카"
+  },
+  "ホノジロトヲジ": {
+    "JP": null,
+    "CN": "HONOJIROTOWOJI",
+    "TW": "ホノジロトヲジ",
+    "NA": "towojihonojiro",
+    "KR": "호노지로 토오지"
+  },
+  "ホムンクルス": {
+    "JP": null,
+    "CN": "Homunculus",
+    "TW": "Homunculus",
+    "NA": "Homunculus",
+    "KR": "호문쿨루스"
+  },
+  "ホームラン・拳": {
+    "JP": null,
+    "CN": "本垒打·拳",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ポップキュン": {
+    "JP": null,
+    "CN": "POPQN",
+    "TW": "ポップキュン",
+    "NA": "POPQN",
+    "KR": "POPQN"
+  },
+  "マキトシ": {
+    "JP": null,
+    "CN": "Makitoshi",
+    "TW": "Makitoshi",
+    "NA": "Makitoshi",
+    "KR": "마키토시"
+  },
+  "マシマサキ": {
+    "JP": null,
+    "CN": "MASHIMASAKI",
+    "TW": "マシマサキ",
+    "NA": "Mashimasaki",
+    "KR": "마시마 사키"
+  },
+  "マトリ": {
+    "JP": null,
+    "CN": "matori",
+    "TW": null,
+    "NA": "Matori",
+    "KR": "마토리"
+  },
+  "マドカンスズキ": {
+    "JP": null,
+    "CN": "MADOKANSUZUKI",
+    "TW": "マドカンスズキ",
+    "NA": "Madokan Suzuki",
+    "KR": "마도칸 스즈키"
+  },
+  "マルオユキヒロ": {
+    "JP": null,
+    "CN": "MARUOYUKIHIRO",
+    "TW": "マルオユキヒロ",
+    "NA": "Yukihiro Maruo",
+    "KR": "마루오 유키히로"
+  },
+  "ミチハス": {
+    "JP": null,
+    "CN": "Michihasu",
+    "TW": "Michihasu",
+    "NA": "Michihasu",
+    "KR": "미치하스"
+  },
+  "メイジ": {
+    "JP": null,
+    "CN": "MEIJI",
+    "TW": null,
+    "NA": "Meiji",
+    "KR": "메이지"
+  },
+  "モ誰": {
+    "JP": null,
+    "CN": "mo谁",
+    "TW": null,
+    "NA": "modare",
+    "KR": null
+  },
+  "ヤグチミナト": {
+    "JP": null,
+    "CN": "YAGUCHI MINATO",
+    "TW": "ヤグチミナト",
+    "NA": "Minato Yaguchi",
+    "KR": "야구치 미나토"
+  },
+  "ヤスダスズヒト": {
+    "JP": null,
+    "CN": "YASUDASUZUHITO",
+    "TW": "ヤスダスズヒト",
+    "NA": "Suzuhito Yasuda",
+    "KR": "야스다 스즈히토"
+  },
+  "ヤチモト": {
+    "JP": null,
+    "CN": "YACHIMOTO",
+    "TW": "YACHIMOTO",
+    "NA": "Yachimoto",
+    "KR": "야치모토"
+  },
+  "ヤマザキコレ": {
+    "JP": null,
+    "CN": "Yamazakikore",
+    "TW": "Yamazakikore",
+    "NA": "Kore Yamazaki",
+    "KR": "야마자키코레"
+  },
+  "ヨシモト": {
+    "JP": null,
+    "CN": "yoshimoto",
+    "TW": "YOSHIMOTO",
+    "NA": "Yoshimoto",
+    "KR": "요시모토"
+  },
+  "リヨ": {
+    "JP": null,
+    "CN": "RIYO",
+    "TW": "リヨ",
+    "NA": "Riyo",
+    "KR": "리요"
+  },
+  "ワダアルコ": {
+    "JP": null,
+    "CN": "WADA ARUKO",
+    "TW": "ワダアルコ",
+    "NA": "WADARCO",
+    "KR": "와다 아루코"
+  },
+  "一ヤ": {
+    "JP": null,
+    "CN": "Itsuya",
+    "TW": null,
+    "NA": "Itsuya",
+    "KR": "이츠야"
+  },
+  "一橋真": {
+    "JP": null,
+    "CN": "一桥真",
+    "TW": "一橋真",
+    "NA": "Makoto Ichihashi",
+    "KR": "이치하시 마코토"
+  },
+  "一為(Kazui)": {
+    "JP": null,
+    "CN": "一为(Kazui)",
+    "TW": "一為(Kazui)",
+    "NA": "Kazui",
+    "KR": "카즈이(Kazui)"
+  },
+  "一色": {
+    "JP": null,
+    "CN": "一色",
+    "TW": "一色",
+    "NA": "Isshiki",
+    "KR": "잇시키"
+  },
+  "七剣なな": {
+    "JP": null,
+    "CN": "七剑Nana",
+    "TW": "七劍Nana",
+    "NA": "Nana Nanaken",
+    "KR": "나나켄 나나"
+  },
+  "七原しえ": {
+    "JP": null,
+    "CN": "七原Shie",
+    "TW": "七原SHIE",
+    "NA": "Shie Nanahara",
+    "KR": "나나하라 시에"
+  },
+  "三輪士郎": {
+    "JP": null,
+    "CN": "三轮士郎",
+    "TW": "三輪士郎",
+    "NA": "Shirow Miwa",
+    "KR": "미와 시로"
+  },
+  "上国料晴香": {
+    "JP": null,
+    "CN": "上国料晴香",
+    "TW": "上国料晴香",
+    "NA": "Haruka Kamikokuryo",
+    "KR": "카미코쿠료 하루카"
+  },
+  "上杉伶児": {
+    "JP": null,
+    "CN": "上杉伶儿",
+    "TW": "上杉伶兒",
+    "NA": "Leiji Uesugi",
+    "KR": "우에스기 레이지"
+  },
+  "下川瑠璃子": {
+    "JP": null,
+    "CN": "下川瑠璃子(LASENGLE)",
+    "TW": "下川瑠璃子(LASENGLE)",
+    "NA": "Ruriko Shimokawa",
+    "KR": "시모카와 루리코"
+  },
+  "下越": {
+    "JP": null,
+    "CN": "下越",
+    "TW": "下越",
+    "NA": "Shimokoshi",
+    "KR": "시모코시"
+  },
+  "不死千代": {
+    "JP": null,
+    "CN": "不死千代",
+    "TW": "不死千代",
+    "NA": "Fushichiyo",
+    "KR": "후시치요"
+  },
+  "中井準": {
+    "JP": null,
+    "CN": "中井准",
+    "TW": "中井準",
+    "NA": "Jun Nakai",
+    "KR": "나가이 준"
+  },
+  "中原": {
+    "JP": null,
+    "CN": "中原",
+    "TW": "中原",
+    "NA": "Nakahara",
+    "KR": "나카하라"
+  },
+  "中央東口": {
+    "JP": null,
+    "CN": "中央东口",
+    "TW": "中央東口",
+    "NA": "Chuo Higashiguchi",
+    "KR": "추오 히가시구치"
+  },
+  "中谷": {
+    "JP": null,
+    "CN": "中谷",
+    "TW": "中谷",
+    "NA": "Nakatani",
+    "KR": "나카타니"
+  },
+  "丸新": {
+    "JP": null,
+    "CN": "新丸",
+    "TW": null,
+    "NA": "MaruShin",
+    "KR": "마루신"
+  },
+  "久坂んむり": {
+    "JP": null,
+    "CN": "久坂nmuri",
+    "TW": "久阪nmuri",
+    "NA": "Nmuri Kusaka",
+    "KR": "쿠사칸무리"
+  },
+  "九二枝": {
+    "JP": null,
+    "CN": "九二枝",
+    "TW": "九二枝",
+    "NA": "Kunieda",
+    "KR": "쿠니에다"
+  },
+  "九十九": {
+    "JP": null,
+    "CN": "九十九",
+    "TW": "九十九",
+    "NA": "Tukumo",
+    "KR": "츠쿠모"
+  },
+  "亀吉れんあ": {
+    "JP": null,
+    "CN": "龟吉RENA",
+    "TW": "龜吉RENA",
+    "NA": "Rena Kamekichi",
+    "KR": "카메키치 렌아"
+  },
+  "今冨": {
+    "JP": null,
+    "CN": "IMATOMI",
+    "TW": "今富",
+    "NA": "Imatomi",
+    "KR": "이마토미"
+  },
+  "今泉昭彦": {
+    "JP": null,
+    "CN": "今泉昭彦",
+    "TW": "今泉昭彥",
+    "NA": "Teruhiko Imaizumi",
+    "KR": "이마이즈미 테루히코"
+  },
+  "佐々木みどり": {
+    "JP": null,
+    "CN": "佐佐木MIDORI",
+    "TW": "佐々木みどり",
+    "NA": "Midori Sasaki",
+    "KR": "사사키 미도리"
+  },
+  "佐々木少年": {
+    "JP": null,
+    "CN": "佐佐木少年",
+    "TW": "佐佐木少年",
+    "NA": "Shonen Sasaki",
+    "KR": "사사키 쇼넨"
+  },
+  "佐々木少年＆タスクオーナ": {
+    "JP": null,
+    "CN": "佐佐木少年&Task Owner",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "佐藤哲人(ufotable)": {
+    "JP": null,
+    "CN": "佐藤哲人(ufotable)",
+    "TW": "佐藤哲人(ufotable)",
+    "NA": "Tetsuto Sato (ufotable)",
+    "KR": "사토 테츠토(ufotable)"
+  },
+  "余湖裕輝": {
+    "JP": null,
+    "CN": "余湖裕辉",
+    "TW": "余湖裕輝",
+    "NA": "Yuuki Yogo",
+    "KR": "요고 유키"
+  },
+  "倉花千夏": {
+    "JP": null,
+    "CN": "仓花千夏",
+    "TW": "倉花千夏",
+    "NA": "Chinatsu Kurahana",
+    "KR": "쿠라하나 치나츠"
+  },
+  "倖月蛍": {
+    "JP": null,
+    "CN": "倖月萤",
+    "TW": "倖月蛍",
+    "NA": "Kei Kohzuki",
+    "KR": "코즈키 호타루"
+  },
+  "元村人": {
+    "JP": null,
+    "CN": "元村人",
+    "TW": "元村人",
+    "NA": "Motomurabito",
+    "KR": "모토무라비토"
+  },
+  "先崎真琴": {
+    "JP": null,
+    "CN": "先崎真琴",
+    "TW": "先崎真琴",
+    "NA": "Makoto Senzaki",
+    "KR": "센자키 마코토"
+  },
+  "兔ろうと": {
+    "JP": null,
+    "CN": "USAGIROUTO",
+    "TW": "兔ろうと",
+    "NA": "Routo Usagi",
+    "KR": "우사기 로우토"
+  },
+  "内藤明": {
+    "JP": null,
+    "CN": "内藤明",
+    "TW": "內藤明",
+    "NA": "Akira Naitou",
+    "KR": "나이토 아키라"
+  },
+  "冨士原良": {
+    "JP": null,
+    "CN": "富士原良",
+    "TW": "富士原良",
+    "NA": "Ryo Fujiwara",
+    "KR": "후지와라 료"
+  },
+  "冬臣": {
+    "JP": null,
+    "CN": "冬臣",
+    "TW": "冬臣",
+    "NA": "Fuyuomi",
+    "KR": "후유오미"
+  },
+  "凪白みと": {
+    "JP": null,
+    "CN": "凪白mito",
+    "TW": "凪白mito",
+    "NA": "Mito Nagishiro",
+    "KR": "나기시로 미토"
+  },
+  "前田浩孝": {
+    "JP": null,
+    "CN": "前田浩孝",
+    "TW": "前田浩孝",
+    "NA": "Hirotaka Maeda",
+    "KR": "마에다 히로타카"
+  },
+  "加藤いつわ": {
+    "JP": null,
+    "CN": "Katou Itsuwa",
+    "TW": "加藤いつわ",
+    "NA": "Ituwa Kato",
+    "KR": "카토 이츠와"
+  },
+  "加藤たいら": {
+    "JP": null,
+    "CN": "Katou Taira",
+    "TW": "加藤たいら",
+    "NA": "Taira Katou",
+    "KR": "카토 타이라"
+  },
+  "加藤美穂(ufotable)": {
+    "JP": null,
+    "CN": "加藤美穗(ufotable)",
+    "TW": "加藤美穗(ufotable)",
+    "NA": "Miho Katou (ufotable)",
+    "KR": "카토 미호(ufotable)"
+  },
+  "千種みのり": {
+    "JP": null,
+    "CN": "千种Minori",
+    "TW": "千種Minori",
+    "NA": "Minori Chigusa",
+    "KR": "치구사 미노리"
+  },
+  "南保あたる": {
+    "JP": null,
+    "CN": "南保ATARU",
+    "TW": "南保あたる",
+    "NA": "NamboAttall",
+    "KR": "난보 아타루"
+  },
+  "原田たけひと": {
+    "JP": null,
+    "CN": "原田雄一",
+    "TW": "原田たけひと",
+    "NA": "Takehito Harada",
+    "KR": "하라다 타케히토"
+  },
+  "双葉はづき": {
+    "JP": null,
+    "CN": "FUTABAHAZUKI",
+    "TW": "双葉はづき",
+    "NA": "Hazuki Futaba",
+    "KR": "후타바 하즈키"
+  },
+  "古海鐘一": {
+    "JP": null,
+    "CN": "古海钟一",
+    "TW": "古海鐘一",
+    "NA": "Showichi Furumi",
+    "KR": "후루미 쇼이치"
+  },
+  "古舘幸一": {
+    "JP": null,
+    "CN": "古馆幸一",
+    "TW": "古館幸一",
+    "NA": "Kouichi Furudate",
+    "KR": "후루다테 코이치"
+  },
+  "司淳": {
+    "JP": null,
+    "CN": "司淳",
+    "TW": "司淳",
+    "NA": "Jun Tsukasa",
+    "KR": "츠카사 준"
+  },
+  "吟": {
+    "JP": null,
+    "CN": "吟",
+    "TW": "吟",
+    "NA": "Gin",
+    "KR": "긴"
+  },
+  "吟の筆": {
+    "JP": null,
+    "CN": "吟之笔",
+    "TW": "吟之笔",
+    "NA": "Ginnofude",
+    "KR": "긴노후데"
+  },
+  "吠L": {
+    "JP": null,
+    "CN": "吠L",
+    "TW": "吠L",
+    "NA": "Hoeru",
+    "KR": "호에루"
+  },
+  "呂娥": {
+    "JP": null,
+    "CN": "吕娥",
+    "TW": "呂娥",
+    "NA": "logA",
+    "KR": "로가"
+  },
+  "咲良ゆき": {
+    "JP": null,
+    "CN": "SAKURA YUKI",
+    "TW": "咲良ゆき",
+    "NA": "Yuki Sakura",
+    "KR": "사쿠라 유키"
+  },
+  "坂本みねぢ": {
+    "JP": null,
+    "CN": "SAKAMOTO MINEJI",
+    "TW": "坂本みねぢ",
+    "NA": "Minedi Sakamoto",
+    "KR": "사카모토 미네지"
+  },
+  "坂本みねぢ＆真じろう": {
+    "JP": null,
+    "CN": "坂本mineG＆真jiro",
+    "TW": "坂本mineG＆真jiro",
+    "NA": "Minedi Sakamoto & Shinjiro",
+    "KR": "사카모토 미네지&신지로"
+  },
+  "城爪草": {
+    "JP": null,
+    "CN": "城爪草",
+    "TW": "城爪草",
+    "NA": "Shirotsumekusa",
+    "KR": "시로츠메 쿠사"
+  },
+  "塩島由佳(ufotable)": {
+    "JP": null,
+    "CN": "盐岛由佳(ufotable)",
+    "TW": "塩島由佳(ufotable)",
+    "NA": "Yuka Shiojima (ufotable)",
+    "KR": "시오지마 유카(ufotable)"
+  },
+  "壬生田晃宏": {
+    "JP": null,
+    "CN": "壬生田晃宏",
+    "TW": "壬生田晃宏",
+    "NA": "Akihiro Mibuta",
+    "KR": "미부타 아키히로"
+  },
+  "夏子": {
+    "JP": null,
+    "CN": "夏子",
+    "TW": "夏子",
+    "NA": "Natsuko",
+    "KR": "나츠코"
+  },
+  "夏生": {
+    "JP": null,
+    "CN": "夏生",
+    "TW": "夏生",
+    "NA": "Natsuo",
+    "KR": "나츠오"
+  },
+  "夏目レモン": {
+    "JP": null,
+    "CN": "夏目Lemon",
+    "TW": null,
+    "NA": "Lemon Natsume",
+    "KR": "나츠메 레몬"
+  },
+  "夜汽車": {
+    "JP": null,
+    "CN": "夜汽车",
+    "TW": "夜汽车",
+    "NA": "Yogisya",
+    "KR": "요기샤"
+  },
+  "大久保義之(ufotable)": {
+    "JP": null,
+    "CN": "大久保义之(ufotable)",
+    "TW": "大久保義之(ufotable)",
+    "NA": "Yoshiyuki Okubo (ufotable)",
+    "KR": "오오쿠보 요시유키(ufotable)"
+  },
+  "大森葵": {
+    "JP": null,
+    "CN": "大森葵",
+    "TW": "大森葵",
+    "NA": "Aoi Ohmori",
+    "KR": "오모리 아오이"
+  },
+  "大澤朋司": {
+    "JP": null,
+    "CN": "大泽朋司",
+    "TW": "大澤朋司",
+    "NA": "Tomoji Oosawa",
+    "KR": "오오사와 토모카즈"
+  },
+  "天空すふぃあ": {
+    "JP": null,
+    "CN": "TENKU SPHIA",
+    "TW": "天空すふぃあ",
+    "NA": "Tenku Sphere",
+    "KR": "텐쿠 스피어"
+  },
+  "天野英": {
+    "JP": null,
+    "CN": "天野英",
+    "TW": "天野英",
+    "NA": "Hana Amano",
+    "KR": "아마노 하나"
+  },
+  "字消": {
+    "JP": null,
+    "CN": "字消",
+    "TW": "字消",
+    "NA": "Jikeshi",
+    "KR": "지케시"
+  },
+  "安達洋介": {
+    "JP": null,
+    "CN": "安达洋介",
+    "TW": "安達洋介",
+    "NA": "Adachi Yosuke",
+    "KR": "아다치 요스케"
+  },
+  "宝井理人": {
+    "JP": null,
+    "CN": "宝井理人",
+    "TW": "寶井理人",
+    "NA": "Rihito Takarai",
+    "KR": "타카라이 리히토"
+  },
+  "寺場唯仁": {
+    "JP": null,
+    "CN": "寺场唯仁",
+    "TW": "寺場唯仁",
+    "NA": "Tadahito Teraba",
+    "KR": "테라바 타다비토"
+  },
+  "小宮国春": {
+    "JP": null,
+    "CN": "小宫国春",
+    "TW": "小宮國春",
+    "NA": "Kuniharu Komiya",
+    "KR": "코미야 쿠니하루"
+  },
+  "小山内": {
+    "JP": null,
+    "CN": "小山内",
+    "TW": "小山内",
+    "NA": "Osanai",
+    "KR": "오사나이"
+  },
+  "小松崎類": {
+    "JP": null,
+    "CN": "小松崎类",
+    "TW": "小松崎類",
+    "NA": "Rui Komatsuzaki",
+    "KR": "코마츠자키 루이"
+  },
+  "小梅けいと": {
+    "JP": null,
+    "CN": "小梅KEITO",
+    "TW": "小梅KEITO",
+    "NA": "Keito Koume",
+    "KR": "코우메 케이토"
+  },
+  "小笠原篤(ufotable)": {
+    "JP": null,
+    "CN": "小笠原笃(ufotable)",
+    "TW": "小笠原篤(ufotable)",
+    "NA": "Atsushi Ogasawara (ufotable)",
+    "KR": "오가사와라 아츠시(ufotable)"
+  },
+  "小野茜(LASENGLE)": {
+    "JP": null,
+    "CN": "小野茜（LASENGLE）",
+    "TW": "小野茜(LASENGLE)",
+    "NA": "Akane Ono",
+    "KR": "오노 아카네(LASENGLE)"
+  },
+  "尾崎ドミノ": {
+    "JP": null,
+    "CN": "尾崎domino",
+    "TW": "尾崎domino",
+    "NA": "Domino Ozaki",
+    "KR": "오자키 도미노"
+  },
+  "屑星ひかる": {
+    "JP": null,
+    "CN": "KUZUBOSHI HIKARU",
+    "TW": "屑星ひかる",
+    "NA": "Hikaru Kuzuboshi",
+    "KR": "쿠즈보시 히카루"
+  },
+  "山中虎鉄": {
+    "JP": null,
+    "CN": "山中虎铁",
+    "TW": "山中虎鐵",
+    "NA": "Cotetsu Yamanaka",
+    "KR": "야마나카 코테츠"
+  },
+  "山村洋貴": {
+    "JP": null,
+    "CN": "山村洋贵",
+    "TW": "山村洋貴",
+    "NA": "Yamamura Hiroki",
+    "KR": null
+  },
+  "山猫": {
+    "JP": null,
+    "CN": "山猫",
+    "TW": "山貓",
+    "NA": "Yamaneko",
+    "KR": "야마네코"
+  },
+  "山田J太": {
+    "JP": null,
+    "CN": "山田J太",
+    "TW": "山田J太",
+    "NA": "J-ta Yamada",
+    "KR": "야마다 제이타"
+  },
+  "山田有慶": {
+    "JP": null,
+    "CN": "山田有庆",
+    "TW": "山田有慶",
+    "NA": "Yuukei Yamada",
+    "KR": "야마다 유우케이"
+  },
+  "岡崎武士": {
+    "JP": null,
+    "CN": "冈崎武士",
+    "TW": "岡崎武士",
+    "NA": "Takeshi Okazaki",
+    "KR": "오카자키 타케시"
+  },
+  "岡本裕和": {
+    "JP": null,
+    "CN": "冈本裕和",
+    "TW": "岡本裕和",
+    "NA": "Hirokazu Okamoto",
+    "KR": "오카모토 히로카즈"
+  },
+  "岩佐有祐": {
+    "JP": null,
+    "CN": "岩佐有祐",
+    "TW": "岩佐有祐",
+    "NA": "Yuusuke Iwasa",
+    "KR": "이와사 유스케"
+  },
+  "島田フミカネ": {
+    "JP": null,
+    "CN": "岛田文金",
+    "TW": "島田文金",
+    "NA": "Humikane Shimada",
+    "KR": "시마다 후미카네"
+  },
+  "巖本英利": {
+    "JP": null,
+    "CN": "岩本英利",
+    "TW": "岩本英利",
+    "NA": "Eiri Iwamoto",
+    "KR": "이와모토 에이리"
+  },
+  "川井マコト": {
+    "JP": null,
+    "CN": "KAWAI MAKOTO",
+    "TW": "川井マコト",
+    "NA": "Makoto Kawai",
+    "KR": "카와이 마코토"
+  },
+  "左": {
+    "JP": null,
+    "CN": "左",
+    "TW": "左",
+    "NA": "Hidari",
+    "KR": "히다리"
+  },
+  "平山マサキ": {
+    "JP": null,
+    "CN": "Hirayama Masaki",
+    "TW": "平山MASAKI",
+    "NA": "Masaki Hirayama",
+    "KR": "히라야마 마사키"
+  },
+  "平川和貴": {
+    "JP": null,
+    "CN": "平川和贵",
+    "TW": null,
+    "NA": "Hirakawa Kazutaka",
+    "KR": null
+  },
+  "平田和也(SILVER LINK.)": {
+    "JP": null,
+    "CN": "平田和也(SILVER LINK.)",
+    "TW": "平田和也(SILVER LINK.)",
+    "NA": "Hirata Kazuya (SILVER LINK.)",
+    "KR": "히라타 카즈야(SILVER LINK.)"
+  },
+  "平野稜二": {
+    "JP": null,
+    "CN": "平野稜二",
+    "TW": null,
+    "NA": null,
+    "KR": "히라노 료지"
+  },
+  "広江礼威": {
+    "JP": null,
+    "CN": "广江礼威",
+    "TW": "廣江禮威",
+    "NA": "Rei Hiroe ",
+    "KR": "히로에 레이"
+  },
+  "後藤圭佑": {
+    "JP": null,
+    "CN": "后藤圭佑",
+    "TW": "後藤圭佑",
+    "NA": "Keisuke Goto",
+    "KR": "고토 케이스케"
+  },
+  "御巫桃也": {
+    "JP": null,
+    "CN": "御巫桃也",
+    "TW": "御巫桃也",
+    "NA": "Touya Mikanagi",
+    "KR": "미카나기 토우야"
+  },
+  "心⑩": {
+    "JP": null,
+    "CN": "心⑩",
+    "TW": "心⑩",
+    "NA": "Kokoro⑩",
+    "KR": "코코로⑩"
+  },
+  "志水やこ": {
+    "JP": null,
+    "CN": "Shimizu Yako",
+    "TW": "志水YAKO",
+    "NA": "Yako Shimizu",
+    "KR": "시미즈 야코"
+  },
+  "志麻しのじ": {
+    "JP": null,
+    "CN": "SHIMA SHINOJI",
+    "TW": "志麻しのじ",
+    "NA": "Shinoji Shima",
+    "KR": "시마 시노지"
+  },
+  "恋中あとり": {
+    "JP": null,
+    "CN": "Koinaka Atori",
+    "TW": "戀中ATORI",
+    "NA": "Atori Koinaka",
+    "KR": "코이나카 아토리"
+  },
+  "悌太": {
+    "JP": null,
+    "CN": "悌太",
+    "TW": "悌太",
+    "NA": "Teita",
+    "KR": "테이타"
+  },
+  "慎悟": {
+    "JP": null,
+    "CN": "慎悟",
+    "TW": "慎悟",
+    "NA": "Shingo",
+    "KR": "신고"
+  },
+  "慶善": {
+    "JP": null,
+    "CN": "庆善",
+    "TW": "慶善",
+    "NA": "Keizen",
+    "KR": "케이젠"
+  },
+  "懐良匿": {
+    "JP": null,
+    "CN": "怀良匿",
+    "TW": "懐良匿",
+    "NA": "Kanenagatoku",
+    "KR": "카네나가 토쿠"
+  },
+  "我美蘭": {
+    "JP": null,
+    "CN": "我美兰",
+    "TW": "我美蘭",
+    "NA": "Gabiran",
+    "KR": "가비란"
+  },
+  "我藤がなは": {
+    "JP": null,
+    "CN": "我藤GANAHA",
+    "TW": "我藤GANAHA",
+    "NA": "Ganaha Gatoh",
+    "KR": "가토 가나하"
+  },
+  "掃除朋具": {
+    "JP": null,
+    "CN": "SOUJI HOUGU",
+    "TW": "掃除朋具",
+    "NA": "Hougu Souji",
+    "KR": "소지 토모구"
+  },
+  "新井テル子": {
+    "JP": null,
+    "CN": "新井teruko",
+    "TW": "新井TERUKO",
+    "NA": "Teruko Arai",
+    "KR": "아라이 테루코"
+  },
+  "新井佳澄": {
+    "JP": null,
+    "CN": "新井佳澄",
+    "TW": "新井佳澄",
+    "NA": "Kasumi Arai",
+    "KR": "아라이 카스미"
+  },
+  "日向悠二": {
+    "JP": null,
+    "CN": "日向悠二",
+    "TW": "日向悠二",
+    "NA": "Yuji Himukai",
+    "KR": "히무카이 유지"
+  },
+  "星野リリィ": {
+    "JP": null,
+    "CN": "星野LILY",
+    "TW": "星野リリィ",
+    "NA": "Lily Hoshino ",
+    "KR": "호시노 릴리"
+  },
+  "春乃壱": {
+    "JP": null,
+    "CN": "春乃壹",
+    "TW": "春乃壹",
+    "NA": "Harunoichi",
+    "KR": "하루노 이치"
+  },
+  "春夏冬ゆう": {
+    "JP": null,
+    "CN": "春夏冬YUU",
+    "TW": "春夏冬YUU",
+    "NA": "Yu Akinashi",
+    "KR": "아키나시 유우"
+  },
+  "春野友矢": {
+    "JP": null,
+    "CN": "春野友矢",
+    "TW": "春野友矢",
+    "NA": "Tomoya Haruno",
+    "KR": "하루노 토모야"
+  },
+  "曽我誠": {
+    "JP": null,
+    "CN": "曾我诚",
+    "TW": "曾我誠",
+    "NA": "Makoto Soga",
+    "KR": "소가 마코토"
+  },
+  "曽我誠＆米山舞": {
+    "JP": null,
+    "CN": "曾我诚&米山舞",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "月本葵": {
+    "JP": null,
+    "CN": "月本葵",
+    "TW": "月本葵",
+    "NA": "Aoi Tsukimoto",
+    "KR": "츠키모토 아오이"
+  },
+  "望月けい": {
+    "JP": null,
+    "CN": "Mochizuki Kei",
+    "TW": "望月けい",
+    "NA": "Kei Mochizuki",
+    "KR": "모치즈키 케이"
+  },
+  "朝露": {
+    "JP": null,
+    "CN": "朝露",
+    "TW": "朝露",
+    "NA": "Asatsuyu",
+    "KR": "아사시모"
+  },
+  "木塚カナタ": {
+    "JP": null,
+    "CN": "Kizuka Kanata",
+    "TW": "木塚KATANA",
+    "NA": "Kanata Kiduka",
+    "KR": "키즈카 카나타"
+  },
+  "木野イチカ": {
+    "JP": null,
+    "CN": "Kino Ichika",
+    "TW": "木野ICHIKA",
+    "NA": "Ichika Kino",
+    "KR": "키노 이치카"
+  },
+  "本庄雷太": {
+    "JP": null,
+    "CN": "本庄雷太",
+    "TW": "本庄雷太",
+    "NA": "Raita Honjo",
+    "KR": "혼조 라이타"
+  },
+  "村カルキ": {
+    "JP": null,
+    "CN": "村karuki",
+    "TW": null,
+    "NA": "Murakaruki",
+    "KR": null
+  },
+  "村山竜大": {
+    "JP": null,
+    "CN": "村山龙大",
+    "TW": "村山竜大",
+    "NA": "Ryota Murayama",
+    "KR": "무라야마 료타"
+  },
+  "村木翔一(LASENGLE)": {
+    "JP": null,
+    "CN": "村木翔一（LASENGLE）",
+    "TW": "村木翔一(LASENGLE)",
+    "NA": "Shoichi Muraki (LASENGLE)",
+    "KR": "무라키 쇼이치(LASENGLE)"
+  },
+  "東冬": {
+    "JP": null,
+    "CN": "东冬",
+    "TW": "東冬",
+    "NA": "Toh Azuma",
+    "KR": "아즈마 토우"
+  },
+  "東山雄勢": {
+    "JP": null,
+    "CN": "东山雄势",
+    "TW": "東山雄勢",
+    "NA": "Yuusei Higashiyama",
+    "KR": "토야마 유세이"
+  },
+  "松本規之": {
+    "JP": null,
+    "CN": "松本规之",
+    "TW": "松本規之",
+    "NA": "Noriyuki Matsumoto",
+    "KR": "마츠모토 노리유키"
+  },
+  "松浦麻衣": {
+    "JP": null,
+    "CN": "松浦麻衣",
+    "TW": "松浦麻衣",
+    "NA": "Mai Matsuura",
+    "KR": "마츠우라 마이"
+  },
+  "松竜": {
+    "JP": null,
+    "CN": "MATSURYU",
+    "TW": "松竜",
+    "NA": "Matsuryu",
+    "KR": "마츠류"
+  },
+  "林けゐ": {
+    "JP": null,
+    "CN": "林kewi",
+    "TW": "林kewi",
+    "NA": "Kewi Hayashi",
+    "KR": "하야시 케이"
+  },
+  "染宮すずめ": {
+    "JP": null,
+    "CN": "染宫Suzume",
+    "TW": "染宮Suzume",
+    "NA": "Somemiya Suzume",
+    "KR": null
+  },
+  "桧野ひなこ": {
+    "JP": null,
+    "CN": "桧野hinako",
+    "TW": "桧野ひなこ",
+    "NA": "Hinaco Hino",
+    "KR": "히노 히나코"
+  },
+  "森井しづき": {
+    "JP": null,
+    "CN": "MORII SHIZUKI",
+    "TW": "森井しづき",
+    "NA": "Shizuki Morii ",
+    "KR": "모리이 시즈키"
+  },
+  "森倉円": {
+    "JP": null,
+    "CN": "森仓圆",
+    "TW": "森倉圓",
+    "NA": "En Morikura",
+    "KR": "모리쿠라 엔"
+  },
+  "森山大輔": {
+    "JP": null,
+    "CN": "森山大辅",
+    "TW": "森山大輔",
+    "NA": "Daisuke Moriyama ",
+    "KR": "모리야마 다이스케"
+  },
+  "森田和明・廣瀬智仁（Lerche）": {
+    "JP": null,
+    "CN": "森田和明·广濑智仁（Lerche）",
+    "TW": "森田和明．廣瀨智仁（Lerche）",
+    "NA": "Kazuaki Morita and Tomohito Hirose (Lerche)",
+    "KR": "모리타 카즈아키・히로세 토모히토(Lerche)"
+  },
+  "森田和明＋Lerche": {
+    "JP": null,
+    "CN": "森田和明+Lerche",
+    "TW": "森田和明+Lerche",
+    "NA": "Kazuaki Morita + Lerche",
+    "KR": "모리타 카즈아키 + Lerche"
+  },
+  "椎花びび": {
+    "JP": null,
+    "CN": "椎花Vivi",
+    "TW": "椎花Vivi",
+    "NA": "Siiqa Vivi",
+    "KR": "시이카 비비"
+  },
+  "槌田": {
+    "JP": null,
+    "CN": "槌田",
+    "TW": "槌田",
+    "NA": "Tsuchida",
+    "KR": null
+  },
+  "武中英雄": {
+    "JP": null,
+    "CN": "武中英雄",
+    "TW": "武中英雄",
+    "NA": "Hideo Takenaka",
+    "KR": "타케나카 히데오"
+  },
+  "武内崇": {
+    "JP": null,
+    "CN": "武内崇",
+    "TW": "武內崇",
+    "NA": "Takashi Takeuchi",
+    "KR": "타케우치 타카시"
+  },
+  "武内崇＆CHOCO＆めろん22＆望月けい＆\n高山箕犀＆たけのこ星人＆ひろやまひろし＆\nワダアルコ＆森井しづき＆しまどりる＆\n白浜鴎＆Zennyan＆シガタケ＆九十九＆\n丸新＆すみす＆サテー＆SAIPACo.＆\nTAKOLEGS＆ミチハス＆黒井ススム": {
+    "JP": null,
+    "CN": "武内崇＆CHOCO＆MERON22＆Mochizuki Kei＆\n高山箕犀＆TAKENOKO SEIJIN＆HIROYAMA HIROSHI＆\nWADA ARUKO＆MORII SHIZUKI＆SHIMADORILL＆\n白浜鸥＆Zennyan＆SHIGATAKE＆九十九＆\n丸新＆SUMISU＆SYATEY＆SAIPACo.＆\nTAKOLEGS＆Michihasu＆黑井Susumu",
+    "TW": "武內崇＆CHOCO＆MERON22＆Mochizuki Kei＆\n高山箕犀＆TAKENOKO SEIJIN＆HIROYAMA HIROSHI＆\nWADA ARUKO＆MORII SHIZUKI＆SHIMADORILL＆\n白浜鷗＆Zennyan＆SHIGATAKE＆九十九＆\n丸新＆SUMISU＆SYATEY＆SAIPACo.＆\nTAKOLEGS＆Michihasu＆黑井Susumu",
+    "NA": "Takashi Takeuchi & CHOCO & MELON22 & Kei Mochizuki & Kisai Takayama & Takenoko Seijin & Hiroshi Hiroyama & WADARCO & Shizuki Morii & Shima Drill & Kamome Shirahama & Zennyan & Shigatake & Tukumo & MaruShin & Sumisu & Syatey & SAIPACo. & TAKOLEGS & Michihasu & Susumu Kuroi",
+    "KR": "타케우치 타카시&초코&멜론22&모치즈키 케이&\n타카야마 키사이&타케노코 세이진&\n히로야마 히로시& 와다 아루코&모리이 시즈키&\n시마도리루&시라하마 카모메&Zennyan&\n시가타케&츠쿠모&마루신&스미스&사테&\nSAIPACo.&TAKOLEGS&미치하스&쿠로이 스스무"
+  },
+  "武内崇＆下越＆Azusa＆pako＆Bすけ＆\n本庄雷太＆森井しづき＆輪くすさが": {
+    "JP": null,
+    "CN": "武内崇＆下越＆Azusa＆pako＆BSUKE＆\n本庄雷太＆MORII SHIZUKI＆RIN KUSUSAGA",
+    "TW": "武內崇＆下越＆Azusa＆pako＆Bすけ＆\n本庄雷太＆森井しづき＆輪くすさが",
+    "NA": "Takashi Takeuchi & Shimokoshi & Azusa & pako & Bsuke & Raita Honjo & Shizuki Morii & Kususaga Rin",
+    "KR": "타케우치 타카시&시모코시&Azusa&pako&B스케&\n혼조 라이타&모리이 시즈키&린 쿠스사가"
+  },
+  "武内崇＆高橋慶太郎＆ワダアルコ＆近衛乙嗣": {
+    "JP": null,
+    "CN": "武内崇＆高桥庆太郎＆WADA ARUKO＆近卫乙嗣",
+    "TW": "武內崇＆高橋慶太郎＆ワダアルコ＆近衛乙嗣",
+    "NA": "Takashi Takeuchi & Keitaro Takahashi & WADARCO & Ototsugu Konoe",
+    "KR": "타케우치 타카시＆타카하시 케이타로&와다 아루코&코노에 오토츠구"
+  },
+  "武梨えり": {
+    "JP": null,
+    "CN": "武梨ERI",
+    "TW": "武梨えり",
+    "NA": "Eri Takenashi",
+    "KR": "타케나시 에리"
+  },
+  "水溜鳥": {
+    "JP": null,
+    "CN": "水溜鸟",
+    "TW": "水溜鳥",
+    "NA": "Mizutametori",
+    "KR": "미즈타메 토리"
+  },
+  "水薙竜": {
+    "JP": null,
+    "CN": "水薙龙",
+    "TW": "水薙龍",
+    "NA": "Ryu Mizunagi",
+    "KR": "미즈나기 류"
+  },
+  "永作友克": {
+    "JP": null,
+    "CN": "永作友克",
+    "TW": "永作友克",
+    "NA": "Tomokatsu Nagasaku",
+    "KR": "나가사쿠 토모카츠"
+  },
+  "永森雅人": {
+    "JP": null,
+    "CN": "永森雅人",
+    "TW": "永森雅人",
+    "NA": "Masato Nagamori",
+    "KR": "나가모리 마사토"
+  },
+  "江川あきら": {
+    "JP": null,
+    "CN": "江川AKIRA",
+    "TW": "江川AKIRA",
+    "NA": "AKIRA EGAWA",
+    "KR": "에도가와 아키라"
+  },
+  "池澤真": {
+    "JP": null,
+    "CN": "池泽真",
+    "TW": "池澤真",
+    "NA": "Shin Ikezawa",
+    "KR": "이케자와 마코토"
+  },
+  "汲田": {
+    "JP": null,
+    "CN": "汲田",
+    "TW": "汲田",
+    "NA": "kumita",
+    "KR": "쿠미타"
+  },
+  "沙汰": {
+    "JP": null,
+    "CN": "沙汰",
+    "TW": "沙汰",
+    "NA": "Sata",
+    "KR": "사타"
+  },
+  "泉彩": {
+    "JP": null,
+    "CN": "泉彩",
+    "TW": "泉彩",
+    "NA": "Sai Izumi",
+    "KR": "이즈미 사이"
+  },
+  "津留崎優": {
+    "JP": null,
+    "CN": "津留崎优",
+    "TW": "津留崎優",
+    "NA": "Yu Tsurusaki",
+    "KR": "츠루사키 유우"
+  },
+  "浜友里恵(ufotable)": {
+    "JP": null,
+    "CN": "浜友里惠(ufotable)",
+    "TW": "浜友里恵(CloverWorks)",
+    "NA": "Yurie Hama (ufotable)",
+    "KR": "하마 유리에(ufotable)"
+  },
+  "浜友里恵/CloverWorks": {
+    "JP": null,
+    "CN": "浜友里惠/CloverWorks",
+    "TW": "浜友里惠/CloverWorks",
+    "NA": "Yurie Hama/CloverWorks",
+    "KR": "하마 유리에/CloverWorks"
+  },
+  "浮雲宇一": {
+    "JP": null,
+    "CN": "浮云宇一",
+    "TW": null,
+    "NA": "Ukumo Ulti",
+    "KR": null
+  },
+  "海島千本": {
+    "JP": null,
+    "CN": "海岛千本",
+    "TW": "海島千本",
+    "NA": "Umishima Senbon ",
+    "KR": "우미시마 센본"
+  },
+  "深澤一平(LASENGLE)": {
+    "JP": null,
+    "CN": "深泽一平(LASENGLE)",
+    "TW": "深澤一平(DELiGHTWORKS)",
+    "NA": "Ippei Fukasawa (Lasengle)",
+    "KR": "후카사와 잇페이(LASENGLE)"
+  },
+  "淵゛": {
+    "JP": null,
+    "CN": "渊",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "清原紘": {
+    "JP": null,
+    "CN": "清原紘",
+    "TW": "清原紘",
+    "NA": "Hiro Kiyohara",
+    "KR": "키요하라 히로"
+  },
+  "清水栄一×下口智裕": {
+    "JP": null,
+    "CN": "清水荣一×下口智裕",
+    "TW": "清水榮一×下口智裕",
+    "NA": "Eiichi Shimizu & Tomohiro Shimoguchi",
+    "KR": "시미즈 에이이치x시모구치 토모히로"
+  },
+  "渡れい": {
+    "JP": null,
+    "CN": "渡REI",
+    "TW": "渡REI",
+    "NA": "Rei Wataru",
+    "KR": "와타루 레이"
+  },
+  "渡辺悟": {
+    "JP": null,
+    "CN": "渡边悟",
+    "TW": "渡邊悟",
+    "NA": "Satoru Watanabe",
+    "KR": "와타나베 사토루"
+  },
+  "渡邊八恵子(ufotable)": {
+    "JP": null,
+    "CN": "渡边八惠子(ufotable)",
+    "TW": "渡邊八惠子(ufotable)",
+    "NA": "Yaeko Watanabe (ufotable)",
+    "KR": "와타나베 야에코(ufotable)"
+  },
+  "渡部聡": {
+    "JP": null,
+    "CN": "渡部聪(LASENGLE)",
+    "TW": "渡部聡(LASENGLE)",
+    "NA": "Satoshi Watabe",
+    "KR": "와타나베 사토시"
+  },
+  "滝山真哲": {
+    "JP": null,
+    "CN": "泷山真哲",
+    "TW": "瀧山真哲",
+    "NA": "Masaaki Takiyama/CloverWorks",
+    "KR": "타키야마 마사아키"
+  },
+  "滝山真哲/CloverWorks": {
+    "JP": null,
+    "CN": "泷山真哲/CloverWorks",
+    "TW": "瀧山真哲/CloverWorks",
+    "NA": "Masaaki Takiyama/CloverWorks",
+    "KR": "타키야마 마사아키/CloverWorks"
+  },
+  "滝山真哲＆山村洋貴": {
+    "JP": null,
+    "CN": "泷山真哲＆山村洋贵",
+    "TW": "滝山真哲＆山村洋貴",
+    "NA": "Masaaki Takiyama & Hiroki Yamamura",
+    "KR": "타키야마 마사아키&야마무라 히로키"
+  },
+  "滝田ちひろ": {
+    "JP": null,
+    "CN": "Tatsuta Chihiro",
+    "TW": "瀧田CHIHIRO",
+    "NA": "Chihiro Takita",
+    "KR": "타츠타 치히로"
+  },
+  "漆草": {
+    "JP": null,
+    "CN": "漆黑草丛",
+    "TW": "漆草",
+    "NA": "Urushigusa",
+    "KR": "우루시구사"
+  },
+  "焦茶": {
+    "JP": null,
+    "CN": "焦茶",
+    "TW": "焦茶",
+    "NA": "Cogecha",
+    "KR": "코게차"
+  },
+  "煮たか": {
+    "JP": null,
+    "CN": "煮TAKA",
+    "TW": "煮たか",
+    "NA": "2taka",
+    "KR": "니타카"
+  },
+  "犬江しんすけ": {
+    "JP": null,
+    "CN": "犬江SHINSUKE",
+    "TW": "犬江しんすけ",
+    "NA": "Shinsuke Inue",
+    "KR": "이누에 신스케"
+  },
+  "獅子猿": {
+    "JP": null,
+    "CN": "狮子猿",
+    "TW": "獅子猿",
+    "NA": "Shishizaru",
+    "KR": "시시자루"
+  },
+  "瓶すけ": {
+    "JP": null,
+    "CN": "heisuke",
+    "TW": "瓶すけ",
+    "NA": "Heisuke",
+    "KR": "헤이스케"
+  },
+  "生煮え": {
+    "JP": null,
+    "CN": "NAMANIE",
+    "TW": "生煮え",
+    "NA": "Namanie",
+    "KR": "나마니에"
+  },
+  "田島昭宇": {
+    "JP": null,
+    "CN": "田岛昭宇",
+    "TW": "田島昭宇",
+    "NA": "Sho-u Tajima",
+    "KR": "타지마 쇼우"
+  },
+  "田畑壽之": {
+    "JP": null,
+    "CN": "田畑寿之",
+    "TW": "田畑壽之",
+    "NA": "Hisayuki Tabata",
+    "KR": "타바타 히사유키"
+  },
+  "白井鋭利": {
+    "JP": null,
+    "CN": "白井锐利",
+    "TW": "白井鋭利",
+    "NA": "Eiri Shirai",
+    "KR": "시라이 에이리"
+  },
+  "白峰": {
+    "JP": null,
+    "CN": "白峰",
+    "TW": "白峰",
+    "NA": "Shiramine",
+    "KR": "시라미네"
+  },
+  "白峰＆カワグチタケシ": {
+    "JP": null,
+    "CN": "白峰＆Kawaguchi Takeshi",
+    "TW": "白峰＆カワグチタケシ",
+    "NA": "Shiramine & Takeshi Kawaguchi",
+    "KR": "시라미네&카와구치 타케시"
+  },
+  "白浜鴎": {
+    "JP": null,
+    "CN": "白滨鸥",
+    "TW": "白浜鷗",
+    "NA": "Kamome Shirahama",
+    "KR": "시라하마 카모메"
+  },
+  "白身魚": {
+    "JP": null,
+    "CN": "白身鱼",
+    "TW": "白身魚",
+    "NA": "DOCHIBI",
+    "KR": "시로미자카나"
+  },
+  "百々地 佐和": {
+    "JP": null,
+    "CN": "MOMOCHISAWA",
+    "TW": "百々地 佐和",
+    "NA": "Sawa Momochi",
+    "KR": "모모치 사와"
+  },
+  "直良有祐": {
+    "JP": null,
+    "CN": "直良有祐",
+    "TW": "直良有祐",
+    "NA": "Yusuke Naora",
+    "KR": "나오라 유스케"
+  },
+  "真じろう": {
+    "JP": null,
+    "CN": "SHINJIRO",
+    "TW": "真じろう",
+    "NA": "Shinjiro",
+    "KR": "신지로"
+  },
+  "矮柯Echo": {
+    "JP": null,
+    "CN": "矮柯Echo",
+    "TW": "矮柯Echo",
+    "NA": "Echo",
+    "KR": "아이커Echo"
+  },
+  "石倉麻衣(LASENGLE)": {
+    "JP": null,
+    "CN": "石仓麻衣(LASENGLE)",
+    "TW": null,
+    "NA": "Ishikura Mai (LASENGLE)",
+    "KR": null
+  },
+  "石田あきら": {
+    "JP": null,
+    "CN": "ISHIDA AKIRA",
+    "TW": "石田あきら",
+    "NA": "Akira Ishida",
+    "KR": "이시다 아키라"
+  },
+  "祐壱": {
+    "JP": null,
+    "CN": "祐壹",
+    "TW": null,
+    "NA": "Yuuichi",
+    "KR": null
+  },
+  "神原誠": {
+    "JP": null,
+    "CN": "神原诚",
+    "TW": "神原誠",
+    "NA": "Makoto Kanbara",
+    "KR": "칸바라 마코토"
+  },
+  "神慶": {
+    "JP": null,
+    "CN": "神庆",
+    "TW": "神慶",
+    "NA": "JINKEI",
+    "KR": "진케이"
+  },
+  "秋田犬": {
+    "JP": null,
+    "CN": "秋田犬",
+    "TW": "秋田犬",
+    "NA": "Akita Inu",
+    "KR": "아키타 이누"
+  },
+  "秋田犬＆Veia": {
+    "JP": null,
+    "CN": "秋田犬＆Veia",
+    "TW": "秋田犬＆Veia",
+    "NA": "Akita Inu & Veia",
+    "KR": "아키타이누＆Veia"
+  },
+  "稲守竜砂": {
+    "JP": null,
+    "CN": "稻守龙砂",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "稲嶺暢子(LASENGLE)": {
+    "JP": null,
+    "CN": "稻岭畅子(LASENGLE)",
+    "TW": "稻嶺暢子(LASENGLE)",
+    "NA": "Inamine Yoko (Lasengle)",
+    "KR": "이나미네 요코(LASENGLE)"
+  },
+  "立石健": {
+    "JP": null,
+    "CN": "立石健",
+    "TW": "立石健",
+    "NA": "Ken Tateishi",
+    "KR": "타테이시 타케루"
+  },
+  "竹": {
+    "JP": null,
+    "CN": "竹",
+    "TW": "竹",
+    "NA": "take",
+    "KR": "타케"
+  },
+  "竹之内佳和(studioBB)": {
+    "JP": null,
+    "CN": "竹之内佳和（studioBB）",
+    "TW": null,
+    "NA": "Yoshikazu Takenouchi (studioBB)",
+    "KR": null
+  },
+  "竹＆Veia": {
+    "JP": null,
+    "CN": "竹＆Veia",
+    "TW": "竹＆Veia",
+    "NA": "take&Veia",
+    "KR": "타케＆Veia"
+  },
+  "篠月しのぶ": {
+    "JP": null,
+    "CN": "篠月shinobu",
+    "TW": "篠月shinobu",
+    "NA": "Shinobu Shinotsuki",
+    "KR": "시노츠키 시노부"
+  },
+  "米室": {
+    "JP": null,
+    "CN": "米室",
+    "TW": "米室",
+    "NA": "yonemuro",
+    "KR": "요네무로"
+  },
+  "米山舞": {
+    "JP": null,
+    "CN": "米山舞",
+    "TW": "米山舞",
+    "NA": "Mai Yoneyama",
+    "KR": "코메야마 마이"
+  },
+  "紗与イチ": {
+    "JP": null,
+    "CN": "Sayoichi",
+    "TW": "紗與ICHI",
+    "NA": "Ichi Sayo",
+    "KR": "사요 이치"
+  },
+  "細居美恵子": {
+    "JP": null,
+    "CN": "细居美惠子",
+    "TW": "細居美惠子",
+    "NA": "Mieko Hosoi",
+    "KR": "호소이 미에코"
+  },
+  "経験値": {
+    "JP": null,
+    "CN": "经验值",
+    "TW": "經驗值",
+    "NA": "Keikenti",
+    "KR": "케이켄치"
+  },
+  "絵西": {
+    "JP": null,
+    "CN": "绘西",
+    "TW": "繪西",
+    "NA": "Enishi",
+    "KR": "에니시"
+  },
+  "絹田コウジ": {
+    "JP": null,
+    "CN": "KINUTA KOUJI",
+    "TW": "絹田コウジ",
+    "NA": "Koji Kinuta",
+    "KR": "키누타 코지"
+  },
+  "緑川美帆": {
+    "JP": null,
+    "CN": "绿川美帆",
+    "TW": "綠川美帆",
+    "NA": "Miho Midorikawa",
+    "KR": "미도리카와 미호"
+  },
+  "緒原博綺": {
+    "JP": null,
+    "CN": "绪原博绮",
+    "TW": "緒原博綺",
+    "NA": "Hiroki Ohara",
+    "KR": "오하라 히로키"
+  },
+  "縞うどん": {
+    "JP": null,
+    "CN": "SHIMAUDON",
+    "TW": "縞うどん",
+    "NA": "Shimaudon",
+    "KR": "시마우동"
+  },
+  "羽海野チカ": {
+    "JP": null,
+    "CN": "羽海野千花",
+    "TW": "羽海野千花",
+    "NA": "Chica Umino",
+    "KR": "우미노 치카"
+  },
+  "羽音たらく": {
+    "JP": null,
+    "CN": "羽音Taraku",
+    "TW": "羽音TARAKU",
+    "NA": "Taraku Uon",
+    "KR": "우온 타라쿠"
+  },
+  "般若吾郎(LASENGLE)": {
+    "JP": null,
+    "CN": "般若吾郎（LASENGLE）",
+    "TW": "般若吾郎(LASENGLE)",
+    "NA": "Goro Hannya (LASENGLE)",
+    "KR": "한냐 고로(LASENGLE)"
+  },
+  "色塩": {
+    "JP": null,
+    "CN": "色盐",
+    "TW": "色鹽",
+    "NA": "SHOKUEN",
+    "KR": null
+  },
+  "色素": {
+    "JP": null,
+    "CN": "色素",
+    "TW": "色素",
+    "NA": "Shikiso",
+    "KR": "시키소"
+  },
+  "花ヶ田": {
+    "JP": null,
+    "CN": "HANAGATA",
+    "TW": "花ヶ田",
+    "NA": "Hanagata",
+    "KR": "하나가타"
+  },
+  "花邑まい": {
+    "JP": null,
+    "CN": "花邑MAI",
+    "TW": "花邑まい",
+    "NA": "Mai Hanamura",
+    "KR": "하나무라 마이"
+  },
+  "茉愛": {
+    "JP": null,
+    "CN": "茉爱",
+    "TW": null,
+    "NA": "Mukulife",
+    "KR": "마이"
+  },
+  "茨乃": {
+    "JP": null,
+    "CN": "茨乃",
+    "TW": "茨乃",
+    "NA": "Sino",
+    "KR": "시노"
+  },
+  "荒野": {
+    "JP": null,
+    "CN": "荒野",
+    "TW": "荒野",
+    "NA": "Araya",
+    "KR": "아라야"
+  },
+  "菊池隼也(ufotable)": {
+    "JP": null,
+    "CN": "菊池隼也(ufotable)",
+    "TW": "菊池隼也(ufotable)",
+    "NA": "Junya Kikuchi (ufotable)",
+    "KR": "키쿠치 준야(ufotable)"
+  },
+  "華々つぼみ": {
+    "JP": null,
+    "CN": "HANABANA TSUBOMI",
+    "TW": "華々つぼみ",
+    "NA": "Tsubomi Hanabana",
+    "KR": "하나바나 츠보미"
+  },
+  "萩野小唄": {
+    "JP": null,
+    "CN": "萩野小呗",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "蒼月タカオ": {
+    "JP": null,
+    "CN": "AOTUKI TAKAO",
+    "TW": "蒼月タカオ",
+    "NA": "Takao Aotuki",
+    "KR": "아오츠키 타카오"
+  },
+  "薄葉カゲロー": {
+    "JP": null,
+    "CN": "薄叶kagero",
+    "TW": "薄葉カゲロー",
+    "NA": "Kagero Usuba",
+    "KR": "우스바 카게로"
+  },
+  "薫る石": {
+    "JP": null,
+    "CN": "薰石",
+    "TW": "薰石",
+    "NA": "Kaoruisi",
+    "KR": "카오루이시"
+  },
+  "藤 未都也": {
+    "JP": null,
+    "CN": "藤 未都也",
+    "TW": "藤 未都也",
+    "NA": "Mitsuya Fuji",
+    "KR": "후지 미츠야"
+  },
+  "藤ちょこ": {
+    "JP": null,
+    "CN": "藤CHOCO",
+    "TW": "藤ちょこ",
+    "NA": "Fuzichoco",
+    "KR": "후지 초코"
+  },
+  "藤真拓哉": {
+    "JP": null,
+    "CN": "藤真拓哉",
+    "TW": "藤真拓哉",
+    "NA": "Takuya Fujima",
+    "KR": "후지마 타쿠야"
+  },
+  "裕": {
+    "JP": null,
+    "CN": "裕",
+    "TW": "裕",
+    "NA": "Yuu",
+    "KR": "유우"
+  },
+  "西出ケンゴロー": {
+    "JP": null,
+    "CN": "西出KENGOROU",
+    "TW": "西出KENGOROU",
+    "NA": "Kengoro Nishide",
+    "KR": "니시데 켄고로"
+  },
+  "西藤浩樹(LASENGLE)": {
+    "JP": null,
+    "CN": "西藤浩树(LASENGLE)",
+    "TW": "西藤浩樹(DELiGHTWORKS)",
+    "NA": "Hiroki Saito (Lasengle)",
+    "KR": "사이토 히로키(LASENGLE)"
+  },
+  "角谷希和子(LASENGLE)": {
+    "JP": null,
+    "CN": "角谷希和子（LASENGLE）",
+    "TW": null,
+    "NA": "Kakutani Kiwako (LASENGLE)",
+    "KR": null
+  },
+  "赤岸K": {
+    "JP": null,
+    "CN": "赤岸K",
+    "TW": "赤岸K",
+    "NA": "K Akagishi",
+    "KR": "아카기시K"
+  },
+  "越後光崇(ufotable)": {
+    "JP": null,
+    "CN": "越后光崇(ufotable)",
+    "TW": "越後光崇(ufotable)",
+    "NA": "Mitsutaka Echigo (ufotable)",
+    "KR": "에치고 미츠타카(ufotable)"
+  },
+  "輪くすさが": {
+    "JP": null,
+    "CN": "RIN KUSUSAGA",
+    "TW": "輪くすさが",
+    "NA": "Kususaga Rin",
+    "KR": "린 쿠스사가"
+  },
+  "辻 雅俊(ufotable)": {
+    "JP": null,
+    "CN": "辻 雅俊(ufotable)",
+    "TW": "辻雅俊(ufotable)",
+    "NA": "Masatoshi Tsuji (ufotable)",
+    "KR": "츠지 마사토시(ufotable)"
+  },
+  "近衛乙嗣": {
+    "JP": null,
+    "CN": "近卫乙嗣",
+    "TW": "近衛乙嗣",
+    "NA": "Ototsugu Konoe",
+    "KR": "코노에 오토츠구"
+  },
+  "逢倉千尋": {
+    "JP": null,
+    "CN": "逢仓千寻",
+    "TW": null,
+    "NA": "Chihiro Aikura",
+    "KR": "아이쿠라 치히로"
+  },
+  "遠坂あさぎ": {
+    "JP": null,
+    "CN": "TOHSAKA ASAGI",
+    "TW": "遠坂あさぎ",
+    "NA": "Asagi Tohsaka",
+    "KR": "토오사카 아사기"
+  },
+  "遠藤海成": {
+    "JP": null,
+    "CN": "远藤海成",
+    "TW": "遠藤海成",
+    "NA": "Minari Endou",
+    "KR": "엔도 미나리"
+  },
+  "遠藤花織(ufotable)": {
+    "JP": null,
+    "CN": "远藤花织(ufotable)",
+    "TW": "遠藤花織(ufotable)",
+    "NA": "Kaori Endo (ufotable)",
+    "KR": "엔도 카오리(ufotable)"
+  },
+  "都島。": {
+    "JP": null,
+    "CN": "都岛。",
+    "TW": "都島。",
+    "NA": "Miyakojima",
+    "KR": "미야코지마."
+  },
+  "都筑禰己": {
+    "JP": null,
+    "CN": "都筑襧己",
+    "TW": "都筑襧己",
+    "NA": "Neko Tsuduki",
+    "KR": "츠즈키 네코"
+  },
+  "野分なか実": {
+    "JP": null,
+    "CN": "野分NAKAMI",
+    "TW": "野分NAKAMI",
+    "NA": "Nakasane Nowaki",
+    "KR": "노와키 나카미"
+  },
+  "野崎つばた": {
+    "JP": null,
+    "CN": "Nozaki Tsubata",
+    "TW": "野崎つばた",
+    "NA": "Tsubata Nozaki",
+    "KR": "노자키 츠바타"
+  },
+  "金子琴美(LASENGLE)": {
+    "JP": null,
+    "CN": "金子琴美(DELiGHTWORKS)",
+    "TW": "金子琴美(LASENGLE)",
+    "NA": "Kotomi Kaneko (Lasengle)",
+    "KR": "카네코 코토미(LASENGLE)"
+  },
+  "鈴木ツタ": {
+    "JP": null,
+    "CN": "铃木TSUTA",
+    "TW": "鈴木TSUTA",
+    "NA": "Tsuta Suzuki",
+    "KR": "스즈키 츠타"
+  },
+  "鈴木次郎": {
+    "JP": null,
+    "CN": "铃木次郎",
+    "TW": "鈴木次郎",
+    "NA": "Jiro Suzuki",
+    "KR": "스즈키 지로"
+  },
+  "鈴木絵万(Production I.G)": {
+    "JP": null,
+    "CN": "铃木绘万(Production I.G)",
+    "TW": "鈴木繪萬(Production I.G)",
+    "NA": "Ema Suzuki (Production I.G)",
+    "KR": "스즈키 에마(Production I.G)"
+  },
+  "鈴木翔子(LASENGLE)": {
+    "JP": null,
+    "CN": "铃木翔子(LASENGLE)",
+    "TW": "鈴木翔子(LASENGLE)",
+    "NA": "Shoko Suzuki (LASENGLE)",
+    "KR": "스즈키 쇼코(LASENGLE)"
+  },
+  "雌鳥": {
+    "JP": null,
+    "CN": "雌鸟",
+    "TW": "雌鳥",
+    "NA": "Medori",
+    "KR": "멘도리"
+  },
+  "雪広うたこ": {
+    "JP": null,
+    "CN": "YUKIHIRO UTAKO",
+    "TW": "雪広うたこ",
+    "NA": "Utako Yukihiro",
+    "KR": "유키히로 우타코"
+  },
+  "雲呑めお": {
+    "JP": null,
+    "CN": "云吞meo",
+    "TW": "雲吞MEO",
+    "NA": "Wantan Meo",
+    "KR": "완탄메오"
+  },
+  "零": {
+    "JP": null,
+    "CN": "零",
+    "TW": "零",
+    "NA": "Rei",
+    "KR": "레이"
+  },
+  "霧月": {
+    "JP": null,
+    "CN": "雾月",
+    "TW": "霧月",
+    "NA": "Mugetsu",
+    "KR": "무게츠"
+  },
+  "青乃下": {
+    "JP": null,
+    "CN": "青乃下",
+    "TW": "青乃下",
+    "NA": "SHIMO AONO",
+    "KR": "아오노 시타"
+  },
+  "青乃純尾": {
+    "JP": null,
+    "CN": "青乃纯尾",
+    "TW": "青乃純尾",
+    "NA": "Sumio Aono",
+    "KR": "아오노 스미오"
+  },
+  "青刃時雨": {
+    "JP": null,
+    "CN": "青刃时雨",
+    "TW": "青刃時雨",
+    "NA": "Shigure Aoba",
+    "KR": "아오바 시구레"
+  },
+  "青味ドリ": {
+    "JP": null,
+    "CN": "青味DORI",
+    "TW": "青味ドリ",
+    "NA": "Aomidori",
+    "KR": "아오미도리"
+  },
+  "青木大地": {
+    "JP": null,
+    "CN": "青木大地",
+    "TW": "青木大地",
+    "NA": "Daichi Aoki",
+    "KR": "아오키 다이치"
+  },
+  "須田彩加": {
+    "JP": null,
+    "CN": "须田彩加",
+    "TW": "須田彩加",
+    "NA": "Ayaka Suda",
+    "KR": "스다 아야카"
+  },
+  "須藤友徳(ufotable)": {
+    "JP": null,
+    "CN": "须藤友德(ufotable)",
+    "TW": "須藤友德(ufotable)",
+    "NA": "Tomonori Sudo (ufotable)",
+    "KR": "스도 토모노리(ufotable)"
+  },
+  "風李たゆ": {
+    "JP": null,
+    "CN": "风李Tayu",
+    "TW": "風李Tayu",
+    "NA": "Kazari Tayu",
+    "KR": null
+  },
+  "風間雷太": {
+    "JP": null,
+    "CN": "风间雷太",
+    "TW": "風間雷太",
+    "NA": "Raita Kazama",
+    "KR": "카자마 라이타"
+  },
+  "飯田ぽち。": {
+    "JP": null,
+    "CN": "IIDAPOCHI。",
+    "TW": "飯田ぽち。",
+    "NA": "Pochi Iida。",
+    "KR": "이이다 포치."
+  },
+  "高山箕犀": {
+    "JP": null,
+    "CN": "高山箕犀",
+    "TW": "高山箕犀",
+    "NA": "Kisai Takayama",
+    "KR": "타카야마 키사이"
+  },
+  "高橋タクロヲ(ufotable)": {
+    "JP": null,
+    "CN": "TAKAHASHI TAKURO(ufotable)",
+    "TW": "高橋タクロヲ(ufotable)",
+    "NA": "Takurowo Takahashi (ufotable)",
+    "KR": "타카하시 타쿠로(ufotable)"
+  },
+  "高橋慶太郎": {
+    "JP": null,
+    "CN": "高桥庆太郎",
+    "TW": "高橋慶太郎",
+    "NA": "Keitaro Takahashi",
+    "KR": "타카하시 케이타로"
+  },
+  "高河ゆん": {
+    "JP": null,
+    "CN": "高河弓",
+    "TW": "高河弓",
+    "NA": "Yun Kouga",
+    "KR": "코가 윤"
+  },
+  "高瀬智章": {
+    "JP": null,
+    "CN": "高濑智章",
+    "TW": "高瀬智章",
+    "NA": "Tomoaki Takase",
+    "KR": "타카세 토모아키"
+  },
+  "鳴子ハナハル": {
+    "JP": null,
+    "CN": "鸣子HANAHARU",
+    "TW": "鳴子ハナハル",
+    "NA": "Hanaharu Naruko",
+    "KR": "나루코 하나하루"
+  },
+  "黒イ森": {
+    "JP": null,
+    "CN": "KUROIMORI",
+    "TW": "KUROIMORI",
+    "NA": "Kuroimori",
+    "KR": "쿠로이 모리"
+  },
+  "黒井ススム": {
+    "JP": null,
+    "CN": "黑井Susumu",
+    "TW": "黑井Susumu",
+    "NA": "Susumu Kuroi",
+    "KR": "쿠로이 스스무"
+  },
+  "黒八": {
+    "JP": null,
+    "CN": "黑八",
+    "TW": "黑八",
+    "NA": "Kurohachi",
+    "KR": "쿠로하치"
+  },
+  "黒岩エヌ": {
+    "JP": null,
+    "CN": "黑岩enu",
+    "TW": "黑岩enu",
+    "NA": "Enu Kuroiwa",
+    "KR": "쿠로이와 에누"
+  },
+  "黒星紅白": {
+    "JP": null,
+    "CN": "黑星红白",
+    "TW": "黑星紅白",
+    "NA": "Kouhaku Kuroboshi",
+    "KR": "쿠로보시 코하쿠"
+  },
+  "田": {
+    "JP": "槌田",
+    "CN": "槌田",
+    "TW": "槌田",
+    "NA": "Tsuchida",
+    "KR": "츠치다"
+  },
+  "漣ミサ": {
+    "JP": null,
+    "CN": "SazanamiMisa",
+    "TW": "漣ミサ",
+    "NA": "Misa Sazanami",
+    "KR": "사자나미 미사"
+  }
+}

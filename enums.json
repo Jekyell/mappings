@@ -1,0 +1,7135 @@
+{
+  "svt_class": {
+    "1": {
+      "JP": "Saber",
+      "CN": "Saber",
+      "TW": "Saber",
+      "NA": "Saber",
+      "KR": null,
+      "name": "saber"
+    },
+    "2": {
+      "JP": "Archer",
+      "CN": "Archer",
+      "TW": "Archer",
+      "NA": "Archer",
+      "KR": null,
+      "name": "archer"
+    },
+    "3": {
+      "JP": "Lancer",
+      "CN": "Lancer",
+      "TW": "Lancer",
+      "NA": "Lancer",
+      "KR": null,
+      "name": "lancer"
+    },
+    "4": {
+      "JP": "Rider",
+      "CN": "Rider",
+      "TW": "Rider",
+      "NA": "Rider",
+      "KR": null,
+      "name": "rider"
+    },
+    "5": {
+      "JP": "Caster",
+      "CN": "Caster",
+      "TW": "Caster",
+      "NA": "Caster",
+      "KR": null,
+      "name": "caster"
+    },
+    "6": {
+      "JP": "Assassin",
+      "CN": "Assassin",
+      "TW": "Assassin",
+      "NA": "Assassin",
+      "KR": null,
+      "name": "assassin"
+    },
+    "7": {
+      "JP": "Berserker",
+      "CN": "Berserker",
+      "TW": "Berserker",
+      "NA": "Berserker",
+      "KR": null,
+      "name": "berserker"
+    },
+    "8": {
+      "JP": "Shielder",
+      "CN": "Shielder",
+      "TW": "Shielder",
+      "NA": "Shielder",
+      "KR": null,
+      "name": "shielder"
+    },
+    "9": {
+      "JP": "Ruler",
+      "CN": "Ruler",
+      "TW": "Ruler",
+      "NA": "Ruler",
+      "KR": null,
+      "name": "ruler"
+    },
+    "10": {
+      "JP": "Alterego",
+      "CN": "Alterego",
+      "TW": "Alterego",
+      "NA": "Alterego",
+      "KR": null,
+      "name": "alterEgo"
+    },
+    "11": {
+      "JP": "Avenger",
+      "CN": "Avenger",
+      "TW": "Avenger",
+      "NA": "Avenger",
+      "KR": null,
+      "name": "avenger"
+    },
+    "12": {
+      "JP": "魔神柱",
+      "CN": "魔神柱",
+      "TW": "魔神柱",
+      "NA": "Demon God Pillar",
+      "KR": null,
+      "name": "demonGodPillar"
+    },
+    "13": {
+      "JP": null,
+      "CN": null,
+      "TW": "Grand Saber?",
+      "NA": "Grand Saber?",
+      "KR": null,
+      "name": "loreGrandSaber"
+    },
+    "14": {
+      "JP": null,
+      "CN": null,
+      "TW": "Grand Archer?",
+      "NA": "Grand Archer?",
+      "KR": null,
+      "name": "loreGrandArcher"
+    },
+    "15": {
+      "JP": null,
+      "CN": null,
+      "TW": "Grand Lancer?",
+      "NA": "Grand Lancer?",
+      "KR": null,
+      "name": "loreGrandLancer"
+    },
+    "16": {
+      "JP": null,
+      "CN": null,
+      "TW": "Grand Rider?",
+      "NA": "Grand Rider?",
+      "KR": null,
+      "name": "loreGrandRider"
+    },
+    "17": {
+      "JP": "Grand Caster",
+      "CN": "Grand Caster",
+      "TW": "Grand Caster",
+      "NA": "Grand Caster",
+      "KR": null,
+      "name": "loreGrandCaster"
+    },
+    "18": {
+      "JP": null,
+      "CN": null,
+      "TW": "Grand Assassin?",
+      "NA": "Grand Assassin?",
+      "KR": null,
+      "name": "loreGrandAssassin"
+    },
+    "19": {
+      "JP": null,
+      "CN": null,
+      "TW": "Grand Berserker?",
+      "NA": "Grand Berserker?",
+      "KR": null,
+      "name": "loreGrandBerserker"
+    },
+    "20": {
+      "JP": "Beast II",
+      "CN": "Beast II",
+      "TW": "Beast II",
+      "NA": "Beast II",
+      "KR": null,
+      "name": "beastII"
+    },
+    "21": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "UshiChaosTide",
+      "KR": null,
+      "name": "ushiChaosTide"
+    },
+    "22": {
+      "JP": "Beast I",
+      "CN": "Beast I",
+      "TW": "Beast I",
+      "NA": "Beast I",
+      "KR": null,
+      "name": "beastI"
+    },
+    "23": {
+      "JP": "MoonCancer",
+      "CN": "MoonCancer",
+      "TW": "MoonCancer",
+      "NA": "MoonCancer",
+      "KR": null,
+      "name": "moonCancer"
+    },
+    "24": {
+      "JP": "Beast Ⅲ/R",
+      "CN": "Beast Ⅲ/R",
+      "TW": "Beast Ⅲ/R",
+      "NA": "Beast Ⅲ/R",
+      "KR": null,
+      "name": "beastIIIR"
+    },
+    "25": {
+      "JP": "Foreigner",
+      "CN": "Foreigner",
+      "TW": "Foreigner",
+      "NA": "Foreigner",
+      "KR": null,
+      "name": "foreigner"
+    },
+    "26": {
+      "JP": "Beast Ⅲ/L",
+      "CN": "Beast Ⅲ/L",
+      "TW": "Beast Ⅲ/L",
+      "NA": "Beast Ⅲ/L",
+      "KR": null,
+      "name": "beastIIIL"
+    },
+    "27": {
+      "JP": "Beast Unknown",
+      "CN": "Beast Unknown",
+      "TW": "Beast Unknown",
+      "NA": "Beast Unknown",
+      "KR": null,
+      "name": "beastUnknown"
+    },
+    "28": {
+      "JP": "Pretender",
+      "CN": "Pretender",
+      "TW": "Pretender",
+      "NA": "Pretender",
+      "KR": null,
+      "name": "pretender"
+    },
+    "29": {
+      "JP": "Beast Ⅳ",
+      "CN": "Beast Ⅳ",
+      "TW": "Beast Ⅳ",
+      "NA": "Beast Ⅳ",
+      "KR": null,
+      "name": "beastIV"
+    },
+    "30": {
+      "JP": "Beast I?",
+      "CN": "Beast I?",
+      "TW": "Beast I?",
+      "NA": "Beast I?",
+      "KR": null,
+      "name": "beastILost"
+    },
+    "31": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieAlienGod"
+    },
+    "32": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarie"
+    },
+    "33": {
+      "JP": "Beast",
+      "CN": "Beast",
+      "TW": "Beast",
+      "NA": "Beast",
+      "KR": null,
+      "name": "beast"
+    },
+    "34": {
+      "JP": "Beast Ⅵ",
+      "CN": "Beast Ⅵ",
+      "TW": "Beast Ⅵ",
+      "NA": "Beast Ⅵ",
+      "KR": null,
+      "name": "beastVI"
+    },
+    "35": {
+      "JP": "Beast Ⅵ(魔獣)",
+      "CN": null,
+      "TW": "Beast Ⅵ(魔獸)",
+      "NA": "Beast Ⅵ (Demon Beast)",
+      "KR": null,
+      "name": "beastVIBoss"
+    },
+    "36": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieFlare"
+    },
+    "37": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieAqua"
+    },
+    "38": {
+      "JP": "Beast",
+      "CN": "Beast",
+      "TW": "Beast",
+      "NA": "Beast",
+      "KR": null,
+      "name": "beastEresh"
+    },
+    "97": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "unknown"
+    },
+    "98": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "98"
+    },
+    "99": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "99"
+    },
+    "100": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "100"
+    },
+    "107": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "AgarthaPenth",
+      "KR": null,
+      "name": "agarthaPenth"
+    },
+    "124": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "cccEmiya",
+      "KR": null,
+      "name": "cccFinaleEmiyaAlter"
+    },
+    "125": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "SalemAbby",
+      "KR": null,
+      "name": "salemAbby"
+    },
+    "1000": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "OTHER"
+    },
+    "1001": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "ALL"
+    },
+    "1002": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "EXTRA"
+    },
+    "1003": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "MIX"
+    },
+    "1004": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "EXTRA1"
+    },
+    "1005": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "EXTRA2"
+    },
+    "9001": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieFlareCollection"
+    },
+    "9002": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieAquaCollection"
+    },
+    "1006": {
+      "JP": "オススメサポート",
+      "CN": "推荐助战",
+      "TW": null,
+      "NA": "Recommended Support",
+      "KR": null,
+      "name": "1006"
+    },
+    "39": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieGrand"
+    },
+    "40": {
+      "JP": "UnBeast",
+      "CN": "UnBeast",
+      "TW": null,
+      "NA": "UnBeast",
+      "KR": null,
+      "name": "unBeastOlgaMarie"
+    },
+    "9003": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieGrandCollection"
+    },
+    "10001": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Saber",
+      "KR": null,
+      "name": "grandSaber"
+    },
+    "10002": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Archer",
+      "KR": null,
+      "name": "grandArcher"
+    },
+    "10003": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Lancer",
+      "KR": null,
+      "name": "grandLancer"
+    },
+    "10004": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Rider",
+      "KR": null,
+      "name": "grandRider"
+    },
+    "10005": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Caster",
+      "KR": null,
+      "name": "grandCaster"
+    },
+    "10006": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Assassin",
+      "KR": null,
+      "name": "grandAssassin"
+    },
+    "10007": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Berserker",
+      "KR": null,
+      "name": "grandBerserker"
+    },
+    "41": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieStellar"
+    },
+    "9004": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "uOlgaMarieStellarCollection"
+    },
+    "96": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null,
+      "name": "aquaFragment"
+    },
+    "10008": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Shielder",
+      "KR": null,
+      "name": "grandShielder"
+    },
+    "10009": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Ruler",
+      "KR": null,
+      "name": "grandRuler"
+    },
+    "10010": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Alterego",
+      "KR": null,
+      "name": "grandAlterego"
+    },
+    "10011": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Avenger",
+      "KR": null,
+      "name": "grandAvenger"
+    },
+    "10023": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand MoonCancer",
+      "KR": null,
+      "name": "grandMoonCancer"
+    },
+    "10025": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Foreigner",
+      "KR": null,
+      "name": "grandForeigner"
+    },
+    "10028": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Grand Pretender",
+      "KR": null,
+      "name": "grandPretender"
+    },
+    "10031": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "UnBeast",
+      "KR": null,
+      "name": "grandUnBeastUOlgaMarieAlienGod"
+    },
+    "10033": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "UnBeast",
+      "KR": null,
+      "name": "grandUnBeastDraco"
+    },
+    "10038": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "UnBeast",
+      "KR": null,
+      "name": "grandUnBeastEresh"
+    },
+    "10040": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "UnBeast",
+      "KR": null,
+      "name": "grandUnBeastUOlgaMarie"
+    }
+  },
+  "attribute": {
+    "human": {
+      "JP": "人",
+      "CN": "人",
+      "TW": "人",
+      "NA": "Human",
+      "KR": null
+    },
+    "sky": {
+      "JP": "天",
+      "CN": "天",
+      "TW": "天",
+      "NA": "Sky",
+      "KR": null
+    },
+    "earth": {
+      "JP": "地",
+      "CN": "地",
+      "TW": "地",
+      "NA": "Earth",
+      "KR": null
+    },
+    "star": {
+      "JP": "星",
+      "CN": "星",
+      "TW": "星",
+      "NA": "Star",
+      "KR": null
+    },
+    "beast": {
+      "JP": "獣",
+      "CN": "兽",
+      "TW": "獸",
+      "NA": "Beast",
+      "KR": null
+    },
+    "void": {
+      "JP": null,
+      "CN": "无",
+      "TW": "無",
+      "NA": "Void",
+      "KR": null
+    },
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "default": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "svt_type": {
+    "normal": {
+      "JP": null,
+      "CN": "一般",
+      "TW": "一般",
+      "NA": "Normal",
+      "KR": null
+    },
+    "heroine": {
+      "JP": null,
+      "CN": "女主角",
+      "TW": "女主角",
+      "NA": "Heroine",
+      "KR": null
+    },
+    "combineMaterial": {
+      "JP": null,
+      "CN": "种火",
+      "TW": "種火",
+      "NA": "Ember",
+      "KR": null
+    },
+    "enemy": {
+      "JP": null,
+      "CN": "敌人",
+      "TW": "敵人",
+      "NA": "Enemy",
+      "KR": null
+    },
+    "enemyCollection": {
+      "JP": null,
+      "CN": "敌方从者",
+      "TW": "敵方從者",
+      "NA": "Enemy Collection",
+      "KR": null
+    },
+    "servantEquip": {
+      "JP": null,
+      "CN": "概念礼装",
+      "TW": "概念禮裝",
+      "NA": "Craft Essential",
+      "KR": null
+    },
+    "statusUp": {
+      "JP": null,
+      "CN": "英灵结晶",
+      "TW": "英靈結晶",
+      "NA": "Hero Crystal",
+      "KR": null
+    },
+    "svtEquipMaterial": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "enemyCollectionDetail": {
+      "JP": null,
+      "CN": "敌方从者(图鉴)",
+      "TW": "敵方從者(圖鑑)",
+      "NA": "Enemy Collection Detail",
+      "KR": null
+    },
+    "all": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "commandCode": {
+      "JP": null,
+      "CN": "指令纹章",
+      "TW": "指令紋章",
+      "NA": "Command Code",
+      "KR": null
+    },
+    "svtMaterialTd": {
+      "JP": null,
+      "CN": "宝具强化专用灵基",
+      "TW": "寶具強化專用靈基",
+      "NA": "Enhance NP",
+      "KR": null
+    }
+  },
+  "servant_policy": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "neutral": {
+      "JP": "中立",
+      "CN": "中立",
+      "TW": "中立",
+      "NA": "Neutral",
+      "KR": null
+    },
+    "lawful": {
+      "JP": "秩序",
+      "CN": "秩序",
+      "TW": "秩序",
+      "NA": "Lawful",
+      "KR": null
+    },
+    "chaotic": {
+      "JP": "混沌",
+      "CN": "混沌",
+      "TW": "混沌",
+      "NA": "Chaotic",
+      "KR": null
+    },
+    "unknown": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "servant_personality": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "good": {
+      "JP": "善",
+      "CN": "善",
+      "TW": "善",
+      "NA": "Good",
+      "KR": null
+    },
+    "madness": {
+      "JP": "狂",
+      "CN": "狂",
+      "TW": "狂",
+      "NA": "Madness",
+      "KR": null
+    },
+    "balanced": {
+      "JP": "中庸",
+      "CN": "中庸",
+      "TW": "中庸",
+      "NA": "Balanced",
+      "KR": null
+    },
+    "summer": {
+      "JP": "夏",
+      "CN": "夏",
+      "TW": "夏",
+      "NA": "Summer",
+      "KR": null
+    },
+    "evil": {
+      "JP": "悪",
+      "CN": "恶",
+      "TW": "惡",
+      "NA": "Evil",
+      "KR": null
+    },
+    "goodAndEvil": {
+      "JP": "善／悪",
+      "CN": "善／恶",
+      "TW": "善／惡",
+      "NA": "Good/Evil",
+      "KR": null
+    },
+    "bride": {
+      "JP": "花嫁",
+      "CN": "新娘",
+      "TW": "新娘",
+      "NA": "Bride",
+      "KR": null
+    },
+    "unknown": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "beast": {
+      "JP": "獣",
+      "CN": "兽",
+      "TW": "獸",
+      "NA": "Beast",
+      "KR": null
+    }
+  },
+  "gender": {
+    "male": {
+      "JP": "男性",
+      "CN": "男性",
+      "TW": "男性",
+      "NA": "Male",
+      "KR": null
+    },
+    "female": {
+      "JP": "女性",
+      "CN": "女性",
+      "TW": "女性",
+      "NA": "Female",
+      "KR": null
+    },
+    "unknown": {
+      "JP": "不明",
+      "CN": "其他",
+      "TW": "不明",
+      "NA": "Unknown",
+      "KR": null
+    }
+  },
+  "func_target_type": {
+    "self": {
+      "JP": "自身",
+      "CN": "自身",
+      "TW": "自身",
+      "NA": "Self",
+      "KR": "자신"
+    },
+    "ptOne": {
+      "JP": "味方単体",
+      "CN": "己方单体",
+      "TW": "我方單體",
+      "NA": "One Ally",
+      "KR": null
+    },
+    "ptAnother": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptAll": {
+      "JP": "味方全体",
+      "CN": "己方全体",
+      "TW": "我方全體",
+      "NA": "All Allies",
+      "KR": null
+    },
+    "enemy": {
+      "JP": "敵単体",
+      "CN": "敌方单体",
+      "TW": "敵方單體",
+      "NA": "One Enemy",
+      "KR": null
+    },
+    "enemyAnother": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "enemyAll": {
+      "JP": "敵全体",
+      "CN": "敌方全体",
+      "TW": "敵方全體",
+      "NA": "All Enemies",
+      "KR": null
+    },
+    "ptFull": {
+      "JP": "味方全体<控え含む>",
+      "CN": "己方全体(包括替补)",
+      "TW": "我方全體(包含替補)",
+      "NA": "All Allies(include reserve)",
+      "KR": null
+    },
+    "enemyFull": {
+      "JP": "敵全体<控え含む>",
+      "CN": "敌方全体(包括替补)",
+      "TW": "敵方全體(包含替補)",
+      "NA": "All Enemies(include reserve)",
+      "KR": null
+    },
+    "ptOther": {
+      "JP": "自身を除く味方全体",
+      "CN": "除自身外的己方全体",
+      "TW": "除自身外的我方全體",
+      "NA": "All Allies except Self",
+      "KR": null
+    },
+    "ptOneOther": {
+      "JP": "選択した味方単体を除く味方全体",
+      "CN": "除选择的己方单体以外的己方全体",
+      "TW": "除選擇的我方單體以外的我方全體",
+      "NA": "All allies other than the one selected ally",
+      "KR": null
+    },
+    "ptRandom": {
+      "JP": null,
+      "CN": "随机一名己方单体",
+      "TW": "隨機一個隊伍成員",
+      "NA": "One random ally",
+      "KR": null
+    },
+    "enemyOther": {
+      "JP": "目標を除く敵全体",
+      "CN": "除目标外的敌方全体",
+      "TW": "除目標外的敵方全體",
+      "NA": "All enemies other than target",
+      "KR": null
+    },
+    "enemyRandom": {
+      "JP": null,
+      "CN": "随机一名敌方",
+      "TW": "隨機一個敵人",
+      "NA": "One random enemy",
+      "KR": null
+    },
+    "ptOtherFull": {
+      "JP": "自身を除く味方全体<控え含む>",
+      "CN": "除自身外的己方全体(包括候补)",
+      "TW": "除自身外的我方全體(包括候補)",
+      "NA": "All allies except self (including reserve)",
+      "KR": null
+    },
+    "enemyOtherFull": {
+      "JP": null,
+      "CN": "除目标以外的敌方全体(包括后备)",
+      "TW": "除目標以外的敵方全體(包括後備)",
+      "NA": "All enemies other than target (including reserve)",
+      "KR": null
+    },
+    "ptselectOneSub": {
+      "JP": "バトル中のメンバーとサブメンバー",
+      "CN": "战斗中的成员与替补成员",
+      "TW": "戰鬥中的成員與替補成員",
+      "NA": "Ane active member and a sub-member",
+      "KR": null
+    },
+    "ptselectSub": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reserve party member",
+      "KR": null
+    },
+    "ptOneAnotherRandom": {
+      "JP": null,
+      "CN": "除选择的己方单体以外的己方随机单体",
+      "TW": "除選擇的我方單體以外的我方隨機單體",
+      "NA": "One random ally other than the one selected ally",
+      "KR": null
+    },
+    "ptSelfAnotherRandom": {
+      "JP": null,
+      "CN": "除自身外的随机己方单体",
+      "TW": "除自身外的隨機我方單體",
+      "NA": "One random ally other than self",
+      "KR": null
+    },
+    "enemyOneAnotherRandom": {
+      "JP": null,
+      "CN": "除目标外的随机敌方单体",
+      "TW": "除目標外的隨機敵方單體",
+      "NA": "One random enemy other than target",
+      "KR": null
+    },
+    "ptSelfAnotherFirst": {
+      "JP": "自身を除く先頭の味方単体",
+      "CN": "除自身以外位于前方的己方单体",
+      "TW": "除自身以外位於前方的己方單體",
+      "NA": "First other ally except self",
+      "KR": null
+    },
+    "ptSelfBefore": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptSelfAfter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptSelfAnotherLast": {
+      "JP": "自身を除く最後尾の味方単体",
+      "CN": "除自身以外最后方的己方单体",
+      "TW": "除自身以外最後方的己方單體",
+      "NA": "Last other ally except self",
+      "KR": null
+    },
+    "commandTypeSelfTreasureDevice": {
+      "JP": null,
+      "CN": "目标宝具类型",
+      "TW": "目標寶具類型",
+      "NA": "Target noble phantasm version",
+      "KR": null
+    },
+    "fieldOther": {
+      "JP": "自身を除く敵味方全体",
+      "CN": "除自身以外敌我双方全体",
+      "TW": "除自身以外敵我雙方全體",
+      "NA": "All allies and enemies except self",
+      "KR": null
+    },
+    "enemyOneNoTargetNoAction": {
+      "JP": null,
+      "CN": "最后一个给自身造成伤害的单位",
+      "TW": "最後一個給自身造成傷害的單位",
+      "NA": "Entity that last dealt damage to self",
+      "KR": null
+    },
+    "ptOneHpLowestValue": {
+      "JP": null,
+      "CN": "剩余HP最少的己方单体",
+      "TW": "剩餘HP最少的我方單體",
+      "NA": "One ally with the lowest HP",
+      "KR": null
+    },
+    "ptOneHpLowestRate": {
+      "JP": "HPの残比率の最も少ない味方単体",
+      "CN": "剩余HP比率最少的己方单体",
+      "TW": "剩餘HP比率最少的我方單體",
+      "NA": "One ally with the lowest HP ratio",
+      "KR": null
+    },
+    "enemyRange": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "handCommandcardRandomOne": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fieldAll": {
+      "JP": "敵味方全体",
+      "CN": "敌我双方全体",
+      "TW": "敵我雙方全體",
+      "NA": "All allies and enemies",
+      "KR": null
+    },
+    "noTarget": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fieldRandom": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "mission_progress_type": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "regist": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "openCondition": {
+      "JP": "開放条件",
+      "CN": "开放条件",
+      "TW": "開放條件",
+      "NA": "Open Condition",
+      "KR": null
+    },
+    "start": {
+      "JP": "スタート条件",
+      "CN": "开始条件",
+      "TW": "開始條件",
+      "NA": "Start Condition",
+      "KR": null
+    },
+    "clear": {
+      "JP": "クリア条件",
+      "CN": "完成条件",
+      "TW": "完成條件",
+      "NA": "Clear Condition",
+      "KR": null
+    },
+    "achieve": {
+      "JP": null,
+      "CN": "达成目标",
+      "TW": "達成目標",
+      "NA": "Achieve Condition",
+      "KR": null
+    }
+  },
+  "mission_type": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "event": {
+      "JP": "イベント",
+      "CN": "活动",
+      "TW": "活動",
+      "NA": "Event",
+      "KR": null
+    },
+    "weekly": {
+      "JP": "ウィークリー",
+      "CN": "周常",
+      "TW": "每週",
+      "NA": "Weekly",
+      "KR": null
+    },
+    "daily": {
+      "JP": "デイリー",
+      "CN": "日常",
+      "TW": "日常",
+      "NA": "Daily",
+      "KR": null
+    },
+    "extra": {
+      "JP": null,
+      "CN": "额外",
+      "TW": "Extra",
+      "NA": "Extra",
+      "KR": null
+    },
+    "limited": {
+      "JP": "限定",
+      "CN": "限时",
+      "TW": "限定",
+      "NA": "Limited",
+      "KR": null
+    },
+    "complete": {
+      "JP": "パネル",
+      "CN": "拼图",
+      "TW": "拼圖",
+      "NA": "Panel",
+      "KR": null
+    },
+    "random": {
+      "JP": "ランダム",
+      "CN": "随机",
+      "TW": "隨機",
+      "NA": "Random",
+      "KR": null
+    },
+    "servant": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "td_effect_flag": {
+    "support": {
+      "JP": "サポート",
+      "CN": "辅助",
+      "TW": "輔助",
+      "NA": "Support",
+      "KR": null
+    },
+    "attackEnemyAll": {
+      "JP": "全体",
+      "CN": "全体",
+      "TW": "全體",
+      "NA": "AoE",
+      "KR": null
+    },
+    "attackEnemyOne": {
+      "JP": "単体",
+      "CN": "单体",
+      "TW": "單體",
+      "NA": "ST",
+      "KR": null
+    }
+  },
+  "event_type": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidBoss": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "pvp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "point": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "loginBonus": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "combineCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "shop": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "bank": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "serialCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "loginCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "loginCampaignRepeat": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventQuest": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "svtequipCombineCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "terminalBanner": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "boxGacha": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "boxGachaPoint": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "loginCampaignStrict": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalLogin": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "comebackCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "locationCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "warBoard": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "combineCosutumeItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "myroomMultipleViewCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "interludeCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "myroomPhotoCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fortuneCampaign": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "genderSelection": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "combine_adjust_target": {
+    "combineQp": {
+      "JP": null,
+      "CN": "强化-QP",
+      "TW": "強化－QP",
+      "NA": "Enhance - QP",
+      "KR": null
+    },
+    "combineExp": {
+      "JP": null,
+      "CN": "强化-经验",
+      "TW": "強化－經驗",
+      "NA": "Enhance - Exp",
+      "KR": null
+    },
+    "activeSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "largeSuccess": {
+      "JP": null,
+      "CN": "大成功",
+      "TW": "大成功",
+      "NA": "Large Success",
+      "KR": null
+    },
+    "superSuccess": {
+      "JP": null,
+      "CN": "极大成功",
+      "TW": "極大成功",
+      "NA": "Super Success",
+      "KR": null
+    },
+    "limitQp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "limitItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillQp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "treasureDeviceQp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "treasureDeviceItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questAp": {
+      "JP": null,
+      "CN": "关卡AP",
+      "TW": "關卡AP",
+      "NA": "Quest AP",
+      "KR": null
+    },
+    "questExp": {
+      "JP": null,
+      "CN": "关卡经验",
+      "TW": "關卡經驗",
+      "NA": "Quest Exp",
+      "KR": null
+    },
+    "questQp": {
+      "JP": null,
+      "CN": "关卡QP",
+      "TW": "關卡QP",
+      "NA": "Quest QP",
+      "KR": null
+    },
+    "questDrop": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "svtequipCombineQp": {
+      "JP": null,
+      "CN": "礼装强化-QP",
+      "TW": "禮裝強化－QP",
+      "NA": "CE Enhance - QP",
+      "KR": null
+    },
+    "svtequipCombineExp": {
+      "JP": null,
+      "CN": "礼装强化-Exp",
+      "TW": "禮裝強化－EXP",
+      "NA": "CE Enhance - EXP",
+      "KR": null
+    },
+    "svtequipLargeSuccess": {
+      "JP": null,
+      "CN": "礼装大成功",
+      "TW": "禮裝大成功",
+      "NA": "CE Large Success",
+      "KR": null
+    },
+    "svtequipSuperSuccess": {
+      "JP": null,
+      "CN": "礼装极大成功",
+      "TW": "禮裝極大成功",
+      "NA": "CE Super Success",
+      "KR": null
+    },
+    "questEventPoint": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "enemySvtClassPickUp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventEachDropNum": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventEachDropRate": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questFp": {
+      "JP": null,
+      "CN": "关卡友情点",
+      "TW": "關卡友情點",
+      "NA": "Quest FP Point",
+      "KR": null
+    },
+    "questApFirstTime": {
+      "JP": null,
+      "CN": "首次通关AP消耗",
+      "TW": "首次通關AP消耗",
+      "NA": "Quest AP (first time)",
+      "KR": null
+    },
+    "dailyDropUp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "exchangeSvtCombineExp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questUseContinueItem": {
+      "JP": null,
+      "CN": "可使用续关道具",
+      "TW": "可使用續關道具",
+      "NA": "Continue Item available",
+      "KR": null
+    },
+    "friendPointGachaFreeDrawNum": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questUseFriendshipUpItem": {
+      "JP": null,
+      "CN": "可使用牵绊提升道具",
+      "TW": "可使用羈絆提升道具",
+      "NA": "Bond Gain Increase Item available",
+      "KR": null
+    },
+    "questFriendship": {
+      "JP": null,
+      "CN": "通关羁绊",
+      "TW": "過關羈絆",
+      "NA": "Quest Bond Gain",
+      "KR": null
+    },
+    "largeSuccessByClass": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "superSuccessByClass": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "exchangeSvt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questItemFirstTime": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "questUseRewardAddItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "event_work_type": {
+    "militsryAffairs": {
+      "JP": "軍務",
+      "CN": "军务",
+      "TW": "軍務",
+      "NA": "Military Affairs",
+      "KR": null
+    },
+    "internalAffairs": {
+      "JP": "政務",
+      "CN": "政务",
+      "TW": "政務",
+      "NA": "Political Affairs",
+      "KR": null
+    },
+    "farmming": {
+      "JP": "内務",
+      "CN": "内务",
+      "TW": "内務",
+      "NA": "Internal Affairs",
+      "KR": null
+    }
+  },
+  "shop_type": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventItem": {
+      "JP": "イベントアイテムを交換",
+      "CN": "活动道具交换",
+      "TW": "活動道具交換",
+      "NA": "Exchange Event Items",
+      "KR": null
+    },
+    "mana": {
+      "JP": "マナプリズムを交換",
+      "CN": "魔力棱镜交换",
+      "TW": "魔力稜鏡交換",
+      "NA": "Exchange Mana Prisms",
+      "KR": null
+    },
+    "rarePri": {
+      "JP": "レアプリズムを交換",
+      "CN": "稀有魔力棱镜交换",
+      "TW": "稀有魔力稜鏡交換",
+      "NA": "Exchange Rare Prisms",
+      "KR": null
+    },
+    "svtStorage": {
+      "JP": "サーヴァント保管枠拡張",
+      "CN": "增加从者保管栏位",
+      "TW": "增加從者保管欄位",
+      "NA": "Expand Second Archive(Servant)",
+      "KR": null
+    },
+    "svtEquipStorage": {
+      "JP": "概念礼装保管枠拡張",
+      "CN": "增加概念礼装保管栏位",
+      "TW": "增加概念禮裝保管欄位",
+      "NA": "Expand Second Archive(CE)",
+      "KR": null
+    },
+    "stoneFragments": {
+      "JP": "聖晶片を交換",
+      "CN": "圣晶片交换",
+      "TW": "聖晶片交換",
+      "NA": "Exchange SQ Fragments",
+      "KR": null
+    },
+    "svtAnonymous": {
+      "JP": "特殊召喚(無記名霊基)",
+      "CN": "特殊召唤(无记名灵基)",
+      "TW": "特殊召喚(無記名靈基)",
+      "NA": "Special Summon(Unregistered Spirit Origin)",
+      "KR": null
+    },
+    "bgm": {
+      "JP": "BGM",
+      "CN": "BGM",
+      "TW": "BGM",
+      "NA": "BGM",
+      "KR": "BGM"
+    },
+    "limitMaterial": {
+      "JP": "特殊霊基再臨素材を売却",
+      "CN": "特殊灵基再临素材贩卖",
+      "TW": "特殊靈基再臨素材販賣",
+      "NA": "Sell Special Ascension Materials",
+      "KR": null
+    },
+    "grailFragments": {
+      "JP": "聖杯の雫を交換",
+      "CN": "圣杯之滴兑换",
+      "TW": "聖杯之滴兌換",
+      "NA": "Exchange Tear of the Holy Grail",
+      "KR": null
+    },
+    "svtCostume": {
+      "JP": "霊衣縫製",
+      "CN": "灵衣缝制",
+      "TW": "靈衣縫製",
+      "NA": "Costume Making",
+      "KR": null
+    },
+    "startUpSummon": {
+      "JP": "星5サーヴァントを交換(1騎無料)",
+      "CN": "特别召唤☆5(免费1骑)",
+      "TW": "特別召喚☆5(免費1騎)",
+      "NA": "Startup Summon(1 SSR Free)",
+      "KR": null
+    },
+    "purePri": {
+      "JP": "ピュアプリズムを交換",
+      "CN": "纯净棱镜交换",
+      "TW": "純淨稜鏡交換",
+      "NA": "Exchange Pure Prisms",
+      "KR": null
+    },
+    "tradeAp": {
+      "JP": "青銅の苗木を交換",
+      "CN": "青铜树苗交换",
+      "TW": "青銅樹苗交換",
+      "NA": "Exchange Blue Sapling",
+      "KR": null
+    },
+    "revivalItem": {
+      "JP": "巡霊の葉を交換",
+      "CN": "巡灵之叶交换",
+      "TW": "巡靈之葉交換",
+      "NA": "Exchange Spirit Tour Leaf",
+      "KR": null
+    },
+    "eventSvtEquip": {
+      "JP": "概念再想",
+      "CN": "概念再想",
+      "TW": "概念再想",
+      "NA": "Remember Essence",
+      "KR": null
+    },
+    "exchangeSvtCoin": {
+      "JP": "サーヴァントコイン(補填分)を交換",
+      "CN": "从者币(补偿)交换",
+      "TW": "從者幣(填補)交換",
+      "NA": null,
+      "KR": null
+    },
+    "shop18": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "purchase_type": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "item": {
+      "JP": "アイテム",
+      "CN": "素材",
+      "TW": "素材",
+      "NA": "Item",
+      "KR": null
+    },
+    "equip": {
+      "JP": "魔術礼装",
+      "CN": "魔术礼装",
+      "TW": "魔術禮裝",
+      "NA": "Mystic Code",
+      "KR": null
+    },
+    "friendGacha": {
+      "JP": "フレンドポイント",
+      "CN": "友情点",
+      "TW": "友情點",
+      "NA": "Friend Point",
+      "KR": "친구 포인트"
+    },
+    "servant": {
+      "JP": "サーヴァント/概念礼装",
+      "CN": "从者/礼装",
+      "TW": "從者/禮裝",
+      "NA": "Servant/CE",
+      "KR": null
+    },
+    "setItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "quest": {
+      "JP": "クエスト",
+      "CN": "关卡",
+      "TW": "關卡",
+      "NA": "Quest",
+      "KR": null
+    },
+    "eventShop": {
+      "JP": "イベントショップ",
+      "CN": "活动商店",
+      "TW": "活動商店",
+      "NA": "Event Shop",
+      "KR": null
+    },
+    "eventSvtGet": {
+      "JP": null,
+      "CN": "获得活动从者",
+      "TW": "獲得活動從者",
+      "NA": "Event Svt Get",
+      "KR": null
+    },
+    "manaShop": {
+      "JP": "マナプリズムショップ",
+      "CN": "魔力棱镜商店",
+      "TW": "魔力稜鏡商店",
+      "NA": "Mana Prism Shop",
+      "KR": null
+    },
+    "storageSvt": {
+      "JP": "サーヴァント保管枠",
+      "CN": "从者保管栏位",
+      "TW": "從者保管欄位",
+      "NA": "Second Archive(Servant)",
+      "KR": null
+    },
+    "storageSvtequip": {
+      "JP": "概念礼装保管枠",
+      "CN": "概念礼装保管栏位",
+      "TW": "概念禮裝保管欄位",
+      "NA": "Second Archive(CE)",
+      "KR": null
+    },
+    "bgm": {
+      "JP": "BGM",
+      "CN": "BGM",
+      "TW": "BGM",
+      "NA": "BGM",
+      "KR": "BGM"
+    },
+    "costumeRelease": {
+      "JP": "霊衣開放",
+      "CN": "灵衣开放",
+      "TW": "靈衣開放",
+      "NA": "Unlock Wardrobe",
+      "KR": "영의개방"
+    },
+    "bgmRelease": {
+      "JP": null,
+      "CN": "解锁BGM",
+      "TW": "解鎖BGM",
+      "NA": "BGM Release",
+      "KR": null
+    },
+    "lotteryShop": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventFactory": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "itemAsPresent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "commandCode": {
+      "JP": "コマンドコード",
+      "CN": "指令纹章",
+      "TW": "指令紋章",
+      "NA": "Command Code",
+      "KR": null
+    },
+    "gift": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventSvtJoin": {
+      "JP": null,
+      "CN": "活动从者临时加入",
+      "TW": "活動從者臨時加入",
+      "NA": "Event Svt Join",
+      "KR": null
+    },
+    "assist": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "kiaraPunisherReset": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "shop18Item": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "partsSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "restriction_type": {
+    "individuality": {
+      "JP": "特定メンバーのみ出撃制限",
+      "CN": "仅限特定成员出击",
+      "TW": "僅限特定成員出擊",
+      "NA": null,
+      "KR": null
+    },
+    "rarity": {
+      "JP": null,
+      "CN": "稀有度",
+      "TW": "稀有度",
+      "NA": "Rarity",
+      "KR": null
+    },
+    "totalCost": {
+      "JP": null,
+      "CN": "总Cost",
+      "TW": "總Cost",
+      "NA": "Total Cost",
+      "KR": null
+    },
+    "lv": {
+      "JP": null,
+      "CN": "等级",
+      "TW": "等級",
+      "NA": "Level",
+      "KR": null
+    },
+    "supportOnly": {
+      "JP": "サポートのみ出撃",
+      "CN": "仅限助战出击",
+      "TW": "僅限助戰出擊",
+      "NA": "Support Only",
+      "KR": null
+    },
+    "uniqueSvtOnly": {
+      "JP": "同一サーヴァント不可",
+      "CN": "不可使用同一个从者",
+      "TW": "不可使用同一個從者",
+      "NA": "Unique Svt Only",
+      "KR": null
+    },
+    "fixedSupportPosition": {
+      "JP": null,
+      "CN": "助战固定位置",
+      "TW": "助戰固定位置",
+      "NA": "Fixed Support Position",
+      "KR": null
+    },
+    "fixedMySvtIndividualityPositionMain": {
+      "JP": null,
+      "CN": "特定持有从者前排固定",
+      "TW": "特定持有從者前排固定",
+      "NA": "Fixed My Svt in Starting Members",
+      "KR": null
+    },
+    "fixedMySvtIndividualitySingle": {
+      "JP": null,
+      "CN": "持有从者单挑",
+      "TW": "持有從者單挑",
+      "NA": "My Svt Solo",
+      "KR": null
+    },
+    "svtNum": {
+      "JP": null,
+      "CN": "从者数量",
+      "TW": "從者數量",
+      "NA": "Svt Num",
+      "KR": null
+    },
+    "mySvtNum": {
+      "JP": null,
+      "CN": "持有从者数量",
+      "TW": "持有從者數量",
+      "NA": "My Svt Num",
+      "KR": null
+    },
+    "mySvtOrNpc": {
+      "JP": null,
+      "CN": "持有从者或NPC",
+      "TW": "持有從者或NPC",
+      "NA": "My Svt or NPC",
+      "KR": null
+    },
+    "alloutBattleUniqueSvt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fixedSvtIndividualityPositionMain": {
+      "JP": null,
+      "CN": "特定从者固定前排",
+      "TW": "特定從者固定前排",
+      "NA": "Fixed Svt in Starting Members",
+      "KR": null
+    },
+    "uniqueIndividuality": {
+      "JP": null,
+      "CN": "持有同一特性从者不可重复",
+      "TW": "持有同一特性從者不可重複",
+      "NA": "Unique Svt with Trait",
+      "KR": null
+    },
+    "mySvtOrSupport": {
+      "JP": null,
+      "CN": "持有从者或助战",
+      "TW": "持有從者或助戰",
+      "NA": "My Svt or Support",
+      "KR": null
+    },
+    "dataLostBattleUniqueSvt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fixedCostume": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "myGrandSvt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fixedMyGrandSvt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "myGrandSvtPositionMain": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "present_from_type": {
+    "1": {
+      "JP": "通算ログイン",
+      "CN": "累积登陆",
+      "TW": "累積登入",
+      "NA": "Total Login",
+      "KR": null
+    },
+    "2": {
+      "JP": "連続ログイン",
+      "CN": "连续登陆",
+      "TW": "連續登入",
+      "NA": "Seq Login",
+      "KR": null
+    },
+    "3": {
+      "JP": "キャンペーン",
+      "CN": "纪念活动",
+      "TW": "紀念活動",
+      "NA": "Campaign",
+      "KR": null
+    },
+    "5": {
+      "JP": "ガチャ",
+      "CN": "抽卡奖励",
+      "TW": "抽卡",
+      "NA": "Gacha",
+      "KR": null
+    },
+    "6": {
+      "JP": "メンテナンス",
+      "CN": "维护&补偿",
+      "TW": "維護",
+      "NA": "Maintenance",
+      "KR": null
+    },
+    "10": {
+      "JP": "ショップ",
+      "CN": "商店兑换",
+      "TW": "商店兌換",
+      "NA": "Shop",
+      "KR": null
+    },
+    "11": {
+      "JP": "ボックス抽選",
+      "CN": "奖池抽选",
+      "TW": "獎池抽選",
+      "NA": "Lottery",
+      "KR": null
+    },
+    "12": {
+      "JP": "ミッション",
+      "CN": "任务报酬",
+      "TW": "任務",
+      "NA": "Mission",
+      "KR": null
+    },
+    "16": {
+      "JP": "クエストクリア",
+      "CN": "通关报酬",
+      "TW": "通關",
+      "NA": "Quest Clear",
+      "KR": null
+    }
+  },
+  "ai_act_num": {
+    "0": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "nomal",
+      "KR": null
+    },
+    "-1": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "anytime",
+      "KR": null
+    },
+    "-3": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionPlyaerSkill",
+      "KR": null
+    },
+    "-4": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionEnemyturnStart",
+      "KR": null
+    },
+    "-5": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionEnemyturnEnd",
+      "KR": null
+    },
+    "-6": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionDead",
+      "KR": null
+    },
+    "-7": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionPlayeractionend",
+      "KR": null
+    },
+    "-8": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionWavestart",
+      "KR": null
+    },
+    "-9": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "maxnp",
+      "KR": null
+    },
+    "-10": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "afterTurnPlayerEnd",
+      "KR": null
+    },
+    "-11": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "usenpTarget",
+      "KR": null
+    },
+    "-12": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionTurnstart",
+      "KR": null
+    },
+    "-13": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionPlayeractionstart",
+      "KR": null
+    },
+    "-14": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionEntryUnit",
+      "KR": null
+    },
+    "-15": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionBeforeResurrection",
+      "KR": null
+    },
+    "-16": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionBeforeDead",
+      "KR": null
+    },
+    "-17": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "shiftServantAfter",
+      "KR": null
+    },
+    "-18": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionBeforeMoveWave",
+      "KR": null
+    },
+    "-401": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionEnemyTurnStartPriority",
+      "KR": null
+    },
+    "-402": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "-501": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "reactionEnemyTurnEndPriority",
+      "KR": null
+    },
+    "-502": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "-9999": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "unknown",
+      "KR": null
+    },
+    "-19": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "shiftServantBefore",
+      "KR": null
+    },
+    "-1901": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "shiftServantBeforePriority",
+      "KR": null
+    }
+  },
+  "ai_timing": {
+    "-6": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "dead",
+      "KR": null
+    },
+    "-3": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "-1": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "unknown",
+      "KR": null
+    },
+    "1": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "waveStart",
+      "KR": null
+    },
+    "2": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "turnStart",
+      "KR": null
+    },
+    "3": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "turnPlayerStart",
+      "KR": null
+    },
+    "4": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "turnPlayerEnd",
+      "KR": null
+    },
+    "5": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "turnEnemyStart",
+      "KR": null
+    },
+    "6": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "turnEnemyEnd",
+      "KR": null
+    },
+    "7": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "8": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "ai_act_type": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "random": {
+      "JP": null,
+      "CN": "随机",
+      "TW": "隨機",
+      "NA": "Random",
+      "KR": null
+    },
+    "attack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillRandom": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skill1": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skill2": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skill3": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackA": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackB": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackQ": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackACritical": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackBCritical": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackQCritical": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackCritical": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillId": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillIdCheckbuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "resurrection": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "playMotion": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "message": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "messageGroup": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "noblePhantasm": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "battleEnd": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "loseEnd": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "battleEndNotRelatedSurvivalStatus": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeThinking": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "battleEndNotRelatedSurvivalStatusInstantly": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "allBattleEnd": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "ai_act_target": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "random": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hpHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hpLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "npturnLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "npgaugeHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "revenge": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "individualityActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "buffActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "front": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "center": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "back": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "ai_cond": {
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hpHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hpLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "actcount": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "actcountMultiple": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "turn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "turnMultiple": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "beforeActId": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "beforeActType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "beforeNotActId": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "beforeNotActType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfBuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtBuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentBuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfBuffIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtBuffIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentBuffIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfNpturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtLowerNpturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentHeightNpgauge": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "actcountThisturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtHpHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtHpLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfNotBuffIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "turnAndActcountThisturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fieldturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "fieldturnMultiple": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtLowerTdturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidHpHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidHpLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidCountHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidCountLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidCountValueHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "raidCountValueLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSpace": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "turnHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "turnLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "charactorTurnHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "charactorTurnLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAlivePt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAliveOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPtRestHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPtRestLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countOpponentRestHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countOpponentRestLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countItemHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countItemLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfBuffcountIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtBuffcountIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfBuffActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtBuffActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentBuffActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEnemyCommandSpellHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtAllIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentAllIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "starHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "starLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentHpHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentHpLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkTargetPosition": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfBuffActiveAndPassiveIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtBuffActiveAndPassiveIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentBuffActiveAndPassiveIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtAllBuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentAllBuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtAllBuffIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentAllBuffIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAlivePtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAliveOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtAllBuffActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkOpponentAllBuffActive": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherBuffIndividualitySumPt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherBuffIndividualitySumPtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherBuffIndividualitySumOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherBuffIndividualitySumOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherBuffIndividualitySumSelf": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerBuffIndividualitySumPt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerBuffIndividualitySumPtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerBuffIndividualitySumOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerBuffIndividualitySumOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerBuffIndividualitySumSelf": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualBuffIndividualitySumPt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualBuffIndividualitySumPtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualBuffIndividualitySumOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualBuffIndividualitySumOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualBuffIndividualitySumSelf": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "existIndividualityOpponentFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "existIndividualityOpponentCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "existIndividualityOpponentBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountHigherIndividualityPt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountHigherIndividualityPtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountHigherIndividualityOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountHigherIndividualityOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountHigherIndividualityAllField": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountLowerIndividualityPt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountLowerIndividualityPtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountLowerIndividualityOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountLowerIndividualityOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountLowerIndividualityAllField": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountEqualIndividualityPt": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountEqualIndividualityPtAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountEqualIndividualityOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountEqualIndividualityOpponentAll": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalCountEqualIndividualityAllField": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptFrontDeadEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptCenterDeadEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptBackDeadEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherIndividualityPtFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherIndividualityPtCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherIndividualityPtBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherIndividualityOpponentFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherIndividualityOpponentCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherIndividualityOpponentBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerIndividualityPtFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerIndividualityPtCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerIndividualityPtBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerIndividualityOpponentFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerIndividualityOpponentCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerIndividualityOpponentBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualIndividualityPtFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualIndividualityPtCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualIndividualityPtBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualIndividualityOpponentFront": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualIndividualityOpponentCenter": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualIndividualityOpponentBack": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPrecedingEnemy": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherRemainTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerRemainTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countHigherPlayerCommandSpell": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countLowerPlayerCommandSpell": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countEqualPlayerCommandSpell": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkMasterSkillThisturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfNpturnHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfNpturnLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkUseSkillThisturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countChainHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countChainLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countChainEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelectChain": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerNpHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerNpLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerNpEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerSkillHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerSkillLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerSkillEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerSkillHigherIncludeMasterSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerSkillLowerIncludeMasterSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countPlayerSkillEqualIncludeMasterSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalTurnHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalTurnLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "totalTurnEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkWarBoardSquareIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkPtHigherNpgauge": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkSelfHigherNpgauge": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkBattleValueAbove": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkBattleValueEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkBattleValueNotEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkBattleValueBelow": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkBattleValueBetween": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkBattleValueNotBetween": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkUseMasterSkillIndex": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "checkUseMasterSkillIndexThisTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countMasterSkillHigherThisTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countMasterSkillLowerThisTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countMasterSkillEqualThisTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countMasterSkillHigherThisWave": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countMasterSkillLowerThisWave": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countMasterSkillEqualThisWave": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailablePlayerAndMasterSkillHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailablePlayerAndMasterSkillLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailablePlayerAndMasterSkillEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailablePlayerSkillHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailablePlayerSkillLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailablePlayerSkillEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailableMasterSkillHigher": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailableMasterSkillLower": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "countAvailableMasterSkillEqual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "commonReleaseId": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "svt_obtain": {
+    "friendPoint": {
+      "JP": "フレンドポイント",
+      "CN": "友情点召唤",
+      "TW": "友情點召喚",
+      "NA": "Friend Point",
+      "KR": null
+    },
+    "story": {
+      "JP": "ストーリー限定",
+      "CN": "剧情限定",
+      "TW": "劇情限定",
+      "NA": "Story",
+      "KR": null
+    },
+    "permanent": {
+      "JP": "恒常",
+      "CN": "常驻",
+      "TW": "常駐",
+      "NA": "Permanent",
+      "KR": null
+    },
+    "heroine": {
+      "JP": "ヘロイン",
+      "CN": "女主角",
+      "TW": "女主角",
+      "NA": "Heroine",
+      "KR": null
+    },
+    "limited": {
+      "JP": "期間限定",
+      "CN": "期间限定",
+      "TW": "期間限定",
+      "NA": "Limited",
+      "KR": null
+    },
+    "unavailable": {
+      "JP": "召喚不可",
+      "CN": "不可召唤",
+      "TW": "不可召喚",
+      "NA": "Unavailable",
+      "KR": null
+    },
+    "eventReward": {
+      "JP": "イベント報酬",
+      "CN": "活动赠送",
+      "TW": "活動贈送",
+      "NA": "Event Reward",
+      "KR": null
+    },
+    "clearReward": {
+      "JP": "クエストクリア報酬",
+      "CN": "通关报酬",
+      "TW": "通關報酬",
+      "NA": "Quest Clear Reward",
+      "KR": null
+    },
+    "unknown": {
+      "JP": "不明",
+      "CN": "未知",
+      "TW": "未知",
+      "NA": "Unknown",
+      "KR": null
+    }
+  },
+  "ce_obtain": {
+    "exp": {
+      "JP": "EXP",
+      "CN": "EXP卡",
+      "TW": "EXP卡",
+      "NA": "EXP",
+      "KR": null
+    },
+    "shop": {
+      "JP": "ダ･ヴィンチ工房",
+      "CN": "达芬奇工房",
+      "TW": "達文西工坊",
+      "NA": "Da Vinci Shop",
+      "KR": null
+    },
+    "manaShop": {
+      "JP": "ダ･ヴィンチ工房",
+      "CN": "达芬奇工房",
+      "TW": "達文西工坊",
+      "NA": "Da Vinci Shop",
+      "KR": null
+    },
+    "story": {
+      "JP": "ストーリー限定",
+      "CN": "剧情限定",
+      "TW": "劇情限定",
+      "NA": "Story",
+      "KR": null
+    },
+    "permanent": {
+      "JP": "恒常",
+      "CN": "卡池常驻",
+      "TW": "常駐",
+      "NA": "Permanent",
+      "KR": null
+    },
+    "valentine": {
+      "JP": "バレンタイン",
+      "CN": "情人节",
+      "TW": "情人節",
+      "NA": "Valentine",
+      "KR": null
+    },
+    "limited": {
+      "JP": "期間限定",
+      "CN": "期间限定",
+      "TW": "期間限定",
+      "NA": "Limited",
+      "KR": null
+    },
+    "eventReward": {
+      "JP": "イベント報酬",
+      "CN": "活动奖励",
+      "TW": "活動獎勵",
+      "NA": "Event Reward",
+      "KR": null
+    },
+    "campaign": {
+      "JP": "記念礼装",
+      "CN": "纪念礼装",
+      "TW": "紀念禮裝",
+      "NA": "Campaign",
+      "KR": null
+    },
+    "bond": {
+      "JP": "絆礼装",
+      "CN": "羁绊礼装",
+      "TW": "羈絆禮裝",
+      "NA": "Bond",
+      "KR": null
+    },
+    "drop": {
+      "JP": "ドロップ率",
+      "CN": "掉落加成",
+      "TW": "掉落加成",
+      "NA": "Drop Rate Up",
+      "KR": "드롭 레이트 업"
+    },
+    "regionSpecific": {
+      "JP": null,
+      "CN": "*区服特供",
+      "TW": "區服限定",
+      "NA": "Region Specific",
+      "KR": null
+    },
+    "unknown": {
+      "JP": "未知",
+      "CN": "未知",
+      "TW": "未知",
+      "NA": "Unknown",
+      "KR": null
+    }
+  },
+  "item_category": {
+    "normal": {
+      "JP": "ノーマル",
+      "CN": "普通",
+      "TW": "普通",
+      "NA": "Normal",
+      "KR": null
+    },
+    "ascension": {
+      "JP": "再臨",
+      "CN": "再临",
+      "TW": "再臨",
+      "NA": "Ascension",
+      "KR": null
+    },
+    "skill": {
+      "JP": "スキル",
+      "CN": "技能",
+      "TW": "技能",
+      "NA": "Skill",
+      "KR": null
+    },
+    "special": {
+      "JP": "スペシャル",
+      "CN": "特殊",
+      "TW": "特殊",
+      "NA": "Special",
+      "KR": null
+    },
+    "eventAscension": {
+      "JP": "イベ再臨",
+      "CN": "活动再临",
+      "TW": "活動再臨",
+      "NA": "Event Asc",
+      "KR": null
+    },
+    "event": {
+      "JP": "イベント",
+      "CN": "活动",
+      "TW": "活動",
+      "NA": "Event",
+      "KR": null
+    },
+    "coin": {
+      "JP": "コイン",
+      "CN": "硬币",
+      "TW": "硬幣",
+      "NA": "Coin",
+      "KR": null
+    },
+    "other": {
+      "JP": "ほか",
+      "CN": "其他",
+      "TW": "其他",
+      "NA": "Others",
+      "KR": null
+    },
+    "itemSelectMonth": {
+      "JP": "交換券",
+      "CN": "交换券",
+      "TW": "交換券",
+      "NA": "Exchange Ticket",
+      "KR": null
+    }
+  },
+  "custom_mission_type": {
+    "trait": {
+      "JP": "エネミー特性",
+      "CN": "敌人特性",
+      "TW": "敵人特性",
+      "NA": "Enemy Trait",
+      "KR": null
+    },
+    "questTrait": {
+      "JP": "フィルド特性",
+      "CN": "场地特性",
+      "TW": "場地特性",
+      "NA": "Field Trait",
+      "KR": null
+    },
+    "quest": {
+      "JP": "指定クエスト",
+      "CN": "指定关卡",
+      "TW": "指定關卡",
+      "NA": "Specific Quest",
+      "KR": null
+    },
+    "enemy": {
+      "JP": "指定エネミー",
+      "CN": "指定敌人",
+      "TW": "指定敵人",
+      "NA": "Specific Enemy",
+      "KR": null
+    },
+    "servantClass": {
+      "JP": "サーヴァントクラス",
+      "CN": "从者职阶",
+      "TW": "從者職階",
+      "NA": "Servant Class",
+      "KR": null
+    },
+    "enemyClass": {
+      "JP": "エネミークラス",
+      "CN": "敌人职阶",
+      "TW": "敵人職階",
+      "NA": "Enemy Class",
+      "KR": null
+    },
+    "enemyNotServantClass": {
+      "JP": "エネミークラス\n(非サーヴァント)",
+      "CN": "敌人职阶\n(非从者)",
+      "TW": "敵人職階\n(非從者)",
+      "NA": "Enemy Class\n(not servant)",
+      "KR": null
+    }
+  },
+  "summon_type": {
+    "story": {
+      "JP": null,
+      "CN": "剧情",
+      "TW": "故事",
+      "NA": "Story",
+      "KR": null
+    },
+    "limited": {
+      "JP": null,
+      "CN": "限时",
+      "TW": "限時",
+      "NA": "Limited",
+      "KR": null
+    },
+    "gssr": {
+      "JP": null,
+      "CN": "福袋(SSR)",
+      "TW": "福袋(SSR)",
+      "NA": "GSSR",
+      "KR": null
+    },
+    "gssrsr": {
+      "JP": null,
+      "CN": "福袋(SSR+SR)",
+      "TW": "福袋(SSR+SR)",
+      "NA": "GSSR+SR",
+      "KR": null
+    },
+    "unknown": {
+      "JP": null,
+      "CN": "未知",
+      "TW": "未知",
+      "NA": "Unknown",
+      "KR": null
+    }
+  },
+  "effect_type": {
+    "upQuick": {
+      "JP": "Quickアップ",
+      "CN": "Quick提升",
+      "TW": "Quick提升",
+      "NA": "Quick Up",
+      "KR": "퀵 업"
+    },
+    "upArts": {
+      "JP": "Artsアップ",
+      "CN": "Arts提升",
+      "TW": "Arts提升",
+      "NA": "Arts Up",
+      "KR": "아츠 업"
+    },
+    "upBuster": {
+      "JP": "Busterアップ",
+      "CN": "Buster提升",
+      "TW": "Buster提升",
+      "NA": "Buster Up",
+      "KR": "버스터 업"
+    },
+    "upDamageEvent": {
+      "JP": "威力アップ(イベント)",
+      "CN": "威力提升(活动)",
+      "TW": "威力提升(活動)",
+      "NA": "SP.DMG Up (Event)",
+      "KR": null
+    },
+    "upExtraAttack": {
+      "JP": "Extra Attackアップ",
+      "CN": "Extra Attack提升",
+      "TW": "Extra Attack提升",
+      "NA": "Extra Attack Up",
+      "KR": "엑스트라 어택 업"
+    },
+    "damageNpSP": {
+      "JP": "宝具特攻",
+      "CN": "宝具特攻",
+      "TW": "寶具特攻",
+      "NA": "NP Super Effective",
+      "KR": "보구 특공"
+    },
+    "upTolerance": {
+      "JP": "弱体耐性アップ",
+      "CN": "弱体耐性提升",
+      "TW": "弱體耐性提升",
+      "NA": "Debuff Resist Up",
+      "KR": "약체내성 증가"
+    },
+    "avoidStateNegative": {
+      "JP": "弱体無効",
+      "CN": "弱体无效",
+      "TW": "弱化無效",
+      "NA": "Debuff Immune",
+      "KR": "약체 무효"
+    },
+    "upGrantstate": {
+      "JP": "状態付与アップ",
+      "CN": "状态付与成功率提升",
+      "TW": "狀態賦予成功率提升",
+      "NA": "Effect Chance Up",
+      "KR": "상태 부여 성공률 업"
+    },
+    "upGrantstatePositive": {
+      "JP": "強化付与アップ",
+      "CN": "强化状态付与提升",
+      "TW": "強化狀態賦予提升",
+      "NA": "Buff Chance Up",
+      "KR": "강화 부여 UP"
+    },
+    "upGrantstateNegative": {
+      "JP": "弱体付与アップ",
+      "CN": "弱化状态付与提升",
+      "TW": "弱化狀態賦予提升",
+      "NA": "Debuff Chance Up",
+      "KR": "약화 효과 부여 UP"
+    },
+    "subStatePositive": {
+      "JP": "強化解除",
+      "CN": "强化解除",
+      "TW": "強化解除",
+      "NA": "Remove Positive Buff",
+      "KR": "강화 해제"
+    },
+    "subStateNegative": {
+      "JP": "弱体解除",
+      "CN": "弱化状态解除",
+      "TW": "弱化狀態解除",
+      "NA": "Remove Debuff",
+      "KR": "약화 효과 해제"
+    },
+    "upReceivePositiveEffect": {
+      "JP": "被強化成功率アップ",
+      "CN": "被强化成功率提升",
+      "TW": "被強化成功率提升",
+      "NA": "Increase Buff Success Rate",
+      "KR": "받는 강화 성공률 업"
+    },
+    "upToleranceSubstate": {
+      "JP": "強化解除耐性アップ",
+      "CN": "强化解除耐性提升",
+      "TW": "強化解除耐性提升",
+      "NA": "Buff Removal Resist Up",
+      "KR": "강화 해제 내성 업"
+    },
+    "triggerFunc": {
+      "JP": "特定時発動",
+      "CN": "特定时机发动",
+      "TW": "特定時發動",
+      "NA": "Trigger Skill",
+      "KR": "특정시 발동"
+    }
+  },
+  "func_type": {
+    "absorbNpturn": {
+      "JP": "チャージ吸収",
+      "CN": "充能吸收",
+      "TW": "Charge吸收",
+      "NA": "Absorb Charge",
+      "KR": "충전 흡수"
+    },
+    "addState": {
+      "JP": "バフ付与",
+      "CN": "付与Buff",
+      "TW": "賦予Buff",
+      "NA": "Apply Buff",
+      "KR": "버프 부여"
+    },
+    "addStateShort": {
+      "JP": "バフ付与(Short)",
+      "CN": "付与Buff(Short)",
+      "TW": "賦予Buff(Short)",
+      "NA": "Apply Buff(Short)",
+      "KR": "버프 부여(Short)"
+    },
+    "breakGaugeDown": {
+      "JP": "ブレイクゲージ減少",
+      "CN": "击破条减少",
+      "TW": "擊破條減少",
+      "NA": "Reduce Break Gauge",
+      "KR": null
+    },
+    "breakGaugeUp": {
+      "JP": "ブレイクゲージ増加",
+      "CN": "击破条增加",
+      "TW": "擊破條增加",
+      "NA": "Increase Break Gauge",
+      "KR": null
+    },
+    "buddyPointUp": {
+      "JP": null,
+      "CN": "搭档度获得量提升",
+      "TW": "Buddy Point獲得量提升",
+      "NA": "Buddy Point Up",
+      "KR": null
+    },
+    "callServant": {
+      "JP": null,
+      "CN": "召唤从者",
+      "TW": "召喚從者",
+      "NA": "Summon Entity",
+      "KR": null
+    },
+    "cardReset": {
+      "JP": "コマンドシャッフル",
+      "CN": "洗牌",
+      "TW": "洗牌",
+      "NA": "Shuffle Cards",
+      "KR": "커맨드 셔플"
+    },
+    "changeBg": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeBgm": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeBgmCostume": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeServant": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "classDropUp": {
+      "JP": null,
+      "CN": "职阶掉落提升",
+      "TW": "職階掉落提升",
+      "NA": "Class Drop Up",
+      "KR": null
+    },
+    "damage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "damageNp": {
+      "JP": "宝具攻撃",
+      "CN": "宝具攻击",
+      "TW": "寶具攻擊",
+      "NA": "NP Damage",
+      "KR": "보구 공격"
+    },
+    "damageNpAndCheckIndividuality": {
+      "JP": "宝具-(&)特性特攻",
+      "CN": "宝具-(&)特性特攻",
+      "TW": "寶具-(&)特性特攻",
+      "NA": "NP Damage Bonus to Trait(&)",
+      "KR": null
+    },
+    "damageNpCounter": {
+      "JP": "宝具-反射",
+      "CN": "宝具-反射",
+      "TW": "寶具-反射",
+      "NA": "NP - Reflect",
+      "KR": null
+    },
+    "damageNpHpratioHigh": {
+      "JP": "宝具-HPが多いほど",
+      "CN": "宝具-HP越高",
+      "TW": "寶具-HP越高",
+      "NA": "NP Damage Bonus for High HP",
+      "KR": null
+    },
+    "damageNpHpratioLow": {
+      "JP": "宝具-HPが少ないほど",
+      "CN": "宝具-HP越低",
+      "TW": "寶具-HP越低",
+      "NA": "NP Damage Bonus for Low HP",
+      "KR": "보구-HP가 적을수록"
+    },
+    "damageNpIndividual": {
+      "JP": "宝具-特性特攻",
+      "CN": "宝具-特性特攻",
+      "TW": "寶具-特性特攻",
+      "NA": "NP Damage Bonus to Trait",
+      "KR": "보구-특성 특공"
+    },
+    "damageNpIndividualSum": {
+      "JP": "宝具-特性数による特攻",
+      "CN": "宝具-特性特攻(按数量)",
+      "TW": "寶具-特性數量特攻",
+      "NA": "NP Damage Bonus per Trait",
+      "KR": "보구-특성 수량 특공"
+    },
+    "damageNpPierce": {
+      "JP": "宝具-防御力無視",
+      "CN": "宝具-无视防御",
+      "TW": "寶具-無視防禦",
+      "NA": "NP Damage Pierces Defense",
+      "KR": "보구-방어 무시"
+    },
+    "damageNpRare": {
+      "JP": "宝具-低レア特攻",
+      "CN": "宝具-低稀有度特攻",
+      "TW": "寶具-低稀有度特攻",
+      "NA": "NP Damage Bonus to Low Rarity",
+      "KR": "보구-저레어 특공"
+    },
+    "damageNpSafe": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "damageNpStateIndividual": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "damageNpStateIndividualFix": {
+      "JP": "宝具-状態特攻",
+      "CN": "宝具-状态特攻",
+      "TW": "寶具-狀態特攻",
+      "NA": "NP Damage Bonus to Buff Trait",
+      "KR": null
+    },
+    "damageValue": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "damageValueSafe": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "delayNpturn": {
+      "JP": "チャージ減少",
+      "CN": "充能减少",
+      "TW": "Charge減少",
+      "NA": "Drain Charge",
+      "KR": "충전 감소"
+    },
+    "displayBuffstring": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "dropUp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "enemyEncountCopyRateUp": {
+      "JP": null,
+      "CN": "敌人出现率增加(复制)",
+      "TW": "敵人出現率增加(複製)",
+      "NA": "Enemy Rate Up(Clone)",
+      "KR": null
+    },
+    "enemyEncountRateUp": {
+      "JP": null,
+      "CN": "敌人出现率增加",
+      "TW": "敵人出現率增加",
+      "NA": "Enemy Rate Up",
+      "KR": null
+    },
+    "enemyProbDown": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventDropRateUp": {
+      "JP": "素材のドロップ率",
+      "CN": "素材掉率",
+      "TW": "素材掉率",
+      "NA": "Drop Rate",
+      "KR": "아이템 드롭률"
+    },
+    "eventDropUp": {
+      "JP": "素材のドロップ獲得数",
+      "CN": "素材掉落数量",
+      "TW": "素材掉落數量",
+      "NA": "Drop Amount",
+      "KR": "아이템 드롭 획득 수"
+    },
+    "eventPointRateUp": {
+      "JP": "ポイントのドロップ",
+      "CN": "点数掉率",
+      "TW": "點數掉率",
+      "NA": "Point Drop Rate",
+      "KR": "포인트 드롭률"
+    },
+    "eventPointUp": {
+      "JP": "ポイントのドロップ獲得量",
+      "CN": "点数掉落数量",
+      "TW": "點數掉落數量",
+      "NA": "Point Drop Amount",
+      "KR": "포인트 드롭 획득 수"
+    },
+    "expUp": {
+      "JP": "マスターEXP",
+      "CN": "御主经验",
+      "TW": "御主經驗",
+      "NA": "Master Exp",
+      "KR": "마스터 EXP"
+    },
+    "extendBuffcount": {
+      "JP": null,
+      "CN": "增加Buff次数",
+      "TW": "增加Buff次數",
+      "NA": "Extend Buff Count",
+      "KR": null
+    },
+    "extendBuffturn": {
+      "JP": null,
+      "CN": "增加Buff回合数",
+      "TW": "增加Buff回合數",
+      "NA": "Extend Buff Turn",
+      "KR": null
+    },
+    "extendSkill": {
+      "JP": "CD増加",
+      "CN": "技能冷却增加",
+      "TW": "技能冷卻增加",
+      "NA": "Increase Cooldowns",
+      "KR": "스킬 CD 증가"
+    },
+    "fixCommandcard": {
+      "JP": "手札を固定",
+      "CN": "固定手牌",
+      "TW": "固定手牌",
+      "NA": "Lock Command Cards",
+      "KR": "패를 고정"
+    },
+    "forceAllBuffNoact": {
+      "JP": null,
+      "CN": "强制所有状态不生效",
+      "TW": "所有狀態強制不生效",
+      "NA": "Force All Buff No Act",
+      "KR": null
+    },
+    "forceInstantDeath": {
+      "JP": "即死(強制)",
+      "CN": "即死(强制)",
+      "TW": "即死(強制)",
+      "NA": "Force Instant Death",
+      "KR": "직사(강제)"
+    },
+    "friendPointUp": {
+      "JP": "フレンドポイント",
+      "CN": "友情点",
+      "TW": "友情點",
+      "NA": "Friend Point",
+      "KR": "친구 포인트"
+    },
+    "friendPointUpDuplicate": {
+      "JP": "フレンドポイント(重複可能)",
+      "CN": "友情点(可叠加)",
+      "TW": "友情點(可疊加)",
+      "NA": "Friend Point (stackable)",
+      "KR": "친구 포인트(중복 가능)"
+    },
+    "lossCommandSpell": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "gainCommandSpell": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "gainHp": {
+      "JP": "HP回復",
+      "CN": "HP回复",
+      "TW": "HP回復",
+      "NA": "Restore HP",
+      "KR": "HP회복"
+    },
+    "gainHpFromTargets": {
+      "JP": "HP吸収",
+      "CN": "HP吸收",
+      "TW": "HP吸收",
+      "NA": "Absorb HP",
+      "KR": "HP흡수"
+    },
+    "gainHpPer": {
+      "JP": "HP回復(%)",
+      "CN": "HP回复(%)",
+      "TW": "HP回復",
+      "NA": "Restore HP(%)",
+      "KR": "HP회복(%)"
+    },
+    "gainNp": {
+      "JP": "NP増加",
+      "CN": "NP增加",
+      "TW": "NP增加",
+      "NA": "Charge NP",
+      "KR": "NP증가"
+    },
+    "gainNpBuffIndividualSum": {
+      "JP": "NP増加(バフ数)",
+      "CN": "NP增加(Buff数)",
+      "TW": "NP增加(Buff數)",
+      "NA": "Charge NP per Trait",
+      "KR": "NP증가(Buff수)"
+    },
+    "gainNpFromTargets": {
+      "JP": "ＮP吸収",
+      "CN": "NP吸收",
+      "TW": "NP吸收",
+      "NA": "Absorb NP Charge",
+      "KR": "NP흡수"
+    },
+    "gainStar": {
+      "JP": "スター獲得",
+      "CN": "获得暴击星",
+      "TW": "獲得爆擊星",
+      "NA": "Gain Critical Stars",
+      "KR": "스타 획득"
+    },
+    "getRewardGift": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hastenNpturn": {
+      "JP": "チャージ増加",
+      "CN": "充能增加",
+      "TW": "Charge增加",
+      "NA": "Increase Charge",
+      "KR": "충전 증가"
+    },
+    "instantDeath": {
+      "JP": "即死",
+      "CN": "即死",
+      "TW": "即死",
+      "NA": "Instant Death",
+      "KR": "직사"
+    },
+    "lossHp": {
+      "JP": "HP減少",
+      "CN": "HP减少",
+      "TW": "HP減少",
+      "NA": "Drain HP",
+      "KR": "HP 감소"
+    },
+    "lossHpPer": {
+      "JP": "HP減少(%)",
+      "CN": "HP减少(%)",
+      "TW": "HP減少(%)",
+      "NA": "Drain HP(%)",
+      "KR": "HP 감소(%)"
+    },
+    "lossHpPerSafe": {
+      "JP": "HP減少(％,1残す)",
+      "CN": "HP减少(%,1)",
+      "TW": "HP減少(%,1)",
+      "NA": "Drain HP(%) without killing",
+      "KR": "HP 감소(%,1)"
+    },
+    "lossHpSafe": {
+      "JP": "HP減少(1残す)",
+      "CN": "HP减少(1)",
+      "TW": "HP減少(1)",
+      "NA": "Drain HP without killing",
+      "KR": "HP 감소(1)"
+    },
+    "lossNp": {
+      "JP": "NP減少",
+      "CN": "NP减少",
+      "TW": "NP減少",
+      "NA": "Drain NP",
+      "KR": "NP 감소"
+    },
+    "lossStar": {
+      "JP": "スター減少",
+      "CN": "暴击星减少",
+      "TW": "爆擊星減少",
+      "NA": "Remove Critical Stars",
+      "KR": "스타 감소"
+    },
+    "movePosition": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "moveState": {
+      "JP": "状態転移",
+      "CN": "状态转移",
+      "TW": "狀態轉移",
+      "NA": "Move Effects",
+      "KR": null
+    },
+    "moveToLastSubmember": {
+      "JP": null,
+      "CN": "移至替补最后一个位置",
+      "TW": "移至替補最後一個位置",
+      "NA": "Move to last reserve slot",
+      "KR": null
+    },
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteDeadType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ptShuffle": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "qpDropUp": {
+      "JP": "QP増加(ドロップ)",
+      "CN": "QP增加(掉落)",
+      "TW": "QP增加(掉落)",
+      "NA": "Increase QP Drop",
+      "KR": "QP증가(드롭)"
+    },
+    "qpUp": {
+      "JP": "QP増加",
+      "CN": "QP增加",
+      "TW": "QP增加",
+      "NA": "Increase QP",
+      "KR": "QP증가"
+    },
+    "quickChangeBg": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "releaseState": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "replaceMember": {
+      "JP": null,
+      "CN": "成员交换",
+      "TW": "成員交換",
+      "NA": "Replace Member",
+      "KR": null
+    },
+    "resurrection": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "revival": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "sendSupportFriendPoint": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "servantFriendshipUp": {
+      "JP": "絆",
+      "CN": "羁绊",
+      "TW": "羈絆",
+      "NA": "Bond",
+      "KR": "인연"
+    },
+    "setSystemAliveFlag": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "shiftServant": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "shortenBuffcount": {
+      "JP": null,
+      "CN": "减少Buff次数",
+      "TW": "減少Buff次數",
+      "NA": "Shorten Buff Count",
+      "KR": null
+    },
+    "shortenBuffturn": {
+      "JP": null,
+      "CN": "减少Buff回合数",
+      "TW": "減少Buff回合數",
+      "NA": "Shorten Buff Turn",
+      "KR": null
+    },
+    "shortenSkill": {
+      "JP": "CD減少",
+      "CN": "技能冷却减少",
+      "TW": "技能冷卻減少",
+      "NA": "Reduce Cooldowns",
+      "KR": "스킬 CD 감소"
+    },
+    "shortenUserEquipSkill": {
+      "JP": null,
+      "CN": "御主礼装技能冷却减少",
+      "TW": "御主禮裝技能冷卻減少",
+      "NA": "Reduce Master Skill Cooldowns",
+      "KR": null
+    },
+    "subState": {
+      "JP": "状態解除",
+      "CN": "解除状态",
+      "TW": "解除狀態",
+      "NA": "Remove Effects",
+      "KR": null
+    },
+    "transformServant": {
+      "JP": null,
+      "CN": "变换从者",
+      "TW": "變換從者",
+      "NA": "Transform Servant",
+      "KR": null
+    },
+    "updateEntryPositions": {
+      "JP": null,
+      "CN": "更新登场位置状态",
+      "TW": "更新登場位置狀態",
+      "NA": "Update Entry Positions",
+      "KR": null
+    },
+    "userEquipExpUp": {
+      "JP": "魔術礼装EXP",
+      "CN": "御主礼装经验",
+      "TW": "魔術禮裝EXP",
+      "NA": "Mystic Code Exp",
+      "KR": "마술예장 EXP"
+    },
+    "withdraw": {
+      "JP": null,
+      "CN": "撤退",
+      "TW": "撤退",
+      "NA": "Withdraw",
+      "KR": null
+    },
+    "addFieldChangeToField": {
+      "JP": null,
+      "CN": "(场地)改变场地",
+      "TW": "(場地)改變場地",
+      "NA": "(Field)Field Change",
+      "KR": null
+    },
+    "subFieldBuff": {
+      "JP": null,
+      "CN": "解除场地Buff",
+      "TW": "解除場地Buff",
+      "NA": "Remove Field Buff",
+      "KR": null
+    },
+    "eventFortificationPointUp": {
+      "JP": null,
+      "CN": "Fortification点数",
+      "TW": "Fortification Point",
+      "NA": "Fortification Point",
+      "KR": null
+    },
+    "gainNpIndividualSum": {
+      "JP": null,
+      "CN": "NP增加(根据特性总数)",
+      "TW": "NP增加(根據特性總數)",
+      "NA": "Gain NP (per trait)",
+      "KR": null
+    },
+    "setQuestRouteFlag": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "lastUsePlayerSkillCopy": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "extendUserEquipSkill": {
+      "JP": null,
+      "CN": "御主礼装技能冷却增加",
+      "TW": "御主禮裝技能冷卻增加",
+      "NA": "Extend Master Skill Cooldowns",
+      "KR": null
+    },
+    "updateEnemyEntryMaxCountEachTurn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeEnemyMasterFace": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "damageValueSafeOnce": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "addBattleValue": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "setBattleValue": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "gainMultiplyNp": {
+      "JP": "NP倍化",
+      "CN": "NP倍化",
+      "TW": "NP倍化",
+      "NA": null,
+      "KR": null
+    },
+    "lossMultiplyNp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "addBattlePoint": {
+      "JP": "マスター好感度アップ",
+      "CN": "御主好感度提升",
+      "TW": "御主好感度提升",
+      "NA": "Master Affection Up",
+      "KR": null
+    },
+    "damageNpBattlePointPhase": {
+      "JP": "宝具-好感度特攻",
+      "CN": "宝具-好感度特攻",
+      "TW": "寶具-好感度特攻",
+      "NA": "NP Damage Bonus to Master Affection",
+      "KR": null
+    },
+    "setNpExecutedState": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hideOverGauge": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "gainNpTargetSum": {
+      "JP": "NP増加(ターゲット数)",
+      "CN": "NP增加(目标数)",
+      "TW": "NP增加(目標數)",
+      "NA": "Charge NP per Target ",
+      "KR": null
+    },
+    "enemyCountChange": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "displayBattleMessage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "generateBattleSkillDrop": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeMasterFace": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "enableMasterSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "enableMasterCommandSpell": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "battleModelChange": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "gainNpCriticalstarSum": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "addBattleMissionValue": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "setBattleMissionValue": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "changeEnemyStatusUiType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "swapFieldPosition": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "buff_type": {
+    "addDamage": {
+      "JP": "ダメージプラス",
+      "CN": "伤害附加",
+      "TW": "傷害附加",
+      "NA": "Damage Plus",
+      "KR": "데미지 상승"
+    },
+    "addIndividuality": {
+      "JP": "特性付与",
+      "CN": "赋予特性",
+      "TW": "賦予特性",
+      "NA": "Add Trait",
+      "KR": "특성 부여"
+    },
+    "addMaxhp": {
+      "JP": "最大HPアップ",
+      "CN": "最大HP增加",
+      "TW": "最大HP增加",
+      "NA": "Max HP Up",
+      "KR": "최대 HP 증가"
+    },
+    "addSelfdamage": {
+      "JP": "被ダメージプラス",
+      "CN": "被伤害增加",
+      "TW": "被傷害增加",
+      "NA": "Add Selfdamage",
+      "KR": "피격데미지 증가"
+    },
+    "attackBeforeFunction": {
+      "JP": "攻撃前発動",
+      "CN": "攻击前发动",
+      "TW": "攻擊前發動",
+      "NA": "Trigger before Attack",
+      "KR": null
+    },
+    "attackFunction": {
+      "JP": "攻撃後発動",
+      "CN": "攻击后发动",
+      "TW": "攻擊後發動",
+      "NA": "Trigger after attacks",
+      "KR": null
+    },
+    "avoidance": {
+      "JP": "回避",
+      "CN": "闪避",
+      "TW": "迴避",
+      "NA": "Evade",
+      "KR": "회피"
+    },
+    "avoidanceIndividuality": {
+      "JP": "回避(必中、無敵貫通無効)",
+      "CN": "闪避(必中、无敌贯通无效)",
+      "TW": "迴避(必中、無敵貫通無效)",
+      "NA": "Evade (Immune to Sure Hit & Ignore Invincible)",
+      "KR": null
+    },
+    "avoidInstantdeath": {
+      "JP": "即死無効",
+      "CN": "即死无效",
+      "TW": "即死無效",
+      "NA": "Immune to Death",
+      "KR": "즉사 무효"
+    },
+    "avoidState": {
+      "JP": "状態付与無効",
+      "CN": "状态付与无效",
+      "TW": "狀態賦予無效",
+      "NA": "Effect Immunity",
+      "KR": "버프 부여 무효"
+    },
+    "battlestartFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "breakAvoidance": {
+      "JP": "必中",
+      "CN": "必中",
+      "TW": "必中",
+      "NA": "Sure Hit",
+      "KR": "필중"
+    },
+    "buffRate": {
+      "JP": "バフ效果增加",
+      "CN": "buff效果增加",
+      "TW": "Buff效果增加",
+      "NA": "Buff Effectiveness Up",
+      "KR": "버프 효과 증가"
+    },
+    "changeCommandCardType": {
+      "JP": "コマンドカードタイプチェンジ",
+      "CN": "指令卡类型变更",
+      "TW": "指令卡類型變更",
+      "NA": "Change Command Card Types",
+      "KR": "커맨드 카드 타입 변경"
+    },
+    "commandattackBeforeFunction": {
+      "JP": "通常攻撃前発動",
+      "CN": "通常攻击前发动",
+      "TW": "通常攻擊前發動",
+      "NA": "Trigger before normal cards",
+      "KR": null
+    },
+    "commandattackFunction": {
+      "JP": "通常攻撃後発動",
+      "CN": "通常攻击后发动",
+      "TW": "通常攻擊後發動",
+      "NA": "Trigger after normal cards",
+      "KR": null
+    },
+    "commandcodeattackAfterFunction": {
+      "JP": "コマンドコード攻撃後発動",
+      "CN": "指令纹章攻击後发动",
+      "TW": "指令紋章攻擊後發動",
+      "NA": "Trigger after Command Code Attack",
+      "KR": null
+    },
+    "commandcodeattackFunction": {
+      "JP": "コマンドコード攻撃前発動",
+      "CN": "指令纹章攻击前发动",
+      "TW": "指令紋章攻擊前發動",
+      "NA": "Trigger before Command Code Attack",
+      "KR": null
+    },
+    "counterFunction": {
+      "JP": "反撃/カウンター",
+      "CN": "反击",
+      "TW": "反擊",
+      "NA": "Counter Function",
+      "KR": "반격"
+    },
+    "damageFunction": {
+      "JP": "被ダメージ時発動",
+      "CN": "受到伤害时发动",
+      "TW": "受到傷害時發動",
+      "NA": "Trigger on receiving attacks",
+      "KR": "피격시 발동"
+    },
+    "deadattackFunction": {
+      "JP": "エネミーを倒す時発動",
+      "CN": "击破时发动",
+      "TW": "擊破時發動",
+      "NA": "Trigger after defeating an enemy",
+      "KR": "에네미를 쓰러뜨릴 때 발동"
+    },
+    "deadFunction": {
+      "JP": "死亡時発動",
+      "CN": "死亡时发动",
+      "TW": "死亡時發動",
+      "NA": "Trigger on death",
+      "KR": "사망시 발동"
+    },
+    "delayFunction": {
+      "JP": "遅延発動",
+      "CN": "延迟发动",
+      "TW": "延遲發動",
+      "NA": "Trigger after Duration",
+      "KR": "지연 발동"
+    },
+    "disableGender": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "donotAct": {
+      "JP": "行動不能",
+      "CN": "行动不能",
+      "TW": "行動不能",
+      "NA": "Immobilization",
+      "KR": "행동 불능"
+    },
+    "donotActCommandtype": {
+      "JP": null,
+      "CN": "无法使用特定类型指令卡",
+      "TW": "無法使用特定類型指令卡",
+      "NA": "Unable to use specific Type Command Card",
+      "KR": null
+    },
+    "donotGainnp": {
+      "JP": null,
+      "CN": "无法获得NP",
+      "TW": "無法獲得NP",
+      "NA": "Unable to Gain NP",
+      "KR": null
+    },
+    "donotNoble": {
+      "JP": "宝具封印",
+      "CN": "宝具封印",
+      "TW": "寶具封印",
+      "NA": "NP Seal",
+      "KR": "보구 봉인"
+    },
+    "donotNobleCondMismatch": {
+      "JP": null,
+      "CN": "宝具封印(若条件不符)",
+      "TW": "寶具封印(若條件不符)",
+      "NA": "NP Seal if Condition Mismatch",
+      "KR": null
+    },
+    "donotRecovery": {
+      "JP": "HP回復不能",
+      "CN": "无法回复生命值",
+      "TW": "無法恢復HP",
+      "NA": "Recovery Disabled",
+      "KR": "HP 회복 불능"
+    },
+    "donotReplace": {
+      "JP": "オーダーチェンジ不能",
+      "CN": "无法Order Change",
+      "TW": "無法Order Change",
+      "NA": "Unable to Change Order",
+      "KR": "오더 체인지 불능"
+    },
+    "donotSelectCommandcard": {
+      "JP": "コマンドカード選出不能",
+      "CN": "无法选择指令卡",
+      "TW": "無法選擇指令卡",
+      "NA": "Command Card Unselectable",
+      "KR": "커맨드 카드 선출 불능"
+    },
+    "donotSkill": {
+      "JP": "スキル封印",
+      "CN": "技能封印",
+      "TW": "技能封印",
+      "NA": "Skill Seal",
+      "KR": "스킬 봉인"
+    },
+    "donotSkillSelect": {
+      "JP": "スキル使用不能",
+      "CN": "技能无法使用",
+      "TW": "技能無法使用",
+      "NA": "Skill Not Usable",
+      "KR": null
+    },
+    "downAtk": {
+      "JP": "攻撃力ダウン",
+      "CN": "攻击力降低",
+      "TW": "攻擊力降低",
+      "NA": "ATK Down",
+      "KR": "공격력 다운"
+    },
+    "downCommandall": {
+      "JP": "カード性能ダウン",
+      "CN": "指令卡性能降低",
+      "TW": "指令卡性能降低",
+      "NA": "Card Dwon",
+      "KR": "커맨드 카드 성능 다운"
+    },
+    "downCommandatk": {
+      "JP": "カード攻撃力ダウン",
+      "CN": "指令卡攻击力降低",
+      "TW": "指令卡攻擊降低",
+      "NA": "Card ATK Down",
+      "KR": "커맨드 카드 공격력 다운"
+    },
+    "downCommandnp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downCommanstar": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downCriticaldamage": {
+      "JP": "クリティカル威力ダウン",
+      "CN": "暴击威力降低",
+      "TW": "爆擊威力降低",
+      "NA": "Critical Damage Down",
+      "KR": "크리티컬 위력 다운"
+    },
+    "downCriticalpoint": {
+      "JP": "スター発生ダウン",
+      "CN": "暴击星掉落降低",
+      "TW": "爆擊星掉落降低",
+      "NA": "Star Drop Rate Down",
+      "KR": "스타 발생률 다운"
+    },
+    "downCriticalrate": {
+      "JP": "クリティカル発生ダウン",
+      "CN": "暴击率降低",
+      "TW": "爆擊率降低",
+      "NA": "Critical Rate Down",
+      "KR": "크리티컬 발생률 다운"
+    },
+    "downCriticalRateDamageTaken": {
+      "JP": "被クリティカル発生耐性アップ",
+      "CN": "被暴击发生耐性提升",
+      "TW": "被爆擊發生耐性提升",
+      "NA": "Chance of Receiving Critical Attack Down",
+      "KR": "크리티컬 내성 다운"
+    },
+    "downCriticalStarDamageTaken": {
+      "JP": "被スター発生耐性アップ",
+      "CN": "被暴击星掉落耐性提升",
+      "TW": "被爆擊星掉落耐性提升",
+      "NA": "Resistance Up when C. Star Drops",
+      "KR": "받는 스타 발생 내성 UP"
+    },
+    "downDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDamagedropnp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDamageIndividuality": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDamageIndividualityActiveonly": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefence": {
+      "JP": "防御力ダウン",
+      "CN": "防御力降低",
+      "TW": "防禦力降低",
+      "NA": "DEF Down",
+      "KR": "방어력 다운"
+    },
+    "downDefencecommandall": {
+      "JP": "カード耐性ダウン",
+      "CN": "指令卡耐性下降",
+      "TW": "指令卡耐性下降",
+      "NA": "Card Resist Down",
+      "KR": "카드 내성 DOWN"
+    },
+    "downDefencecommanDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDropnp": {
+      "JP": "NP獲得ダウン",
+      "CN": "NP获得率降低",
+      "TW": "NP獲得率降低",
+      "NA": "NP Gain Down",
+      "KR": "NP 획득량 다운"
+    },
+    "downFuncgainNp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downFuncHpReduce": {
+      "JP": "DoT Down(%)",
+      "CN": "DoT效果降低(%)",
+      "TW": "DoT效果降低(%)",
+      "NA": "Dot Down(%)",
+      "KR": null
+    },
+    "downGainHp": {
+      "JP": "HP回復ダウン",
+      "CN": "HP回复量降低",
+      "TW": "HP回復量降低",
+      "NA": "Received Healing Down",
+      "KR": "HP회복량 다운"
+    },
+    "downGivegainHp": {
+      "JP": "与HP回復量ダウン",
+      "CN": "提供的HP回复量降低",
+      "TW": "提供的HP回復量降低",
+      "NA": "Healing Dealt Down",
+      "KR": "주는 HP 회복량 다운"
+    },
+    "downGiveNp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downGrantInstantdeath": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downGrantstate": {
+      "JP": "状態付与ダウン",
+      "CN": "状态付与成功率降低",
+      "TW": "狀態賦予成功率降低",
+      "NA": "Casted Effect Chance Down",
+      "KR": "상태 부여 성공률 다운"
+    },
+    "downGrantSubstate": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downGutsHp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downMaxhp": {
+      "JP": "最大HPダウン(%)",
+      "CN": "最大HP降低(%)",
+      "TW": "最大HP降低(%)",
+      "NA": "Max HP Down(%)",
+      "KR": "최대 HP 다운(%)"
+    },
+    "downNpdamage": {
+      "JP": "宝具威力ダウン",
+      "CN": "宝具威力降低",
+      "TW": "寶具威力降低",
+      "NA": "NP Damage Down",
+      "KR": "보구위력 다운"
+    },
+    "downNpturnval": {
+      "JP": "ターンチャージマイナス",
+      "CN": "每回合充能量减少",
+      "TW": "每回合Charge減少",
+      "NA": "Charge Minus per Turn",
+      "KR": null
+    },
+    "downResistanceDelayNpturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downSelfdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downSpecialdefence": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downStarweight": {
+      "JP": "スター集中ダウン",
+      "CN": "暴击星集中度降低",
+      "TW": "爆擊星集中度降低",
+      "NA": "Star Weight Down",
+      "KR": "스타집중도 다운"
+    },
+    "downTolerance": {
+      "JP": "状態耐性ダウン",
+      "CN": "状态耐性降低",
+      "TW": "狀態耐性降低",
+      "NA": "Received Effect Chance Up",
+      "KR": "상태 내성 다운"
+    },
+    "downToleranceSubstate": {
+      "JP": "状態解除耐性ダウン",
+      "CN": "状态解除耐性降低",
+      "TW": "狀態解除耐性降低",
+      "NA": "Buff Removal Resist Down",
+      "KR": "상태 해제 내성 다운"
+    },
+    "entryFunction": {
+      "JP": "登場時発動",
+      "CN": "登场时发动",
+      "TW": "登場時發動",
+      "NA": "Trigger on entry ",
+      "KR": "등장시 발동"
+    },
+    "fieldIndividuality": {
+      "JP": "フィールド特性",
+      "CN": "场地特性",
+      "TW": "場地特性",
+      "NA": "Field Type",
+      "KR": "필드 특성"
+    },
+    "fixCommandcard": {
+      "JP": "コマンドカード固定",
+      "CN": "固定指令卡",
+      "TW": "固定指令卡",
+      "NA": "Freeze Command Cards",
+      "KR": "커맨드 카드 고정"
+    },
+    "guts": {
+      "JP": "ガッツ",
+      "CN": "毅力",
+      "TW": "毅力",
+      "NA": "Guts",
+      "KR": "거츠"
+    },
+    "gutsFunction": {
+      "JP": "ガッツ時発動",
+      "CN": "毅力时发动",
+      "TW": "毅力時發動",
+      "NA": "Trigger on Guts",
+      "KR": "거츠시 발동"
+    },
+    "gutsRatio": {
+      "JP": "ガッツ(%)",
+      "CN": "毅力(%)",
+      "TW": "毅力(%)",
+      "NA": "Guts(%)",
+      "KR": "거츠(%)"
+    },
+    "invincible": {
+      "JP": "無敵",
+      "CN": "无敌",
+      "TW": "無敵",
+      "NA": "Invincible",
+      "KR": "무적"
+    },
+    "invisibleBattleChara": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "multiattack": {
+      "JP": "ヒット数アップ",
+      "CN": "Hit数增加",
+      "TW": "Hit數增加",
+      "NA": "Multiple Hits",
+      "KR": "히트 수 증가"
+    },
+    "none": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "npattackPrevBuff": {
+      "JP": "宝具発動時効果を入れ替える",
+      "CN": "宝具发动时替换效果",
+      "TW": "寶具發動時替換效果",
+      "NA": "Replace effect when NP attack",
+      "KR": null
+    },
+    "overwriteBattleclass": {
+      "JP": "クラス(相性)変更",
+      "CN": "职阶(相性)变更",
+      "TW": "職階(相性)變更",
+      "NA": "Overwrite Class (Relation)",
+      "KR": null
+    },
+    "overwriteClassrelatioAtk": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteClassrelatioDef": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteClassRelation": {
+      "JP": "クラス相性変更",
+      "CN": "职阶相性变更",
+      "TW": "職階相性變更",
+      "NA": "Overwrite Class Relation",
+      "KR": "클래스 상성 변경"
+    },
+    "pierceDefence": {
+      "JP": "防御力無視",
+      "CN": "无视防御",
+      "TW": "無視防禦",
+      "NA": "Ignore DEF",
+      "KR": "방어 무시"
+    },
+    "pierceInvincible": {
+      "JP": "無敵貫通",
+      "CN": "无敌贯通",
+      "TW": "無敵貫通",
+      "NA": "Ignore Invincible",
+      "KR": "무적 관통"
+    },
+    "preventDeathByDamage": {
+      "JP": null,
+      "CN": "受到伤害时防止死亡",
+      "TW": "受到傷害時防止死亡",
+      "NA": "Prevent Death By Damage",
+      "KR": null
+    },
+    "reduceHp": {
+      "JP": "HP減少(毒/呪/やけど)",
+      "CN": "HP减少(毒/诅咒/灼烧)",
+      "TW": "HP減少(毒/詛咒/灼傷)",
+      "NA": "Reduce HP(Poison/Curse/Burn)",
+      "KR": "HP 감소(독/저주/화상)"
+    },
+    "reduceNp": {
+      "JP": "毎ターンNP減少",
+      "CN": "每回合NP减少",
+      "TW": "NP減少",
+      "NA": "NP Loss Per Turn",
+      "KR": "매 턴 NP 감소"
+    },
+    "reflectionFunction": {
+      "JP": "被ダメージ反射",
+      "CN": "伤害反射",
+      "TW": "傷害反射",
+      "NA": "Reflect Damage Received",
+      "KR": "받는 데미지를 돌려주는"
+    },
+    "regainHp": {
+      "JP": "毎ターンHP回復",
+      "CN": "每回合获得HP",
+      "TW": "每回合獲得HP",
+      "NA": "HP Per Turn",
+      "KR": "매턴 HP 획득"
+    },
+    "regainNp": {
+      "JP": "毎ターンNP増加",
+      "CN": "每回合获得NP",
+      "TW": "每回合獲得NP",
+      "NA": "NP Per Turn",
+      "KR": "매턴 NP 획득"
+    },
+    "regainNpUsedNoble": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "regainStar": {
+      "JP": "毎ターンスター獲得",
+      "CN": "每回合获得暴击星",
+      "TW": "每回合獲得爆擊星",
+      "NA": "Stars Per Turn",
+      "KR": "매턴 스타 획득"
+    },
+    "selfturnendFunction": {
+      "JP": "ターン終了時に発動",
+      "CN": "回合结束时发动",
+      "TW": "回合結束時發動",
+      "NA": "Trigger at end of Turn",
+      "KR": "턴 종료시에 발동"
+    },
+    "shortenUserEquipSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillRankUp": {
+      "JP": "スキルランクアップ",
+      "CN": "技能Rank提升",
+      "TW": "技能Rank提升",
+      "NA": "Skill Rank Up",
+      "KR": "스킬랭크 업"
+    },
+    "specialInvincible": {
+      "JP": "対粛正防御",
+      "CN": "对肃正防御",
+      "TW": "对肃正防御",
+      "NA": "Anti-Enforcement DEF",
+      "KR": "대숙정방어"
+    },
+    "subDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "subIndividuality": {
+      "JP": "特性削除",
+      "CN": "特性削除",
+      "TW": "特性削除",
+      "NA": "Delete Trait",
+      "KR": "특성 삭제"
+    },
+    "subMaxhp": {
+      "JP": "最大HPダウン",
+      "CN": "最大HP下降",
+      "TW": "最大HP下降",
+      "NA": "Max HP Down",
+      "KR": "최대 HP 감소"
+    },
+    "subSelfdamage": {
+      "JP": "被ダメージカット",
+      "CN": "伤害减免",
+      "TW": "傷害減免",
+      "NA": "Damage Cut",
+      "KR": "대미지 컷"
+    },
+    "tdTypeChange": {
+      "JP": "宝具タイプチェンジ",
+      "CN": "宝具类型变更",
+      "TW": "寶具類型變更",
+      "NA": "NP Type Change",
+      "KR": "보구 타입 체인지"
+    },
+    "tdTypeChangeArts": {
+      "JP": "宝具タイプチェンジ:Arts",
+      "CN": "宝具类型变更:Arts",
+      "TW": "寶具類型變更:Arts",
+      "NA": "NP Type Change:Arts",
+      "KR": "보구 타입 체인지:Arts"
+    },
+    "tdTypeChangeBuster": {
+      "JP": "宝具タイプチェンジ:Buster",
+      "CN": "宝具类型变更:Buster",
+      "TW": "寶具類型變更:Buster",
+      "NA": "NP Type Change:Buster",
+      "KR": "보구 타입 체인지:Buster"
+    },
+    "tdTypeChangeQuick": {
+      "JP": "宝具タイプチェンジ:Quick",
+      "CN": "宝具类型变更:Quick",
+      "TW": "寶具類型變更:Quick",
+      "NA": "NP Type Change:Quick",
+      "KR": "보구 타입 체인지:Quick"
+    },
+    "upAtk": {
+      "JP": "攻撃力アップ",
+      "CN": "攻击力提升",
+      "TW": "攻擊力提升",
+      "NA": "ATK Up",
+      "KR": "공격력 업"
+    },
+    "upChagetd": {
+      "JP": "オーバーチャージ段階アップ",
+      "CN": "OC提升",
+      "TW": "OC提升",
+      "NA": "Overcharge Up",
+      "KR": "오버차지 업"
+    },
+    "upCommandall": {
+      "JP": "カード性能アップ",
+      "CN": "指令卡性能提升",
+      "TW": "指令卡性能提升",
+      "NA": "Card Up",
+      "KR": "커맨드 카드 성능 업"
+    },
+    "upCommandatk": {
+      "JP": "カード攻撃力アップ",
+      "CN": "指令卡攻击力提升",
+      "TW": "指令卡攻擊力提升",
+      "NA": "Card ATK Up",
+      "KR": "커맨드 카드 공격력 업"
+    },
+    "upCommandnp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upCommandstar": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upCriticaldamage": {
+      "JP": "クリティカル威力アップ",
+      "CN": "暴击威力提升",
+      "TW": "爆擊威力提升",
+      "NA": "Critical Damage Up",
+      "KR": "크리티컬 위력 업"
+    },
+    "upCriticalpoint": {
+      "JP": "スター発生アップ",
+      "CN": "暴击星掉落提升",
+      "TW": "爆擊星掉落提升",
+      "NA": "Star Drop Rate Up",
+      "KR": "스타 발생률 업"
+    },
+    "upCriticalrate": {
+      "JP": "クリティカル発生アップ",
+      "CN": "暴击率提升",
+      "TW": "爆擊率提升",
+      "NA": "Critical Rate Up",
+      "KR": "크리티컬 발생률 업"
+    },
+    "upCriticalRateDamageTaken": {
+      "JP": "被クリティカル発生耐性ダウン",
+      "CN": "被暴击发生耐性下降",
+      "TW": "被爆擊發生耐性下降",
+      "NA": "Critical Resistance Down",
+      "KR": "받는 크리티컬 발생 내성 Down"
+    },
+    "upCriticalStarDamageTaken": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDamage": {
+      "JP": "威力アップ",
+      "CN": "威力提升",
+      "TW": "威力提升",
+      "NA": "SP.DMG Up",
+      "KR": "위력 업"
+    },
+    "upDamagedropnp": {
+      "JP": "被ダメージ時のNP獲得アップ",
+      "CN": "受击时NP获得量提升",
+      "TW": "受擊時NP獲得量提升",
+      "NA": "NP Gain When Damaged Up",
+      "KR": "피격시 NP 업"
+    },
+    "upDamageEventPoint": {
+      "JP": "威力アップ(イベントポイント)",
+      "CN": "威力提升(活动点数)",
+      "TW": "威力提升(活動點數)",
+      "NA": "SP.DMG Up(Event Point)",
+      "KR": "위력 업(활동점수)"
+    },
+    "upDamageIndividuality": {
+      "JP": "威力アップ(対特性)",
+      "CN": "威力提升(对特性)",
+      "TW": "威力提升(對特性)",
+      "NA": "SP.DMG Up (vs. Trait)",
+      "KR": null
+    },
+    "upDamageIndividualityActiveonly": {
+      "JP": "威力アップ(対バフ特性)",
+      "CN": "威力提升(对Buff特性)",
+      "TW": "威力提升(對Buff特性)",
+      "NA": "SP.DMG Up (vs. Buff Trait)",
+      "KR": null
+    },
+    "upDamageSpecial": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDefence": {
+      "JP": "防御力アップ",
+      "CN": "防御力提升",
+      "TW": "防禦力提升",
+      "NA": "DEF Up",
+      "KR": "방어력 업"
+    },
+    "upDefencecommandall": {
+      "JP": "カード耐性アップ",
+      "CN": "指令卡耐性提升",
+      "TW": "指令卡耐性提升",
+      "NA": "Resistance Up",
+      "KR": "커맨드 카드 내성 업"
+    },
+    "upDefencecommanDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDropnp": {
+      "JP": "NP獲得量アップ",
+      "CN": "NP获得量提升",
+      "TW": "NP獲得量提升",
+      "NA": "NP Gain Up",
+      "KR": "NP 획득량 업"
+    },
+    "upFuncgainNp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upFuncHpReduce": {
+      "JP": "DoT UP(%)",
+      "CN": "DoT效果增加(%)",
+      "TW": "DoT效果增加(%)",
+      "NA": "Dot Up(%)",
+      "KR": "식독/주액/연소"
+    },
+    "upGainHp": {
+      "JP": "HP回復量アップ",
+      "CN": "HP回复量提升",
+      "TW": "HP回復量提升",
+      "NA": "Received Healing Up",
+      "KR": "HP회복량 업"
+    },
+    "upGivegainHp": {
+      "JP": "与HP回復量アップ",
+      "CN": "提供的HP回复量提升",
+      "TW": "提供的HP回復量提升",
+      "NA": "Healing Dealt Up",
+      "KR": "주는 HP 회복량 업"
+    },
+    "upGiveNp": {
+      "JP": "与NP獲得アップ",
+      "CN": "提供宝具值量提升",
+      "TW": "提供NP量提升",
+      "NA": "Up Give NP Gain",
+      "KR": "NP 획득 UP"
+    },
+    "upGrantInstantdeath": {
+      "JP": "即死付与アップ",
+      "CN": "即死付与率提升",
+      "TW": "即死賦予率提升",
+      "NA": "Death Chance Up",
+      "KR": "즉사 부여 성공률 업"
+    },
+    "upGrantstate": {
+      "JP": "状態付与アップ",
+      "CN": "状态赋予成功率提升",
+      "TW": "狀態賦予成功率提升",
+      "NA": "Casted Effect Chance Up",
+      "KR": "상태 부여 성공률 업"
+    },
+    "upGrantSubstate": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upGutsHp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upHate": {
+      "JP": "ターゲット集中",
+      "CN": "目标集中",
+      "TW": "目標集中",
+      "NA": "Taunt",
+      "KR": "목표 집중"
+    },
+    "upMaxhp": {
+      "JP": "最大HPアップ(%)",
+      "CN": "最大HP提升(%)",
+      "TW": "最大HP提升(%)",
+      "NA": "Max HP Up(%)",
+      "KR": "최대 HP 업(%)"
+    },
+    "upNonresistInstantdeath": {
+      "JP": "即死耐性ダウン",
+      "CN": "即死耐性降低",
+      "TW": "即死耐性降低",
+      "NA": "Death Resist Down",
+      "KR": "즉사 내성 다운"
+    },
+    "upNpdamage": {
+      "JP": "宝具威力アップ",
+      "CN": "宝具威力提升",
+      "TW": "寶具威力提升",
+      "NA": "NP Damage Up",
+      "KR": "보구 위력 업"
+    },
+    "upNpturnval": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upResistanceDelayNpturn": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upResistInstantdeath": {
+      "JP": "即死耐性アップ",
+      "CN": "即死耐性提升",
+      "TW": "即死耐性提升",
+      "NA": "Death Resist Up",
+      "KR": "즉사 내성 업"
+    },
+    "upSelfdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upSpecialdefence": {
+      "JP": "特殊耐性アップ",
+      "CN": "特殊耐性提升",
+      "TW": "特殊耐性提升",
+      "NA": "Special Resist Up",
+      "KR": "특수 내성 UP"
+    },
+    "upStarweight": {
+      "JP": "スター集中度アップ",
+      "CN": "暴击星集中度提升",
+      "TW": "爆擊星集中度提升",
+      "NA": "Star Weight Up",
+      "KR": "스타집중도 업"
+    },
+    "upTolerance": {
+      "JP": "状態耐性アップ",
+      "CN": "状态耐性提升",
+      "TW": "狀態耐性提升",
+      "NA": "Received Effect Chance Down",
+      "KR": "상태 내성 업"
+    },
+    "upToleranceSubstate": {
+      "JP": "状態解除耐性アップ",
+      "CN": "状态解除耐性提升",
+      "TW": "狀態解除耐性提升",
+      "NA": "Buff Removal Resist Up",
+      "KR": "상태 해제 내성 업"
+    },
+    "wavestartFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "notTargetSkill": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "toFieldChangeField": {
+      "JP": "[フィールド]フィールド変化",
+      "CN": "[场地]场地变化",
+      "TW": "[場地]場地變化",
+      "NA": "[Field]Change Field",
+      "KR": "[필드]필드 변화"
+    },
+    "toFieldAvoidBuff": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "hpReduceToRegain": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "selfturnstartFunction": {
+      "JP": "ターン開始時に発動",
+      "CN": "回合开始时发动",
+      "TW": "回合開始時發動",
+      "NA": "Trigger at start of Turn",
+      "KR": "턴 종료시에 발동"
+    },
+    "overwriteDeadType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upActionCount": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downActionCount": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "shiftGuts": {
+      "JP": "Break時ガッツ",
+      "CN": "Break时毅力",
+      "TW": "Break時毅力",
+      "NA": "Guts on Break",
+      "KR": null
+    },
+    "shiftGutsRatio": {
+      "JP": "Break時ガッツ(%)",
+      "CN": "Break时毅力(%)",
+      "TW": "Break時毅力(%)",
+      "NA": "Guts on Break(%)",
+      "KR": null
+    },
+    "masterSkillValueUp": {
+      "JP": "マスタースキル効果アップ",
+      "CN": "御主技能效果提升",
+      "TW": "御主技能效果提升",
+      "NA": "Master Skill Effectiveness Up",
+      "KR": "마스터 스킬 효과 UP"
+    },
+    "buffConvert": {
+      "JP": "バフ変化",
+      "CN": "Buff变化",
+      "TW": "Buff變化",
+      "NA": "Buff Convert",
+      "KR": null
+    },
+    "subFieldIndividuality": {
+      "JP": "フィールド特性打ち消し",
+      "CN": "打消场地特性",
+      "TW": "打消場地特性",
+      "NA": "Field Effect Cancellation",
+      "KR": null
+    },
+    "toFieldSubIndividualityField": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "commandattackAfterFunction": {
+      "JP": "通常攻撃後発動",
+      "CN": "通常攻击后发动",
+      "TW": "通常攻擊後發動",
+      "NA": "Trigger after normal cards",
+      "KR": null
+    },
+    "upDefenceCommanddamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefenceCommanddamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "attackAfterFunction": {
+      "JP": "攻撃後発動",
+      "CN": "攻击后发动",
+      "TW": "攻擊後發動",
+      "NA": "Trigger after attacks",
+      "KR": null
+    },
+    "commandcodeattackBeforeFunction": {
+      "JP": "コマンドコード攻撃前発動",
+      "CN": "指令纹章攻击前发动",
+      "TW": "指令紋章攻擊前發動",
+      "NA": "Trigger before Command Code Attack",
+      "KR": null
+    },
+    "commandcodeattackBeforeFunctionMainOnly": {
+      "JP": "コマンドコード攻撃前発動(Main)",
+      "CN": "指令纹章攻击前发动(Main)",
+      "TW": "指令紋章攻擊前發動(Main)",
+      "NA": "Trigger before Command Code Attack (Main)",
+      "KR": null
+    },
+    "commandcodeattackAfterFunctionMainOnly": {
+      "JP": "コマンドコード攻撃後発動(Main)",
+      "CN": "指令纹章攻击後发动(Main)",
+      "TW": "指令紋章攻擊後發動(Main)",
+      "NA": "Trigger after Command Code Attack (Main)",
+      "KR": null
+    },
+    "commandattackBeforeFunctionMainOnly": {
+      "JP": "通常攻撃前発動(Main)",
+      "CN": "通常攻击前发动(Main)",
+      "TW": "通常攻擊前發動(Main)",
+      "NA": "Trigger before normal cards (Main)",
+      "KR": null
+    },
+    "commandattackAfterFunctionMainOnly": {
+      "JP": "通常攻撃後発動(Main)",
+      "CN": "通常攻击后发动(Main)",
+      "TW": "通常攻擊後發動(Main)",
+      "NA": "Trigger after normal cards (Main)",
+      "KR": null
+    },
+    "attackBeforeFunctionMainOnly": {
+      "JP": "攻撃前発動(Main)",
+      "CN": "攻击前发动(Main)",
+      "TW": "攻擊前發動(Main)",
+      "NA": "Trigger before Attack (Main)",
+      "KR": null
+    },
+    "attackAfterFunctionMainOnly": {
+      "JP": "攻撃後発動(Main)",
+      "CN": "攻击后发动(Main)",
+      "TW": "攻擊後發動(Main)",
+      "NA": "Trigger after attacks (Main)",
+      "KR": null
+    },
+    "warBoardNotAttacked": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "warBoardIgnoreDefeatpoint": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "skillAfterFunction": {
+      "JP": null,
+      "CN": "技能发动后发动",
+      "TW": "技能發動後發動",
+      "NA": "Trigger after skill activation",
+      "KR": null
+    },
+    "treasureDeviceAfterFunction": {
+      "JP": null,
+      "CN": "宝具发动后发动",
+      "TW": "寶具發動後發動",
+      "NA": "Trigger after NP activation",
+      "KR": null
+    },
+    "skillAfterFunctionMainOnly": {
+      "JP": null,
+      "CN": "技能发动后发动(Main)",
+      "TW": "技能發動後發動(Main)",
+      "NA": "Trigger after skill activation (Main)",
+      "KR": null
+    },
+    "treasureDeviceAfterFunctionMainOnly": {
+      "JP": null,
+      "CN": "宝具发动后发动(Main)",
+      "TW": "寶具發動後發動(Main)",
+      "NA": "Trigger after NP activation (Main)",
+      "KR": null
+    },
+    "preventInvisibleWhenInstantDeath": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteSubattribute": {
+      "JP": "副属性変更",
+      "CN": "副属性变更",
+      "TW": "副屬性變更",
+      "NA": "Overwrite Sub Attribute",
+      "KR": null
+    },
+    "avoidanceAttackDeathDamage": {
+      "JP": "致死ダメージ回避",
+      "CN": "致死伤害回避",
+      "TW": "致死傷害迴避",
+      "NA": "Lethal Damage Evade",
+      "KR": null
+    },
+    "avoidFunctionExecuteSelf": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "pierceSubdamage": {
+      "JP": "ダメージカット貫通",
+      "CN": "被伤害减免贯通",
+      "TW": "被傷害減免貫通",
+      "NA": "Ignore Damage Cut",
+      "KR": null
+    },
+    "continueFunction": {
+      "JP": "復活後発動",
+      "CN": "复活后发动",
+      "TW": "復活後發動",
+      "NA": "Trigger after Revive",
+      "KR": null
+    },
+    "addSpecialdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "subSpecialdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "addFuncHpReduce": {
+      "JP": "DoT Down",
+      "CN": "DoT效果增加",
+      "TW": "DoT效果增加",
+      "NA": "Dot Down",
+      "KR": null
+    },
+    "subFuncHpReduce": {
+      "JP": "DoT Down",
+      "CN": "DoT效果降低",
+      "TW": "DoT效果降低",
+      "NA": "Dot Down",
+      "KR": null
+    },
+    "changeBgm": {
+      "JP": null,
+      "CN": "变更BGM",
+      "TW": "變更BGM",
+      "NA": "Change BGM",
+      "KR": null
+    },
+    "confirmCommandFunction": {
+      "JP": null,
+      "CN": "指令卡确认前发动",
+      "TW": "指令卡確認前發動",
+      "NA": "Trigger before Confirm Commands",
+      "KR": null
+    },
+    "skillBeforeFunction": {
+      "JP": null,
+      "CN": "技能发动前发动",
+      "TW": "技能發動前發動",
+      "NA": "Trigger after skill activation",
+      "KR": null
+    },
+    "skillTargetedBeforeFunction": {
+      "JP": null,
+      "CN": "被技能选中前发动",
+      "TW": "被技能選中前發動",
+      "NA": "Trigger before skill targeted",
+      "KR": null
+    },
+    "fieldIndividualityChangedFunction": {
+      "JP": null,
+      "CN": "场地特性变化时发动",
+      "TW": "場地特性變化時發動",
+      "NA": "Trigger when field trait changed",
+      "KR": null
+    },
+    "treasureDeviceBeforeFunction": {
+      "JP": null,
+      "CN": "宝具发动前发动",
+      "TW": "寶具發動前發動",
+      "NA": "Trigger after NP activation",
+      "KR": null
+    },
+    "shortenSkillAfterUseSkill": {
+      "JP": null,
+      "CN": "使用技能后再充能",
+      "TW": "使用技能後再充能",
+      "NA": "Recharge after used skill",
+      "KR": null
+    },
+    "stepInAfterFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "pierceSpecialInvincible": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "functionedFunction": {
+      "JP": null,
+      "CN": "被施加特定效果时发动",
+      "TW": null,
+      "NA": "Trigger after applied specific effect",
+      "KR": null
+    },
+    "donotActCommandcard": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "invalid": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upNpdamageIndividualitySum": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "comboStartFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "comboEndFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteSvtCardType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDefenceDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefenceDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDefenceCriticaldamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefenceCriticaldamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDefenceNpdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefenceNpdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDefenceCommandnp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefenceCommandnp": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upDefenceCommandstar": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downCommandstar": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downDefenceCommandstar": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "wavestartAnimationBeforeFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "subFixedSelfdamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteFixedDefenceDamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "extendActionCount": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "gutsBeforeFunction": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "overwriteBuffUseRate": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upBuffUseRate": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "downBuffUseRate": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "upHateToGrantedOpponent": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  },
+  "svt_voice_type": {
+    "home": {
+      "JP": "マイホーム",
+      "CN": "个人空间",
+      "TW": "個人空間",
+      "NA": "My Room",
+      "KR": null
+    },
+    "groeth": {
+      "JP": "強化",
+      "CN": "强化",
+      "TW": "強化",
+      "NA": "Growth",
+      "KR": null
+    },
+    "firstGet": {
+      "JP": "召喚",
+      "CN": "召唤",
+      "TW": "召喚",
+      "NA": "First Get",
+      "KR": null
+    },
+    "eventJoin": {
+      "JP": "仮加入",
+      "CN": "临时加入",
+      "TW": "臨時加入",
+      "NA": "Event Join",
+      "KR": null
+    },
+    "eventReward": {
+      "JP": "イベント",
+      "CN": "活动",
+      "TW": "活動",
+      "NA": "Event Reward",
+      "KR": null
+    },
+    "battle": {
+      "JP": "バトル",
+      "CN": "战斗",
+      "TW": "戰鬥",
+      "NA": "Battle",
+      "KR": null
+    },
+    "treasureDevice": {
+      "JP": "宝具",
+      "CN": "宝具",
+      "TW": "寶具",
+      "NA": "Treasure Device",
+      "KR": null
+    },
+    "masterMission": {
+      "JP": "マスターミッション",
+      "CN": "御主任务",
+      "TW": "御主任務",
+      "NA": "Master Mission",
+      "KR": null
+    },
+    "eventShop": {
+      "JP": "イベントショップ",
+      "CN": "活动商店",
+      "TW": "活動商店",
+      "NA": "Event Shop",
+      "KR": null
+    },
+    "homeCostume": {
+      "JP": "マイホーム(霊衣)",
+      "CN": "个人空间(灵衣)",
+      "TW": "個人空間(靈衣)",
+      "NA": "My Room (Costume)",
+      "KR": null
+    },
+    "boxGachaTalk": {
+      "JP": "ボックスガチャ抽選",
+      "CN": "奖池对话",
+      "TW": "獎池對話",
+      "NA": "Box Gacha Talk",
+      "KR": null
+    },
+    "battleEntry": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Battle Entry",
+      "KR": null
+    },
+    "battleWin": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Battle Win",
+      "KR": null
+    },
+    "eventTowerReward": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Event Tower Reward",
+      "KR": null
+    },
+    "guide": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Guide",
+      "KR": null
+    },
+    "eventDailyPoint": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Event Daily Point",
+      "KR": null
+    },
+    "tddamage": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "TD Damage",
+      "KR": null
+    },
+    "treasureBox": {
+      "JP": "宝箱",
+      "CN": "宝箱",
+      "TW": "寶箱",
+      "NA": "Treasure Box",
+      "KR": null
+    },
+    "warBoard": {
+      "JP": "聖杯戦線",
+      "CN": "圣杯战线",
+      "TW": "聖杯戰線",
+      "NA": "Grail Front",
+      "KR": null
+    },
+    "eventDigging": {
+      "JP": "ディギング",
+      "CN": "发掘",
+      "TW": "發掘",
+      "NA": "Event Digging",
+      "KR": null
+    },
+    "sum": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": "Sum",
+      "KR": null
+    },
+    "eventExpedition": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventRecipe": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventFortification": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "eventTrade": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    }
+  }
+}
