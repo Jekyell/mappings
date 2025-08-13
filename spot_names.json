@@ -10596,5 +10596,54 @@
     "TW": "X Alter的家",
     "NA": "X Alter's House",
     "KR": "X 얼터의 집"
+  },
+  "グレート・大統領・ホテル": {
+    "JP": null,
+    "CN": "伟大总统酒店",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "パッションリップ城": {
+    "JP": null,
+    "CN": "热情之唇城",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファンタジータウン": {
+    "JP": null,
+    "CN": "幻想都市",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "リゾートタウン": {
+    "JP": null,
+    "CN": "度假胜地",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "名所の丘": {
+    "JP": null,
+    "CN": "名胜之丘",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第二エリア入口": {
+    "JP": null,
+    "CN": "第二区域入口",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "街外れのジャングル": {
+    "JP": null,
+    "CN": "郊外的丛林",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
