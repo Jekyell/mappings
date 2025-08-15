@@ -19118,7 +19118,7 @@
   },
   "トラッシュ＆クラッシュ B": {
     "JP": null,
-    "CN": "废弃&崩溃 B",
+    "CN": "废弃＆崩溃 B",
     "TW": null,
     "NA": null,
     "KR": null
@@ -19196,6 +19196,62 @@
   "プリンセス・ブレイブ EX": {
     "JP": null,
     "CN": "公主的勇气 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ひとり遊び B": {
+    "JP": null,
+    "CN": "独自玩耍 B",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "イリヤズム EX": {
+    "JP": null,
+    "CN": "万物有伊莉雅 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "因習村の巫女 A+": {
+    "JP": null,
+    "CN": "因习村的巫女 A+",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "月下逍遙／日輪午睡 A": {
+    "JP": null,
+    "CN": "月下逍遥/日轮午睡 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "望月に踊る A": {
+    "JP": null,
+    "CN": "望月下起舞 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "無限の魔力供給 A": {
+    "JP": null,
+    "CN": "无限的魔力供给 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "陣地作成（因習） A+": {
+    "JP": null,
+    "CN": "阵地建造（因习） A+",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "領域外の生命（偽） EX": {
+    "JP": null,
+    "CN": "领域外生命（伪） EX",
     "TW": null,
     "NA": null,
     "KR": null

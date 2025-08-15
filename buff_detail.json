@@ -5864,5 +5864,61 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "〔イリヤ〕特性を付与する": {
+    "JP": null,
+    "CN": "〔伊莉雅〕赋予特性",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔日輪〕状態の時にスター発生率をアップ": {
+    "JP": null,
+    "CN": "〔日轮〕状态下提升暴击星发生率",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にArtsカードの性能をアップ": {
+    "JP": null,
+    "CN": "【月下】状态下Arts指令卡性能提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にBusterカードの性能をアップ": {
+    "JP": null,
+    "CN": "〔月下〕状态下提升Buster指令卡的性能",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にNP獲得量をアップ": {
+    "JP": null,
+    "CN": "〔月下〕状态下NP获取量提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にQuickカードの性能をアップ": {
+    "JP": null,
+    "CN": "〔月下〕状态下Quick卡性能提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具を全体攻撃宝具に変更する": {
+    "JP": null,
+    "CN": "将宝具变更为全体攻击宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具を単体攻撃宝具に変更する": {
+    "JP": null,
+    "CN": "将宝具改为单体攻击宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }

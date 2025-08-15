@@ -2616,5 +2616,40 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "アーツアップ〔月下〕": {
+    "JP": null,
+    "CN": "Arts提升〔月下〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クイックアップ〔月下〕": {
+    "JP": null,
+    "CN": "Quick提升〔月下〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バスターアップ〔月下〕": {
+    "JP": null,
+    "CN": "Buster提升〔月下〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "日輪解除": {
+    "JP": null,
+    "CN": "日轮解除",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "月下解除": {
+    "JP": null,
+    "CN": "月下解除",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
