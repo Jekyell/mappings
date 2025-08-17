@@ -4975,5 +4975,19 @@
     "TW": "特性賦予〔伊莉雅〕",
     "NA": "Apply Trait (Illya)",
     "KR": "특성 부여[이리야]"
+  },
+  "威力アップ〔精神異常〕": {
+    "JP": null,
+    "CN": "威力提升〔精神异常〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "被スター発生耐性ダウン": {
+    "JP": null,
+    "CN": "暴击星出现率下降",
+    "TW": null,
+    "NA": "Decrease C. Star Drop Resistance",
+    "KR": null
   }
 }
