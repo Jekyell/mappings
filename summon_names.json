@@ -4079,5 +4079,11 @@
     "TW": null,
     "NA": "BB Presents☆Celeb Summer Experience! Mysterious Executor C.I.E.L. Pickup Summon",
     "KR": null
+  },
+  "ストーリー召喚": {
+    "CN": "剧情召唤",
+    "TW": "劇情召喚",
+    "NA": "Story Summon",
+    "KR": "스토리 소환"
   }
 }
