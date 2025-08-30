@@ -39,11 +39,10 @@ jobs:
           
           # 使用 for 循环遍历列表
           for filename in $files_to_process; do
-            # 检查文件是否存在，以防万一
             if [ -f "$filename" ]; then
               echo "--- Processing $filename ---"
-              # 将文件名作为参数传递给 Python 脚本
-              python - "$filename" <<EOF
+              # *** 已修正：使用 <<-EOF 来移除前导空格 ***
+              python - "$filename" <<-EOF
               import json
               import os
               import sys
@@ -52,7 +51,6 @@ jobs:
               input_file = sys.argv[1]
               
               output_dir = 'F_Replace'
-              # 根据输入文件名动态生成输出文件名
               output_file = os.path.join(output_dir, os.path.basename(input_file))
 
               os.makedirs(output_dir, exist_ok=True)
@@ -64,7 +62,6 @@ jobs:
                   data = json.load(f)
               except Exception as e:
                 print(f"Error reading or parsing {input_file}: {e}")
-                # 使用 exit(0) 表示即使一个文件处理失败，也不要让整个工作流失败
                 exit(0)
 
               new_data = {}
@@ -83,7 +80,7 @@ jobs:
                 print(f"Successfully created new file at {output_file}")
               else:
                 print(f"No entries with '▲' found in {input_file}.")
-          EOF
+              EOF
             else:
               echo "--- Skipping $filename (not found) ---"
             fi
@@ -93,9 +90,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # 提交信息更通用
           commit_message: "[Automated] Update processed JSON files in F_Replace"
-          # 使用通配符来匹配 F_Replace 目录下的所有 json 文件
           file_pattern: 'F_Replace/*.json'
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
