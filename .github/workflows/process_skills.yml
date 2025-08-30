@@ -21,21 +21,20 @@ jobs:
     # 任务执行的步骤
     steps:
       # 第一步：检出仓库代码
-      # 这是必需的步骤，以便工作流可以访问你的 skill_detail.json 文件
       - name: Check out repository
         uses: actions/checkout@v4
 
       # 第二步：设置 Python 环境
-      # 我们将使用 Python 来处理 JSON，因为它非常适合这类任务
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # 使用一个稳定的 Python 版本
+          python-version: '3.10'
 
-      # 第三步：执行核心处理逻辑
-      # 这个步骤会运行一个 Python 脚本来读取、筛选和生成新的 JSON 文件
+      # 第三步：执行核心处理逻辑 (*** 已修正 ***)
       - name: Process skill_detail.json and create new file
+        # 使用 python -c "..." 或 Here Document 来确保代码由 Python 解释器执行
         run: |
+          python - <<EOF
           import json
           import os
 
@@ -78,23 +77,16 @@ jobs:
 
           # 将新的字典写入到目标文件中
           with open(output_file, 'w', encoding='utf-8') as f:
-            # ensure_ascii=False 确保中文字符被正确写入，而不是作为 ASCII 转义序列
-            # indent=2 使输出的 JSON 文件格式化，易于阅读
             json.dump(new_skill_data, f, ensure_ascii=False, indent=2)
 
           print(f"Successfully created new skill_detail.json at {output_file}")
+          EOF
 
       # 第四步：自动提交和推送生成的文件
-      # 这个步骤会将新生成的 F_Replace/skill_detail.json 文件提交回你的仓库
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # 提交信息
           commit_message: "[Automated] Update F_Replace/skill_detail.json"
-          
-          # 指定要提交的文件模式
           file_pattern: 'F_Replace/skill_detail.json'
-          
-          # 提交者信息
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
