@@ -1,3 +1,4 @@
+# 工作流名称
 name: Process Detail JSONs
 
 # 触发条件
@@ -30,17 +31,15 @@ jobs:
           python-version: '3.10'
 
       # 3. 将 Python 脚本写入一个临时文件
-      # 这种方法可以完全避免 YAML 和 Shell 的缩进问题
       - name: Create Python processing script
-        id: create_script
         run: |
           cat > process_json.py <<-EOF
           import json
           import os
           import sys
 
-          # 从命令行参数获取输入文件名
-          input_file = sys.argv
+          # *** 已修正：从 sys.argv 列表中获取第一个参数 (索引为 1) ***
+          input_file = sys.argv[1]
           
           output_dir = 'F_Replace'
           output_file = os.path.join(output_dir, os.path.basename(input_file))
@@ -54,7 +53,7 @@ jobs:
               data = json.load(f)
           except Exception as e:
             print(f"Error reading or parsing {input_file}: {e}")
-            sys.exit(0) # 退出但不报错，不中断整个工作流
+            sys.exit(0)
 
           new_data = {}
           processed_count = 0
