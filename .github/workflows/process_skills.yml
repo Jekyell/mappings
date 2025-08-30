@@ -1,7 +1,7 @@
-# 工作流名称，会显示在 GitHub 的 "Actions" 页面
-name: Process Skill Detail JSON
+# 工作流名称
+name: Process Detail JSONs
 
-# 触发条件
+# 触发条件：当 skill_detail.json 或 td_detail.json 发生变化时触发
 on:
   push:
     branches:
@@ -9,72 +9,93 @@ on:
       - master
     paths:
       - 'skill_detail.json'
+      - 'td_detail.json'
 
-# 工作流中要执行的任务
+# 任务
 jobs:
   process-json:
     runs-on: ubuntu-latest
     
-    # *** 这是新增的、解决问题的关键部分 ***
-    # 明确为此任务授予写入仓库内容的权限
+    # 授予写入权限，以便能推送回仓库
     permissions:
       contents: write
 
-    # 任务执行的步骤
     steps:
-      # 第一步：检出仓库代码
+      # 1. 检出仓库代码
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # 第二步：设置 Python 环境
+      # 2. 设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      # 第三步：执行核心处理逻辑
-      - name: Process skill_detail.json and create new file
+      # 3. 循环处理所有指定的 JSON 文件
+      - name: Process JSON files
         run: |
-          python - <<EOF
-          import json
-          import os
+          # 定义一个要处理的文件列表
+          files_to_process="skill_detail.json td_detail.json"
+          
+          # 使用 for 循环遍历列表
+          for filename in $files_to_process; do
+            # 检查文件是否存在，以防万一
+            if [ -f "$filename" ]; then
+              echo "--- Processing $filename ---"
+              # 将文件名作为参数传递给 Python 脚本
+              python - "$filename" <<EOF
+              import json
+              import os
+              import sys
 
-          input_file = 'skill_detail.json'
-          output_dir = 'F_Replace'
-          output_file = os.path.join(output_dir, 'skill_detail.json')
+              # 从命令行参数获取输入文件名
+              input_file = sys.argv[1]
+              
+              output_dir = 'F_Replace'
+              # 根据输入文件名动态生成输出文件名
+              output_file = os.path.join(output_dir, os.path.basename(input_file))
 
-          os.makedirs(output_dir, exist_ok=True)
-          print(f"Reading from {input_file}...")
+              os.makedirs(output_dir, exist_ok=True)
 
-          try:
-            with open(input_file, 'r', encoding='utf-8') as f:
-              data = json.load(f)
-          except Exception as e:
-            print(f"Error reading or parsing {input_file}: {e}")
-            exit(1)
+              print(f"Reading from {input_file}...")
 
-          new_skill_data = {}
-          processed_count = 0
+              try:
+                with open(input_file, 'r', encoding='utf-8') as f:
+                  data = json.load(f)
+              except Exception as e:
+                print(f"Error reading or parsing {input_file}: {e}")
+                # 使用 exit(0) 表示即使一个文件处理失败，也不要让整个工作流失败
+                exit(0)
 
-          for key, value in data.items():
-            if '▲' in key:
-              if isinstance(value, dict) and 'CN' in value and value['CN']:
-                new_skill_data[key] = value['CN']
-                processed_count += 1
+              new_data = {}
+              processed_count = 0
 
-          print(f"Found and processed {processed_count} entries with '▲'.")
-
-          with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(new_skill_data, f, ensure_ascii=False, indent=2)
-
-          print(f"Successfully created new skill_detail.json at {output_file}")
+              for key, value in data.items():
+                if '▲' in key:
+                  if isinstance(value, dict) and 'CN' in value and value['CN']:
+                    new_data[key] = value['CN']
+                    processed_count += 1
+              
+              if processed_count > 0:
+                print(f"Found and processed {processed_count} entries with '▲'.")
+                with open(output_file, 'w', encoding='utf-8') as f:
+                  json.dump(new_data, f, ensure_ascii=False, indent=2)
+                print(f"Successfully created new file at {output_file}")
+              else:
+                print(f"No entries with '▲' found in {input_file}.")
           EOF
+            else:
+              echo "--- Skipping $filename (not found) ---"
+            fi
+          done
 
-      # 第四步：自动提交和推送生成的文件
+      # 4. 一次性提交所有生成的文件
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "[Automated] Update F_Replace/skill_detail.json"
-          file_pattern: 'F_Replace/skill_detail.json'
+          # 提交信息更通用
+          commit_message: "[Automated] Update processed JSON files in F_Replace"
+          # 使用通配符来匹配 F_Replace 目录下的所有 json 文件
+          file_pattern: 'F_Replace/*.json'
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
