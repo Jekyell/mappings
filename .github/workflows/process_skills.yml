@@ -1,8 +1,7 @@
 # 工作流名称，会显示在 GitHub 的 "Actions" 页面
 name: Process Skill Detail JSON
 
-# 触发条件：当对主分支（main或master）的推送中
-# 包含了对根目录下 skill_detail.json 文件的更改时，此工作流将被触发
+# 触发条件
 on:
   push:
     branches:
@@ -13,10 +12,13 @@ on:
 
 # 工作流中要执行的任务
 jobs:
-  # 定义一个名为 "process-json" 的任务
   process-json:
-    # 使用最新的 Ubuntu 虚拟机来运行此任务
     runs-on: ubuntu-latest
+    
+    # *** 这是新增的、解决问题的关键部分 ***
+    # 明确为此任务授予写入仓库内容的权限
+    permissions:
+      contents: write
 
     # 任务执行的步骤
     steps:
@@ -30,52 +32,38 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 第三步：执行核心处理逻辑 (*** 已修正 ***)
+      # 第三步：执行核心处理逻辑
       - name: Process skill_detail.json and create new file
-        # 使用 python -c "..." 或 Here Document 来确保代码由 Python 解释器执行
         run: |
           python - <<EOF
           import json
           import os
 
-          # 定义文件路径
           input_file = 'skill_detail.json'
           output_dir = 'F_Replace'
           output_file = os.path.join(output_dir, 'skill_detail.json')
 
-          # 创建输出目录（如果它不存在）
           os.makedirs(output_dir, exist_ok=True)
-
           print(f"Reading from {input_file}...")
 
-          # 读取原始 JSON 文件
           try:
             with open(input_file, 'r', encoding='utf-8') as f:
               data = json.load(f)
-          except FileNotFoundError:
-            print(f"Error: {input_file} not found. Exiting.")
-            exit(1)
-          except json.JSONDecodeError:
-            print(f"Error: Failed to decode JSON from {input_file}. Exiting.")
+          except Exception as e:
+            print(f"Error reading or parsing {input_file}: {e}")
             exit(1)
 
-          # 创建一个新的字典来存储处理后的数据
           new_skill_data = {}
           processed_count = 0
 
-          # 遍历原始数据
           for key, value in data.items():
-            # 筛选条件：只处理 key 中包含 "▲" 的条目
             if '▲' in key:
-              # 提取 "CN" 字段的值
-              # 确保 "CN" 存在且其值不为空
               if isinstance(value, dict) and 'CN' in value and value['CN']:
                 new_skill_data[key] = value['CN']
                 processed_count += 1
 
           print(f"Found and processed {processed_count} entries with '▲'.")
 
-          # 将新的字典写入到目标文件中
           with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(new_skill_data, f, ensure_ascii=False, indent=2)
 
