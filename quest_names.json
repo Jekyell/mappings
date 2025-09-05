@@ -19671,7 +19671,7 @@
   },
   "ドゥームズ・デイ": {
     "JP": null,
-    "CN": "最终审判日",
+    "CN": "审判之日",
     "TW": null,
     "NA": "Doom's Day",
     "KR": null
@@ -21540,7 +21540,7 @@
   },
   "ブルー・オーシャン/ホワイト・バス": {
     "JP": null,
-    "CN": "蔚蓝大海/白鲈鱼",
+    "CN": "蓝海/白鲈",
     "TW": null,
     "NA": "Blue Ocean/White Bath",
     "KR": null
@@ -30962,7 +30962,7 @@
   },
   "幕間２": {
     "JP": null,
-    "CN": "幕间2",
+    "CN": "幕间２",
     "TW": null,
     "NA": "Interlude 2",
     "KR": null
@@ -38333,7 +38333,7 @@
   },
   "注文が大きいケーキ店": {
     "JP": null,
-    "CN": "订单很不得了的蛋糕店",
+    "CN": "要求巨大的蛋糕店",
     "TW": null,
     "NA": "The Cake Shop With Huge Orders",
     "KR": null
@@ -56163,6 +56163,48 @@
   "サマーメモリアクエスト2024": {
     "JP": null,
     "CN": "夏日回忆任务2024",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ライダーお試しクエスト": {
+    "JP": null,
+    "CN": "骑阶试用关卡",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プロローグ 神罰の雨": {
+    "JP": null,
+    "CN": "序章 神罚之雨",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "強化クエスト キルケー 2": {
+    "JP": null,
+    "CN": "强化关卡 喀耳刻 2",
+    "TW": "強化任務 喀耳刻 2",
+    "NA": "Rank Up Quest: Circe 2",
+    "KR": "강화 퀘스트 키르케 2"
+  },
+  "強化クエスト ネモ": {
+    "JP": null,
+    "CN": "强化关卡 尼莫",
+    "TW": "強化任務 尼莫",
+    "NA": "Rank Up Quest: Nemo",
+    "KR": "강화 퀘스트 네모"
+  },
+  "第1節 ほろびの舟": {
+    "JP": null,
+    "CN": "第1节 毁灭之舟",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第2節 救世美少年！！": {
+    "JP": null,
+    "CN": "第2节 救世美少年！！",
     "TW": null,
     "NA": null,
     "KR": null
