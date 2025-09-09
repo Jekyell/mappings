@@ -1,0 +1,1378 @@
+{
+  "94000009": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8109
+    ]
+  },
+  "94000015": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8225
+    ]
+  },
+  "94000037": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8123
+    ]
+  },
+  "94000045": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9004,
+      9013
+    ]
+  },
+  "94000046": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9004,
+      9013
+    ]
+  },
+  "94000047": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9007,
+      9052
+    ]
+  },
+  "94000048": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9007,
+      9052
+    ]
+  },
+  "94000050": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9009
+    ]
+  },
+  "94000051": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9009
+    ]
+  },
+  "94000052": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      108
+    ]
+  },
+  "94000054": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8098
+    ]
+  },
+  "94000055": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8098
+    ]
+  },
+  "94000057": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8113,
+      8240
+    ]
+  },
+  "94000060": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9010,
+      9053,
+      9088
+    ]
+  },
+  "94000064": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9018,
+      9035
+    ]
+  },
+  "94000065": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9021,
+      9040
+    ]
+  },
+  "94000066": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8161
+    ]
+  },
+  "94000067": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9022
+    ]
+  },
+  "94000068": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9022
+    ]
+  },
+  "94000069": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9029,
+      9049
+    ]
+  },
+  "94000070": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8188,
+      8308
+    ]
+  },
+  "94000071": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8200
+    ]
+  },
+  "94000072": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8208
+    ]
+  },
+  "94000074": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9032
+    ]
+  },
+  "94000075": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9033
+    ]
+  },
+  "94000077": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8290
+    ]
+  },
+  "94000078": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9050
+    ]
+  },
+  "94000079": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9050
+    ]
+  },
+  "94000080": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8313
+    ]
+  },
+  "94000081": {
+    "JP": "第二部のメインクエスト",
+    "CN": "第二部主线关卡",
+    "TW": "第二部主線任務",
+    "NA": "Part 2 Main Quest",
+    "KR": null,
+    "warIds": [
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      310,
+      311,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
+  },
+  "94000082": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9051
+    ]
+  },
+  "94000084": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8335
+    ]
+  },
+  "94000085": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8346
+    ]
+  },
+  "94000086": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9056
+    ]
+  },
+  "94000087": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9057
+    ]
+  },
+  "94000088": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9058
+    ]
+  },
+  "94000089": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9068
+    ]
+  },
+  "94000090": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9069
+    ]
+  },
+  "94000091": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9071
+    ]
+  },
+  "94000092": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8350
+    ]
+  },
+  "94000093": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9072
+    ]
+  },
+  "94000094": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9072
+    ]
+  },
+  "94000095": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9073
+    ]
+  },
+  "94000096": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8351
+    ]
+  },
+  "94000097": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9074
+    ]
+  },
+  "94000098": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8352
+    ]
+  },
+  "94000099": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8353
+    ]
+  },
+  "94000100": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8355
+    ]
+  },
+  "94000101": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8354
+    ]
+  },
+  "94000102": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9075
+    ]
+  },
+  "94000103": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9076
+    ]
+  },
+  "94000104": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9077
+    ]
+  },
+  "94000105": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9080,
+      9136
+    ]
+  },
+  "94000106": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9087
+    ]
+  },
+  "94000107": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9091
+    ]
+  },
+  "94000108": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9099
+    ]
+  },
+  "94000109": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8356
+    ]
+  },
+  "94000110": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8357
+    ]
+  },
+  "94000111": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9101,
+      9145
+    ]
+  },
+  "94000112": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8358
+    ]
+  },
+  "94000113": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9101,
+      9145
+    ]
+  },
+  "94000114": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9109
+    ]
+  },
+  "94000115": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9073,
+      9107
+    ]
+  },
+  "94000116": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8360
+    ]
+  },
+  "94000117": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8361
+    ]
+  },
+  "94000118": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8362
+    ]
+  },
+  "94000119": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9111
+    ]
+  },
+  "94000120": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9113
+    ]
+  },
+  "94000121": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8364
+    ]
+  },
+  "94000122": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9119
+    ]
+  },
+  "94000123": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9125
+    ]
+  },
+  "94000124": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9124
+    ]
+  },
+  "94000125": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9127
+    ]
+  },
+  "94000126": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8365
+    ]
+  },
+  "94000127": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9128,
+      9135
+    ]
+  },
+  "94000128": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9130
+    ]
+  },
+  "94000129": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8366
+    ]
+  },
+  "94000130": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8367
+    ]
+  },
+  "94000131": {
+    "JP": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+    "CN": "BATTLE IN NEWYORK 2023 ～太空·奥德修斯对尼古拉·特斯拉～",
+    "TW": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+    "NA": "Battle in New York 2024 - Space Odysseus Versus Nikola Tesla",
+    "KR": "배틀 인 뉴욕 2024 ~스페이스 오디세우스 대 니콜라 테슬라~",
+    "warIds": [
+      8368,
+      8369,
+      8370,
+      8371,
+      8372
+    ]
+  },
+  "94000132": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9131
+    ]
+  },
+  "94000133": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9133
+    ]
+  },
+  "94000134": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8373
+    ]
+  },
+  "94000135": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9143
+    ]
+  },
+  "94000136": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9144
+    ]
+  },
+  "94000137": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8376
+    ]
+  },
+  "94000138": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8379
+    ]
+  },
+  "94000139": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8380
+    ]
+  },
+  "94000140": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8382
+    ]
+  },
+  "94000141": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8383
+    ]
+  },
+  "94000142": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9151
+    ]
+  },
+  "94000143": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8384
+    ]
+  },
+  "94000144": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8385
+    ]
+  },
+  "94000145": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9160
+    ]
+  },
+  "94000146": {
+    "JP": "メイン＆フリークエスト@白天の城、黒夜の城",
+    "CN": "主线＆自由关卡@白天之城，黑夜之城",
+    "TW": "主線＆自由關卡@白天之城，黑夜之城",
+    "NA": "Main & Free quest @ White Castle by Day, Black Castle by Night",
+    "KR": null,
+    "warIds": [
+      9152
+    ]
+  },
+  "94000147": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8386
+    ]
+  },
+  "94000148": {
+    "JP": "聖杯戦線クエスト@白天の城、黒夜の城",
+    "CN": "圣杯战线关卡@白天之城，黑夜之城",
+    "TW": "聖杯戰線關卡@白天之城，黑夜之城",
+    "NA": "Grail Front quest @ White Castle by Day, Black Castle by Night",
+    "KR": null,
+    "warIds": [
+      9152
+    ]
+  },
+  "94000149": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9163
+    ]
+  },
+  "94000150": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8387
+    ]
+  },
+  "94000151": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9164
+    ]
+  },
+  "94000152": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8388
+    ]
+  },
+  "94000153": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8389
+    ]
+  },
+  "94000154": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "94000155": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9168
+    ]
+  },
+  "94000156": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9170
+    ]
+  },
+  "94000157": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9169
+    ]
+  },
+  "94000158": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9171,
+      9189
+    ]
+  },
+  "94000159": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9172
+    ]
+  },
+  "94000160": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000161": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000162": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8390
+    ]
+  },
+  "94000163": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000164": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000165": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000166": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000167": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9175
+    ]
+  },
+  "94000168": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8391
+    ]
+  },
+  "94000169": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9185
+    ]
+  },
+  "94000170": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8392
+    ]
+  },
+  "94000171": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8393
+    ]
+  },
+  "94000172": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9192
+    ]
+  },
+  "94000173": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8394
+    ]
+  },
+  "94000174": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8397
+    ]
+  },
+  "95000001": {
+    "JP": "種火集め",
+    "CN": "搜集种火",
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1002
+    ]
+  },
+  "95000002": {
+    "JP": "宝物庫の扉を開け",
+    "CN": "打开宝物库之门",
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1002
+    ]
+  },
+  "95000003": {
+    "JP": "修練場",
+    "CN": "修炼场",
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1002
+    ]
+  },
+  "96000001": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000002": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000003": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000004": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000005": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000006": {
+    "JP": "ミッションクエスト マシュ『獅子王戦』",
+    "CN": "任务关卡：玛修『狮子王战』",
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      106
+    ]
+  },
+  "96000007": {
+    "JP": "ミッションクエスト マシュ『女王モルガン戦』",
+    "CN": "任务关卡：玛修『女王摩根战』",
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      308
+    ]
+  },
+  "94000175": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9193
+    ]
+  },
+  "94000176": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8400
+    ]
+  }
+}

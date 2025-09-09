@@ -1,0 +1,1037 @@
+{
+  "$default": {
+    "__COMMENT__": {
+      "JP": "",
+      "CN": "",
+      "TW": "",
+      "NA": "TowerName",
+      "KR": "TowerName"
+    },
+    "Fujimaru": {
+      "JP": "藤丸",
+      "CN": "藤丸",
+      "TW": "藤丸",
+      "NA": "Fujimaru",
+      "KR": null
+    }
+  },
+  "Function": {
+    "ifPrevFuncSucceed": {
+      "JP": "前の効果が成功時",
+      "CN": "前一个效果成功时",
+      "TW": "前一個效果成功時",
+      "NA": "If previous func succeeds",
+      "KR": null
+    },
+    "TriggeredFuncPosition": {
+      "JP": "いずれかの対象に{0}つ目の効果が{1}した時",
+      "CN": "第{0}个效果对任意对象{1}时",
+      "TW": "第{0}個效果對任意對象{1}時",
+      "NA": "If func {0} {1} on any target",
+      "KR": null
+    },
+    "TriggeredFuncPositionAll": {
+      "JP": "全ての対象に{0}つ目の効果が{1}した時",
+      "CN": "第{0}个效果对全部对象{1}时",
+      "TW": "第{0}個效果對全部對象{1}時",
+      "NA": "If func {0} {1} on all targets",
+      "KR": null
+    },
+    "TriggeredFuncPositionSameTarget": {
+      "JP": "{0}つ目の効果に{1}した対象",
+      "CN": "第{0}个效果{1}的对象",
+      "TW": "第{0}個效果{1}的對象",
+      "NA": "Targets that func {0} {1}ed on",
+      "KR": null
+    },
+    "ActSelectIndex": {
+      "JP": "{0}を選ぶ時",
+      "CN": "选择{0}时",
+      "TW": "選擇{0}時",
+      "NA": "If select {0}",
+      "KR": null
+    },
+    "CopyTargetBuffType": {
+      "JP": "Buffs",
+      "CN": "Buffs",
+      "TW": "Buffs",
+      "NA": "Buffs",
+      "KR": null
+    },
+    "CopyTargetFunctionType": {
+      "JP": "Funcs",
+      "CN": "Funcs",
+      "TW": "Funcs",
+      "NA": "Funcs",
+      "KR": null
+    },
+    "CopyFunctionTargetPTOnly": {
+      "JP": null,
+      "CN": "仅目标为自身或队友的效果",
+      "TW": "僅目標為自身或隊友的效果",
+      "NA": "Only ally/self targeted function",
+      "KR": null
+    },
+    "StartingPosition": {
+      "JP": null,
+      "CN": "起始位置",
+      "TW": "起始位置",
+      "NA": "Starting Position",
+      "KR": null
+    },
+    "CheckOverChargeStageRange": {
+      "JP": "オーバーチャージ階段",
+      "CN": "Over Charge阶段",
+      "TW": "OverCharge階段",
+      "NA": "OverCharge Stage",
+      "KR": null
+    },
+    "CheckBattlePointPhaseRange": {
+      "JP": "マスター好感度レベル",
+      "CN": "御主好感度等级",
+      "TW": "御主好感度等級",
+      "NA": "Master Affection Level",
+      "KR": null
+    },
+    "useFirstTimeInTurn": {
+      "JP": "他より先にスキルを使用する",
+      "CN": "比他人先使用技能",
+      "TW": "比他人先使用技能",
+      "NA": "Use a Skill before others",
+      "KR": null
+    },
+    "fromMasterEquip": {
+      "JP": null,
+      "CN": "来自御主技能",
+      "TW": "來自御主技能",
+      "NA": "From Master Skill",
+      "KR": null
+    },
+    "fromCommandSpell": {
+      "JP": null,
+      "CN": "来自令咒",
+      "TW": "來自令咒",
+      "NA": "From Command Spell",
+      "KR": null
+    },
+    "TargetEnemyClass": {
+      "JP": "敵単体と同じクラス",
+      "CN": "与敌方单体相同的职阶",
+      "TW": "與敵方單體相同的職階",
+      "NA": "Same Class as Target Enemy",
+      "KR": null
+    },
+    "ParamAddMaxCount": {
+      "JP": "N最大{0}個",
+      "CN": "N最大{0}个",
+      "TW": "N最大{0}個",
+      "NA": "N Max {0} counts",
+      "KR": "N 최대 {0}개"
+    },
+    "CondParamType1": {
+      "JP": "{target}クラスのクラススコアサイン解放数(最大{maxCount}個)に応じて効果アップ",
+      "CN": "根据{target}职阶分值星座解放数(最大{maxCount}个)提升效果",
+      "TW": null,
+      "NA": "Increases based on the number (Max {maxCount}) of unlocked {target} Class Score Signs",
+      "KR": null
+    },
+    "CondParamType2": {
+      "JP": "{target}クラスのサーヴァントの絆レベル合計(最大{maxCount})に応じて効果アップ",
+      "CN": "根据{target}职阶从者的羁绊等级总和(最大{maxCount})提升效果",
+      "TW": null,
+      "NA": "Increases based on the total bond levels (Max {maxCount}) of {target} servants",
+      "KR": null
+    },
+    "CondParamType0": {
+      "JP": "{target}クラスのTYPE{type}(最大{maxCount})に応じて効果アップ",
+      "CN": "根据{target}职阶的TYPE{type}(最大{maxCount})提升效果",
+      "TW": null,
+      "NA": "Increases based on the TYPE{type} (Max {maxCount} counts) of {target} class",
+      "KR": null
+    }
+  },
+  "RecipeName": {
+    "甘いお茶": {
+      "JP": null,
+      "CN": "甜茶",
+      "TW": "甜茶",
+      "NA": "Sweet Tea",
+      "KR": "달콤한차"
+    },
+    "渋いお茶": {
+      "JP": null,
+      "CN": "苦茶",
+      "TW": "苦茶",
+      "NA": "Bitter Tea",
+      "KR": "떫은차"
+    },
+    "ほうじ茶": {
+      "JP": null,
+      "CN": "焙茶",
+      "TW": "焙茶",
+      "NA": "Roasted Tea",
+      "KR": "호지차"
+    },
+    "抹茶": {
+      "JP": null,
+      "CN": "抹茶",
+      "TW": "抹茶",
+      "NA": "Matcha",
+      "KR": "말차"
+    },
+    "邪馬台茶": {
+      "JP": null,
+      "CN": "邪马台茶",
+      "TW": "邪馬臺茶",
+      "NA": "Yamatai Tea",
+      "KR": "야마타이차"
+    },
+    "新選茶": {
+      "JP": null,
+      "CN": "新选茶",
+      "TW": "新選茶",
+      "NA": "Shinsen Tea",
+      "KR": "신선차"
+    },
+    "ノブ茶": {
+      "JP": null,
+      "CN": "信茶",
+      "TW": "信茶",
+      "NA": "Nobu Tea",
+      "KR": "노부차"
+    },
+    "コーラ茶": {
+      "JP": null,
+      "CN": "可乐茶",
+      "TW": "可樂茶",
+      "NA": "Cola Tea",
+      "KR": "콜라차"
+    },
+    "沢庵茶": {
+      "JP": null,
+      "CN": "腌萝卜茶",
+      "TW": "醃蘿蔔茶",
+      "NA": "Takuan Tea",
+      "KR": "단무지차"
+    },
+    "キュケ茶": {
+      "JP": null,
+      "CN": "休刻茶",
+      "TW": "休刻茶",
+      "NA": "Kykeon Tea",
+      "KR": "키케차"
+    },
+    "ハーゲン茶": {
+      "JP": null,
+      "CN": "哈艮茶",
+      "TW": "哈艮茶",
+      "NA": "Haagen Tea",
+      "KR": "하겐차"
+    }
+  },
+  "SelectAddInfo": {
+    "Optional": {
+      "JP": null,
+      "CN": "可选",
+      "TW": "可選",
+      "NA": "Optional",
+      "KR": null
+    },
+    "Option": {
+      "JP": null,
+      "CN": "选项",
+      "TW": "選項",
+      "NA": "Option",
+      "KR": null
+    },
+    "スターを消費して追加の効果を得るか選択してください": {
+      "JP": null,
+      "CN": "请选择是否要消耗暴击星获得追加效果",
+      "TW": "請選擇是否要消耗爆擊星獲得追加效果",
+      "NA": "Please choose whether to expend C. Stars to gain additional effects.",
+      "KR": "스타를 소비해서 추가 효과를 얻을지 선택해 주세요"
+    },
+    "消費しない": {
+      "JP": null,
+      "CN": "不消耗",
+      "TW": "不消耗",
+      "NA": "Do not expend",
+      "KR": "소비하지 않음"
+    },
+    "10個消費する": {
+      "JP": null,
+      "CN": "消耗10个",
+      "TW": "消耗10個",
+      "NA": "Expend 10 C. Stars",
+      "KR": "10개 소비"
+    },
+    "宝具攻撃時の対象範囲を選択してください": {
+      "JP": null,
+      "CN": "请选择宝具攻击时的对象范围",
+      "TW": "請選擇寶具攻擊時的對象範圍",
+      "NA": "Select the target range for the Noble Phantasm",
+      "KR": "보구 공격 시 대상 범위를 선택해 주세요"
+    },
+    "単体化しない": {
+      "JP": null,
+      "CN": "不单体化",
+      "TW": "不單體化",
+      "NA": "Do not make it single target",
+      "KR": "전체"
+    },
+    "単体化する": {
+      "JP": null,
+      "CN": "单体化",
+      "TW": "單體化",
+      "NA": "Make it single target",
+      "KR": "단일"
+    },
+    "１ターン後にコマンドカードをどのタイプに変化させるか選択してください": {
+      "JP": null,
+      "CN": "请选择1回合后指令卡将变为哪一种类型",
+      "TW": "請選擇1回合後要變更指令卡的類型",
+      "NA": "Select which command card type to change after 1 turn",
+      "KR": null
+    },
+    "どの効果を得るか選択してください": {
+      "JP": null,
+      "CN": "请选择要获得什么效果",
+      "TW": "請選擇要獲得的效果",
+      "NA": "Choose which effect you want",
+      "KR": null
+    },
+    "Artsアップ": {
+      "JP": null,
+      "CN": "技提升",
+      "TW": "Arts提升",
+      "NA": "Arts Up",
+      "KR": "아츠 UP"
+    },
+    "クリティカル威力アップ": {
+      "JP": null,
+      "CN": "暴击威力提升",
+      "TW": "爆擊威力提升",
+      "NA": "Critical Strength Up",
+      "KR": "크리티컬 위력 UP"
+    },
+    "宝具威力アップ": {
+      "JP": null,
+      "CN": "宝具威力提升",
+      "TW": "寶具威力提升",
+      "NA": "NP Strength Up",
+      "KR": "보구 위력 UP"
+    },
+    "Quick": {
+      "JP": null,
+      "CN": null,
+      "TW": "Quick",
+      "NA": null,
+      "KR": null
+    },
+    "Arts": {
+      "JP": null,
+      "CN": null,
+      "TW": "Arts",
+      "NA": null,
+      "KR": null
+    },
+    "Buster": {
+      "JP": null,
+      "CN": null,
+      "TW": "Buster",
+      "NA": null,
+      "KR": null
+    },
+    "威力アップ〔天の力〕": {
+      "JP": null,
+      "CN": "威力提升〔天之力〕",
+      "TW": "威力提升〔天之力〕",
+      "NA": "Strength Up (Heaven attribute)",
+      "KR": "위력 UP[천의 힘]"
+    },
+    "威力アップ〔地の力〕": {
+      "JP": null,
+      "CN": "威力提升〔地之力〕",
+      "TW": "威力提升〔地之力〕",
+      "NA": "Strength Up (Earth Attribute)",
+      "KR": "위력 UP[지의 힘]"
+    },
+    "威力アップ〔人の力〕": {
+      "JP": null,
+      "CN": "威力提升〔人之力〕",
+      "TW": "威力提升〔人之力〕",
+      "NA": "Strength Up [Human Attribute]",
+      "KR": "위력 UP[인의 힘]"
+    },
+    "Quickアップ": {
+      "JP": null,
+      "CN": "Quick提升",
+      "TW": "Quick提升",
+      "NA": "Quick Up",
+      "KR": "퀵 UP"
+    },
+    "Busterアップ": {
+      "JP": null,
+      "CN": "Buster提升",
+      "TW": "Buster提升",
+      "NA": "Buster Up",
+      "KR": "버스터 UP"
+    },
+    "天国化(Arts強化)": {
+      "JP": null,
+      "CN": "天国化(Arts强化)",
+      "TW": "天國化(Arts強化)",
+      "NA": null,
+      "KR": null
+    },
+    "地獄化(Buster強化)": {
+      "JP": null,
+      "CN": "地狱化(Buster强化)",
+      "TW": "地獄化(Buster強化)",
+      "NA": null,
+      "KR": null
+    },
+    "どのガッツ効果を得るか選択してください": {
+      "JP": null,
+      "CN": "请选择想要获得哪一种毅力效果",
+      "TW": "請選擇要獲得哪一種毅力效果",
+      "NA": null,
+      "KR": null
+    },
+    "ガッツなし": {
+      "JP": null,
+      "CN": "无毅力",
+      "TW": "無毅力",
+      "NA": null,
+      "KR": null
+    },
+    "ガッツ50%回復": {
+      "JP": null,
+      "CN": "毅力50%回复",
+      "TW": "毅力50%回復",
+      "NA": null,
+      "KR": null
+    },
+    "ガッツ1回復": {
+      "JP": null,
+      "CN": "毅力1回复",
+      "TW": "毅力1回復",
+      "NA": null,
+      "KR": null
+    }
+  },
+  "selectTreasureDeviceInfo": {
+    "攻撃タイプ": {
+      "JP": null,
+      "CN": "攻击类型",
+      "TW": "攻擊類型",
+      "NA": "Attack Type",
+      "KR": null
+    },
+    "防御タイプ": {
+      "JP": null,
+      "CN": "防御类型",
+      "TW": "防禦類型",
+      "NA": "Defense Type",
+      "KR": null
+    },
+    "[servantName]の宝具を\nどのタイプに変更するか選択してください": {
+      "JP": null,
+      "CN": "请选择[servantName]要变更的宝具类型",
+      "TW": "請選擇[servantName]要變更的寶具類型",
+      "NA": "Choose the NP type to change for [servantName]",
+      "KR": null
+    }
+  },
+  "SkillScript": {
+    "actIndividuality": {
+      "JP": "{0}装備時のみ",
+      "CN": "仅{0}装备时生效",
+      "TW": "僅{0}裝備時生效",
+      "NA": "Only if {0} equipped",
+      "KR": null
+    },
+    "actIndividuality2": {
+      "JP": "{0}特性を持つ時のみ",
+      "CN": "仅持有{0}特性时生效",
+      "TW": "僅持有{0}特性時生效",
+      "NA": "Only if has {0} trait",
+      "KR": null
+    },
+    "HP_PER_HIGHER": {
+      "JP": "<HPが{0}以上の場合のみ使用可能>",
+      "CN": "<仅在生命值大于{0}时可使用>",
+      "TW": "<僅在HP大於{0}時可使用>",
+      "NA": "<Useable only if HP is below {0}>",
+      "KR": null
+    },
+    "HP_PER_LOWER": {
+      "JP": "<HPが{0}以下の場合のみ使用可能>",
+      "CN": "<仅在生命值低于{0}时可使用>",
+      "TW": "<僅在HP低於{0}時可使用>",
+      "NA": "<Useable only if HP is below {0}>",
+      "KR": "<HP가 {0} 이하인 경우에만 사용 가능>"
+    },
+    "HP_VAL_HIGHER": {
+      "JP": "<HPが{0}以上ある場合のみ使用可能>",
+      "CN": "<仅当生命值大于{0}时可使用>",
+      "TW": "<僅當HP大於{0}時可使用>",
+      "NA": "<Usable only if HP is {0} or higher>",
+      "KR": "<HP가 {0} 이상 있는 경우 사용 가능>"
+    },
+    "HP_VAL_LOWER": {
+      "JP": "<HPが{0}以下ある場合のみ使用可能>",
+      "CN": "<仅当生命值低于{0}时可使用>",
+      "TW": "<僅當HP大於{0}時可使用>",
+      "NA": "<Usable only if HP is below {0}>",
+      "KR": null
+    },
+    "NP_HIGHER": {
+      "JP": "<NPが{0}以上ある場合のみ使用可能>",
+      "CN": "<仅限NP在{0}以上时能使用>",
+      "TW": "<僅限NP在{0}以上時能使用>",
+      "NA": "<Usable only when NP gauge is {0} or higher>",
+      "KR": "<NP {0} 이상인 경우에만 사용 가능>"
+    },
+    "NP_LOWER": {
+      "JP": "<NPが{0}以下ある場合のみ使用可能>",
+      "CN": "<仅限NP在{0}以下时能使用>",
+      "TW": "<僅限NP在{0}以下時能使用>",
+      "NA": "<Usable only when NP gauge is below {0}>",
+      "KR": null
+    },
+    "STAR_HIGHER": {
+      "JP": "<スターが{0}個以上ある場合のみ使用可能>",
+      "CN": "<仅在暴击星为{0}个以上时可使用>",
+      "TW": "<僅在爆擊星為{0}個以上時可使用>",
+      "NA": "<Usable only when there are {0} C. Stars or more>",
+      "KR": "<스타가 {0}개 이상 있는 경우 사용 가능>"
+    },
+    "STAR_LOWER": {
+      "JP": "<スターが{0}個以下ある場合のみ使用可能>",
+      "CN": "<仅在暴击星为{0}个以下时可使用>",
+      "TW": "<僅在爆擊星為{0}個以下時可使用>",
+      "NA": "<Usable only when there are less than {0} C. Stars>",
+      "KR": null
+    },
+    "actRarity": {
+      "JP": "装備サーヴァントのレアリティ",
+      "CN": "装备从者稀有度",
+      "TW": "裝備從者稀有度",
+      "NA": "Equipped Servant's Rarity",
+      "KR": null
+    },
+    "battleStartRemainingTurn": {
+      "JP": "バトル開始時数ターンのチャージが必要",
+      "CN": "战斗开始时需蓄力数回合后可使用",
+      "TW": "戰鬥開始時需蓄力數回合後可使用",
+      "NA": "Can only be used after turns when battle start",
+      "KR": null
+    },
+    "additionalSkillId": {
+      "JP": "追加スキル",
+      "CN": "额外技能",
+      "TW": "額外技能",
+      "NA": "Additional Skill",
+      "KR": null
+    },
+    "additionalSkillActorType": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "excludeTdChangeTypes": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "tdTypeChangeIDs": {
+      "JP": "変更可能な宝具カードのタイプ",
+      "CN": "可变更宝具卡类型",
+      "TW": "可變更寶具卡類型",
+      "NA": "Changeable NP Card Type",
+      "KR": null
+    },
+    "tdChangeByBattlePoint": {
+      "JP": "マスター好感度に応じて宝具を変更",
+      "CN": "根据御主好感度变更宝具",
+      "TW": "根據御主好感度變更寶具",
+      "NA": "Change NP by Master Affection",
+      "KR": null
+    }
+  },
+  "TowerName": {
+    "百重塔": {
+      "JP": null,
+      "CN": "百重塔",
+      "TW": "百重塔",
+      "NA": "Oni Pagoda",
+      "KR": null
+    },
+    "百重塔（陽炎）": {
+      "JP": null,
+      "CN": "百重塔（阳炎）",
+      "TW": "百重塔（陽炎）",
+      "NA": "Oni Pagoda (Mirage)",
+      "KR": null
+    },
+    "アマゾネス倉庫": {
+      "JP": null,
+      "CN": "Amazones仓库",
+      "TW": "Amazones倉庫",
+      "NA": "Amazones Warehouse",
+      "KR": "아마조네스 창고"
+    },
+    "アルテミス神殿タワー": {
+      "JP": null,
+      "CN": "阿耳忒弥斯神殿塔",
+      "TW": "阿耳忒彌斯神殿塔",
+      "NA": "Artemis Tower",
+      "KR": "아르테미스 신전 타워"
+    },
+    "極・アルテミス神殿タワー": {
+      "JP": null,
+      "CN": "极·阿耳忒弥斯神殿塔",
+      "TW": "極．阿耳忒彌斯神殿塔",
+      "NA": "Extreme Artemis Tower",
+      "KR": "극・아르테미스 신전 타워"
+    },
+    "ウィッシュメンカード": {
+      "JP": null,
+      "CN": "Wish men card",
+      "TW": "Wish men card",
+      "NA": "Wishmen Card",
+      "KR": "Wishmen card"
+    },
+    "秋葉原タワー会館": {
+      "JP": null,
+      "CN": "秋叶原tower会馆",
+      "TW": "秋葉原tower會館",
+      "NA": "Akihabara Tower Hall",
+      "KR": "아키하바라 타워 회관"
+    },
+    "ミートタワー": {
+      "JP": null,
+      "CN": "Meat tower",
+      "TW": "Meat tower",
+      "NA": "Meat Tower",
+      "KR": "미트 타워"
+    },
+    "森の踏破": {
+      "JP": null,
+      "CN": "穿越森林",
+      "TW": "穿越森林",
+      "NA": "Traversing the Forest",
+      "KR": "숲 답파"
+    },
+    "巨大樹": {
+      "JP": null,
+      "CN": "巨大树木",
+      "TW": "巨大樹木",
+      "NA": "Giant Tree",
+      "KR": "거대수"
+    },
+    "ポートレイト集め": {
+      "JP": null,
+      "CN": "收集照片",
+      "TW": "收集照片",
+      "NA": "Collecting Portraits",
+      "KR": "포트레이트 수집"
+    },
+    "追加ポートレイト集め": {
+      "JP": null,
+      "CN": "收集追加照片",
+      "TW": "收集追加照片",
+      "NA": "Collecting More Portraits",
+      "KR": "추가 포트레이트 수집"
+    }
+  },
+  "master_name": {
+    "カドック・ゼムルプス": {
+      "JP": null,
+      "CN": "卡多克·泽姆露普斯",
+      "TW": "卡多克・澤姆露普斯",
+      "NA": "Kadoc Zemlupus",
+      "KR": "카독 젬루푸스"
+    },
+    "オフェリア・ファムルソローネ": {
+      "JP": null,
+      "CN": "奥菲莉娅·法姆索罗涅",
+      "TW": "奧菲莉婭・法姆索羅涅",
+      "NA": "Ophelia Phamrsolone",
+      "KR": "오필리아 팜르솔로네"
+    },
+    "芥ヒナコ": {
+      "JP": null,
+      "CN": "芥雏子",
+      "TW": "芥雛子",
+      "NA": "Akuta Hinako",
+      "KR": "아쿠타 히나코"
+    },
+    "スカンジナビア・ペペロンチーノ": {
+      "JP": null,
+      "CN": "斯堪的纳维亚·佩佩隆奇诺",
+      "TW": "斯堪地那維亞・佩佩隆奇諾",
+      "NA": "Scandinavia Peperoncino",
+      "KR": "스칸디나비아 페페론치노"
+    },
+    "キリシュタリア・ヴォーダイム": {
+      "JP": null,
+      "CN": "基尔什塔利亚·沃戴姆",
+      "TW": "基爾什塔利亞・沃戴姆",
+      "NA": "Kirschtaria Wodime",
+      "KR": "키르슈타리아 보다임"
+    },
+    "ベリル・ガット": {
+      "JP": null,
+      "CN": "贝里尔·伽特",
+      "TW": "貝里爾・伽特",
+      "NA": "Beryl Gut",
+      "KR": "베릴 거트"
+    },
+    "デイビット・ゼム・ヴォイド": {
+      "JP": null,
+      "CN": "戴比特·泽姆·沃伊德",
+      "TW": "戴比特・澤姆・沃伊德",
+      "NA": "Daybit Sem Void",
+      "KR": "데이비트 젬 보이드"
+    },
+    "ミスターM": {
+      "JP": null,
+      "CN": "Mister M",
+      "TW": "Mr. M",
+      "NA": "Mister M",
+      "KR": "미스터 M"
+    },
+    "カエサル": {
+      "JP": null,
+      "CN": "恺撒",
+      "TW": "凱撒",
+      "NA": "Caesar",
+      "KR": "카이사르"
+    },
+    "マーリン": {
+      "JP": null,
+      "CN": "梅林",
+      "TW": "梅林",
+      "NA": "Merlin",
+      "KR": "멀린"
+    },
+    "ジナコ": {
+      "JP": null,
+      "CN": "吉娜可",
+      "TW": "吉娜可",
+      "NA": "Jinako",
+      "KR": "지나코"
+    },
+    "ＢＢ": {
+      "JP": null,
+      "CN": "BB",
+      "TW": "BB",
+      "NA": "BB",
+      "KR": "BB"
+    },
+    "Master 7101600": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "ヨハンナ": {
+      "JP": null,
+      "CN": "若安",
+      "TW": "瓊安",
+      "NA": "Johanna",
+      "KR": "요한나"
+    },
+    "マスター": {
+      "JP": null,
+      "CN": "御主",
+      "TW": "御主",
+      "NA": "Master",
+      "KR": "마스터"
+    },
+    "ラスプーチン": {
+      "JP": null,
+      "CN": "拉斯普京",
+      "TW": "拉斯普丁",
+      "NA": "Rasputin",
+      "KR": "라스푸틴"
+    },
+    "オシリスの塵": {
+      "JP": null,
+      "CN": "欧西里斯之尘",
+      "TW": "歐西里斯之塵",
+      "NA": "Dust of Osiris",
+      "KR": "오시리스의 먼지"
+    },
+    "マキリ": {
+      "JP": null,
+      "CN": "玛奇里",
+      "TW": "馬奇里",
+      "NA": "Makiri",
+      "KR": "마키리"
+    },
+    "セレシェイラ": {
+      "JP": null,
+      "CN": "赛雷婕拉",
+      "TW": "瑟蕾榭菈",
+      "NA": "Cerejeira",
+      "KR": "세레제이라"
+    },
+    "由井正雪": {
+      "JP": null,
+      "CN": "由井正雪",
+      "TW": "由井正雪",
+      "NA": null,
+      "KR": null
+    },
+    "地右衛門": {
+      "JP": null,
+      "CN": "地右卫门",
+      "TW": "地右衛門",
+      "NA": null,
+      "KR": null
+    },
+    "岸波白野": {
+      "JP": null,
+      "CN": "岸波白野",
+      "TW": "岸波白野",
+      "NA": "Kishinami Hakuno",
+      "KR": null
+    },
+    "白鷺リンゼ": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "黒姫": {
+      "JP": null,
+      "CN": null,
+      "TW": "黑姬",
+      "NA": null,
+      "KR": null
+    },
+    "ザッハーク": {
+      "JP": null,
+      "CN": null,
+      "TW": "扎哈克",
+      "NA": null,
+      "KR": null
+    },
+    "ギャラハッド": {
+      "JP": null,
+      "CN": null,
+      "TW": "加拉哈德",
+      "NA": null,
+      "KR": null
+    }
+  },
+  "TradeGoodsName": {
+    "イチゴパフェ": {
+      "JP": null,
+      "CN": "草莓芭菲",
+      "TW": "草莓百匯",
+      "NA": "Strawberry Parfait",
+      "KR": null
+    },
+    "メロンパフェ": {
+      "JP": null,
+      "CN": "蜜瓜芭菲",
+      "TW": "哈密瓜百匯",
+      "NA": "Melon Parfait",
+      "KR": null
+    },
+    "チョコレートパフェ": {
+      "JP": null,
+      "CN": "巧克力芭菲",
+      "TW": "巧克力百匯",
+      "NA": "Chocolate Parfait",
+      "KR": null
+    },
+    "ミルクセーキパフェ": {
+      "JP": null,
+      "CN": "奶昔芭菲",
+      "TW": "奶昔百匯",
+      "NA": "Milkshake Parfait",
+      "KR": null
+    },
+    "カステラパフェ": {
+      "JP": null,
+      "CN": "长崎蛋糕芭菲",
+      "TW": "長崎蛋糕百匯",
+      "NA": "Castella Parfait",
+      "KR": null
+    },
+    "ラムネパフェ": {
+      "JP": null,
+      "CN": "柠檬汽水芭菲",
+      "TW": "彈珠汽水百匯",
+      "NA": "Ramune Parfait",
+      "KR": null
+    },
+    "マカロンパフェ": {
+      "JP": null,
+      "CN": "马卡龙芭菲",
+      "TW": "馬卡龍百匯",
+      "NA": "Macaron Parfait",
+      "KR": null
+    },
+    "オニオニパフェ": {
+      "JP": null,
+      "CN": "鬼鬼芭菲",
+      "TW": "鬼鬼百匯",
+      "NA": "Oni Oni Parfait",
+      "KR": null
+    },
+    "あげぽよパフェ": {
+      "JP": null,
+      "CN": "最嗨芭菲",
+      "TW": "愉快心情百匯",
+      "NA": "Exciting Parfait",
+      "KR": null
+    },
+    "はんなまパフェ": {
+      "JP": null,
+      "CN": "好那摩芭菲",
+      "TW": "半生百匯",
+      "NA": "HeNamas Parfait",
+      "KR": null
+    },
+    "エッグプリンパフェ": {
+      "JP": null,
+      "CN": "蛋布丁芭菲",
+      "TW": "雞蛋布丁百匯",
+      "NA": "Egg Pudding Parfait",
+      "KR": null
+    },
+    "パンケーキパフェ": {
+      "JP": null,
+      "CN": "烤薄饼芭菲",
+      "TW": "鬆餅百匯",
+      "NA": "Pancake Parfait",
+      "KR": null
+    },
+    "“工事用火薬”": {
+      "JP": null,
+      "CN": null,
+      "TW": "工事用火藥",
+      "NA": null,
+      "KR": null
+    },
+    "“バールのようなモノ”": {
+      "JP": null,
+      "CN": null,
+      "TW": "像撬棍的東西",
+      "NA": null,
+      "KR": null
+    },
+    "“サバイバルソード”": {
+      "JP": null,
+      "CN": null,
+      "TW": "生存之劍",
+      "NA": null,
+      "KR": null
+    },
+    "“携行ランタン”": {
+      "JP": null,
+      "CN": null,
+      "TW": "攜行燈籠",
+      "NA": null,
+      "KR": null
+    },
+    "“オシャレな釣り糸”": {
+      "JP": null,
+      "CN": null,
+      "TW": "時尚釣線",
+      "NA": null,
+      "KR": null
+    },
+    "“スペアギア”": {
+      "JP": null,
+      "CN": null,
+      "TW": "備用齒輪",
+      "NA": null,
+      "KR": null
+    },
+    "“強靭なフック”": {
+      "JP": null,
+      "CN": null,
+      "TW": "強靭的鉤子",
+      "NA": null,
+      "KR": null
+    },
+    "“スーパーエンジン”": {
+      "JP": null,
+      "CN": null,
+      "TW": "超級引擎",
+      "NA": null,
+      "KR": null
+    },
+    "“古木の苗”": {
+      "JP": null,
+      "CN": null,
+      "TW": "古木的苗",
+      "NA": null,
+      "KR": null
+    },
+    "“よく育つ肥料”": {
+      "JP": null,
+      "CN": null,
+      "TW": "好生長的肥料",
+      "NA": null,
+      "KR": null
+    },
+    "“勤労メダル”": {
+      "JP": null,
+      "CN": null,
+      "TW": "勤勞勳章",
+      "NA": null,
+      "KR": null
+    },
+    "“金の鶏のタマゴ”": {
+      "JP": null,
+      "CN": null,
+      "TW": "金色的雞蛋",
+      "NA": null,
+      "KR": null
+    }
+  },
+  "condBranchSkillInfo": {
+    "Branch": {
+      "JP": "ブランチ{0}",
+      "CN": "分支{0}",
+      "TW": "分支{0}",
+      "NA": "Branch {0}",
+      "KR": null
+    },
+    "isSelfTarget.0": {
+      "JP": "スキル対象が自身以外の時",
+      "CN": "技能对象为自身以外时",
+      "TW": null,
+      "NA": "When targeting NOT self",
+      "KR": null
+    },
+    "isSelfTarget.1": {
+      "JP": "スキル対象が自身の時",
+      "CN": "技能对象为自身时",
+      "TW": null,
+      "NA": "When targeting self",
+      "KR": null
+    },
+    "individuality": {
+      "JP": "スキルターゲットの特性:",
+      "CN": "技能对象持有特性：",
+      "TW": null,
+      "NA": "Skill target has trait:",
+      "KR": null
+    }
+  }
+}

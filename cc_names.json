@@ -1,0 +1,1430 @@
+{
+  "おやすみヴィイ": {
+    "JP": null,
+    "CN": "晚安，维",
+    "TW": "晚安Viy",
+    "NA": "Goodnight, Viy",
+    "KR": "잘 자렴, 비이"
+  },
+  "お揃いの仔グマ": {
+    "JP": null,
+    "CN": "配对的小熊",
+    "TW": "配對的小熊",
+    "NA": "Matching Teddy Bear",
+    "KR": "늘 함께 있는 아기곰"
+  },
+  "お茶ノッブ": {
+    "JP": null,
+    "CN": "茶信",
+    "TW": "茶信",
+    "NA": "Nobbu Tea",
+    "KR": "차 놋부"
+  },
+  "からくり妖術師": {
+    "JP": null,
+    "CN": "机关妖术师",
+    "TW": "機關妖術師",
+    "NA": "Karakuri Sorceress",
+    "KR": null
+  },
+  "ぐっ様人形": {
+    "JP": null,
+    "CN": "虞大人人偶",
+    "TW": "虞大人人偶",
+    "NA": "Lady Yu Doll",
+    "KR": null
+  },
+  "すずめ紋の葛籠": {
+    "JP": null,
+    "CN": "麻雀花纹的葛笼",
+    "TW": "麻雀花紋的葛籠",
+    "NA": "Sparrow Crest Wicker Basket",
+    "KR": null
+  },
+  "ちびノブ": {
+    "JP": null,
+    "CN": "迷你信",
+    "TW": "迷你信",
+    "NA": "Mini Nobu",
+    "KR": "꼬마 노부"
+  },
+  "まじんさん": {
+    "JP": null,
+    "CN": "魔小姐",
+    "TW": "魔小姐",
+    "NA": "Miss Majin",
+    "KR": "마신 씨"
+  },
+  "みんなの少女ダ・ヴィンチちゃん": {
+    "JP": null,
+    "CN": "大家的少女达·芬奇亲",
+    "TW": "大家的少女達．文西醬",
+    "NA": "Everyone's Girl, Da Vinci",
+    "KR": "모두의 소녀 다 빈치짱"
+  },
+  "アイドラ☆ハット": {
+    "JP": null,
+    "CN": "偶像☆帽子",
+    "TW": "偶像☆禮帽",
+    "NA": "Idora☆Hat",
+    "KR": "아이돌☆햇"
+  },
+  "アルスターの猛犬": {
+    "JP": null,
+    "CN": "阿尔斯特的猛犬",
+    "TW": "阿爾斯特的猛犬",
+    "NA": "Savage Dog of Ulster",
+    "KR": null
+  },
+  "イシスが如きトップレディ": {
+    "JP": null,
+    "CN": "伊西斯般的女王",
+    "TW": "伊西斯般的女王",
+    "NA": "Top Lady Like Isis",
+    "KR": null
+  },
+  "イノベイター・イヤー": {
+    "JP": null,
+    "CN": "革新者之耳",
+    "TW": "革新者之耳",
+    "NA": "Innovator Ears",
+    "KR": "이노베이터・이어"
+  },
+  "オルレアンの乙女": {
+    "JP": null,
+    "CN": "奥尔良的少女",
+    "TW": "奧爾良的少女",
+    "NA": "Maiden of Orleans",
+    "KR": "오를레앙의 소녀"
+  },
+  "カプセルセイバードラゴン": {
+    "JP": null,
+    "CN": "胶囊剑士龙",
+    "TW": "膠囊劍士龍",
+    "NA": "Capsule Saber Dragon",
+    "KR": null
+  },
+  "カルデアの盾と剣": {
+    "JP": null,
+    "CN": "迦勒底的盾与剑",
+    "TW": null,
+    "NA": "Chaldea's Sword and Shield",
+    "KR": null
+  },
+  "カヴァスⅡ世": {
+    "JP": null,
+    "CN": "卡瓦斯Ⅱ世",
+    "TW": "卡瓦斯Ⅱ世",
+    "NA": "Cavall II",
+    "KR": "카바스 2세"
+  },
+  "キャンディスター・ケイン": {
+    "JP": null,
+    "CN": "圣夜之虹拐杖糖",
+    "TW": "聖夜之虹拐杖糖",
+    "NA": "Candystar Cane",
+    "KR": null
+  },
+  "キラキラ平安女子": {
+    "JP": null,
+    "CN": "闪耀的平安女子",
+    "TW": "閃耀的平安女子",
+    "NA": "Sparking Heian Girl",
+    "KR": null
+  },
+  "コード：イービル": {
+    "JP": null,
+    "CN": "纹章：邪恶",
+    "TW": "紋章：邪惡",
+    "NA": "Code: Evil",
+    "KR": "코드 : 이블"
+  },
+  "コード：キュアー": {
+    "JP": null,
+    "CN": "纹章：治愈",
+    "TW": "紋章：治癒",
+    "NA": "Code: Cure",
+    "KR": "코드 : 큐어"
+  },
+  "コード：グリッター": {
+    "JP": null,
+    "CN": "纹章：闪耀",
+    "TW": "紋章：閃耀",
+    "NA": "Code: Glitter",
+    "KR": "코드 : 글리터"
+  },
+  "コード：コープス": {
+    "JP": null,
+    "CN": "纹章：死尸",
+    "TW": "紋章：死屍",
+    "NA": "Code: Corpse",
+    "KR": "코드 : 콥스"
+  },
+  "コード：ニンバス": {
+    "JP": null,
+    "CN": "纹章：光轮",
+    "TW": "紋章：光輪",
+    "NA": "Code: Nimbus",
+    "KR": "코드 : 님버스"
+  },
+  "コード：バースト": {
+    "JP": null,
+    "CN": "纹章：爆裂",
+    "TW": "紋章：爆裂",
+    "NA": "Code: Burst",
+    "KR": "코드 : 버스트"
+  },
+  "コード：フォーカス": {
+    "JP": null,
+    "CN": "纹章：集中",
+    "TW": "紋章：集中",
+    "NA": "Code: Focus",
+    "KR": "코드 : 포커스"
+  },
+  "コード：ブルート": {
+    "JP": null,
+    "CN": "纹章：野兽",
+    "TW": "紋章：野獸",
+    "NA": "Code: Brute",
+    "KR": "코드 : 브루트"
+  },
+  "コード：ブレス": {
+    "JP": null,
+    "CN": "纹章：祝福",
+    "TW": "紋章：祝福",
+    "NA": "Code: Bless",
+    "KR": "코드 : 블레스"
+  },
+  "コード：モータル": {
+    "JP": null,
+    "CN": "纹章：人类",
+    "TW": "紋章：人類",
+    "NA": "Code: Mortal",
+    "KR": "코드 : 모탈"
+  },
+  "サンタマリア・ボランテ": {
+    "JP": null,
+    "CN": "圣玛利亚舵轮",
+    "TW": "飛翔的聖瑪麗亞",
+    "NA": "Santa Maria Volante",
+    "KR": null
+  },
+  "ジャガーの戦士": {
+    "JP": null,
+    "CN": "美洲豹战士",
+    "TW": "美洲豹戰士",
+    "NA": "Jaguar's Warrior",
+    "KR": "재규어 전사"
+  },
+  "スマホさん": {
+    "JP": null,
+    "CN": "智能机先生",
+    "TW": "手機先生",
+    "NA": "Mr. Smartphone",
+    "KR": null
+  },
+  "ソラ渉る天元の花": {
+    "JP": null,
+    "CN": "涉越苍穹的天元之花",
+    "TW": "漂泊虛空的天元之花",
+    "NA": "The Flower at the Apex of Heaven that Transcends Void",
+    "KR": null
+  },
+  "ダ・ヴィンチちゃん": {
+    "JP": null,
+    "CN": "达·芬奇亲",
+    "TW": "達．文西醬",
+    "NA": "Da Vinci",
+    "KR": "다 빈치짱"
+  },
+  "トンちゃん": {
+    "JP": null,
+    "CN": "小贪",
+    "TW": "小貪",
+    "NA": "Ton",
+    "KR": "탐짱"
+  },
+  "ドミネイター・キャップ": {
+    "JP": null,
+    "CN": "支配者之帽",
+    "TW": "支配者之帽",
+    "NA": "Dominator Cap",
+    "KR": "도미네이터 캡"
+  },
+  "ドライノッブ": {
+    "JP": null,
+    "CN": "车手信",
+    "TW": "飆車信",
+    "NA": "Drive Nobbu",
+    "KR": "드라이놋부"
+  },
+  "ネココ・ネココライト": {
+    "JP": null,
+    "CN": "猫咪·猫咪莱特",
+    "TW": "貓貓．貓貓拉特",
+    "NA": "Necoco Neco-light",
+    "KR": "네코코・네코코라이트"
+  },
+  "ノブ選組": {
+    "JP": null,
+    "CN": "信选组",
+    "TW": "信選組",
+    "NA": "Nobusengumi",
+    "KR": "노부선조"
+  },
+  "バディ・リング〔GOLD〕": {
+    "JP": null,
+    "CN": "搭档戒指〔GOLD〕",
+    "TW": "搭檔戒指〔GOLD〕",
+    "NA": "Buddy Ring [Gold]",
+    "KR": "버디 링[GOLD]"
+  },
+  "バディ・リング〔SILVER〕": {
+    "JP": null,
+    "CN": "搭档戒指〔SILVER〕",
+    "TW": "搭檔戒指〔SILVER〕",
+    "NA": "Buddy Ring [Silver]",
+    "KR": "버디 링[SILVER]"
+  },
+  "ヒール・プリンセス": {
+    "JP": null,
+    "CN": "高跟鞋公主",
+    "TW": "高跟鞋公主",
+    "NA": "Heel Princess",
+    "KR": "힐 프린세스"
+  },
+  "ピジョンレポート": {
+    "JP": null,
+    "CN": "咕咕报",
+    "TW": "咕咕報",
+    "NA": "Dove Report",
+    "KR": "피전 리포트"
+  },
+  "ファニー・ヴァンプ": {
+    "JP": null,
+    "CN": "Funny Vamp",
+    "TW": "Funny Vamp",
+    "NA": "Funny Vamp",
+    "KR": null
+  },
+  "ファーストサーヴァント": {
+    "JP": null,
+    "CN": "第一位从者",
+    "TW": "第一位從者",
+    "NA": "First Servant",
+    "KR": "퍼스트 서번트"
+  },
+  "プリドゥエン": {
+    "JP": null,
+    "CN": "普利多温",
+    "TW": "普利多溫",
+    "NA": "Prydwen",
+    "KR": "프리드웬"
+  },
+  "ホーリー紙袋": {
+    "JP": null,
+    "CN": "神圣纸袋",
+    "TW": "神聖紙袋",
+    "NA": "Holy Paper Bag",
+    "KR": "홀리 종이봉투"
+  },
+  "ミニクーちゃん": {
+    "JP": null,
+    "CN": "迷你小库",
+    "TW": "迷你庫醬",
+    "NA": "Mini Cú",
+    "KR": "미니 쿠짱"
+  },
+  "ミニボーダー": {
+    "JP": null,
+    "CN": "迷你Border",
+    "TW": "迷你Border",
+    "NA": "Mini Border",
+    "KR": "미니 보더"
+  },
+  "ミニ牛若": {
+    "JP": null,
+    "CN": "迷你牛若",
+    "TW": "迷你牛若",
+    "NA": "Mini Ushiwaka",
+    "KR": "미니 우시와카"
+  },
+  "メンロパークの魔術師": {
+    "JP": null,
+    "CN": "门洛帕克的魔术师",
+    "TW": "門洛帕克的魔術師",
+    "NA": "Wizard of Menlo Park",
+    "KR": "멘로파크의 마술사"
+  },
+  "ラッキービースト": {
+    "JP": null,
+    "CN": "幸运之兽",
+    "TW": "幸運之獸",
+    "NA": "Lucky Beast",
+    "KR": "럭키 비스트"
+  },
+  "ラッキー・ブルーバード": {
+    "JP": null,
+    "CN": "幸运的青鸟",
+    "TW": "幸運的藍色小鳥",
+    "NA": "Lucky Blue Bird",
+    "KR": null
+  },
+  "リヴァイアサン": {
+    "JP": null,
+    "CN": "利维坦",
+    "TW": "利維坦",
+    "NA": "Leviathan",
+    "KR": "리바이어던"
+  },
+  "レディ・ジャスティス": {
+    "JP": null,
+    "CN": "正义女士",
+    "TW": "Lady Justice",
+    "NA": "Lady Justice",
+    "KR": "레이디 저스티스"
+  },
+  "ロイヤルバニー": {
+    "JP": null,
+    "CN": "皇家兔女郎",
+    "TW": "皇家兔女郎",
+    "NA": "Royal Bunny",
+    "KR": "로열 버니"
+  },
+  "ヴィヴ・ラ・フランス": {
+    "JP": null,
+    "CN": "法兰西万岁",
+    "TW": "法蘭西萬歲",
+    "NA": "Vive la France",
+    "KR": "비브 라 프랑스"
+  },
+  "不死殺しの刃": {
+    "JP": null,
+    "CN": "屠戮不死之刃",
+    "TW": "不死殺手之刃",
+    "NA": "Immortal Slaying Blade",
+    "KR": null
+  },
+  "久遠の鏡": {
+    "JP": null,
+    "CN": "久远之镜",
+    "TW": "久遠之鏡",
+    "NA": "Mirror of Eternity",
+    "KR": "영원의 거울"
+  },
+  "二万里を征く鸚鵡貝": {
+    "JP": null,
+    "CN": "远征两万里的鹦鹉螺",
+    "TW": "征服兩萬里的鸚鵡螺",
+    "NA": "The Nautilus Traveling Twenty Thousand Leagues",
+    "KR": "2만리를 정복하는 앵무조개"
+  },
+  "二天道楽の刀": {
+    "JP": null,
+    "CN": "二天道乐之刀",
+    "TW": "二天道樂之刀",
+    "NA": "Blades of Niten Douraku",
+    "KR": "이천도락의 칼"
+  },
+  "人理の紋章": {
+    "JP": null,
+    "CN": "人理的纹章",
+    "TW": "人理的紋章",
+    "NA": "Crest of Humanity",
+    "KR": "인리의 문장"
+  },
+  "人造くのいち": {
+    "JP": null,
+    "CN": "人造女忍",
+    "TW": "人造女忍者",
+    "NA": "Artificial Kunoichi",
+    "KR": "인조 쿠노이치"
+  },
+  "仄黒き妄執の令印": {
+    "JP": null,
+    "CN": "微黑妄执的令印",
+    "TW": "微黑妄執的令印",
+    "NA": "Faint Black Delusion's Command Seal",
+    "KR": "어두운 망집의 영인"
+  },
+  "伊吹山の御子": {
+    "JP": null,
+    "CN": "伊吹山的神子",
+    "TW": "伊吹山的神子",
+    "NA": "Mount Ibuki’s child",
+    "KR": null
+  },
+  "修補すべき全ての疵": {
+    "JP": null,
+    "CN": "万疵必应修补",
+    "TW": "萬疵必行修補",
+    "NA": "Pain Breaker",
+    "KR": "보수해야 할 모든 상처"
+  },
+  "働き者の小人たち": {
+    "JP": null,
+    "CN": "勤劳的侏儒们",
+    "TW": "勤勞的小人們",
+    "NA": "Hardworking Tonttus",
+    "KR": null
+  },
+  "優しい願い": {
+    "JP": null,
+    "CN": "温柔的愿望",
+    "TW": "溫柔的願望",
+    "NA": "A Kind Wish",
+    "KR": "상냥한 소원"
+  },
+  "優雅典雅な怪盗帽": {
+    "JP": null,
+    "CN": "优雅典雅的怪盗帽",
+    "TW": "優雅典雅的怪盜帽",
+    "NA": "Elegant Phantom Thief Hat",
+    "KR": "우아하고 전아한 괴도 모자"
+  },
+  "全知なる粘土板": {
+    "JP": null,
+    "CN": "全知的泥板",
+    "TW": "全知的泥板",
+    "NA": "Omniscient Clay Tablet",
+    "KR": "전지의 점토판"
+  },
+  "八葉の鏡": {
+    "JP": null,
+    "CN": "八叶之镜",
+    "TW": "八葉之鏡",
+    "NA": "Mirror of Eight Leaves",
+    "KR": "팔엽의 거울"
+  },
+  "冥主の槍檻": {
+    "JP": null,
+    "CN": "冥主的枪槛",
+    "TW": "冥主的槍檻",
+    "NA": "Spear-Cage of the Underworld",
+    "KR": null
+  },
+  "冥界の花": {
+    "JP": null,
+    "CN": "冥界之花",
+    "TW": "冥界之花",
+    "NA": "Flower of the Underworld",
+    "KR": "명계의 꽃"
+  },
+  "勝利の兵装": {
+    "JP": null,
+    "CN": "胜利的兵装",
+    "TW": "勝利的兵裝",
+    "NA": "Armament of Victory",
+    "KR": "승리의 병장"
+  },
+  "千代紙大隊長": {
+    "JP": null,
+    "CN": "千代纸大队长",
+    "TW": "千代紙大隊長",
+    "NA": "Chiyogami Commander",
+    "KR": "치요가미 대대장"
+  },
+  "千鳥飾りの和傘": {
+    "JP": null,
+    "CN": "千鸟装饰的和伞",
+    "TW": "千鳥裝飾的和傘",
+    "NA": "Chidori-Adorned Japanese Umbrella",
+    "KR": null
+  },
+  "四不相くん": {
+    "JP": null,
+    "CN": "四不相君",
+    "TW": "四不相君",
+    "NA": "Sì Bú Xiàng",
+    "KR": "사불상 군"
+  },
+  "因果逆転の魔槍": {
+    "JP": null,
+    "CN": "逆转因果的魔枪",
+    "TW": "逆轉因果的魔槍",
+    "NA": "Demonic Lance of Reverse Causality",
+    "KR": "인과역전의 마창"
+  },
+  "在り得ざる幻馬": {
+    "JP": null,
+    "CN": "不存之幻马",
+    "TW": "不應存世的幻馬",
+    "NA": "The Improbable Phantasmal Horse",
+    "KR": "있을 수 없는 환마"
+  },
+  "大佐型自動人形": {
+    "JP": null,
+    "CN": "上校型自动人偶",
+    "TW": "上校型自動人偶",
+    "NA": "Colonel Automaton",
+    "KR": "대령형 자동인형"
+  },
+  "大魔女の麦粥": {
+    "JP": null,
+    "CN": "大魔女的麦粥",
+    "TW": "大魔女的麥粥",
+    "NA": "The Queen Witch's Barley Drink",
+    "KR": "대마녀의 보리죽"
+  },
+  "天の女主人": {
+    "JP": null,
+    "CN": "天之女主人",
+    "TW": "天之女主人",
+    "NA": "Mistress of the Heavens",
+    "KR": "하늘의 여주인"
+  },
+  "天の楔": {
+    "JP": null,
+    "CN": "天之楔",
+    "TW": "天之楔",
+    "NA": "Wedge of the Heavens",
+    "KR": "하늘의 쐐기"
+  },
+  "天の鎖": {
+    "JP": null,
+    "CN": "天之锁",
+    "TW": "天之鎖",
+    "NA": "Chain of the Heavens",
+    "KR": "하늘의 사슬"
+  },
+  "天使のベッド": {
+    "JP": null,
+    "CN": "天使之床",
+    "TW": "天使之床",
+    "NA": "Angel's Bed",
+    "KR": "천사의 침대"
+  },
+  "天使の剣": {
+    "JP": null,
+    "CN": "天使之剑",
+    "TW": "天使之劍",
+    "NA": "Angel's Sword",
+    "KR": null
+  },
+  "天帝の貴妃": {
+    "JP": null,
+    "CN": "天帝的贵妃",
+    "TW": "天帝的貴妃",
+    "NA": "Imperial Consort of the Heavenly Emperor",
+    "KR": "천제의 귀비"
+  },
+  "天狗ノ羽団扇": {
+    "JP": null,
+    "CN": "天狗的羽团扇",
+    "TW": "天狗之羽團扇",
+    "NA": "Tengu's Fan",
+    "KR": "텐구의 깃털부채"
+  },
+  "太母を背負うもの": {
+    "JP": null,
+    "CN": "背负祖母的存在",
+    "TW": "背負太母的存在",
+    "NA": "One Who Shoulders the Mother Goddess",
+    "KR": "태모를 업는 자"
+  },
+  "太陽の乙女狼": {
+    "JP": null,
+    "CN": "太阳之少女狼",
+    "TW": "太陽少女狼",
+    "NA": "She-Wolf of the Sun",
+    "KR": "태양의 소녀 늑대"
+  },
+  "失落の棺": {
+    "JP": null,
+    "CN": "失落之棺",
+    "TW": "失落之棺",
+    "NA": "Coffin of the Fall",
+    "KR": "실락의 관"
+  },
+  "女帝ヘルメット": {
+    "JP": null,
+    "CN": "女帝头盔",
+    "TW": "女帝頭盔",
+    "NA": "Empress' Helmet",
+    "KR": null
+  },
+  "妖気漂う大骨刀": {
+    "JP": null,
+    "CN": "散发着妖气的大骨刀",
+    "TW": "妖氣浮動的大骨刀",
+    "NA": "Large Bone Blade Wafting in Ghastly Air",
+    "KR": null
+  },
+  "妖獣の呪符": {
+    "JP": null,
+    "CN": "妖兽的符咒",
+    "TW": "妖獸的符咒",
+    "NA": "Bestial Talisman",
+    "KR": "요수의 부적"
+  },
+  "妖精王の冠": {
+    "JP": null,
+    "CN": "妖精王之冠",
+    "TW": "妖精王之冠",
+    "NA": "Crown of the Faerie King",
+    "KR": null
+  },
+  "姉なる聖女の従者": {
+    "JP": null,
+    "CN": "圣女姐姐的从者",
+    "TW": "姐姐般的聖女的隨從",
+    "NA": "Big Sister Holy Maiden's Squire",
+    "KR": "언니이자 성녀의 종자"
+  },
+  "始まりと終わりの剣": {
+    "JP": null,
+    "CN": "起始与终结之剑",
+    "TW": "起始與終結之劍",
+    "NA": "Sword of Beginning and End",
+    "KR": "시작과 끝의 검"
+  },
+  "姫路コウモリ": {
+    "JP": null,
+    "CN": "姬路蝙蝠",
+    "TW": "姬路蝙蝠",
+    "NA": "Himeji Bat",
+    "KR": "히메지 박쥐"
+  },
+  "子を救いし英雄の弩": {
+    "JP": null,
+    "CN": "救子英雄之弩",
+    "TW": "救子英雄之弩",
+    "NA": "Child-Rescuing Hero's Crossbow",
+    "KR": null
+  },
+  "宇宙の天秤": {
+    "JP": null,
+    "CN": "宇宙天秤",
+    "TW": "宇宙天秤",
+    "NA": "Balance Scale of the Universe",
+    "KR": "우주의 천칭"
+  },
+  "富を運ぶもの": {
+    "JP": null,
+    "CN": "运财者",
+    "TW": "運財者",
+    "NA": "The One Bearing Fortune",
+    "KR": "부를 나르는 자"
+  },
+  "対セイバー用決戦兵器": {
+    "JP": null,
+    "CN": "对Saber用决战兵器",
+    "TW": "對Saber用決戰兵器",
+    "NA": "Anti-Saber Weapon",
+    "KR": "대 세이버용 결전병기"
+  },
+  "対魔術装甲ロケラン": {
+    "JP": null,
+    "CN": "对魔术装甲火箭筒",
+    "TW": "對魔術裝甲火箭筒",
+    "NA": "Anti-Magecraft Armor Rocket Launcher",
+    "KR": null
+  },
+  "尾張の大うつけ": {
+    "JP": null,
+    "CN": "尾张的大笨蛋",
+    "TW": "尾張的大傻瓜",
+    "NA": "The Great Fool of Owari",
+    "KR": "오와리의 얼간이"
+  },
+  "巨人の穴倉の紋章": {
+    "JP": null,
+    "CN": "巨人地窖的纹章",
+    "TW": "巨人地窖的紋章",
+    "NA": "Crest of the Titan's Pit ",
+    "KR": "거인의 움막의 문장"
+  },
+  "幻想の鉄処女": {
+    "JP": null,
+    "CN": "幻象的铁处女",
+    "TW": "幻想鐵處女",
+    "NA": "Phantom Maiden",
+    "KR": "환상의 강철처녀"
+  },
+  "征服王の戦車": {
+    "JP": null,
+    "CN": "征服王的战车",
+    "TW": null,
+    "NA": "Conqueror's Chariot",
+    "KR": null
+  },
+  "微睡む爆弾": {
+    "JP": null,
+    "CN": "浅眠炸弹",
+    "TW": "淺眠炸彈",
+    "NA": "Ticktock Bomb",
+    "KR": "졸고 있는 폭탄"
+  },
+  "心緋き臣下の令印": {
+    "JP": null,
+    "CN": "赤心臣下的令印",
+    "TW": "赤心臣下的令印",
+    "NA": "The Crimson-Hearted Liege's Command Seal",
+    "KR": "마음 붉은 신하의 영인"
+  },
+  "恋する月の女神": {
+    "JP": null,
+    "CN": "恋爱的月之女神",
+    "TW": "戀愛中的月之女神",
+    "NA": "The Moon Goddess in Love",
+    "KR": "사랑하는 달의 여신"
+  },
+  "恋人たちの聖骸布": {
+    "JP": null,
+    "CN": "恋人们的圣骸布",
+    "TW": "戀人們的聖骸布",
+    "NA": "Holy Shroud of Lovers",
+    "KR": "연인들의 성해포"
+  },
+  "愉快な仲間たち": {
+    "JP": null,
+    "CN": "愉快的伙伴们",
+    "TW": "愉快的夥伴們",
+    "NA": "Delightful Companions",
+    "KR": "유쾌한 동료들"
+  },
+  "愛と行動と知恵の槍": {
+    "JP": null,
+    "CN": "爱与行动与智慧之枪",
+    "TW": "愛與行動與智慧之槍",
+    "NA": "Spear of Love, Action, and Wisdom",
+    "KR": "사랑과 행동과 지혜의 창"
+  },
+  "愛の狩人": {
+    "JP": null,
+    "CN": "爱之猎人",
+    "TW": "愛的獵人",
+    "NA": "Love Hunter",
+    "KR": "사랑의 사냥꾼"
+  },
+  "愛知らぬ哀しき竜": {
+    "JP": null,
+    "CN": "不识爱的悲哀之龙",
+    "TW": "不懂愛的悲哀之龍",
+    "NA": "Tragic Dragonkin Who Knew Naught of Love",
+    "KR": "사랑을 모르는 가엾은 용"
+  },
+  "慈眼温容の尼僧": {
+    "JP": null,
+    "CN": "慈眉善目的尼僧",
+    "TW": "慈眉善目的尼僧",
+    "NA": "The Nun with a Bodhisattva's Merciful Gaze",
+    "KR": "자안온용의 이승"
+  },
+  "授かりの英雄": {
+    "JP": null,
+    "CN": "天授的英雄",
+    "TW": "天授的英雄",
+    "NA": "Hero of the Endowed",
+    "KR": "축복받는 영웅"
+  },
+  "放生月毛": {
+    "JP": null,
+    "CN": "放生月毛",
+    "TW": "放生月毛",
+    "NA": "Houshou Tsukige",
+    "KR": "호쇼츠키게"
+  },
+  "日輪の寵姫": {
+    "JP": null,
+    "CN": "日轮的宠姬",
+    "TW": "日輪的寵姬",
+    "NA": "Consort of the Sun",
+    "KR": "일륜의 총희"
+  },
+  "星の海の航海証": {
+    "JP": null,
+    "CN": "星之海的航海证",
+    "TW": "星之海的航海證",
+    "NA": "Starry Sea Voyage Certificate",
+    "KR": "별의 바다의 항해증"
+  },
+  "星断ちの邪聖剣": {
+    "JP": null,
+    "CN": "断星的邪圣剑",
+    "TW": "斷星的邪聖劍",
+    "NA": "Star-Severing Evil Sacred Sword",
+    "KR": "별을 베는 사성검"
+  },
+  "書庫の王": {
+    "JP": null,
+    "CN": "书库之王",
+    "TW": null,
+    "NA": "King of the Library",
+    "KR": null
+  },
+  "最果てに臨む大王": {
+    "JP": null,
+    "CN": "君临尽头的大王",
+    "TW": "君臨盡頭的大王",
+    "NA": "Great King that Looks Upon the Farthest Ends",
+    "KR": "땅끝에 임하는 대왕"
+  },
+  "未青き幻想の令印": {
+    "JP": null,
+    "CN": "尚青幻想的令印",
+    "TW": "尚青幻想的令印",
+    "NA": "The Inexperienced Fantasy's Command Seal ",
+    "KR": "아직 푸른 환상의 영인"
+  },
+  "森域の魔獣": {
+    "JP": null,
+    "CN": "森域魔兽",
+    "TW": "森域的魔獸",
+    "NA": "Demonic Beast of the Forest",
+    "KR": "삼역의 마수"
+  },
+  "標剣仗": {
+    "JP": null,
+    "CN": "标剑仗",
+    "TW": "標劍仗",
+    "NA": "Sword of Mishirushi",
+    "KR": "미시루시노츠루기"
+  },
+  "武成王": {
+    "JP": null,
+    "CN": "武成王",
+    "TW": "武成王",
+    "NA": "Prince Wucheng",
+    "KR": null
+  },
+  "浪漫なる槍": {
+    "JP": null,
+    "CN": "浪漫之枪",
+    "TW": "浪漫之槍",
+    "NA": "Spear of Romance",
+    "KR": "낭만의 창"
+  },
+  "浮世蛸": {
+    "JP": null,
+    "CN": "浮世蛸",
+    "TW": "浮世蛸",
+    "NA": "Ukiyoctopus",
+    "KR": "부세소"
+  },
+  "淡青き尸者の令印": {
+    "JP": null,
+    "CN": "淡青尸者的令印",
+    "TW": "淡藍色屍者的令印",
+    "NA": "The Pale Blue Elysian's Command Spell",
+    "KR": "연청색 시신의 영인"
+  },
+  "深淵の神殿騎士": {
+    "JP": null,
+    "CN": "深渊神殿骑士",
+    "TW": "深淵的神殿騎士",
+    "NA": "Knight Templar of the Abyss",
+    "KR": "심연의 신전기사"
+  },
+  "火車の絵筆": {
+    "JP": null,
+    "CN": "日轮的画笔",
+    "TW": "日輪的畫筆",
+    "NA": "Sunflower Paintbrush",
+    "KR": "화차의 그림 붓"
+  },
+  "無償なる愛の伝道者": {
+    "JP": null,
+    "CN": "无偿之爱的传道者",
+    "TW": "無償之愛的傳道者",
+    "NA": "Preacher of Unconditional Love",
+    "KR": "무상의 사랑의 전도자"
+  },
+  "無形の匣": {
+    "JP": null,
+    "CN": "无形之匣",
+    "TW": "無形之匣",
+    "NA": "Spiritual Cube",
+    "KR": "무형의 상자"
+  },
+  "無敵の一ちゃん": {
+    "JP": null,
+    "CN": "无敌的小一",
+    "TW": "無敵阿一",
+    "NA": "The Invincible Hajime-chan",
+    "KR": "무적의 하지메짱"
+  },
+  "煩悩必滅の杵": {
+    "JP": null,
+    "CN": "烦恼必灭之杵",
+    "TW": "煩惱必滅之杵",
+    "NA": "Vajra that Annihilates Desire",
+    "KR": "번뇌필멸의 저"
+  },
+  "王勇示す輝剣": {
+    "JP": null,
+    "CN": "彰显王威的辉剑",
+    "TW": "彰顯王威的輝劍",
+    "NA": "Radiant Sword that Exemplifies the King's Heroics",
+    "KR": null
+  },
+  "理想を刻する王の鑿": {
+    "JP": null,
+    "CN": "雕刻理想的王之凿",
+    "TW": "刻畫理想的王之鑿",
+    "NA": "Pygmalion Chisel-Out",
+    "KR": "이상을 조각하는 왕의 끌"
+  },
+  "画狂の大筆": {
+    "JP": null,
+    "CN": "画狂的大笔",
+    "TW": "畫狂的大筆",
+    "NA": "Brush of a Mad Painter",
+    "KR": "화광의 큰 붓"
+  },
+  "白き器の令印": {
+    "JP": null,
+    "CN": "白色器物的令印",
+    "TW": "白色器物的令印",
+    "NA": "White Vessel's Command Seal",
+    "KR": "하얀 그릇의 영인"
+  },
+  "白薔薇の花嫁": {
+    "JP": null,
+    "CN": "白蔷薇的新娘",
+    "TW": "白薔薇的新娘",
+    "NA": "Bride of the White Rose",
+    "KR": "백장미의 신부"
+  },
+  "真紅き仙女の令印": {
+    "JP": null,
+    "CN": "真红仙女的令印",
+    "TW": "真紅仙女的令印",
+    "NA": "The Crimson Fairy's Command Seal",
+    "KR": "진홍색 선녀의 영인"
+  },
+  "石の鳥の紋章": {
+    "JP": null,
+    "CN": "石鸟的纹章",
+    "TW": "石鳥的紋章",
+    "NA": "Crest of the Stone Bird",
+    "KR": "돌로 된 새의 문장"
+  },
+  "砂の海の蜃気楼": {
+    "JP": null,
+    "CN": "沙海的海市蜃楼",
+    "TW": "沙海中的海市蜃樓",
+    "NA": "Mirage on the Sea of Sands",
+    "KR": null
+  },
+  "破壊する星": {
+    "JP": null,
+    "CN": "破坏之星",
+    "TW": "破壞之星",
+    "NA": "The Destructive Star",
+    "KR": "파괴하는 별"
+  },
+  "破壊と創造のつるはし": {
+    "JP": null,
+    "CN": "破坏与创造的镐头",
+    "TW": "破壞與創造的鎬頭",
+    "NA": "Pickaxe of Creation and Destruction",
+    "KR": null
+  },
+  "碧き霊子の令印": {
+    "JP": null,
+    "CN": "碧色灵子的令印",
+    "TW": "碧色靈子的令印",
+    "NA": "Azure Spiritron Command Spell",
+    "KR": "푸른 영자의 영인"
+  },
+  "神打ちのめす鞭": {
+    "JP": null,
+    "CN": "打垮神之鞭",
+    "TW": "打倒神之鞭",
+    "NA": "Rod that Knocks Down Deities",
+    "KR": "신을 때려눕히는 철편"
+  },
+  "神縫いの鎖": {
+    "JP": null,
+    "CN": "缝神之锁",
+    "TW": "縫神之鎖",
+    "NA": "God-Binding Chain",
+    "KR": "신을 옭아매는 사슬"
+  },
+  "空中庭園の女帝": {
+    "JP": null,
+    "CN": "空中庭园的女帝",
+    "TW": "空中庭園的女帝",
+    "NA": "Empress of the Hanging Gardens",
+    "KR": "공중정원의 여제"
+  },
+  "窮地のお供": {
+    "JP": null,
+    "CN": "困境之伴",
+    "TW": "困境的陪伴",
+    "NA": "Companion During a Predicament",
+    "KR": null
+  },
+  "竜の聖女の杖": {
+    "JP": null,
+    "CN": "龙之圣女之杖",
+    "TW": "龍之聖女的手杖",
+    "NA": "Staff of the Dragon Holy Maiden",
+    "KR": "용의 성녀의 지팡이"
+  },
+  "竜殺しの剣": {
+    "JP": null,
+    "CN": "屠龙之剑",
+    "TW": "屠龍之劍",
+    "NA": "Dragon-Slayer's Sword",
+    "KR": "용살자의 검"
+  },
+  "竜爪は湖光の如く": {
+    "JP": null,
+    "CN": "龙爪如湖光",
+    "TW": "龍爪如湖光般",
+    "NA": "Dragon Claws Like the Lake's Light",
+    "KR": "용의 발톱은 호광과 같이"
+  },
+  "紅玉の書": {
+    "JP": null,
+    "CN": "红玉之书",
+    "TW": "紅玉之書",
+    "NA": "Crimson Codex",
+    "KR": null
+  },
+  "細身造りの名刀": {
+    "JP": null,
+    "CN": "窄身锻造的名刀",
+    "TW": "窄身鍛造的名刀",
+    "NA": "Fine Sword",
+    "KR": "얇게 벼린 명도"
+  },
+  "終焉の大木馬": {
+    "JP": null,
+    "CN": "终焉的大木马",
+    "TW": "終焉的大木馬",
+    "NA": "Troia Híppos",
+    "KR": "종언의 대목마"
+  },
+  "羅竜の面": {
+    "JP": null,
+    "CN": "罗龙面具",
+    "TW": "羅龍面具",
+    "NA": "Luo Long Mask",
+    "KR": "나룡의 가면"
+  },
+  "聖夜の極光": {
+    "JP": null,
+    "CN": "圣夜的极光",
+    "TW": "聖夜的極光",
+    "NA": "The Holy Night's Aurora",
+    "KR": "성야의 극광"
+  },
+  "聖夜を担うトナカイ帽": {
+    "JP": null,
+    "CN": "承担圣夜的驯鹿帽",
+    "TW": "承載聖夜的馴鹿之帽",
+    "NA": "Reindeer Hat that Bears the Holy Night",
+    "KR": null
+  },
+  "良妻賢狐": {
+    "JP": null,
+    "CN": "贤妻良狐",
+    "TW": "賢妻良狐",
+    "NA": "Good Wife, Wise Fox",
+    "KR": "양처현호"
+  },
+  "花の魔術師": {
+    "JP": null,
+    "CN": "花之魔术师",
+    "TW": "花之魔術師",
+    "NA": "Mage of Flowers",
+    "KR": "꽃의 마술사"
+  },
+  "葵き魔女の令印": {
+    "JP": null,
+    "CN": "藤紫色魔女的令印",
+    "TW": "藤紫色魔女的令印",
+    "NA": "The Aconite Witch's Command Seal",
+    "KR": "푸른 마녀의 영인"
+  },
+  "薄紅き虚像の令印": {
+    "JP": null,
+    "CN": "淡红色虚像的令印",
+    "TW": "淡紅色虛像的令印",
+    "NA": "The Disillusioned Blossom's Command Seal",
+    "KR": "연분홍빛 허상의 영인"
+  },
+  "藤香る御局": {
+    "JP": null,
+    "CN": "藤香御局",
+    "TW": "藤香御局",
+    "NA": "Wisteria-Scented Lady of the Court",
+    "KR": "등나무 향기 나는 시녀의 방"
+  },
+  "虚数羅針盤": {
+    "JP": null,
+    "CN": "虚数罗盘",
+    "TW": "虛數指南針",
+    "NA": "Zero Compass",
+    "KR": "허수나침반"
+  },
+  "蛇王の霊薬": {
+    "JP": null,
+    "CN": "蛇王的灵药",
+    "TW": null,
+    "NA": "Elixir of the Naga King",
+    "KR": null
+  },
+  "蛇遣いのマスク": {
+    "JP": null,
+    "CN": "蛇夫的面具",
+    "TW": "蛇使的面具",
+    "NA": "Snake Charmer Mask",
+    "KR": null
+  },
+  "行き場なき愛の刃": {
+    "JP": null,
+    "CN": "流离失所的爱之刃",
+    "TW": "無處可去的愛之刃",
+    "NA": "Aimless Blade of Love",
+    "KR": "갈 곳 없는 사랑의 칼날"
+  },
+  "謎の仮面": {
+    "JP": null,
+    "CN": "迷之假面",
+    "TW": "謎之面具",
+    "NA": "Mysterious Mask",
+    "KR": "수수께끼의 가면"
+  },
+  "貴方の忠実なる羊": {
+    "JP": null,
+    "CN": "您忠实的羊",
+    "TW": "您忠心的羊",
+    "NA": "Your Faithful Sheep",
+    "KR": "당신의 충실한 양"
+  },
+  "赤い唐傘": {
+    "JP": null,
+    "CN": "红色唐伞",
+    "TW": "紅色唐傘",
+    "NA": "Red Karakasa",
+    "KR": null
+  },
+  "赤い革ジャン": {
+    "JP": null,
+    "CN": "红色的皮夹克",
+    "TW": null,
+    "NA": "Red Leather Jacket",
+    "KR": null
+  },
+  "赤き宝石嬢の令印": {
+    "JP": null,
+    "CN": "赤色宝石小姐的令印",
+    "TW": "赤色寶石小姐的令印",
+    "NA": "Red Gem Lady's Command Seal",
+    "KR": "붉은 보석 아가씨의 영인"
+  },
+  "赫き髭紳士の令印": {
+    "JP": null,
+    "CN": "赫须绅士的令印",
+    "TW": "鬍子紳士的閃耀令印",
+    "NA": "The Bearded Scarlet Gentleman's Command Seal",
+    "KR": "빛나는 수염 신사의 영인"
+  },
+  "金色の三叉矛": {
+    "JP": null,
+    "CN": "金色三叉戟",
+    "TW": "金色三叉戟",
+    "NA": "Golden Trident",
+    "KR": null
+  },
+  "銀鍵の巫女": {
+    "JP": null,
+    "CN": "银钥的巫女",
+    "TW": "銀鑰之巫女",
+    "NA": "Priestess of the Silver Key",
+    "KR": "은열쇠의 무녀"
+  },
+  "開闢の理": {
+    "JP": null,
+    "CN": "开辟之理",
+    "TW": "開闢之理",
+    "NA": "Law of Creation",
+    "KR": "개벽의 이치"
+  },
+  "閻魔亭の丁稚たち": {
+    "JP": null,
+    "CN": "阎魔亭的学徒们",
+    "TW": "閻魔亭的學徒們",
+    "NA": "Enma-tei's Appren-chirps",
+    "KR": "염마정의 수습생들"
+  },
+  "隕鉄の鞴": {
+    "JP": null,
+    "CN": "陨铁之鞴",
+    "TW": "隕鐵之鞴",
+    "NA": "Meteor Iron Bellows",
+    "KR": "운철의 풀무"
+  },
+  "障害たる蛇竜": {
+    "JP": null,
+    "CN": "化身障碍之蛇龙",
+    "TW": "障礙之蛇龍",
+    "NA": "The Obstructive Serpent Dragon",
+    "KR": null
+  },
+  "雀の宿の女将さん": {
+    "JP": null,
+    "CN": "雀之旅馆的老板娘",
+    "TW": "雀之旅館的老闆娘",
+    "NA": "Sparrow's Inn's Proprietress",
+    "KR": "참새 여관의 여주인"
+  },
+  "雨と星の童話": {
+    "JP": null,
+    "CN": "雨与星之童话",
+    "TW": "雨與星之童話",
+    "NA": "A Fairy Tale of Rain and Stars",
+    "KR": "비와 별의 동화"
+  },
+  "雪の嬰児の戦友": {
+    "JP": null,
+    "CN": "雪之婴儿的战友",
+    "TW": "雪之嬰兒的戰友",
+    "NA": "Comrade of the Snow Child",
+    "KR": "눈의 영아의 전우"
+  },
+  "雪原の嬰児": {
+    "JP": null,
+    "CN": "雪原的婴儿",
+    "TW": "雪原的嬰兒",
+    "NA": "Child of the Tundra",
+    "KR": "설원의 영아"
+  },
+  "雷霆運ぶ天の馬": {
+    "JP": null,
+    "CN": "搬运雷霆的天马",
+    "TW": "帶來雷霆的天馬",
+    "NA": "Thunder-Wielding Pegasus",
+    "KR": null
+  },
+  "電磁三味線": {
+    "JP": null,
+    "CN": "电磁三味线",
+    "TW": "電磁三味線",
+    "NA": "Electromagnetic Shamisen",
+    "KR": "전자 샤미센"
+  },
+  "青の巨牛": {
+    "JP": null,
+    "CN": "蓝色巨牛",
+    "TW": "藍色巨牛",
+    "NA": "Big Blue Ox",
+    "KR": "푸른 황소"
+  },
+  "青龍の九節棍": {
+    "JP": null,
+    "CN": "青龙九节棍",
+    "TW": "青龍九節棍",
+    "NA": "Nine-Sectioned Staff of the Azure Dragon",
+    "KR": "청룡 구절곤"
+  },
+  "鞍馬の申し子": {
+    "JP": null,
+    "CN": "鞍马的天才",
+    "TW": "鞍馬的奇才",
+    "NA": "Heaven-Sent Kurama Child",
+    "KR": "쿠라마의 아이"
+  },
+  "風神の子": {
+    "JP": null,
+    "CN": "风神之子",
+    "TW": null,
+    "NA": "Son of the Wind God",
+    "KR": null
+  },
+  "鬼の副長": {
+    "JP": null,
+    "CN": "鬼之副长",
+    "TW": "鬼之副長",
+    "NA": "Demon Vice Commander",
+    "KR": "귀신 부장"
+  },
+  "魔を討つ刃": {
+    "JP": null,
+    "CN": "讨魔之刃",
+    "TW": null,
+    "NA": "Demon Slaying Blade",
+    "KR": null
+  },
+  "魔王銃": {
+    "JP": null,
+    "CN": "魔王铳",
+    "TW": "魔王槍",
+    "NA": "Demon King's Gun",
+    "KR": "마왕총"
+  },
+  "魔神のランプ": {
+    "JP": null,
+    "CN": "魔神油灯",
+    "TW": "魔神油燈",
+    "NA": "Lamp of the Djinn",
+    "KR": "마신의 램프"
+  },
+  "鶴誓相聞歌": {
+    "JP": null,
+    "CN": "鹤誓相闻歌",
+    "TW": "鶴誓相聞歌",
+    "NA": "Love Poems of the Crane's Vows",
+    "KR": null
+  },
+  "黄昏の魔竜": {
+    "JP": null,
+    "CN": "黄昏的魔龙",
+    "TW": "黃昏的魔龍",
+    "NA": "Demonic Dragon of Twilight",
+    "KR": "황혼의 마룡"
+  },
+  "黒き信徒の令印": {
+    "JP": null,
+    "CN": "黑色信徒的令印",
+    "TW": "黑色信徒的令印",
+    "NA": "The Dark Disciple's Command Seal",
+    "KR": "검은 신도의 영인"
+  },
+  "鼠浄土の住人たち": {
+    "JP": null,
+    "CN": "鼠净土的居民们",
+    "TW": "鼠淨土的居民們",
+    "NA": "Residents of the Rat Pure Land",
+    "KR": null
+  },
+  "ＢＢスロット": {
+    "JP": null,
+    "CN": "BB老虎机",
+    "TW": "BB老虎機",
+    "NA": "BB Slots",
+    "KR": "BB 슬롯"
+  },
+  "ＫＭＲ３０００－ＭＨ": {
+    "JP": null,
+    "CN": "KMR3000－MH",
+    "TW": "KMR3000－MH",
+    "NA": "KMR3000-MH",
+    "KR": null
+  },
+  "スプラッシュレインボーな少女": {
+    "JP": null,
+    "CN": "喷射虹彩的少女",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プレジデントな記念バッヂ": {
+    "JP": null,
+    "CN": "总统式纪念徽章",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "極北女王の杖": {
+    "JP": null,
+    "CN": "极北女王之杖",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  }
+}
