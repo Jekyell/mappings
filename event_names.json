@@ -16,77 +16,77 @@
   "10周年礼装交換ショップ〔アサシン〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Assassin〕",
-    "TW": "10週年禮裝兌換商店〔Assassin〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Assassin)",
     "KR": null
   },
   "10周年礼装交換ショップ〔アーチャー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Archer〕",
-    "TW": "10週年禮裝兌換商店〔Archer〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Archer)",
     "KR": null
   },
   "10周年礼装交換ショップ〔エクストラⅠ〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Extra Ⅰ〕",
-    "TW": "10週年禮裝兌換商店〔Extra Ⅰ〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Extra Ⅰ)",
     "KR": null
   },
   "10周年礼装交換ショップ〔エクストラⅡ〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Extra Ⅱ〕",
-    "TW": "10週年禮裝兌換商店〔Extra Ⅱ〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Extra Ⅱ)",
     "KR": null
   },
   "10周年礼装交換ショップ〔キャスター〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Caster〕",
-    "TW": "10週年禮裝兌換商店〔Caster〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Caster)",
     "KR": null
   },
   "10周年礼装交換ショップ〔セイバー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Saber〕",
-    "TW": "10週年禮裝兌換商店〔Saber〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Saber)",
     "KR": null
   },
   "10周年礼装交換ショップ〔バーサーカー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Berserker〕",
-    "TW": "10週年禮裝兌換商店〔Berserker〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Berserker)",
     "KR": null
   },
   "10周年礼装交換ショップ〔ライダー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Rider〕",
-    "TW": "10週年禮裝兌換商店〔Rider〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Rider)",
     "KR": null
   },
   "10周年礼装交換ショップ〔ランサー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Lancer〕",
-    "TW": "10週年禮裝兌換商店〔Lancer〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (Lancer)",
     "KR": null
   },
   "10周年礼装交換ショップ〔全クラス〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔全职阶〕",
-    "TW": "10週年禮裝兌換商店〔全職階〕",
+    "TW": null,
     "NA": "10th Anniversary Craft Essence Exchange Shop (All Class)",
     "KR": null
   },
   "10周年記念メモリアルクエスト": {
     "JP": null,
     "CN": "10周年纪念回忆关卡",
-    "TW": "10週年紀念回憶任務",
+    "TW": null,
     "NA": "10th Anniversary Memorial Quest",
     "KR": null
   },
@@ -228,7 +228,7 @@
     "CN": "2024年新年活动 抽签登录奖励",
     "TW": "2024年新年活動 抽籤登入獎勵",
     "NA": "New Year's 2024 Campaign Omikuji Login Bonus",
-    "KR": "가을 축제 캠페인 운세 뽑기 로그인 보너스"
+    "KR": null
   },
   "2025年お正月キャンペーン": {
     "JP": null,
@@ -325,13 +325,6 @@
     "JP": null,
     "CN": "3100万下载突破纪念活动",
     "TW": "3100萬下載突破紀念活動",
-    "NA": null,
-    "KR": null
-  },
-  "3200万DL突破キャンペーン": {
-    "JP": null,
-    "CN": "3200万下载突破纪念活动",
-    "TW": "3200萬下載突破紀念活動",
     "NA": null,
     "KR": null
   },
@@ -751,7 +744,7 @@
   "Fate/Grand Order ～10th Anniversary～": {
     "JP": null,
     "CN": "Fate/Grand Order ～10th Anniversary～",
-    "TW": "Fate/Grand Order ～10th Anniversary～",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -803,55 +796,6 @@
     "TW": "「Fate/stay night」關聯從者的友情點獲得量2倍",
     "NA": "Certain Servants FP x2",
     "KR": "Fate/stay night 관련 서번트 획득 FP 2배"
-  },
-  "Final Order Project [Lostbelt No.1]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.1]通关应援活动",
-    "TW": "Final Order Project [Lostbelt No.1]通關應援活動",
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.2]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.2]通关应援活动",
-    "TW": "Final Order Project [Lostbelt No.2]通關應援活動",
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.3]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.3]通关应援活动",
-    "TW": "Final Order Project [Lostbelt No.3]通關應援活動",
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.4]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.4]通关应援活动",
-    "TW": "Final Order Project [Lostbelt No.4]通關應援活動",
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.5]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.5]通关应援活动",
-    "TW": "Final Order Project [Lostbelt No.5]通關應援活動",
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.6]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.6]通关应援活动",
-    "TW": "Final Order Project [Lostbelt No.6]通關應援活動",
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.7]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.7]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
   },
   "Road to 7 [Lostbelt No.1]": {
     "JP": null,
@@ -1052,7 +996,7 @@
   "「7月ボックスイベント」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「7月无限池活动」开幕前夕纪念活动",
-    "TW": "「7月無限池活動」開幕前夕紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -1341,7 +1285,7 @@
     "CN": "「Fate/EXTELLA LINK」特别纪念关卡",
     "TW": "「Fate/EXTELLA LINK」特別紀念任務",
     "NA": "\"Fate/EXTELLA LINK\" Acquisition Quest",
-    "KR": "「Fate/EXTELLA LINK」발매 기념 퀘스트"
+    "KR": "「Fate/EXTELLA LINK」발매기념 퀘스트"
   },
   "「Fate/EXTELLA」発売記念キャンペーン": {
     "JP": null,
@@ -1486,7 +1430,7 @@
   "「Fate/Grand Order Fes. 2025 ～10th Anniversary～」カウントダウンキャンペーン": {
     "JP": null,
     "CN": "「Fate/Grand Order Fes. 2025 ～10th Anniversary～」倒计时纪念活动",
-    "TW": "「Fate/Grand Order Fes. 2025 ～10th Anniversary～」倒數計時紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -1535,7 +1479,7 @@
   "「Fate/Grand Order Servant Art Chronicle -最終再臨展-」 開催記念特別ログインボーナス": {
     "JP": null,
     "CN": "「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励",
-    "TW": "「Fate/Grand Order Servant Art Chronicle -最終再臨展-」 舉辦紀念特別登入獎勵",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -1990,34 +1934,20 @@
   "「OVER THE SAME SKY」実施記念ログインボーナス＆プレゼント": {
     "JP": null,
     "CN": "「OVER THE SAME SKY」实施纪念登录奖励＆礼物",
-    "TW": "「OVER THE SAME SKY」實施紀念登入獎勵＆禮物",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "「OVER THE SAME SKY」特別概念礼装交換ショップ": {
     "JP": null,
     "CN": "「OVER THE SAME SKY」特别概念礼装交换商店",
-    "TW": "「OVER THE SAME SKY」特別概念禮裝交換商店",
-    "NA": null,
-    "KR": null
-  },
-  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔AUGUST〕": {
-    "JP": null,
-    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔8月〕",
-    "TW": "「OVER THE SAME SKY」特別概念禮裝交換商店〔8月〕",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "「OVER THE SAME SKY」特別概念礼装交換ショップ〔JULY〕": {
     "JP": null,
     "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔7月〕",
-    "TW": "「OVER THE SAME SKY」特別概念禮裝交換商店〔7月〕",
-    "NA": null,
-    "KR": null
-  },
-  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔SEPTEMBER〕": {
-    "JP": null,
-    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -2263,35 +2193,21 @@
   "「冠位戴冠戦：Berserker」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「冠位戴冠战：Berserker」开幕前夕纪念活动",
-    "TW": "「冠位戴冠戰：Berserker」開幕前夕紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "「冠位戴冠戦：Extra」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「冠位戴冠战：Extra」开幕前夕纪念活动",
-    "TW": "「冠位戴冠戰：Extra」開幕前夕紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "「冠位戴冠戦：Lancer」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「冠位戴冠战：Lancer」开幕前夕纪念活动",
-    "TW": "「冠位戴冠戰：Lancer」開幕前夕紀念活動",
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Rider」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Rider」开幕前夕纪念活动",
-    "TW": "「冠位戴冠戰：Rider」開幕前夕紀念活動",
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Saber」＆「冠位戴冠戦：Berserker」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
-    "TW": "「冠位戴冠戰：Saber」＆「冠位戴冠戰：Berserker」Storm Pod消耗0！紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2347,7 +2263,7 @@
   "「大統領特異点」クリア応援キャンペーン 第2弾": {
     "JP": null,
     "CN": "「总统特异点」通关应援活动 第2弹",
-    "TW": "「大總統特異點」通關應援活動 第2彈",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2558,14 +2474,14 @@
     "JP": null,
     "CN": "「巡灵的祝祭 第4弹」关联从者 获得牵绊点数提升20%",
     "TW": "「巡靈的祝祭 第4彈」關聯從者 獲得羈絆點數提升20%",
-    "NA": "\"Pilgrimage Festival: Part 4\" Related Servant Bond Points 20% Up",
+    "NA": "\"Evocation Festival Part 4\" Related Servants Bond Points UP 20%",
     "KR": "‘순령의 축제 제4탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第4弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第4弹」关联从者 获得经验值2倍！",
     "TW": "「巡靈的祝祭 第4彈」關聯從者 獲得經驗值2倍！",
-    "NA": "\"Pilgrimage Festival: Part 4\" Related Servants 2X EXP!",
+    "NA": "\"Evocation Festival: Part 4\" Related Servants 2X EXP!",
     "KR": "‘순령의 축제 제4탄’ 관련 서번트 획득 경험치 2배!"
   },
   "「巡霊の祝祭 第5弾」関連サーヴァント 獲得絆ポイント 20%UP": {
@@ -2585,14 +2501,14 @@
   "「巡霊の祝祭 第6弾」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「巡灵的祝祭 第6弹」关联从者 获得牵绊点数提升20%",
-    "TW": "「巡靈的祝祭 第6彈」關聯從者 獲得羈絆點數提升20%",
+    "TW": "「巡靈的祝祭 第6彈」特定從者獲得羈絆量提升20%",
     "NA": "\"Evocation Festival Part 6\" Related Servants Bond Points UP 20%",
     "KR": "‘순령의 축제 제6탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第6弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第6弹」关联从者 获得经验值2倍！",
-    "TW": "「巡靈的祝祭 第6彈」關聯從者 獲得經驗值2倍！",
+    "TW": "「巡靈的祝祭 第6彈」特定從者獲得經驗值2倍！",
     "NA": "\"Evocation Festival: Part 6\" Related Servants 2X EXP!",
     "KR": "‘순령의 축제 제6탄’ 관련 서번트 획득 경험치 2배!"
   },
@@ -2630,13 +2546,6 @@
     "TW": "「巡靈的祝祭」關聯從者 獲得經驗值2倍！",
     "NA": "Pilgrimage Festival Related Servants 2X EXP!",
     "KR": "‘순령의 축제’ 관련 서번트 획득 경험치 2배!"
-  },
-  "「幕末チャンバラ神話 ぐだぐだ新選組･ジ･エンド REVENGE OF MAKOTO」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「幕末剑斗神话 唠唠叨叨新选组·THE·END REVENGE OF MAKOTO」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
   },
   "「復刻:カルデアボーイズコレクション2016」期間限定概念礼装プレゼントキャンペーン": {
     "JP": null,
@@ -2690,21 +2599,21 @@
   "「落涙の翼」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「落泪之翼」开幕前夕纪念活动",
-    "TW": "「落淚之翼」開幕前夕紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "「落涙の翼」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「落泪之翼」关联从者获得牵绊点提升20%",
-    "TW": "「落淚之翼」特定從者獲得羈絆點數提升20%",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "「落涙の翼」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
     "JP": null,
     "CN": "「落泪之翼」关联从者强化『大成功&极大成功』概率2倍！",
-    "TW": "「落淚之翼」特定從者強化『大成功&極大成功』機率2倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2852,7 +2761,7 @@
     "JP": null,
     "CN": "Assassin职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Assassin職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Assassin Class Super & Great Success Rate x2!",
+    "NA": "Assassin Class Great & Super Success x2!",
     "KR": "어쌔신 클래스 강화 “대성공&극대성공” 확률 2배!"
   },
   "アドバンスドクエスト 第10弾": {
@@ -2909,7 +2818,7 @@
     "CN": "进阶关卡 第17弹",
     "TW": "進階關卡 第17彈",
     "NA": "Advanced Quest: Part 17",
-    "KR": "어드밴스드 퀘스트 제17탄"
+    "KR": "어드밴스드 퀘스트 17탄"
   },
   "アドバンスドクエスト 第18弾": {
     "JP": null,
@@ -3041,7 +2950,7 @@
     "JP": null,
     "CN": "Archer职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Archer職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Archer Class Super & Great Success Rate x2!",
+    "NA": "Archer Class Servants Great & Super Success x2!",
     "KR": "아처 클래스 강화 “대성공&극대성공” 확률 2배!"
   },
   "イベント限定サーヴァント 獲得経験値2倍！": {
@@ -3061,21 +2970,14 @@
   "インドラの大試練 \n～巡るブロークン・スカイ～": {
     "JP": null,
     "CN": "因陀罗的大试炼 \n～巡游破碎的天空～",
-    "TW": "因陀羅的大試煉 \n～巡遊破碎的天空～",
-    "NA": null,
-    "KR": null
-  },
-  "エクストラクラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Extra职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": "Extra職階強化『大成功＆極大成功』機率3倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "エクストラクラス 獲得経験値2倍！": {
     "JP": null,
     "CN": "Extra职阶 获得经验值2倍！",
-    "TW": "Extra職階 獲得經驗值2倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -3225,20 +3127,6 @@
     "TW": "迦勒底．夏日冒險！ \n～追夢少年與懷夢少女～",
     "NA": "Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams",
     "KR": "칼데아 서머 어드벤처!\n~꿈을 좇는 소년과 꿈을 꾸는 소녀~"
-  },
-  "カルデア・Ｕ－サマーアイランド": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿",
-    "TW": "迦勒底・U－夏日島嶼",
-    "NA": null,
-    "KR": null
-  },
-  "カルデア・Ｕ－サマーアイランド \n～大統領は夏の夢を見るか？～": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 \n～总统会梦见夏天吗？～",
-    "TW": "迦勒底・U－夏日島嶼 \n～總統會夢見夏天嗎？～",
-    "NA": null,
-    "KR": null
   },
   "カルナ〔サンタ〕獲得経験値2倍！": {
     "JP": null,
@@ -3412,7 +3300,7 @@
     "JP": null,
     "CN": "Saber职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Saber職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Saber Class Super & Great Success Rate x2!",
+    "NA": "Saber Class Servants Great & Super Success x2!",
     "KR": "세이버 클래스 강화 “대성공&극대성공” 확률 2배!"
   },
   "セイバークラス 強化『大成功＆極大成功』率3倍！": {
@@ -3483,7 +3371,7 @@
     "CN": "尼莫〔圣诞〕获得经验值2倍！",
     "TW": "尼莫(Santa)獲得經驗值2倍！",
     "NA": "Nemo (Santa) 2X EXP!",
-    "KR": "네모[산타] 획득 경험치 2배!"
+    "KR": null
   },
   "ネロ祭": {
     "JP": null,
@@ -3600,14 +3488,14 @@
   "バーサーカークラス 強化『大成功＆極大成功』率3倍！": {
     "JP": null,
     "CN": "Berserker职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": "Berserker職階強化『大成功＆極大成功』機率3倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "バーサーカークラス 獲得経験値2倍！": {
     "JP": null,
     "CN": "Berserker职阶 获得经验值2倍！",
-    "TW": "Berserker職階獲得經驗值2倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -3615,7 +3503,7 @@
     "JP": null,
     "CN": "狂战士&Alterego职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Berserker&Alterego職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Berserker & Alter Ego Class Super & Great Success Rate x2!",
+    "NA": "Berserker & Alter Ego Class Great & Super Success x2!",
     "KR": "버서커&얼터에고 클래스 강화 “대성공&극대성공” 확률 2배!"
   },
   "パビリオンクエスト": {
@@ -3875,7 +3763,7 @@
     "CN": "大和武尊体验关卡",
     "TW": "日本武尊體驗關卡",
     "NA": "Yamato Takeru Trial Quest",
-    "KR": "야마토타케루 체험 퀘스트"
+    "KR": null
   },
   "ヤラアーンドゥ 獲得経験値2倍！": {
     "JP": null,
@@ -3895,22 +3783,8 @@
     "JP": null,
     "CN": "Rider职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Rider職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Rider Class Super & Great Success Rate x2!",
+    "NA": "Rider Class Great & Super Success x2!",
     "KR": "라이더 클래스 강화 “대성공&극대성공” 확률 2배!"
-  },
-  "ライダークラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Rider职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": "Rider職階強化『大成功＆極大成功』機率3倍！",
-    "NA": "Rider Class Super & Great Success Rate x3!",
-    "KR": "라이더 클래스 강화 “대성공&극대성공” 확률 3배!"
-  },
-  "ライダークラス 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "Rider职阶获得经验值2倍！",
-    "TW": "Rider職階獲得經驗值2倍！",
-    "NA": null,
-    "KR": null
   },
   "ランサークラス 強化『大成功＆極大成功』率2倍！": {
     "JP": null,
@@ -3922,14 +3796,14 @@
   "ランサークラス 強化『大成功＆極大成功』率3倍！": {
     "JP": null,
     "CN": "Lancer职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": "Lancer職階強化『大成功＆極大成功』機率3倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "ランサークラス 獲得経験値2倍！": {
     "JP": null,
     "CN": "Lancer职阶获得经验值2倍！",
-    "TW": "Lancer職階獲得經驗值2倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -4098,7 +3972,7 @@
     "JP": null,
     "CN": "开服3000日突破纪念活动",
     "TW": "迦勒底立秋特別紀念活動",
-    "NA": "3000 Days Anniversary Celebration Campaign",
+    "NA": "3000 Days Anniversary Campaign",
     "KR": null
   },
   "リリース300日突破キャンペーン": {
@@ -4146,14 +4020,7 @@
   "リリース3600日突破キャンペーン": {
     "JP": null,
     "CN": "上线3600日纪念活动",
-    "TW": "上線3600日紀念活動",
-    "NA": null,
-    "KR": null
-  },
-  "リリース3700日突破キャンペーン": {
-    "JP": null,
-    "CN": "上线3700日纪念活动",
-    "TW": "上線3700日紀念活動",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -4252,7 +4119,7 @@
     "JP": null,
     "CN": "旺吉娜·世界之旅！\n～与大精灵的环游世界～",
     "TW": "旺吉娜・世界之旅！\n～與大精靈的環遊世界～",
-    "NA": "The Great Spirit's World Tour!\nAround the World with the Esteemed Spirit",
+    "NA": "Wandjina World Tour!\n- Globe-Trotting with the Great Spirit",
     "KR": "완지나 월드 투어!\n~대정령과 함께하는 세계 일주~"
   },
   "ヴァン・ゴッホ〔マイナー〕 獲得経験値2倍！": {
@@ -4388,13 +4255,6 @@
     "NA": "Grand Duel: Lancer",
     "KR": null
   },
-  "冠位戴冠戦：Rider": {
-    "JP": null,
-    "CN": "冠位戴冠战：Rider",
-    "TW": "冠位戴冠戰：Rider",
-    "NA": "Grand Duel: Rider",
-    "KR": null
-  },
   "冠位戴冠戦：Saber": {
     "JP": null,
     "CN": "冠位戴冠战：Saber",
@@ -4479,20 +4339,6 @@
     "NA": "Senji Muramasa Trial Quest",
     "KR": "센지 무라마사 체험 퀘스트"
   },
-  "原田左之助獲得経験値2倍！": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "呼延灼（バーサーカー）獲得経験値2倍！": {
-    "JP": null,
-    "CN": "呼延灼（Berserker）获得经验值2倍！",
-    "TW": "呼延灼（Berserker）獲得經驗值2倍！",
-    "NA": null,
-    "KR": null
-  },
   "坂本龍馬獲得経験値2倍！": {
     "JP": null,
     "CN": "坂本龙马获得经验值2倍！",
@@ -4549,13 +4395,6 @@
     "NA": "The Great Tale of Demons: Onigashima",
     "KR": "텐마오토기조시 오니가시마"
   },
-  "失われた創世": {
-    "JP": null,
-    "CN": "失落的创世",
-    "TW": "失落的創世",
-    "NA": null,
-    "KR": null
-  },
   "妖精双六虫籠遊戯": {
     "JP": null,
     "CN": "妖精双六虫笼游戏",
@@ -4589,7 +4428,7 @@
     "CN": "宫本伊织获得经验值2倍！",
     "TW": "宮本伊織獲得經驗值2倍！",
     "NA": "Miyamoto Iori 2X EXP!",
-    "KR": "미야모토 이오리 획득 경험치 2배!"
+    "KR": null
   },
   "宮本武蔵体験クエスト": {
     "JP": null,
@@ -4693,13 +4532,6 @@
     "JP": null,
     "CN": "巡灵的祝祭 第9弹",
     "TW": "巡靈的祝祭 第9彈",
-    "NA": null,
-    "KR": null
-  },
-  "幕末チャンバラ神話 ぐだぐだ新選組・ジ・エンド \nREVENGE OF MAKOTO": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -5379,7 +5211,7 @@
     "JP": null,
     "CN": "兑换的★4(SR)从者限时在所有关卡攻击威力提升50%！",
     "TW": "兌換的★4(SR)從者限時在所有任務攻擊威力提升50%！",
-    "NA": "For a limited time, exchanged ★4 (SR) Servant's ATK Strength increase by 50% for all quests!",
+    "NA": "50% ATK Strength Up on the Exchanged ★4 (SR) Servant for a Limited Time!",
     "KR": null
   },
   "期間限定で交換した★5(SSR)サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
@@ -5504,7 +5336,7 @@
   "激走！川中島24時 ぐだぐだ超五稜郭\n殺しのサインはM51": {
     "JP": null,
     "CN": "疾驰！川中岛24小时 唠唠叨叨超五棱郭\n杀人讯号是M51",
-    "TW": "疾馳！川中島24小時 嘮嘮叨叨超五稜郭\n殺人信號是M51",
+    "TW": "激走！川中島24時 嘮嘮叨叨超五稜郭\n殺人信號是M51",
     "NA": "Full Speed Ahead! Kawanakajima in 24 Hours: GUDAGUDA Super Goryokaku\n- The Killer Sign is M51",
     "KR": "질주! 카와나카지마 24시 구다구다 슈퍼 고료카쿠\n살인의 사인은 M51"
   },
@@ -5513,7 +5345,7 @@
     "CN": "特定从者获得牵绊点提升20%",
     "TW": "特定從者獲得羈絆點數提升20%",
     "NA": "Certain Servants Bond Points UP 20%",
-    "KR": "특정 서번트 획득 인연 포인트 20% UP"
+    "KR": null
   },
   "特定サーヴァント『大成功＆極大成功』２倍！": {
     "JP": null,
@@ -5639,7 +5471,7 @@
     "CN": "盈月剑风帖",
     "TW": "盈月劍風帖",
     "NA": "Waxing Moon Clashing Swords Chronicles",
-    "KR": "영월검풍첩"
+    "KR": null
   },
   "神秘の国のＯＮＩＬＡＮＤ!! \n～鬼の王とカムイの黄金～": {
     "JP": null,
@@ -5905,7 +5737,7 @@
     "CN": "雪原的圣诞快乐2024\n～7days / 8years Snow Carol～",
     "TW": "雪原的聖誕快樂2023\n～7days / 8years Snow Carol～",
     "NA": "Merry Christmas in the Snowy Fields 2023\n- 7 Days / 8 Years Snow Carol",
-    "KR": "설원의 메리 크리스마스 2025\n~7days / 8years Snow Carol~"
+    "KR": null
   },
   "霊衣開放チケット": {
     "JP": null,
@@ -6005,142 +5837,170 @@
     "NA": "Event Bonus Servant 2X FP",
     "KR": "이벤트 대상 서번트 획득 FP 2배!"
   },
-  "落涙の翼": {
+  "エクストラクラス 強化『大成功＆極大成功』率3倍！": {
     "JP": null,
-    "CN": "落泪之翼",
+    "CN": "Extra职阶强化『大成功＆极大成功』概率3倍！",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "小野小町古今抄 ～雪消月のキラキラ蓮華～": {
+  "カルデア・Ｕ－サマーアイランド": {
     "JP": null,
-    "CN": "小野小町古今抄 ～雪消月之闪闪莲华～",
+    "CN": "迦勒底·U－夏日岛屿",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "聖杯戦線 ～白天の城、黒夜の城～": {
+  "カルデア・Ｕ－サマーアイランド \n～大統領は夏の夢を見るか？～": {
     "JP": null,
-    "CN": "圣杯战线 ～白昼之城、黑夜之城～",
+    "CN": "迦勒底·U－夏日岛屿 \n～总统会梦见夏天吗？～",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "奏章Ⅲ 新霊長後継戦 アーキタイプ・インセプション": {
+  "呼延灼（バーサーカー）獲得経験値2倍！": {
     "JP": null,
-    "CN": "奏章Ⅲ 新灵长继承战 原型创生",
+    "CN": "呼延灼（Berserker）获得经验值2倍！",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "監獄塔に復讐鬼は哭く": {
+  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔AUGUST〕": {
     "JP": null,
-    "CN": "监狱塔中复仇鬼在哭泣",
+    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔8月〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "復刻：ほぼ週間 サンタオルタさん ライト版": {
+  "3200万DL突破キャンペーン": {
     "JP": null,
-    "CN": "复刻：大约一周 黑呆毛圣诞老人 轻量版",
+    "CN": "3200万下载突破纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "いざ鎌倉にさよならを ～Little Big Tengu～": {
+  "ライダークラス 強化『大成功＆極大成功』率3倍！": {
     "JP": null,
-    "CN": "告别镰仓 ～Little Big Tengu～",
+    "CN": "Rider职阶强化『大成功＆极大成功』概率3倍！",
+    "TW": "Rider職階強化『大成功＆極大成功』機率3倍！",
+    "NA": "Rider Class Super & Great Success Rate x3!",
+    "KR": "라이더 클래스 강화 “대성공&극대성공” 확률 3배!"
+  },
+  "ライダークラス 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "Rider职阶获得经验值2倍！",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "非霊長生存圏 ツングースカ・サンクチュアリ": {
+  "失われた創世": {
     "JP": null,
-    "CN": "非灵长类生存圈 通古斯·圣域",
+    "CN": "失落的创世",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "ぐだぐだ明治維新": {
+  "Final Order Project [Lostbelt No.1]クリア応援キャンペーン": {
     "JP": null,
-    "CN": "咕哒咕哒明治维新",
+    "CN": "Final Order Project [Lostbelt No.1]通关应援活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "カルデア妖精騎士杯 ～二代目の凱旋～": {
+  "Final Order Project [Lostbelt No.2]クリア応援キャンペーン": {
     "JP": null,
-    "CN": "迦勒底妖精骑士杯 ～二代的凯旋～",
+    "CN": "Final Order Project [Lostbelt No.2]通关应援活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "惑う鳴鳳荘の考察": {
+  "Final Order Project [Lostbelt No.3]クリア応援キャンペーン": {
     "JP": null,
-    "CN": "困惑的鸣凤庄考察",
+    "CN": "Final Order Project [Lostbelt No.3]通关应援活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "失われた創世 未来からの方舟": {
+  "Final Order Project [Lostbelt No.4]クリア応援キャンペーン": {
     "JP": null,
-    "CN": "失落的创世 来自未来的方舟",
+    "CN": "Final Order Project [Lostbelt No.4]通关应援活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "連続活劇神話 ミシシッピ・ミササイザーズ": {
+  "「冠位戴冠戦：Rider」開幕直前キャンペーン": {
     "JP": null,
-    "CN": "连续活剧神话 密西西比·密西西比号",
+    "CN": "「冠位戴冠战：Rider」开幕前夕纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "15人の理知的なメガネたち": {
+  "冠位戴冠戦：Rider": {
     "JP": null,
-    "CN": "15位知性的眼镜们",
+    "CN": "冠位戴冠战：Rider",
+    "TW": "冠位戴冠戰：Rider",
+    "NA": "Grand Duel: Rider",
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.5]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.5]通关应援活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "バトル・イン・ニューヨーク 2019": {
+  "Final Order Project [Lostbelt No.6]クリア応援キャンペーン": {
     "JP": null,
-    "CN": "2019纽约之战",
+    "CN": "Final Order Project [Lostbelt No.6]通关应援活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "バトル・イン・ニューヨーク 2018": {
+  "リリース3700日突破キャンペーン": {
     "JP": null,
-    "CN": "2018纽约之战",
+    "CN": "上线3700日纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "二代目はオルタちゃん ～2016クリスマス～": {
+  "「冠位戴冠戦：Saber」＆「冠位戴冠戦：Berserker」ストーム･ポッド消費0！キャンペーン": {
     "JP": null,
-    "CN": "二代目是Alter酱 ～2016圣诞节～",
+    "CN": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "復刻：監獄塔に復讐鬼は哭く": {
+  "「幕末チャンバラ神話 ぐだぐだ新選組･ジ･エンド REVENGE OF MAKOTO」開幕直前キャンペーン": {
     "JP": null,
-    "CN": "复刻：复仇鬼在监狱塔哭泣",
+    "CN": "「幕末剑斗神话 唠唠叨叨新选组·THE·END REVENGE OF MAKOTO」开幕前夕纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "死想顕現界域 トラオム": {
+  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔SEPTEMBER〕": {
     "JP": null,
-    "CN": "死想显现界域 特劳姆",
+    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔9月〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
-  "星の三蔵ちゃん、天竺に行く": {
+  "Final Order Project [Lostbelt No.7]クリア応援キャンペーン": {
     "JP": null,
-    "CN": "星之三藏亲，前往天竺",
+    "CN": "Final Order Project [Lostbelt No.7]通关应援活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "原田左之助獲得経験値2倍！": {
+    "JP": null,
+    "CN": "原田左之助获得经验值2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "幕末チャンバラ神話 ぐだぐだ新選組・ジ・エンド \nREVENGE OF MAKOTO": {
+    "JP": null,
+    "CN": "幕末剑斗神话 唠唠叨叨新选组·THE·END \nREVENGE OF MAKOTO",
     "TW": null,
     "NA": null,
     "KR": null
