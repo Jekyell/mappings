@@ -1,0 +1,97 @@
+# 工作流名称
+name: Process Detail JSONs
+
+# 触发条件
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'skill_detail.json'
+      - 'td_detail.json'
+
+# 任务
+jobs:
+  process-json:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      # 1. 检出仓库代码
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # 2. 设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # 3. 将 Python 脚本写入一个临时文件
+      - name: Create Python processing script
+        run: |
+          cat > process_json.py <<-EOF
+          import json
+          import os
+          import sys
+
+          # *** 已修正：从 sys.argv 列表中获取第一个参数 (索引为 1) ***
+          input_file = sys.argv[1]
+          
+          output_dir = 'F_Replace'
+          output_file = os.path.join(output_dir, os.path.basename(input_file))
+
+          os.makedirs(output_dir, exist_ok=True)
+
+          print(f"Reading from {input_file}...")
+
+          try:
+            with open(input_file, 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          except Exception as e:
+            print(f"Error reading or parsing {input_file}: {e}")
+            sys.exit(0)
+
+          new_data = {}
+          processed_count = 0
+
+          for key, value in data.items():
+            if '▲' in key:
+              if isinstance(value, dict) and 'CN' in value and value['CN']:
+                new_data[key] = value['CN']
+                processed_count += 1
+          
+          if processed_count > 0:
+            print(f"Found and processed {processed_count} entries with '▲'.")
+            with open(output_file, 'w', encoding='utf-8') as f:
+              json.dump(new_data, f, ensure_ascii=False, indent=2)
+            print(f"Successfully created new file at {output_file}")
+          else:
+            print(f"No entries with '▲' found in {input_file}.")
+          EOF
+
+      # 4. 循环调用刚刚创建的 Python 脚本
+      - name: Process JSON files using the script
+        run: |
+          files_to_process="skill_detail.json td_detail.json"
+          
+          for filename in $files_to_process; do
+            if [ -f "$filename" ]; then
+              echo "--- Processing $filename ---"
+              python process_json.py "$filename"
+            else
+              echo "--- Skipping $filename (not found) ---"
+            fi
+          done
+
+      # 5. 一次性提交所有生成的文件
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[Automated] Update processed JSON files in F_Replace"
+          file_pattern: 'F_Replace/*.json'
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
