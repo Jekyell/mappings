@@ -1,0 +1,16 @@
+{
+    "id": 700100,
+    "collectionNo": 47,
+    "name": "赫拉克勒斯",
+    "voices": {
+        "0_S010": {
+            "name": "召唤",
+            "text": {
+                "0_S010": "[image berserker_language_1]"
+            }
+        }
+    },
+    "ChrVoice_ids": [
+        "700100"
+    ]
+}
