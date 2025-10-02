@@ -1709,7 +1709,7 @@
   },
   "ガイドロープのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "向导绳掉落数量增加",
+    "CN": "引导绳索的掉落获得数提升",
     "TW": "導引繩的掉落獲得數提升",
     "NA": "Increase amount of Guide Rope per drop",
     "KR": null
@@ -3067,14 +3067,14 @@
   },
   "スーパー・ドゥーパー・クラフター A": {
     "JP": null,
-    "CN": "顶级建筑师 A",
+    "CN": "超一流工匠 A",
     "TW": "頂級建築師 A",
     "NA": null,
     "KR": null
   },
   "スーパー・ドゥーパー・クラフター B": {
     "JP": null,
-    "CN": "顶级建筑师 B",
+    "CN": "超一流工匠 B",
     "TW": "頂級建築師 B",
     "NA": null,
     "KR": null
@@ -3277,14 +3277,14 @@
   },
   "デコペンキのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "装饰颜料的掉落数量提升",
+    "CN": "彩绘油漆的掉落获得数提升",
     "TW": "裝飾筆的掉落獲得數提升",
     "NA": "Increase amount of Deco Paint per drop",
     "KR": null
   },
   "デザインノートのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "设计笔记掉落数量增加",
+    "CN": "设计笔记的掉落获得数提升",
     "TW": "設計筆記的掉落獲得數提升",
     "NA": "Increase amount of Design Note per drop",
     "KR": null
@@ -19454,14 +19454,14 @@
   },
   "人斬り彦斎 A": {
     "JP": null,
-    "CN": "斩人彦斋 A",
+    "CN": "人斩彦斋 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "壬生の赤狼 C": {
     "JP": null,
-    "CN": "壬生之赤狼 C",
+    "CN": "壬生赤狼 C",
     "TW": null,
     "NA": null,
     "KR": null
@@ -19503,7 +19503,7 @@
   },
   "死番 B": {
     "JP": null,
-    "CN": "死亡看守 B",
+    "CN": "报死者 B",
     "TW": null,
     "NA": null,
     "KR": null
@@ -19917,6 +19917,34 @@
   "軍神の剣": {
     "JP": null,
     "CN": "军神之剑",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "天然理心流（極） A+": {
+    "JP": null,
+    "CN": "天然理心流（极） A+",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "柳緑花紅 B": {
+    "JP": null,
+    "CN": "柳绿花红 B",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "至誠 EX": {
+    "JP": null,
+    "CN": "至诚 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "虎徹・BLADE A": {
+    "JP": null,
+    "CN": "虎彻·BLADE A",
     "TW": null,
     "NA": null,
     "KR": null

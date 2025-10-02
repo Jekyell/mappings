@@ -4635,21 +4635,28 @@
   },
   "抜刀・神威": {
     "JP": null,
-    "CN": "拔刀・神威",
+    "CN": "拔刀·神威",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "死損ね一文字": {
     "JP": null,
-    "CN": "苟活一文字",
+    "CN": "死不了的一文字",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "魁・一番星！！": {
     "JP": null,
-    "CN": "先锋・启明星！！",
+    "CN": "魁·一番星！！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "誠の旗": {
+    "JP": null,
+    "CN": "诚之旗",
     "TW": null,
     "NA": null,
     "KR": null

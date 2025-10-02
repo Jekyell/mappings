@@ -6329,7 +6329,7 @@
   },
   "乾いた拳": {
     "JP": null,
-    "CN": "枯涸的拳",
+    "CN": "枯涸之拳",
     "TW": "枯渴之拳",
     "NA": "Parched Fist",
     "KR": null
@@ -6483,7 +6483,7 @@
   },
   "会稽零式設計図": {
     "JP": null,
-    "CN": "项羽设计图",
+    "CN": "会稽零式设计图",
     "TW": "會稽零式設計圖",
     "NA": "Blueprint of Kuaiji Zero",
     "KR": "회계영식 설계도"
@@ -6574,7 +6574,7 @@
   },
   "偽りの誓約": {
     "JP": null,
-    "CN": "虚假的誓约",
+    "CN": "虚伪的誓约",
     "TW": "虛假的誓約",
     "NA": "Geis of Falsehoods",
     "KR": null
@@ -17312,23 +17312,23 @@
   },
   "ぐだぐだ新選組": {
     "JP": null,
-    "CN": "Gudaguda新选组",
+    "CN": "唠唠叨叨新选组",
     "TW": null,
-    "NA": null,
+    "NA": "Gudaguda Shinsegumi",
     "KR": null
   },
   "ただの握り飯": {
     "JP": null,
-    "CN": "普通的饭团",
+    "CN": "只不过是饭团",
     "TW": null,
-    "NA": null,
+    "NA": "Just Your Everyday Rice Ball",
     "KR": null
   },
   "デュアル・バーニング": {
     "JP": null,
-    "CN": "双重燃烧",
+    "CN": "双重燎灼",
     "TW": null,
-    "NA": null,
+    "NA": "Dual Burning",
     "KR": null
   },
   "京乱怒濤": {
@@ -17340,28 +17340,35 @@
   },
   "大陸の風": {
     "JP": null,
-    "CN": "大陆之风",
+    "CN": "大陆的风",
     "TW": null,
-    "NA": null,
+    "NA": "Mainland Breeze",
     "KR": null
   },
   "概念礼装EXPカード：もぐもぐ彦斎": {
     "JP": null,
-    "CN": "概念礼装EXP卡：大嚼彦斋",
+    "CN": "概念礼装EXP卡：啊呜啊呜彦斎",
     "TW": null,
-    "NA": null,
+    "NA": "CE EXP Card: Munching Gensai",
     "KR": null
   },
   "概念礼装EXPカード：死に損ねの赤狼": {
     "JP": null,
-    "CN": "概念礼装EXP卡：死而未死的赤狼",
+    "CN": "概念礼装EXP卡：死不了的赤狼",
     "TW": null,
-    "NA": null,
+    "NA": "CE EXP Card: The Would-Be Dead Red Wolf",
     "KR": null
   },
   "蛍の夜に": {
     "JP": null,
-    "CN": "萤火之夜",
+    "CN": "于萤火之夜",
+    "TW": null,
+    "NA": "On a Night of Fireflies",
+    "KR": null
+  },
+  "誠の旗": {
+    "JP": null,
+    "CN": "诚之旗",
     "TW": null,
     "NA": null,
     "KR": null

@@ -1555,7 +1555,7 @@
   },
   "ガイドロープ": {
     "JP": null,
-    "CN": "引导绳",
+    "CN": "引导绳索",
     "TW": "導引繩",
     "NA": "Guide Rope",
     "KR": null
@@ -1821,21 +1821,21 @@
   },
   "クラフトウッド": {
     "JP": null,
-    "CN": "工艺木",
+    "CN": "建造用木材",
     "TW": "工藝木材",
     "NA": "Craft Wood",
     "KR": null
   },
   "クラフトストーン": {
     "JP": null,
-    "CN": "工艺石",
+    "CN": "建造用石材",
     "TW": "工藝石材",
     "NA": "Craft Stone",
     "KR": null
   },
   "クラフトメタル": {
     "JP": null,
-    "CN": "工艺金属",
+    "CN": "建造用金属",
     "TW": "工藝金屬",
     "NA": "Craft Metal",
     "KR": null
@@ -2213,7 +2213,7 @@
   },
   "サポートツール": {
     "JP": null,
-    "CN": "支援工具",
+    "CN": "辅助工具",
     "TW": "支援工具",
     "NA": "Support Tools",
     "KR": null
@@ -2675,7 +2675,7 @@
   },
   "ツタンごはん": {
     "JP": null,
-    "CN": "图坦卡蒙之饭",
+    "CN": "图坦饭",
     "TW": "圖坦飯",
     "NA": "TutankhaMeal",
     "KR": null
@@ -2703,7 +2703,7 @@
   },
   "デコペンキ": {
     "JP": null,
-    "CN": "装饰油漆",
+    "CN": "彩绘油漆",
     "TW": "裝飾筆",
     "NA": "Deco Paint",
     "KR": null
@@ -3193,7 +3193,7 @@
   },
   "マイナーメット": {
     "JP": null,
-    "CN": "矿工头盔",
+    "CN": "矿工帽",
     "TW": "礦工頭盔",
     "NA": "Miner Hat",
     "KR": null
@@ -6724,6 +6724,13 @@
     "CN": "无赖的枪尖",
     "TW": null,
     "NA": null,
+    "KR": null
+  },
+  "10月交換券(2025)": {
+    "JP": null,
+    "CN": "10月交换券(2025 JP)",
+    "TW": "10月交換券(2025 JP)",
+    "NA": "Exchange Ticket (OCT 2025)",
     "KR": null
   }
 }
