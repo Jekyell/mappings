@@ -19951,7 +19951,7 @@
   },
   "アーツチェイン成立時発動効果〔アサシン〕": {
     "JP": null,
-    "CN": "蓝卡连携成立时发动效果〔刺客〕",
+    "CN": "Arts Chain成立时发动效果〔Assassin〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -19972,7 +19972,7 @@
   },
   "マイティチェイン成立時発動効果〔アサシン〕": {
     "JP": null,
-    "CN": "Mighty Chain成立时发动的效果〔Assassin〕",
+    "CN": "Mighty Chain成立时发动效果〔Assassin〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -19986,7 +19986,7 @@
   },
   "気配遮断（殺）": {
     "JP": null,
-    "CN": "气息遮断（杀）",
+    "CN": "气息遮断 （杀）",
     "TW": null,
     "NA": null,
     "KR": null
