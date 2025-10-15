@@ -5080,5 +5080,61 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "Arts威力アップ〔クリティカル〕": {
+    "JP": null,
+    "CN": "Arts威力提升〔暴击〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Buster威力アップ〔クリティカル〕": {
+    "JP": null,
+    "CN": "Buster 威力提升〔暴击〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Quick威力アップ〔クリティカル〕": {
+    "JP": null,
+    "CN": "Quick威力提升〔暴击〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "即死無効〔気配遮断〕": {
+    "JP": null,
+    "CN": "即死无效〔气息遮断〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "弱体付与アップ〔気配遮断〕": {
+    "JP": null,
+    "CN": "弱体赋予成功率提升〔气息遮断〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "暗剣（殺）": {
+    "JP": null,
+    "CN": "暗剑（杀）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "気配遮断（殺）": {
+    "JP": null,
+    "CN": "气息遮断（杀）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "無疵の間合い（殺）": {
+    "JP": null,
+    "CN": "无伤间合（杀）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
