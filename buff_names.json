@@ -5069,16 +5069,16 @@
   },
   "ガッツ<低確率>": {
     "JP": null,
-    "CN": "战续<低概率>",
+    "CN": "毅力<低概率>",
     "TW": null,
-    "NA": null,
+    "NA": "Guts <Low Chance>",
     "KR": null
   },
   "特性付与〔新選組〕": {
     "JP": null,
-    "CN": "赋予特性〔新选组〕",
+    "CN": "付与特性〔新选组〕",
     "TW": null,
-    "NA": null,
+    "NA": "Apply Trait (Shinsengumi)",
     "KR": null
   },
   "Arts威力アップ〔クリティカル〕": {
