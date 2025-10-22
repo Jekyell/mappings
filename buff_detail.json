@@ -6235,5 +6235,40 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "Buster攻撃時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "『ファイナル・ハロウィン2025』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "『终局万圣节2025』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔エリザベート〕特性を付与する": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールドを〔ハロウィン〕にする": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "攻撃時、ダメージ前に対象にやけど状態を付与": {
+    "JP": null,
+    "CN": "攻击时，伤害前对目标施加灼伤状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
