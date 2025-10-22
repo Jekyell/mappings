@@ -2539,5 +2539,12 @@
     "TW": "buff即死賦予率提升",
     "NA": "buff Death Chance Up",
     "KR": null
+  },
+  "10010": {
+    "JP": "エリザベート",
+    "CN": "伊丽莎白",
+    "TW": "伊莉莎白",
+    "NA": "Elisabeth",
+    "KR": "엘리자베트"
   }
 }
