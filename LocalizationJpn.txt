@@ -1,4 +1,4 @@
-{
+﻿{
 	"UNKNOWN_NAME": "???",
 	"NO_ENTRY_NAME": "---",
 	"UNKNOWN_NAME_CV": "???",
