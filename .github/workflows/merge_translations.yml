@@ -8,6 +8,10 @@ on:
   # 允许在 GitHub Actions 页面手动触发
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+
 jobs:
   merge-translations:
     runs-on: ubuntu-latest
@@ -21,7 +25,7 @@ jobs:
           python-version: '3.9'
 
       - name: 执行翻译合并脚本
-        run: python .github/workflows/scripts/merge_script.py
+        run: python .github/scripts/merge_script.py
 
       - name: 提交并推送变更
         uses: stefanzweifel/git-auto-commit-action@v5
