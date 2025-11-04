@@ -1,0 +1,34 @@
+name: 自动合并高优先级翻译
+
+on:
+  # 每小时的第20分钟自动运行
+  schedule:
+    - cron: '20 * * * *'
+  
+  # 允许在 GitHub Actions 页面手动触发
+  workflow_dispatch:
+
+jobs:
+  merge-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 3.9 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: 执行翻译合并脚本
+        run: python .github/scripts/merge_script.py
+
+      - name: 提交并推送变更
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: 自动同步高优先级翻译到 F_Replace"
+          # 只提交 F_Replace 文件夹下的变更
+          file_pattern: "F_Replace/*.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "GitHub Actions <github-actions[bot]@users.noreply.github.com>"
