@@ -25,7 +25,7 @@ jobs:
           python-version: '3.9'
 
       - name: 执行翻译合并脚本
-        run: python .github/scripts/merge_script.py
+        run: python .github/workflows/scripts/merge_script.py
 
       - name: 提交并推送变更
         uses: stefanzweifel/git-auto-commit-action@v5
