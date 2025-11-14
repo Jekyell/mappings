@@ -5171,5 +5171,96 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "Artsブースト〔鈍の矢弾〕": {
+    "JP": null,
+    "CN": "Arts性能提升〔钝之箭弹〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Busterブースト〔鈍の矢弾〕": {
+    "JP": null,
+    "CN": "Buster提升〔钝的矢弹〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Quickブースト〔鈍の矢弾〕": {
+    "JP": null,
+    "CN": "Quick强化〔钝之矢弹〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル威力アップ：Arts": {
+    "JP": null,
+    "CN": "暴击威力提升：Arts",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル威力アップ：Buster": {
+    "JP": null,
+    "CN": "暴击威力提升：Buster",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル威力アップ：Quick": {
+    "JP": null,
+    "CN": "暴击威力提升：Quick",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "単独行動（弓）": {
+    "JP": null,
+    "CN": "独立行动（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具威力アップ：Buster": {
+    "JP": null,
+    "CN": "宝具威力提升：Buster",
+    "TW": null,
+    "NA": "NP Strength Up: Buster",
+    "KR": null
+  },
+  "宝具威力アップ：Quick": {
+    "JP": null,
+    "CN": "宝具威力提升：Quick",
+    "TW": null,
+    "NA": "NP Strength Up: Quick",
+    "KR": null
+  },
+  "射て晴らすは征箭の雨（弓）": {
+    "JP": null,
+    "CN": "射清征箭之雨（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "見敵迎撃": {
+    "JP": null,
+    "CN": "见敌迎击",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "鈍の矢弾": {
+    "JP": null,
+    "CN": "钝矢弹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "鷲の目（弓）": {
+    "JP": null,
+    "CN": "鹰眼（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }

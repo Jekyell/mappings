@@ -20109,5 +20109,54 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "アーツチェイン成立時発動効果〔アーチャー〕": {
+    "JP": null,
+    "CN": "蓝卡Chain成立时发动效果〔弓兵〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クイックチェイン成立時発動効果〔アーチャー〕": {
+    "JP": null,
+    "CN": "Quick Chain成立时发动效果〔Archer〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バスターチェイン成立時発動効果〔アーチャー〕": {
+    "JP": null,
+    "CN": "红卡连携成立时发动效果〔Archer〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マイティチェイン成立時発動効果〔アーチャー〕": {
+    "JP": null,
+    "CN": "Mighty Chain成立时发动效果〔Archer〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "単独行動（弓）": {
+    "JP": null,
+    "CN": "单独行动（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "射て晴らすは征箭の雨（弓）": {
+    "JP": null,
+    "CN": "射而涤荡的征箭之雨（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "鷲の目（弓）": {
+    "JP": null,
+    "CN": "鹰眼（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
