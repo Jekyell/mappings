@@ -6819,9 +6819,9 @@
   },
   "獣の足跡〔アーチャー〕": {
     "JP": null,
-    "CN": "兽之足迹〔弓阶〕",
-    "TW": null,
-    "NA": null,
+    "CN": "兽之足迹〔Archer〕",
+    "TW": "獸之足跡〔Archer〕",
+    "NA": "Beast's Footprint (Archer)",
     "KR": null
   }
 }
