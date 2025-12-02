@@ -17,18 +17,12 @@ def load_high_priority_translations():
     返回一个字典: {"原文": "翻译"}
     """
     translations = {}
-    # 查找根目录下的所有 .json 文件
     json_files = glob.glob(os.path.join(HIGH_PRIORITY_DIR, '*.json'))
     
     print(f"[*] 发现 {len(json_files)} 个高优先级文件，开始解析...")
 
     for file_path in json_files:
         filename = os.path.basename(file_path)
-
-        # --- 新增：跳过 mstClass_name.json ---
-        if filename == "mstClass_name.json":
-            print(f"[!] 跳过文件: {filename}")
-            continue
 
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
@@ -44,9 +38,11 @@ def load_high_priority_translations():
     print(f"[✓] 成功加载 {len(translations)} 条高优先级翻译。")
     return translations
 
+
 def update_low_priority_files(high_priority_translations):
     """
     遍历 F_Replace 文件夹下的 JSON 文件，用高优先级翻译覆盖其中的键值对。
+    排除文件：mstClass_name.json
     """
     if not os.path.isdir(LOW_PRIORITY_DIR):
         print(f"[!] 错误: 低优先级目录 '{LOW_PRIORITY_DIR}' 不存在。")
@@ -57,8 +53,14 @@ def update_low_priority_files(high_priority_translations):
     total_updates = 0
 
     for file_path in json_files:
-        file_updated = False
         filename = os.path.basename(file_path)
+
+        # --- 新增：排除 F_Replace/mstClass_name.json ---
+        if filename == "mstClass_name.json":
+            print(f"[!] 跳过低优先级文件: {filename}")
+            continue
+
+        file_updated = False
 
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
