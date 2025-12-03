@@ -20161,14 +20161,14 @@
   },
   "アーツチェイン成立時発動効果〔キャスター〕": {
     "JP": null,
-    "CN": "蓝卡Chain成立时发动效果〔Caster〕",
+    "CN": "Arts Chain成立时发动效果〔Caster〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "クイックチェイン成立時発動効果〔キャスター〕": {
     "JP": null,
-    "CN": "绿卡连锁成立时发动效果〔Caster〕",
+    "CN": "Quick Chain成立时发动效果〔Caster〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20182,14 +20182,14 @@
   },
   "ネガ・サモン -": {
     "JP": null,
-    "CN": "负面召唤 -",
+    "CN": "Nega Summon -",
     "TW": null,
-    "NA": null,
+    "NA": "Nega Summon -",
     "KR": null
   },
   "バスターチェイン成立時発動効果〔キャスター〕": {
     "JP": null,
-    "CN": "红卡连携成立时发动效果〔术阶〕",
+    "CN": "Buster Chain成立时发动效果〔Caster〕",
     "TW": null,
     "NA": null,
     "KR": null

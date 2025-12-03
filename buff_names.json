@@ -5265,35 +5265,35 @@
   },
   "フィールド効果〔Arts攻撃耐性ダウン〕": {
     "JP": null,
-    "CN": "场地效果〔Arts攻击耐性降低〕",
+    "CN": "场地效果〔Arts指令卡耐性下降〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "フィールド効果〔Buster攻撃耐性ダウン〕": {
     "JP": null,
-    "CN": "场地效果〔Buster攻击耐性下降〕",
+    "CN": "场地效果〔Buster指令卡耐性下降〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "フィールド効果〔Quick攻撃耐性ダウン〕": {
     "JP": null,
-    "CN": "场地效果〔Quick攻击耐性降低〕",
+    "CN": "场地效果〔Quick指令卡耐性下降〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "宝具使用時NP還元": {
     "JP": null,
-    "CN": "宝具使用时NP返还",
+    "CN": "宝具使用时NP复原",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "宝具使用時チャージ還元": {
     "JP": null,
-    "CN": "宝具使用时充能返还",
+    "CN": "宝具使用时充能复原",
     "TW": null,
     "NA": null,
     "KR": null
