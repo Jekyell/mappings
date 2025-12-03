@@ -20158,5 +20158,110 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "アーツチェイン成立時発動効果〔キャスター〕": {
+    "JP": null,
+    "CN": "蓝卡Chain成立时发动效果〔Caster〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クイックチェイン成立時発動効果〔キャスター〕": {
+    "JP": null,
+    "CN": "绿卡连锁成立时发动效果〔Caster〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ソロモンの指輪 E": {
+    "JP": null,
+    "CN": "所罗门的指环 E",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ネガ・サモン -": {
+    "JP": null,
+    "CN": "负面召唤 -",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バスターチェイン成立時発動効果〔キャスター〕": {
+    "JP": null,
+    "CN": "红卡连携成立时发动效果〔术阶〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マイティチェイン成立時発動効果〔キャスター〕": {
+    "JP": null,
+    "CN": "Mighty Chain成立时发动效果〔Caster〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マテリアル・コンストラクター A": {
+    "JP": null,
+    "CN": "物质构造者 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マテリアル・コンストラクター EX": {
+    "JP": null,
+    "CN": "材料构造者 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "人王の灰 EX": {
+    "JP": null,
+    "CN": "人王之灰 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "千里眼 D": {
+    "JP": null,
+    "CN": "千里眼 D",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "指先の言葉（術）": {
+    "JP": null,
+    "CN": "指尖的言语（术）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "虚数の鞄 A": {
+    "JP": null,
+    "CN": "虚数之包 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "道具作成 -": {
+    "JP": null,
+    "CN": "道具作成 -",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "道具作成（術）": {
+    "JP": null,
+    "CN": "道具作成（术）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "高速詠唱（術）": {
+    "JP": null,
+    "CN": "高速咏唱（术）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }

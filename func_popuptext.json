@@ -2686,5 +2686,26 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "skillAfterFunctionMainOnly": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "subFieldBuff": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "防御力アップ・対七騎士クラス": {
+    "JP": null,
+    "CN": "防御力提升・对七骑士职阶",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }

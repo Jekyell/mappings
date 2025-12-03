@@ -5262,5 +5262,61 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "フィールド効果〔Arts攻撃耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔Arts攻击耐性降低〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔Buster攻撃耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔Buster攻击耐性下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔Quick攻撃耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔Quick攻击耐性降低〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具使用時NP還元": {
+    "JP": null,
+    "CN": "宝具使用时NP返还",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具使用時チャージ還元": {
+    "JP": null,
+    "CN": "宝具使用时充能返还",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "指先の言葉（術）": {
+    "JP": null,
+    "CN": "指尖之语（术）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "道具作成（術）": {
+    "JP": null,
+    "CN": "道具作成（术）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "防御力アップ〔七騎士クラス〕": {
+    "JP": null,
+    "CN": "防御力提升〔七骑士职阶〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
