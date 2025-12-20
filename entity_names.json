@@ -4317,5 +4317,33 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "アーチャー": {
+    "JP": null,
+    "CN": "弓兵",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バーサーカー": {
+    "JP": null,
+    "CN": "狂战士",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ライダー": {
+    "JP": null,
+    "CN": "骑兵",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ランサー": {
+    "JP": null,
+    "CN": "枪阶",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
