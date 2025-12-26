@@ -1,14 +1,12 @@
-# 工作流名称
 name: Anti Harmony JSON Content Replacer
 
-# 触发条件：每次 push 时运行
 on:
   push:
     branches:
       - main
       - master
     paths:
-      - '**.json' # 仅在 json 文件发生变动或普通 push 时触发
+      - '**.json'
 
 jobs:
   anti-harmony-files:
@@ -18,25 +16,22 @@ jobs:
       contents: write
 
     steps:
-      # 1️⃣ 检出仓库
       - name: Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 获取完整历史以便提交
+          fetch-depth: 0
 
-      # 2️⃣ 设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      # 3️⃣ 创建并执行反和谐 Python 脚本 (针对文件内容)
       - name: Run Anti-Harmony File Script
         run: |
+          # 生成临时 Python 脚本
           cat > replace_json_content.py <<'EOF'
           import os
 
-          # 你的字典配置
           ANTI_HARMONY_DICT = { 
               "匕见": "荆轲", "虎狼": "吕布", "周照": "武则天", "莲偶": "哪吒", "重瞳": "项羽",
               "忠贞": "秦良玉", "祖政": "始皇帝", "雏罂": "虞美人", "丹驹": "赤兔马", "晋帝": "司马懿",
@@ -47,17 +42,12 @@ jobs:
 
           def scan_and_replace():
               has_changes = False
-              # 遍历当前目录下所有文件
               for root, dirs, files in os.walk("."):
-                  # 排除 .git 目录
-                  if ".git" in dirs:
-                      dirs.remove(".git")
+                  if ".git" in dirs: dirs.remove(".git")
                   
                   for file in files:
-                      # 只处理 .json 文件
                       if file.endswith(".json"):
                           file_path = os.path.join(root, file)
-                          
                           try:
                               with open(file_path, 'r', encoding='utf-8') as f:
                                   content = f.read()
@@ -68,13 +58,12 @@ jobs:
                                       new_content = new_content.replace(key, value)
                               
                               if content != new_content:
-                                  print(f"🔄 正在修改文件: {file_path}")
+                                  print(f"🔄 修改文件: {file_path}")
                                   with open(file_path, 'w', encoding='utf-8') as f:
                                       f.write(new_content)
                                   has_changes = True
                           except Exception as e:
-                              print(f"❌ 读取文件出错 {file_path}: {e}")
-
+                              print(f"❌ 错误 {file_path}: {e}")
               return has_changes
 
           if __name__ == "__main__":
@@ -84,25 +73,28 @@ jobs:
                   print("DETECT_CHANGE=false")
           EOF
           
-          # 运行脚本并捕获是否有更改
+          # 运行脚本，记录日志
           python replace_json_content.py > result.log
           cat result.log
+
+          # 判断是否有变动
           if grep -q "DETECT_CHANGE=true" result.log; then
             echo "CHANGES_FOUND=true" >> $GITHUB_ENV
           else
             echo "CHANGES_FOUND=false" >> $GITHUB_ENV
           fi
 
-      # 4️⃣ 提交更改 (如果有变动)
+          # 🔥【关键修改】在这里删除临时脚本和日志文件
+          # 这样下面的 git add . 就不会把它们加进去了
+          rm replace_json_content.py result.log
+
       - name: Commit and Push changes
         if: env.CHANGES_FOUND == 'true'
         run: |
           git config --global user.name "Anti-Harmony Bot"
           git config --global user.email "bot@noreply.github.com"
           
+          # 因为上面已经 rm 掉了临时文件，这里只会添加被修改的 JSON
           git add .
-          # 注意：在 commit message 中加入 [skip ci] 是为了防止死循环
-          # 否则这次提交又会触发 workflow，造成无限循环
           git commit -m "chore: Auto-replace harmony terms in JSON files [skip ci]"
-          
           git push
