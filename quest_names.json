@@ -14673,35 +14673,35 @@
   },
   "アサシン・ハント 典位++級": {
     "JP": null,
-    "CN": "暗匿者·狩猎 典位++级",
+    "CN": "暗杀者·狩猎 典位++级",
     "TW": "Assassin．狩獵 典位++級",
     "NA": "Assassin Hunt - Pride++ Rank",
     "KR": "어쌔신 헌트【전위++급】"
   },
   "アサシン・ハント 典位+級": {
     "JP": null,
-    "CN": "暗匿者·狩猎 典位+级",
+    "CN": "暗杀者·狩猎 典位+级",
     "TW": "Assassin．狩獵 典位+級",
     "NA": "Assassin Hunt - Pride+ Rank",
     "KR": "어쌔신 헌트【전위+급】"
   },
   "アサシン・ハント 典位級": {
     "JP": null,
-    "CN": "暗匿者·狩猎 典位级",
+    "CN": "暗杀者·狩猎 典位级",
     "TW": "Assassin．狩獵 典位級",
     "NA": "Assassin Hunt - Pride Rank",
     "KR": "어쌔신 헌트【전위급】"
   },
   "アサシン・ハント 祭位級": {
     "JP": null,
-    "CN": "暗匿者·狩猎 祭位级",
+    "CN": "暗杀者·狩猎 祭位级",
     "TW": "Assassin．狩獵 祭位級",
     "NA": "Assassin Hunt - Fes Rank",
     "KR": "어쌔신 헌트【제위급】"
   },
   "アサシン・ハント 開位級": {
     "JP": null,
-    "CN": "暗匿者·狩猎 开位级",
+    "CN": "暗杀者·狩猎 开位级",
     "TW": "Assassin．狩獵 開位級",
     "NA": "Assassin Hunt - Cause Rank",
     "KR": "어쌔신 헌트【개위급】"
@@ -45074,7 +45074,7 @@
   },
   "第二リーグ アイランド級 ひみつ会社アサシン": {
     "JP": null,
-    "CN": "第二轮 岛屿级 秘密会社暗匿者",
+    "CN": "第二轮 岛屿级 秘密会社暗杀者",
     "TW": "第二聯盟 島嶼級 秘密公司Assassin",
     "NA": "Second League, Island - Secret Company, Assassin",
     "KR": "제2리그 아일랜드급・비밀회사 어쌔신"
@@ -47146,7 +47146,7 @@
   },
   "第壱関門 アサシンステップス": {
     "JP": null,
-    "CN": "第壹关口 暗匿者的步法",
+    "CN": "第壹关口 暗杀者的步法",
     "TW": "第壹關口 Assassin的步法",
     "NA": "First Obstacle: Assassin Steps",
     "KR": "제1관문  어쌔신 스텝스"
@@ -57651,10 +57651,10 @@
     "NA": null,
     "KR": null
   },
-  "虎狼": {
+  "吕布": {
     "JP": null,
-    "CN": "虎狼",
-    "TW": "虎狼",
+    "CN": "吕布",
+    "TW": "吕布",
     "NA": "Tiger and Wolf",
     "KR": "호랑이와 늑대"
   }
