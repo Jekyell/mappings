@@ -1,5 +1,5 @@
 # 工作流名称
-name: Anti Harmony Commit Filter
+name: Anti Harmony JSON Content Replacer
 
 # 触发条件：每次 push 时运行
 on:
@@ -7,9 +7,11 @@ on:
     branches:
       - main
       - master
+    paths:
+      - '**.json' # 仅在 json 文件发生变动或普通 push 时触发
 
 jobs:
-  anti-harmony:
+  anti-harmony-files:
     runs-on: ubuntu-latest
 
     permissions:
@@ -19,6 +21,8 @@ jobs:
       # 1️⃣ 检出仓库
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 获取完整历史以便提交
 
       # 2️⃣ 设置 Python 环境
       - name: Set up Python
@@ -26,53 +30,79 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 3️⃣ 创建反和谐 Python 脚本
-      - name: Create Anti-Harmony script
+      # 3️⃣ 创建并执行反和谐 Python 脚本 (针对文件内容)
+      - name: Run Anti-Harmony File Script
         run: |
-          cat > anti_harmony.py <<'EOF'
-          import subprocess
+          cat > replace_json_content.py <<'EOF'
+          import os
 
+          # 你的字典配置
           ANTI_HARMONY_DICT = { 
               "匕见": "荆轲", "虎狼": "吕布", "周照": "武则天", "莲偶": "哪吒", "重瞳": "项羽",
               "忠贞": "秦良玉", "祖政": "始皇帝", "雏罂": "虞美人", "丹驹": "赤兔马", "晋帝": "司马懿",
               "琰女": "杨贵妃", "瞑生院": "杀生院", "歌果": "美杜莎", "爱迪·萨奇": "爱德华·蒂奇",
-              "雾都弃子": "开膛手杰克", "西行者": "玄奘三藏", "方巿": "徐福", "吾绰": "呼延灼","暗匿者":"暗杀者","【{0}】":"[{0}]"
+              "雾都弃子": "开膛手杰克", "西行者": "玄奘三藏", "方巿": "徐福", "吾绰": "呼延灼",
+              "暗匿者": "暗杀者", "【{0}】": "[{0}]"
           }
 
-          def get_last_commit_message():
-              """获取最后一次提交的 commit message"""
-              result = subprocess.run(
-                  ["git", "log", "-1", "--pretty=%B"],
-                  capture_output=True, text=True
-              )
-              return result.stdout.strip()
+          def scan_and_replace():
+              has_changes = False
+              # 遍历当前目录下所有文件
+              for root, dirs, files in os.walk("."):
+                  # 排除 .git 目录
+                  if ".git" in dirs:
+                      dirs.remove(".git")
+                  
+                  for file in files:
+                      # 只处理 .json 文件
+                      if file.endswith(".json"):
+                          file_path = os.path.join(root, file)
+                          
+                          try:
+                              with open(file_path, 'r', encoding='utf-8') as f:
+                                  content = f.read()
+                              
+                              new_content = content
+                              for key, value in ANTI_HARMONY_DICT.items():
+                                  if key in new_content:
+                                      new_content = new_content.replace(key, value)
+                              
+                              if content != new_content:
+                                  print(f"🔄 正在修改文件: {file_path}")
+                                  with open(file_path, 'w', encoding='utf-8') as f:
+                                      f.write(new_content)
+                                  has_changes = True
+                          except Exception as e:
+                              print(f"❌ 读取文件出错 {file_path}: {e}")
 
-          def replace_text(text):
-              """执行字典替换"""
-              for k, v in ANTI_HARMONY_DICT.items():
-                  text = text.replace(k, v)
-              return text
-
-          def update_commit_message(new_message):
-              """更新并推送新的 commit message"""
-              subprocess.run(["git", "commit", "--amend", "-m", new_message], check=True)
-              subprocess.run(["git", "push", "--force"], check=True)
+              return has_changes
 
           if __name__ == "__main__":
-              original_message = get_last_commit_message()
-              new_message = replace_text(original_message)
-
-              print(f"原始提交信息: {original_message}")
-              print(f"替换后提交信息: {new_message}")
-
-              if original_message != new_message:
-                  print("🔄 检测到需要替换的内容，正在更新 commit message...")
-                  update_commit_message(new_message)
+              if scan_and_replace():
+                  print("DETECT_CHANGE=true")
               else:
-                  print("✅ 未检测到需要替换的词汇，无需修改。")
+                  print("DETECT_CHANGE=false")
           EOF
+          
+          # 运行脚本并捕获是否有更改
+          python replace_json_content.py > result.log
+          cat result.log
+          if grep -q "DETECT_CHANGE=true" result.log; then
+            echo "CHANGES_FOUND=true" >> $GITHUB_ENV
+          else
+            echo "CHANGES_FOUND=false" >> $GITHUB_ENV
+          fi
 
-      # 4️⃣ 执行反和谐脚本
-      - name: Run Anti-Harmony script
+      # 4️⃣ 提交更改 (如果有变动)
+      - name: Commit and Push changes
+        if: env.CHANGES_FOUND == 'true'
         run: |
-          python anti_harmony.py
+          git config --global user.name "Anti-Harmony Bot"
+          git config --global user.email "bot@noreply.github.com"
+          
+          git add .
+          # 注意：在 commit message 中加入 [skip ci] 是为了防止死循环
+          # 否则这次提交又会触发 workflow，造成无限循环
+          git commit -m "chore: Auto-replace harmony terms in JSON files [skip ci]"
+          
+          git push
