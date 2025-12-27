@@ -701,7 +701,7 @@
   },
   "クラス・アサシン": {
     "JP": null,
-    "CN": "职阶·暗杀者",
+    "CN": "职阶·暗匿者",
     "TW": "職階．Assassin",
     "NA": "Assassin-Class",
     "KR": "클래스・어쌔신"
@@ -4405,6 +4405,76 @@
   "Ｍ・スペクトラム": {
     "JP": null,
     "CN": "M·光谱",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アデーレ＆マカリオス": {
+    "JP": null,
+    "CN": "阿黛尔 & 马卡里奥斯",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アーシャ＆アジャイ": {
+    "JP": null,
+    "CN": "Asha & Ajay",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "オフェリア": {
+    "JP": null,
+    "CN": "奧菲莉婭",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カドック＆アナスタシア": {
+    "JP": null,
+    "CN": "卡多克＆阿纳斯塔西娅",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ゴブリン三兄弟": {
+    "JP": null,
+    "CN": "哥布林三兄弟",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "テペウ": {
+    "JP": null,
+    "CN": "特佩乌",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "パツシィ": {
+    "JP": null,
+    "CN": "帕茨希",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ベリル": {
+    "JP": null,
+    "CN": "贝里尔",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ペペロンチーノ": {
+    "JP": null,
+    "CN": "佩佩隆奇诺",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "虞美人＆項羽": {
+    "JP": null,
+    "CN": "虞美人＆項羽",
     "TW": null,
     "NA": null,
     "KR": null

@@ -2864,7 +2864,7 @@
   },
   "宝具威力アップ：アサシン": {
     "JP": null,
-    "CN": "宝具威力提升：暗杀者",
+    "CN": "宝具威力提升：暗匿者",
     "TW": "寶具威力提升:Assassin",
     "NA": "NP Strength Up: Assassin",
     "KR": null
@@ -5315,6 +5315,13 @@
   "防御力アップ〔七騎士クラス〕": {
     "JP": null,
     "CN": "防御力提升〔七骑士职阶〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "結界作成": {
+    "JP": null,
+    "CN": "结界作成",
     "TW": null,
     "NA": null,
     "KR": null
