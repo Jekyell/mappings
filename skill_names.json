@@ -652,7 +652,7 @@
   },
   "ささめき短冊のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "低语短笺掉落数量增加",
+    "CN": "低语短笺的掉落获得数提升",
     "TW": "閃耀短冊的掉落獲得數提升",
     "NA": "Increase amount of Whispering Tanzaku per drop",
     "KR": null
@@ -687,7 +687,7 @@
   },
   "そよめき栞のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "书页掉落数量提升",
+    "CN": "轻风书签的掉落获得数提升",
     "TW": "微風書籤的掉落獲得數提升",
     "NA": "Increase amount of Gentle Bookmark per drop",
     "KR": null
@@ -715,7 +715,7 @@
   },
   "ときめき書筆のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "提升心潮澎湃书笔的掉落数量",
+    "CN": "心动书笔的掉落获得数提升",
     "TW": "心動筆的掉落獲得數提升",
     "NA": "Increase amount of Exciting Caligraphy Brush per drop",
     "KR": null
@@ -12167,7 +12167,7 @@
   },
   "永久に遠き勝利の剣 D～A+": {
     "JP": null,
-    "CN": "永久遥远的胜利之剑 D～A+",
+    "CN": "永恒遥远的胜利之剑 D～A+",
     "TW": "永久遙遠的勝利之劍 D～A+",
     "NA": null,
     "KR": null
@@ -18005,7 +18005,7 @@
   },
   "驥足百般 A": {
     "JP": null,
-    "CN": "百般骥足 A",
+    "CN": "骥足百般 A",
     "TW": "百般驥足 A",
     "NA": null,
     "KR": null
@@ -20315,21 +20315,35 @@
   },
   "エニス・グイトリン -": {
     "JP": null,
-    "CN": "恩尼斯·圭特林 -",
+    "CN": "伊尼斯・古特灵 -",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "レックス・ミロワール A": {
     "JP": null,
-    "CN": "王之镜 A",
+    "CN": "王之镜鉴 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "フィニス・ドラコーン EX": {
     "JP": null,
-    "CN": "终结之龙 EX",
+    "CN": "最后之龙 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "無為の王 -": {
+    "JP": null,
+    "CN": "无为之王 -",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "騎士叙勲 A": {
+    "JP": null,
+    "CN": "骑士授勋 A",
     "TW": null,
     "NA": null,
     "KR": null

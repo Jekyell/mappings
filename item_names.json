@@ -344,7 +344,7 @@
   },
   "2月交換券(2025)": {
     "JP": null,
-    "CN": "2月交换券(2025 JP)",
+    "CN": "2月兑换券(2026)",
     "TW": "2月交換券(2025 JP)",
     "NA": "Exchange Ticket (FEB 2025)",
     "KR": null
@@ -414,7 +414,7 @@
   },
   "3月交換券(2025)": {
     "JP": null,
-    "CN": "3月交换券(2025 JP)",
+    "CN": "3月兑换券(2026)",
     "TW": "3月交換券(2025 JP)",
     "NA": "Exchange Ticket (MAR 2025)",
     "KR": null
@@ -477,7 +477,7 @@
   },
   "4月交換券(2025)": {
     "JP": null,
-    "CN": "4月交换券(2025 JP)",
+    "CN": "4月兑换券(2026)",
     "TW": "4月交換券(2025 JP)",
     "NA": "Exchange Ticket (APR 2025)",
     "KR": null
@@ -533,7 +533,7 @@
   },
   "5月交換券(2025)": {
     "JP": null,
-    "CN": "5月交换券(2025 JP)",
+    "CN": "5月兑换券(2026)",
     "TW": "5月交換券(2025 JP)",
     "NA": "Exchange Ticket (MAY 2025)",
     "KR": null
@@ -589,7 +589,7 @@
   },
   "6月交換券(2025)": {
     "JP": null,
-    "CN": "6月交换券(2025 JP)",
+    "CN": "6月兑换券(2026)",
     "TW": "6月交換券(2025 JP)",
     "NA": "Exchange Ticket (JUN 2025)",
     "KR": null
@@ -645,7 +645,7 @@
   },
   "7月交換券(2025)": {
     "JP": null,
-    "CN": "7月交换券(2025 JP)",
+    "CN": "7月兑换券(2026)",
     "TW": "7月交換券(2025 JP)",
     "NA": "Exchange Ticket (JUL 2025)",
     "KR": null
@@ -1191,14 +1191,14 @@
   },
   "ささめき短冊": {
     "JP": null,
-    "CN": "低语短册",
+    "CN": "低语短笺",
     "TW": "閃耀短冊",
     "NA": "Whispering Tanzaku",
     "KR": null
   },
   "そよめき栞": {
     "JP": null,
-    "CN": "微风书签",
+    "CN": "轻风书签",
     "TW": "微風書籤",
     "NA": "Gentle Bookmark",
     "KR": null
@@ -1212,7 +1212,7 @@
   },
   "ときめき書筆": {
     "JP": null,
-    "CN": "心动笔迹",
+    "CN": "心动书笔",
     "TW": "心動筆",
     "NA": "Exciting Caligraphy Brush",
     "KR": null
@@ -3620,7 +3620,7 @@
   },
   "三大ロックオンチョコ〔紅〕": {
     "JP": null,
-    "CN": "三大摇滚巧克力〔红〕",
+    "CN": "三大锁定巧克力〔红〕",
     "TW": "三大鎖定巧克力〔紅〕",
     "NA": "The Three Great Lock-On Chocolate (Red)",
     "KR": null
@@ -3634,7 +3634,7 @@
   },
   "三大ロックオンチョコ〔藍〕": {
     "JP": null,
-    "CN": "三大Lock-On巧克力〔蓝〕",
+    "CN": "三大锁定巧克力〔蓝〕",
     "TW": "三大鎖定巧克力〔藍〕",
     "NA": "The Three Great Lock-On Chocolate (Blue)",
     "KR": null
@@ -6876,6 +6876,20 @@
   "英霊極点交換チケット": {
     "JP": null,
     "CN": "英灵极点兑换券",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "1月交換券(2026)": {
+    "JP": null,
+    "CN": "1月交换券(2026 JP)",
+    "TW": "1月交換券(2026 JP)",
+    "NA": "Exchange Ticket (JAN 2026)",
+    "KR": null
+  },
+  "お正月2026交換券": {
+    "JP": null,
+    "CN": "正月2026交换券",
     "TW": null,
     "NA": null,
     "KR": null

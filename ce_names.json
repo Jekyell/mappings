@@ -1121,7 +1121,7 @@
   },
   "ひみつ会社 アサシン": {
     "JP": null,
-    "CN": "秘密会社暗杀者",
+    "CN": "秘密会社暗匿者",
     "TW": "秘密公司 Assassin",
     "NA": "Secret Company, Assassin",
     "KR": "비밀회사 어쌔신"
@@ -2738,7 +2738,7 @@
   },
   "サッカやろうぜ！": {
     "JP": null,
-    "CN": "踢足球咯！",
+    "CN": "踢足球吧！",
     "TW": "踢足球囉！",
     "NA": "Let's Play Soccer!",
     "KR": null
@@ -4670,7 +4670,7 @@
   },
   "ファースト・カリグラフィー": {
     "JP": null,
-    "CN": "走笔迎春",
+    "CN": "迎新书法",
     "TW": "走筆迎春",
     "NA": "First Calligraphy",
     "KR": null
@@ -6210,7 +6210,7 @@
   },
   "三頭の獅子、三つ影の娘達": {
     "JP": null,
-    "CN": "三头狮子、三重影子的女儿们",
+    "CN": "三头狮子、三个影子的女儿们",
     "TW": "三頭獅子，三重影子的女兒們",
     "NA": "Three lions, three shadow daughters",
     "KR": null
@@ -8912,7 +8912,7 @@
   },
   "明けの光暈": {
     "JP": null,
-    "CN": "黎明的光晕",
+    "CN": "新年的光晕",
     "TW": "黎明的光暈",
     "NA": "The Glow of Dawn",
     "KR": null
@@ -9031,7 +9031,7 @@
   },
   "春待つ君と": {
     "JP": null,
-    "CN": "伴君候春来",
+    "CN": "伴君待春",
     "TW": "伴君候春來",
     "NA": "Waiting for Spring With You",
     "KR": null
@@ -9507,7 +9507,7 @@
   },
   "概念礼装EXPカード：カドゥケウス": {
     "JP": null,
-    "CN": "概念礼装EXP卡：信使之杖",
+    "CN": "概念礼装经验卡：双蛇杖",
     "TW": "概念禮裝EXP卡：信使之杖",
     "NA": "CE EXP Card: Caduceus",
     "KR": null
@@ -15268,7 +15268,7 @@
   },
   "英霊逢魔：暗殺者": {
     "JP": null,
-    "CN": "英灵逢魔：暗杀者",
+    "CN": "英灵逢魔：暗匿者",
     "TW": "英靈逢魔：暗殺者",
     "NA": "Twilight Portrait: Assassin",
     "KR": "영령봉마 : 암살자"
@@ -15954,7 +15954,7 @@
   },
   "遺跡を荒らす者": {
     "JP": null,
-    "CN": "遗迹偷盗者",
+    "CN": "遗迹破坏者",
     "TW": "遺跡偷盜者",
     "NA": "The One Who Roughs Up Old Ruins",
     "KR": null
@@ -17831,6 +17831,62 @@
   "約束の未来へ": {
     "JP": null,
     "CN": "向着约定的未来",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アトラスの守り": {
+    "JP": null,
+    "CN": "阿特拉斯的护佑",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファーストミッション当日": {
+    "JP": null,
+    "CN": "第一次任务当天",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ヴィジター": {
+    "JP": null,
+    "CN": "来访者",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "優駿": {
+    "JP": null,
+    "CN": "良驹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "刻の終わり": {
+    "JP": null,
+    "CN": "时间的终点",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "概念礼装EXPカード：わたしの小さなウマ": {
+    "JP": null,
+    "CN": "概念礼装EXP卡：我的小马",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "願い事": {
+    "JP": null,
+    "CN": "愿望",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "黎明": {
+    "JP": null,
+    "CN": "黎明",
     "TW": null,
     "NA": null,
     "KR": null

@@ -2864,7 +2864,7 @@
   },
   "宝具威力アップ：アサシン": {
     "JP": null,
-    "CN": "宝具威力提升：暗杀者",
+    "CN": "宝具威力提升：暗匿者",
     "TW": "寶具威力提升:Assassin",
     "NA": "NP Strength Up: Assassin",
     "KR": null
@@ -5322,6 +5322,41 @@
   "結界作成": {
     "JP": null,
     "CN": "结界作成",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エニス・グイトリン": {
+    "JP": null,
+    "CN": "伊尼斯・古特灵",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ガッツ回復量アップ": {
+    "JP": null,
+    "CN": "毅力回复量提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "毎ターンHP減少": {
+    "JP": null,
+    "CN": "每回合HP减少",
+    "TW": null,
+    "NA": "HP Loss Per Turn",
+    "KR": null
+  },
+  "湖水の夢": {
+    "JP": null,
+    "CN": "湖水之梦",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "騎士叙勲": {
+    "JP": null,
+    "CN": "骑士授勋",
     "TW": null,
     "NA": null,
     "KR": null
