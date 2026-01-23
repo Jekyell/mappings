@@ -6522,5 +6522,82 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "HPが0になった時、味方全体のNPを少し増やす": {
+    "JP": null,
+    "CN": "当HP变为0时，小幅增加己方全体的NP",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "HPが0になった時、味方全体のチャージを増やす": {
+    "JP": null,
+    "CN": "当HP归零时，增加我方全体的充能",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Quick通常攻撃時、自身のNPを少し増やす": {
+    "JP": null,
+    "CN": "Quick通常攻击时，自身NP略微增加",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "『カルデアン・フロラリア』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "提升『迦勒底·花神祭』造成的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「攻撃力をアップする効果」を受ける": {
+    "JP": null,
+    "CN": "敌方全体获得「攻击力提升效果」",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル攻撃時、自身のNPを少し増やす": {
+    "JP": null,
+    "CN": "暴击攻击时，自身NP少量增加",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ターン終了時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
+    "JP": null,
+    "CN": "回合结束时，赋予我方全体宝具使用时提升1阶段蓄力阶段的状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プレイヤー側のフィールドにいるすべての対象が「攻撃力をアップする効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on your field receive an Attack Up effect",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "攻撃時、自身に呪い状態を付与": {
+    "JP": null,
+    "CN": "Inflicts Cursed status on self when attacking",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "灰が舞うフィールド<〔灰桜〕状態の対象がいるフィールドまたは〔炎上〕しているフィールド>で、宝具で与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在灰烬飞舞的场地<存在〔灰樱〕状态对象的场地或〔炎上〕中的场地>，提升宝具造成的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "通常攻撃時、自身に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
+    "JP": null,
+    "CN": "普通攻击时，赋予自身[发动宝具时]宝具蓄力阶段提升1级的状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }

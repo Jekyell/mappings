@@ -57695,10 +57695,10 @@
   },
   "強化クエスト 張角": {
     "JP": null,
-    "CN": "强化任务 张角",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 张角",
+    "TW": "強化任務 張角",
+    "NA": "Rank Up Quest: Zhang Jue",
+    "KR": "강화 퀘스트 장각"
   },
   "第２節「怪奇なる植物、そして」": {
     "JP": null,
@@ -57734,5 +57734,12 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "虎狼": {
+    "JP": null,
+    "CN": "吕布",
+    "TW": "虎狼",
+    "NA": "Tiger and Wolf",
+    "KR": "호랑이와 늑대"
   }
 }

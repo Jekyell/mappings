@@ -6893,5 +6893,40 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "ぐんぐん肥料": {
+    "JP": null,
+    "CN": "快速成长肥料",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "すくすく肥料": {
+    "JP": null,
+    "CN": "茁壮成长肥料",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "のびのび肥料": {
+    "JP": null,
+    "CN": "茁壮肥料",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "はなさかポイント": {
+    "JP": null,
+    "CN": "Hanasaka Points",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "花園のコサージュ": {
+    "JP": null,
+    "CN": "花园的胸花",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
