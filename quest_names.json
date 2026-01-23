@@ -57679,11 +57679,60 @@
     "NA": null,
     "KR": null
   },
-  "吕布": {
+  "第１節「花の女神と花の翁」": {
     "JP": null,
-    "CN": "吕布",
-    "TW": "吕布",
-    "NA": "Tiger and Wolf",
-    "KR": "호랑이와 늑대"
+    "CN": "第1节「花之女神与花之翁」",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【花畑お手入れクエスト】ボウボウ雑草刈り": {
+    "JP": null,
+    "CN": "【花圃打理任务】割除疯长的杂草",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "強化クエスト 張角": {
+    "JP": null,
+    "CN": "强化任务 张角",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第２節「怪奇なる植物、そして」": {
+    "JP": null,
+    "CN": "第2节「怪奇的植物，以及」",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "花畑作り 腐葉土を手に入れよう": {
+    "JP": null,
+    "CN": "建造花田 获得腐叶土",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "花畑作り 音響栽培を学ぼう": {
+    "JP": null,
+    "CN": "制作花田 学习音响栽培",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "花畑作り 獣除けの柵を作ろう": {
+    "JP": null,
+    "CN": "制作花圃 建造防兽栅栏",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "花畑作り 敷き藁を分けてもらおう": {
+    "JP": null,
+    "CN": "建造花田 去分些铺草吧",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
