@@ -2626,5 +2626,12 @@
     "TW": "職階:Beast Ⅶ",
     "NA": "Class:Beast Ⅶ",
     "KR": null
+  },
+  "10028": {
+    "JP": "宝具を使用済み",
+    "CN": "已使用宝具",
+    "TW": null,
+    "NA": "Used Noble Phantasm",
+    "KR": null
   }
 }

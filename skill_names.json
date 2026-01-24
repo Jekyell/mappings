@@ -20406,7 +20406,7 @@
   },
   "あなたへのフロラリア EX": {
     "JP": null,
-    "CN": "献给你的Floralia EX",
+    "CN": "献与你的花神节 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20462,14 +20462,14 @@
   },
   "子を想う母 EX": {
     "JP": null,
-    "CN": "思子之母 EX",
+    "CN": "念子之母 EX",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "家庭の味 A": {
     "JP": null,
-    "CN": "家庭的味道 A",
+    "CN": "家庭之味 A",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20490,14 +20490,14 @@
   },
   "気配遮断（蛇） B": {
     "JP": null,
-    "CN": "Presence Concealment (Serpent) B",
+    "CN": "气息遮断（蛇） B",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "灰と共に EX": {
     "JP": null,
-    "CN": "随灰烬 EX",
+    "CN": "与灰烬一同 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20511,14 +20511,14 @@
   },
   "終わりなき芽吹き A": {
     "JP": null,
-    "CN": "无尽的萌芽 A",
+    "CN": "无终的萌芽 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "花の神核 A+": {
     "JP": null,
-    "CN": "花的神核 A+",
+    "CN": "花之神核 A+",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20532,10 +20532,10 @@
   },
   "道具作成 EX(C)": {
     "JP": null,
-    "CN": "道具作成 EX(C)",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "道具作成 EX（C）",
+    "TW": "道具作成 EX（C）",
+    "NA": "Item Construction EX (C)",
+    "KR": "도구작성 EX(C)"
   },
   "陣地作成 C-": {
     "JP": null,
