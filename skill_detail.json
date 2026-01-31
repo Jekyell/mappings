@@ -44350,5 +44350,12 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "敵単体のチャージを中確率[{0}]で減らす ＋ 自身のNPを増やす▲[{0}]＆Quickカード性能をアップ[{0}](3ターン)▲＆Busterカード性能をアップ[{0}](3ターン)▲": {
+    "JP": null,
+    "CN": "Reduces a single enemy's Charge by a medium chance[{0}] ＋ Increases own NP▲[{0}]＆Increases Quick Card effectiveness[{0}](3 turns)▲＆Increases Buster Card effectiveness[{0}](3 turns)▲",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
