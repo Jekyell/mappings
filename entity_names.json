@@ -799,21 +799,21 @@
   },
   "グランホーンＬ": {
     "JP": null,
-    "CN": "格兰号角L",
-    "TW": null,
+    "CN": "巨角Ｌ",
+    "TW": "偉大的角L",
     "NA": "Grand Horn L",
     "KR": null
   },
   "グランホーンＲ": {
     "JP": null,
-    "CN": "格兰号角Ｒ",
-    "TW": null,
+    "CN": "巨角Ｒ",
+    "TW": "偉大的角R",
     "NA": "Grand Horn R",
     "KR": null
   },
   "グランマリー": {
     "JP": null,
-    "CN": "宏伟玛丽",
+    "CN": "宏玛丽",
     "TW": "宏偉瑪麗",
     "NA": "Grand Marie",
     "KR": null
@@ -4503,6 +4503,13 @@
   "草産みの眼花": {
     "JP": null,
     "CN": "草产之眼花",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ダークお母さんチョコ": {
+    "JP": null,
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null

@@ -806,7 +806,7 @@
   },
   "めろん22＆TAKOLEGS": {
     "JP": null,
-    "CN": "蜜瓜22＆TAKOLEGS",
+    "CN": "MERON22＆TAKOLEGS",
     "TW": null,
     "NA": null,
     "KR": null
@@ -925,7 +925,7 @@
   },
   "ウーカタ/Andraft": {
     "JP": null,
-    "CN": "乌卡塔/安德拉夫特",
+    "CN": "ukata/Andraft",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1268,7 +1268,7 @@
   },
   "ホームラン・拳": {
     "JP": null,
-    "CN": "本垒打·拳",
+    "CN": "homerun·拳",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1562,7 +1562,7 @@
   },
   "佐々木少年＆タスクオーナ": {
     "JP": null,
-    "CN": "佐佐木少年&Task Owner",
+    "CN": "佐佐木少年＆TASKOHNA",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2206,7 +2206,7 @@
   },
   "曽我誠＆米山舞": {
     "JP": null,
-    "CN": "曾我诚&米山舞",
+    "CN": "曾我诚＆米山舞",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2535,7 +2535,7 @@
   },
   "清原紘": {
     "JP": null,
-    "CN": "清原紘",
+    "CN": "清原纮",
     "TW": "清原紘",
     "NA": "Hiro Kiyohara",
     "KR": "키요하라 히로"
@@ -3406,6 +3406,118 @@
     "CN": "松下幸圣",
     "TW": null,
     "NA": "Yukishou Matsushita",
+    "KR": null
+  },
+  "∀ir": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "うごんば": {
+    "JP": null,
+    "CN": "ug0nba",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "くわばら": {
+    "JP": null,
+    "CN": "kuwabara",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "さいかあれ": {
+    "JP": null,
+    "CN": "Saika Are",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "さばみぞれ": {
+    "JP": null,
+    "CN": "sabamizore",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "てつぶた": {
+    "JP": null,
+    "CN": "tetubuta",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "はらけんし": {
+    "JP": null,
+    "CN": "harakenshi",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ひつじろーむ": {
+    "JP": null,
+    "CN": "hituzi-ro-mu",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ノ間": {
+    "JP": null,
+    "CN": "noma",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ヤマウチシズ": {
+    "JP": null,
+    "CN": "yamauchishizu",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "塗壁": {
+    "JP": null,
+    "CN": "涂壁",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "武内崇＆ワダアルコ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "萩谷薫": {
+    "JP": null,
+    "CN": "萩谷薰",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "読": {
+    "JP": null,
+    "CN": "读",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "酢漬け": {
+    "JP": null,
+    "CN": "suzuke",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "鴨NEGI": {
+    "JP": null,
+    "CN": "鸭NEGI",
+    "TW": null,
+    "NA": null,
     "KR": null
   }
 }

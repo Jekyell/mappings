@@ -1149,21 +1149,21 @@
   },
   "イデアル・ホテリエ A": {
     "JP": null,
-    "CN": "理想经营 A",
+    "CN": "理想酒店经营者 A",
     "TW": "理想經營 A",
     "NA": null,
     "KR": null
   },
   "イデアル・ホテリエ B": {
     "JP": null,
-    "CN": "理想经营 B",
+    "CN": "理想酒店经营者 B",
     "TW": "理想經營 B",
     "NA": null,
     "KR": null
   },
   "イデアル・ホテリエ EX": {
     "JP": null,
-    "CN": "理想经营 EX",
+    "CN": "理想酒店经营者 EX",
     "TW": "理想經營 EX",
     "NA": null,
     "KR": null
@@ -1891,7 +1891,7 @@
   },
   "クラシックタオルのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "经典毛巾掉落数量增加",
+    "CN": "经典毛巾的掉落获得数提升",
     "TW": "古典毛巾的掉落獲得數提升",
     "NA": "Increase amount of Classic Towel per drop",
     "KR": null
@@ -3942,7 +3942,7 @@
   },
   "ビンテージクローシュのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Vintage Cloche的掉落数量增加",
+    "CN": "老式餐盘的掉落获得数提升",
     "TW": "復古鐘形帽的掉落獲得數提升",
     "NA": "Increase amount of Vintage Cloche per drop",
     "KR": null
@@ -4313,21 +4313,21 @@
   },
   "ホスピタリティ・マインド A": {
     "JP": null,
-    "CN": "好客之心 A",
+    "CN": "热情好客 A",
     "TW": "好客之心 A",
     "NA": null,
     "KR": null
   },
   "ホスピタリティ・マインド B": {
     "JP": null,
-    "CN": "待客之心 B",
+    "CN": "热情好客 B",
     "TW": "好客之心 B",
     "NA": null,
     "KR": null
   },
   "ホスピタリティ・マインド EX": {
     "JP": null,
-    "CN": "待客之心 EX",
+    "CN": "热情好客 EX",
     "TW": "好客之心 EX",
     "NA": null,
     "KR": null
@@ -5069,7 +5069,7 @@
   },
   "レトロルームキーのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "复古房间钥匙的掉落数量提升",
+    "CN": "怀旧房间钥匙的掉落获得数提升",
     "TW": "復古房間鑰匙的掉落獲得數提升",
     "NA": "Increase amount of Retro Room Key per drop",
     "KR": null
@@ -5356,7 +5356,7 @@
   },
   "七罪の刻印 B": {
     "JP": null,
-    "CN": "七罪刻印 B",
+    "CN": "七罪的刻印 B",
     "TW": "七罪刻印 B",
     "NA": null,
     "KR": null
@@ -5391,7 +5391,7 @@
   },
   "三世界放浪 EX": {
     "JP": null,
-    "CN": "流浪三界 EX",
+    "CN": "三界流浪 EX",
     "TW": "流浪三界 EX",
     "NA": null,
     "KR": null
@@ -15443,7 +15443,7 @@
   },
   "自陣防御 C": {
     "JP": null,
-    "CN": "己阵防御 C",
+    "CN": "我阵‌防御 C",
     "TW": "自陣防禦 C",
     "NA": null,
     "KR": null
@@ -16087,7 +16087,7 @@
   },
   "誉れ高き雪花の盾 B": {
     "JP": null,
-    "CN": "荣光远扬的雪花之盾 B",
+    "CN": "荣光崇高的雪花之盾 B",
     "TW": "榮光遠揚的雪花之盾 B",
     "NA": null,
     "KR": null
@@ -20315,7 +20315,7 @@
   },
   "エニス・グイトリン -": {
     "JP": null,
-    "CN": "伊尼斯・古特灵 -",
+    "CN": "伊尼斯·古特灵 -",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20574,14 +20574,14 @@
   },
   "イミテーションイモータリティ B+": {
     "JP": null,
-    "CN": "仿造不朽 B+",
+    "CN": "仿造不灭 B+",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "嘆きの母 A+": {
     "JP": null,
-    "CN": "叹息之母 A+",
+    "CN": "哀叹之母 A+",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20595,14 +20595,14 @@
   },
   "乱戦の心得 B++": {
     "JP": null,
-    "CN": "乱战心得 B++",
+    "CN": "乱战之心得 B++",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "善神の智慧 EX": {
     "JP": null,
-    "CN": "善神的智慧 EX",
+    "CN": "善神智慧 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20616,14 +20616,14 @@
   },
   "未踏の先へ A": {
     "JP": null,
-    "CN": "未踏的彼方 A",
+    "CN": "向未踏足的前方 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "喜捨の勧め A": {
     "JP": null,
-    "CN": "劝喜舍 A",
+    "CN": "慈善的劝募 A",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20638,6 +20638,111 @@
   "巡礼の守護者 B": {
     "JP": null,
     "CN": "巡礼的守护者 B",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エリニュスの胎動 EX": {
+    "JP": null,
+    "CN": "厄里倪厄斯的胎动 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カインド/スタッフ A": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カインド/スタッフ B": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カインド/スタッフ EX": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "サスペンス・アクター A": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "サスペンス・アクター B": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "サスペンス・アクター EX": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "テオブロマ・カリス B": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "テオブロマ・カリス EX": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "大地の神核 A": {
+    "JP": null,
+    "CN": "大地的神核 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "恵愛の三角巾のドロップ獲得数アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "慈愛のエプロンのドロップ獲得数アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "生産管理者 D++": {
+    "JP": null,
+    "CN": "生产管理者 D++",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "親愛のミトンのドロップ獲得数アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "豊穣ポイント獲得量アップ": {
+    "JP": null,
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null

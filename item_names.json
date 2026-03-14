@@ -855,7 +855,7 @@
   },
   "CBC2025特別交換券": {
     "JP": null,
-    "CN": "CBC2025特别交换券",
+    "CN": "CBC2026特别兑换券",
     "TW": "CBC2025特別交換券",
     "NA": "CBC2025 Special Exchange Ticket",
     "KR": null
@@ -2997,7 +2997,7 @@
   },
   "ビンテージクローシュ": {
     "JP": null,
-    "CN": "古董斗篷",
+    "CN": "老式餐盘",
     "TW": "復古鐘形帽",
     "NA": "Vintage Cloche",
     "KR": null
@@ -3557,7 +3557,7 @@
   },
   "レトロルームキー": {
     "JP": null,
-    "CN": "复古房间钥匙",
+    "CN": "怀旧房间钥匙",
     "TW": "復古房間鑰匙",
     "NA": "Retro Room Key",
     "KR": null
@@ -6539,9 +6539,9 @@
   },
   "Ｕピース〔地〕": {
     "JP": null,
-    "CN": "U碎片〔地〕",
+    "CN": "Ｕ碎片〔地〕",
     "TW": "U碎片〔地〕",
-    "NA": null,
+    "NA": "U Piece (Earth)",
     "KR": null
   },
   "Ｕピース〔水〕": {
@@ -6560,9 +6560,9 @@
   },
   "Ｕピース〔風〕": {
     "JP": null,
-    "CN": "Ｕ碎片〔风〕",
-    "TW": null,
-    "NA": null,
+    "CN": "Ｕ碎片〔風〕",
+    "TW": "Ｕ碎片〔風〕",
+    "NA": "U Piece (Wind)〕",
     "KR": null
   },
   "Ｕメダル": {
@@ -6933,6 +6933,55 @@
     "JP": null,
     "CN": "2月交换券(2026 JP)",
     "TW": "2月交換券(2026 JP)",
+    "NA": null,
+    "KR": null
+  },
+  "3月交換券(2026)": {
+    "JP": null,
+    "CN": "3月交换券(2026 JP)",
+    "TW": "3月交換券(2026 JP)",
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026特別交換券": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "恵愛の三角巾": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "慈愛のエプロン": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "母なるロックオンチョコ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "親愛のミトン": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "豊穣ポイント": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   }

@@ -2542,7 +2542,7 @@
   },
   "汝、この門を潜る者、一切の希望を捨てよ": {
     "JP": null,
-    "CN": "汝，来入此门者，快将一切希望弃扬",
+    "CN": "凡入此门者，必当捐弃一切希望",
     "TW": "汝，來入此門者，快將一切希望棄揚",
     "NA": null,
     "KR": null
@@ -4715,6 +4715,27 @@
     "CN": "于冥暗中微睡的常世花园",
     "TW": null,
     "NA": null,
+    "KR": null
+  },
+  "斯くも永き巡礼の旅路": {
+    "JP": null,
+    "CN": "如此漫长的巡礼之途",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "汝、星を刈る血刃": {
+    "JP": null,
+    "CN": "汝乃收割星辰之血刃",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "汝、星を鋤く豊穣": {
+    "JP": null,
+    "CN": "汝乃躬耕星辰之丰饶",
+    "TW": null,
+    "NA": "Thou Art the Harvest that Reaps the Stars",
     "KR": null
   }
 }

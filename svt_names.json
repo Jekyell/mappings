@@ -3669,7 +3669,7 @@
   },
   "Ｅ－グランマリー": {
     "JP": null,
-    "CN": "E－宏伟玛丽",
+    "CN": "Ｅ－宏玛丽",
     "TW": "E-宏偉瑪麗",
     "NA": "E-Grand Marie",
     "KR": null
@@ -3810,6 +3810,20 @@
   "蛇女房": {
     "JP": null,
     "CN": "蛇女房",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "デメテル": {
+    "JP": null,
+    "CN": "得墨忒耳",
+    "TW": "狄蜜特",
+    "NA": "Demeter",
+    "KR": "데메테르"
+  },
+  "デメテル・エリニュス": {
+    "JP": null,
+    "CN": "得墨忒耳·厄里倪厄斯",
     "TW": null,
     "NA": null,
     "KR": null

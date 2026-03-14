@@ -1414,5 +1414,25 @@
     "warIds": [
       8409
     ]
+  },
+  "94000182": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8410
+    ]
+  },
+  "94000183": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      8411
+    ]
   }
 }

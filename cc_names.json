@@ -36,7 +36,7 @@
   },
   "すずめ紋の葛籠": {
     "JP": null,
-    "CN": "麻雀花纹的葛笼",
+    "CN": "雀纹的藤箱",
     "TW": "麻雀花紋的葛籠",
     "NA": "Sparrow Crest Wicker Basket",
     "KR": null
@@ -127,7 +127,7 @@
   },
   "キラキラ平安女子": {
     "JP": null,
-    "CN": "闪耀的平安女子",
+    "CN": "闪耀平安女子",
     "TW": "閃耀的平安女子",
     "NA": "Sparking Heian Girl",
     "KR": null
@@ -1205,8 +1205,8 @@
   },
   "赤い革ジャン": {
     "JP": null,
-    "CN": "红色的皮夹克",
-    "TW": null,
+    "CN": "红色皮夹克",
+    "TW": "紅色皮夾克",
     "NA": "Red Leather Jacket",
     "KR": null
   },
@@ -1408,9 +1408,9 @@
   },
   "スプラッシュレインボーな少女": {
     "JP": null,
-    "CN": "喷射虹彩的少女",
-    "TW": null,
-    "NA": null,
+    "CN": "喷射彩虹的少女",
+    "TW": "噴射虹彩的少女",
+    "NA": "Splash Rainbow Girl",
     "KR": null
   },
   "プレジデントな記念バッヂ": {
@@ -1507,6 +1507,27 @@
   "白き咆哮": {
     "JP": null,
     "CN": "白之咆哮",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "乙女の英雄": {
+    "JP": null,
+    "CN": "少女英雄",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "守護鳥": {
+    "JP": null,
+    "CN": "守护鸟",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "神妃の竪琴": {
+    "JP": null,
+    "CN": "神妃的竖琴",
     "TW": null,
     "NA": null,
     "KR": null

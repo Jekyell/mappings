@@ -260,8 +260,8 @@
   },
   "Extra Attack威力アップ": {
     "JP": null,
-    "CN": "Extra攻击威力提升",
-    "TW": null,
+    "CN": "Extra Attack威力提升",
+    "TW": "Extra Attack威力提升",
     "NA": null,
     "KR": null
   },
@@ -673,7 +673,7 @@
   },
   "イデアル・ホテリエ": {
     "JP": null,
-    "CN": "理想经营",
+    "CN": "理想酒店经营者",
     "TW": "理想經營",
     "NA": null,
     "KR": null
@@ -1716,7 +1716,7 @@
   },
   "フィールド変化〔天国〕": {
     "JP": null,
-    "CN": "场地变化〔天国〕",
+    "CN": "场地变化〔天堂〕",
     "TW": "場地變化〔天國〕",
     "NA": null,
     "KR": null
@@ -4222,7 +4222,7 @@
   },
   "自陣防御": {
     "JP": null,
-    "CN": "己阵防御",
+    "CN": "我阵防御",
     "TW": "自陣防禦",
     "NA": null,
     "KR": null
@@ -5408,6 +5408,27 @@
     "CN": "场地效果〔防御力降低〕",
     "TW": null,
     "NA": null,
+    "KR": null
+  },
+  "サスペンス・アクター": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "テオブロマ・カリス": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "威力アップ〔封印〕": {
+    "JP": null,
+    "CN": "威力提升（封印）",
+    "TW": "威力提升﹝封印﹞",
+    "NA": "STR Up vs. Seal",
     "KR": null
   }
 }
