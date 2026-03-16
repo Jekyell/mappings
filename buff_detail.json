@@ -6651,7 +6651,7 @@
   },
   "『CBC2026 マイ・カインド・オブ・アブダクション』において与えるダメージをアップ": {
     "JP": null,
-    "CN": null,
+    "CN": "在『CBC2026 My Kind of Abduction』中提升造成的伤害",
     "TW": null,
     "NA": null,
     "KR": null
@@ -6665,14 +6665,14 @@
   },
   "〔封印〕状態の敵に与えるダメージをアップ": {
     "JP": null,
-    "CN": null,
+    "CN": "增加对处于〔封印〕状态的敌人造成的伤害",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ガッツ発動時、自身のNPを少し増やす": {
     "JP": null,
-    "CN": null,
+    "CN": "不屈发动时，自身NP少量增加",
     "TW": null,
     "NA": null,
     "KR": null

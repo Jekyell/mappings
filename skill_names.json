@@ -20651,56 +20651,56 @@
   },
   "カインド/スタッフ A": {
     "JP": null,
-    "CN": null,
+    "CN": "种类/职员 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カインド/スタッフ B": {
     "JP": null,
-    "CN": null,
+    "CN": "善良/职员 B",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カインド/スタッフ EX": {
     "JP": null,
-    "CN": null,
+    "CN": "和善/职员 EX",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "サスペンス・アクター A": {
     "JP": null,
-    "CN": null,
+    "CN": "悬疑演员 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "サスペンス・アクター B": {
     "JP": null,
-    "CN": null,
+    "CN": "悬疑演员 B",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "サスペンス・アクター EX": {
     "JP": null,
-    "CN": null,
+    "CN": "悬疑演员 EX",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "テオブロマ・カリス B": {
     "JP": null,
-    "CN": null,
+    "CN": "可可圣杯 B",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "テオブロマ・カリス EX": {
     "JP": null,
-    "CN": null,
+    "CN": "神食恩惠 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20714,14 +20714,14 @@
   },
   "恵愛の三角巾のドロップ獲得数アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "惠爱三角巾的掉落获得数提升",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "慈愛のエプロンのドロップ獲得数アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "慈爱围裙的掉落获取数量提升",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20735,28 +20735,28 @@
   },
   "親愛のミトンのドロップ獲得数アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "Increased Mitten of Affection Drop Amount",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "豊穣ポイント獲得量アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "丰饶点数获得量提升",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "グランダルメ A": {
     "JP": null,
-    "CN": "大军 A",
+    "CN": "宏伟军团 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "圏境（極） EX": {
     "JP": null,
-    "CN": null,
+    "CN": "圈境（极） EX",
     "TW": null,
     "NA": null,
     "KR": null
