@@ -5430,5 +5430,12 @@
     "TW": "威力提升﹝封印﹞",
     "NA": "STR Up vs. Seal",
     "KR": null
+  },
+  "毒＆呪い＆やけど無効": {
+    "JP": null,
+    "CN": "毒＆诅咒＆灼烧无效",
+    "TW": null,
+    "NA": "Poison & Curse & Burn Immune",
+    "KR": null
   }
 }
