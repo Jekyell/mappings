@@ -58395,9 +58395,9 @@
   },
   "強化クエスト 始皇帝": {
     "JP": null,
-    "CN": "强化任务 始皇帝",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 始皇帝",
+    "TW": "強化任務 始皇帝",
+    "NA": "Rank Up Quest: Qin Shi Huang",
+    "KR": "강화 퀘스트 시황제"
   }
 }
