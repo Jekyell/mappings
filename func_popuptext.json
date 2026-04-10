@@ -2735,5 +2735,12 @@
     "TW": "威力提升．對封印",
     "NA": "STR Up vs. Seal",
     "KR": null
+  },
+  "multiGutsBeforeFunction": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
