@@ -5437,5 +5437,19 @@
     "TW": null,
     "NA": "Poison & Curse & Burn Immune",
     "KR": null
+  },
+  "stranger Folklore": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具威力耐性ダウン": {
+    "JP": null,
+    "CN": "宝具威力耐性下降",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
