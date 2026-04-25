@@ -2647,5 +2647,12 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "3051": {
+    "JP": "func状態解除",
+    "CN": "func解除状态",
+    "TW": "func解除狀態",
+    "NA": "func Remove Effects",
+    "KR": null
   }
 }
