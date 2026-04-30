@@ -1786,8 +1786,8 @@
   },
   "ギアユニットのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "齿轮部件掉落数量提升",
-    "TW": null,
+    "CN": "齿轮单元的掉落获得数提升",
+    "TW": "齒輪單元的掉落獲得數提升",
     "NA": "Increase amount of Gear Unit per drop",
     "KR": null
   },
@@ -3459,22 +3459,22 @@
   },
   "ドラゴンリペアラー A": {
     "JP": null,
-    "CN": "龙脉修复者 A",
-    "TW": null,
+    "CN": "龙修理者 A",
+    "TW": "龍之修復者 A",
     "NA": null,
     "KR": null
   },
   "ドラゴンリペアラー B": {
     "JP": null,
-    "CN": "龙之修复者 B",
-    "TW": null,
+    "CN": "龙修理者 B",
+    "TW": "龍之修復者 B",
     "NA": null,
     "KR": null
   },
   "ドラゴンリペアラー EX": {
     "JP": null,
-    "CN": "龙之修复者 EX",
-    "TW": null,
+    "CN": "龙修理者 EX",
+    "TW": "龍之修復者 EX",
     "NA": null,
     "KR": null
   },
@@ -3753,8 +3753,8 @@
   },
   "バッテリーユニットのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "电池单元掉落数量提升",
-    "TW": null,
+    "CN": "电池单元的掉落获得数提升",
+    "TW": "電池單元的掉落獲得數提升",
     "NA": "Increase amount of Battery Unit per drop",
     "KR": null
   },
@@ -4831,8 +4831,8 @@
   },
   "モーターユニットのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "机动单元掉落数量提升",
-    "TW": null,
+    "CN": "马达单元的掉落获得数提升",
+    "TW": "馬達單元的掉落獲得數提升",
     "NA": "Increase amount of Motor Unit per drop",
     "KR": null
   },
@@ -7463,7 +7463,7 @@
   },
   "地獄の軍略 A": {
     "JP": null,
-    "CN": "地狱军略 A",
+    "CN": "地狱的军略 A",
     "TW": "地獄軍略 A",
     "NA": null,
     "KR": null
@@ -11488,8 +11488,8 @@
   },
   "材料収集ポイント獲得量アップ": {
     "JP": null,
-    "CN": "材料收集点获取量提升",
-    "TW": null,
+    "CN": "材料收集点数获得量提升",
+    "TW": "材料收集點數獲得量提升",
     "NA": "Increase amount of Material Collection Point",
     "KR": null
   },
@@ -13861,7 +13861,7 @@
   },
   "真名看破 C": {
     "JP": null,
-    "CN": "真名看破 C",
+    "CN": "真名识破 C",
     "TW": "真名看破 C",
     "NA": null,
     "KR": null
@@ -14932,7 +14932,7 @@
   },
   "絶対の代行者 EX": {
     "JP": null,
-    "CN": "绝对代行者 EX",
+    "CN": "绝对的代行者 EX",
     "TW": "絕對代行者 EX",
     "NA": null,
     "KR": null
