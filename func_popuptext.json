@@ -2752,9 +2752,9 @@
   },
   "威力アップ・対中立": {
     "JP": null,
-    "CN": "威力提升・对中立",
-    "TW": null,
-    "NA": null,
+    "CN": "威力提升·对中立",
+    "TW": "威力提升．對中立",
+    "NA": "STR Up vs. Neutral",
     "KR": null
   }
 }
