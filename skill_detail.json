@@ -45372,5 +45372,26 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "味方単体の攻撃弱体状態を解除＆NPを増やす": {
+    "JP": null,
+    "CN": "解除己方单体的攻击弱化状态＆增加NP",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "味方単体のExtra Attackカードの性能をアップ[{0}](1ターン)": {
+    "JP": null,
+    "CN": "提升己方单体Extra Attack指令卡的性能[{0}](1回合)",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)": {
+    "JP": null,
+    "CN": "我方全体的Quick卡性能提升[{0}](1回合)＆Arts卡性能提升[{0}](1回合)＆Buster卡性能提升[{0}](1回合)",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
