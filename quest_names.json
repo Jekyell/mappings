@@ -58864,16 +58864,16 @@
   },
   "強化クエスト ワルキューレ": {
     "JP": null,
-    "CN": "强化任务 Valkyrie",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 瓦尔基里",
+    "TW": "強化任務 瓦爾基麗",
+    "NA": "Rank Up Quest: Valkyrie",
+    "KR": "강화 퀘스트 발키리"
   },
   "強化クエスト シグルド 3": {
     "JP": null,
-    "CN": "强化任务 Saber 3",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 齐格鲁德 3",
+    "TW": "強化任務 齊格魯德 3",
+    "NA": "Rank Up Quest: Sigurd 3",
+    "KR": "강화 퀘스트 시구르드 3"
   }
 }
