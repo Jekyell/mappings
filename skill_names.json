@@ -162,7 +162,7 @@
   },
   "Extra Attackカード性能アップ": {
     "JP": null,
-    "CN": "Extra Attack指令卡性能提升",
+    "CN": "Extra攻击指令卡性能提升",
     "TW": "Extra Attack指令卡性能提升",
     "NA": null,
     "KR": null
@@ -176,7 +176,7 @@
   },
   "HP回復量アップ": {
     "JP": null,
-    "CN": "HP回复量提升",
+    "CN": "生命值回复量提升",
     "TW": "HP回復量提升",
     "NA": "HP Recovery Up",
     "KR": null
@@ -1107,7 +1107,7 @@
   },
   "アーツチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Arts Chain成立时发动效果〔Saber〕",
+    "CN": "技击连携成立时发动效果〔Saber〕",
     "TW": "Arts Chain 成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
@@ -1835,8 +1835,8 @@
   },
   "クイックチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Quick Chain成立时发动效果〔Saber〕",
-    "TW": "Quick Chain 成立時發動效果〔Saber〕",
+    "CN": "迅击连携成立时发动效果〔Saber〕",
+    "TW": "Quick Chain成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
   },
@@ -2710,22 +2710,22 @@
   },
   "スカイ・コレクター A": {
     "JP": null,
-    "CN": "天空收藏家 A",
-    "TW": null,
+    "CN": "天空收集者 A",
+    "TW": "天空收藏家 A",
     "NA": null,
     "KR": null
   },
   "スカイ・コレクター B": {
     "JP": null,
-    "CN": "天空收藏家 B",
-    "TW": null,
+    "CN": "天空收集者 B",
+    "TW": "天空收藏家 B",
     "NA": null,
     "KR": null
   },
   "スカイ・コレクター EX": {
     "JP": null,
-    "CN": "天穹收集者 EX",
-    "TW": null,
+    "CN": "天空收集者 EX",
+    "TW": "天空收藏家 EX",
     "NA": null,
     "KR": null
   },
@@ -3732,7 +3732,7 @@
   },
   "バスターチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Buster Chain成立时发动效果〔Saber〕",
+    "CN": "力击连携成立时发动效果〔Saber〕",
     "TW": "Buster Chain成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
@@ -4432,8 +4432,8 @@
   },
   "マイティチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Mighty Chain成立时发动效果〔Saber〕",
-    "TW": "Mighty Chain 成立時發動效果〔Saber〕",
+    "CN": "精湛连携成立时发动效果〔Saber〕",
+    "TW": "Mighty Chain成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
   },
@@ -4502,7 +4502,7 @@
   },
   "マスタースキルチャージ速度アップ": {
     "JP": null,
-    "CN": "御主技能充能速度提升",
+    "CN": "御主技能冷却速度提升",
     "TW": "御主技能Charge速度提升",
     "NA": null,
     "KR": null
@@ -7736,7 +7736,7 @@
   },
   "夢火の導き": {
     "JP": null,
-    "CN": "梦火的指引",
+    "CN": "梦火的引导",
     "TW": "夢火的引導",
     "NA": null,
     "KR": null
@@ -8758,7 +8758,7 @@
   },
   "守勢の構え（剣）": {
     "JP": null,
-    "CN": "守势架势（剑）",
+    "CN": "防守的架势（剑）",
     "TW": "守勢姿態（劍）",
     "NA": null,
     "KR": null
@@ -9710,7 +9710,7 @@
   },
   "強化解除耐性アップ": {
     "JP": null,
-    "CN": "强化接触耐性提升",
+    "CN": "强化解除耐性提升",
     "TW": "強化解除耐性提升",
     "NA": "Buff Removal Resist Up",
     "KR": null
@@ -11915,7 +11915,7 @@
   },
   "毎ターンNP獲得": {
     "JP": null,
-    "CN": "每回合NP获得",
+    "CN": "每回合获得NP",
     "TW": "每回合NP獲得",
     "NA": "NP Gain Each Turn",
     "KR": null
