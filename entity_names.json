@@ -610,7 +610,7 @@
   },
   "キャスター": {
     "JP": null,
-    "CN": "魔术师",
+    "CN": "Caster",
     "TW": "Caster",
     "NA": "Caster",
     "KR": "캐스터"
@@ -4320,28 +4320,28 @@
   },
   "アーチャー": {
     "JP": null,
-    "CN": "弓兵",
+    "CN": "Archer",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "バーサーカー": {
     "JP": null,
-    "CN": "狂战士",
+    "CN": "Berserker",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ライダー": {
     "JP": null,
-    "CN": "骑兵",
+    "CN": "Rider",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ランサー": {
     "JP": null,
-    "CN": "枪阶",
+    "CN": "Lancer",
     "TW": null,
     "NA": null,
     "KR": null
