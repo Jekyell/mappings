@@ -1114,8 +1114,8 @@
   },
   "アーツチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Arts Chain成立时发动效果〔Berserker〕",
-    "TW": null,
+    "CN": "技击连携成立时发动效果〔Berserker〕",
+    "TW": "Arts Chain 成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
   },
@@ -1842,8 +1842,8 @@
   },
   "クイックチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Quick Chain成立时发动效果〔Berserker〕",
-    "TW": null,
+    "CN": "迅击连携成立时发动效果〔Berserker〕",
+    "TW": "Quick Chain成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
   },
@@ -3739,8 +3739,8 @@
   },
   "バスターチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Buster Chain成立时发动效果〔Berserker〕",
-    "TW": null,
+    "CN": "力击连携成立时发动效果〔Berserker〕",
+    "TW": "Buster Chain成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
   },
@@ -4439,8 +4439,8 @@
   },
   "マイティチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Mighty Chain成立时发动效果〔Berserker〕",
-    "TW": null,
+    "CN": "精湛连携成立时发动效果〔Berserker〕",
+    "TW": "Mighty Chain成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
   },
@@ -5524,8 +5524,8 @@
   },
   "不屈の構え（狂）": {
     "JP": null,
-    "CN": "不屈之姿（狂）",
-    "TW": null,
+    "CN": "不屈的架势（狂）",
+    "TW": "不屈的架勢（狂）",
     "NA": null,
     "KR": null
   },
@@ -11278,8 +11278,8 @@
   },
   "曇らせ侍る（狂）": {
     "JP": null,
-    "CN": "使之蒙蔽（狂）",
-    "TW": null,
+    "CN": "自迷双眼以侍（狂）",
+    "TW": "朦朧侍奉（狂）",
     "NA": null,
     "KR": null
   },
@@ -12636,8 +12636,8 @@
   },
   "無常の果実 A": {
     "JP": null,
-    "CN": "无常之果实 A",
-    "TW": null,
+    "CN": "无常果实 A",
+    "TW": "無常之果實 A",
     "NA": null,
     "KR": null
   },
@@ -15051,8 +15051,8 @@
   },
   "罪なるかな。咎なるかな。悪なるかな EX": {
     "JP": null,
-    "CN": "罪哉。咎哉。恶哉 EX",
-    "TW": null,
+    "CN": "罪哉、过哉、恶哉 EX",
+    "TW": "罪哉。咎哉。惡哉 EX",
     "NA": null,
     "KR": null
   },
@@ -20938,42 +20938,105 @@
   },
   "編み上げるもの B+": {
     "JP": null,
-    "CN": "编织之物 B+",
+    "CN": "编织者 B+",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "巨いなる傲岸への警鐘 A+": {
     "JP": null,
-    "CN": "对巨大傲慢的警钟 A+",
+    "CN": "向那巨大傲岸敲响警钟 A+",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "旧き良き糸 A": {
     "JP": null,
-    "CN": "古老而美好的丝线 A",
+    "CN": "旧时良丝 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "昔日の神印 EX": {
     "JP": null,
-    "CN": "昔日的神印 EX",
+    "CN": "昔日神印 EX",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "衣装部屋より∞愛を込めて EX": {
     "JP": null,
-    "CN": "来自更衣室的∞爱意 EX",
+    "CN": "来自衣帽间的∞爱 EX",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "輝く顔 A+": {
     "JP": null,
-    "CN": "闪耀之颜 A+",
+    "CN": "容光焕发 A+",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "おもてなし力 A": {
+    "JP": null,
+    "CN": "Hospitality A",
+    "TW": null,
+    "NA": "Hospitality Power A",
+    "KR": null
+  },
+  "おもてなし力 B（ケヤキ）": {
+    "JP": null,
+    "CN": "Omotenashi (Hospitality) B (Zelkova)",
+    "TW": null,
+    "NA": "Hospitality Power B (Keyaki)",
+    "KR": null
+  },
+  "おもてなし力 B（スギ）": {
+    "JP": null,
+    "CN": "Hospitality B (Sugi)",
+    "TW": null,
+    "NA": "Hospitality Power B (Cedar)",
+    "KR": null
+  },
+  "おもてなし力 B（ヒノキ）": {
+    "JP": null,
+    "CN": "Hospitality B (Hinoki)",
+    "TW": null,
+    "NA": "Hospitality Power B (Cypress)",
+    "KR": null
+  },
+  "おもてなし力 EX": {
+    "JP": null,
+    "CN": "Hospitality EX",
+    "TW": null,
+    "NA": "Hospitality Power EX",
+    "KR": null
+  },
+  "刻むもの A": {
+    "JP": null,
+    "CN": "铭刻者 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "材木のドロップ獲得数アップ＆攻撃の威力アップ": {
+    "JP": null,
+    "CN": "Increase Lumber drop amount & Increase ATK damage",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "運命の紡ぎ手（過去） A": {
+    "JP": null,
+    "CN": "命运的织者（过去） A",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "運命神の神核 A": {
+    "JP": null,
+    "CN": "命运神的神核 A",
     "TW": null,
     "NA": null,
     "KR": null

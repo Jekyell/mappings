@@ -701,7 +701,7 @@
   },
   "冠位戴冠戦\nバーサーカー": {
     "JP": null,
-    "CN": "冠位戴冠战\nBerserker",
+    "CN": "冠位戴冠战\n狂战士",
     "TW": "冠位戴冠戰\nBerserker",
     "NA": "Grand Duel\n Berserker",
     "KR": null
@@ -1646,14 +1646,49 @@
   },
   "■■■■都市 スノーフィールド": {
     "JP": null,
-    "CN": "■■■■都市 斯诺菲尔德",
+    "CN": "■■■■都市 雪原市",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "無常冥鏡都市 スノーフィールド": {
     "JP": null,
-    "CN": "无常冥镜都市 斯诺菲尔德",
+    "CN": "无常冥镜都市 雪原市",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "War 503": {
+    "JP": "運命の三女神編",
+    "CN": "命运的三女神篇",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "運命の三女神編": {
+    "JP": null,
+    "CN": "命运的三女神篇",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "運命の三女神編 郷愁永巡刻盤 パスト・カルデア": {
+    "JP": null,
+    "CN": "命运的三女神篇 乡愁永巡刻盘 过去的迦勒底",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "？？？編": {
+    "JP": null,
+    "CN": "？？？篇",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "？？？編 郷愁永巡刻盤 パスト・カルデア": {
+    "JP": null,
+    "CN": "？？？篇 乡愁永巡刻盘 过去的迦勒底",
     "TW": null,
     "NA": null,
     "KR": null

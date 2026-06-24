@@ -1884,8 +1884,8 @@
   },
   "不屈の構え（狂）": {
     "JP": null,
-    "CN": "不屈之架势（狂）",
-    "TW": null,
+    "CN": "不屈的架势（狂）",
+    "TW": "不屈的架勢（狂）",
     "NA": null,
     "KR": null
   },
@@ -3529,8 +3529,8 @@
   },
   "曇らせ侍る（狂）": {
     "JP": null,
-    "CN": "迷蒙侍奉（狂）",
-    "TW": null,
+    "CN": "自迷双眼以侍（狂）",
+    "TW": "朦朧侍奉（狂）",
     "NA": null,
     "KR": null
   },
@@ -3592,8 +3592,8 @@
   },
   "標的破壊": {
     "JP": null,
-    "CN": "目标摧毁",
-    "TW": null,
+    "CN": "目标破坏",
+    "TW": "標的破壞",
     "NA": "Target Destruction",
     "KR": null
   },
@@ -3683,7 +3683,7 @@
   },
   "毎ターンスター獲得": {
     "JP": null,
-    "CN": "每回合星获得",
+    "CN": "每回合获得暴击星",
     "TW": "每回合獲得爆擊星",
     "NA": "C. Star Gain Per Turn",
     "KR": "매 턴 스타 획득"
@@ -4439,8 +4439,8 @@
   },
   "被効果時発動": {
     "JP": null,
-    "CN": "被效果时发动",
-    "TW": null,
+    "CN": "被施加效果时发动",
+    "TW": "被施加效果時發動",
     "NA": "Activate when received effect",
     "KR": null
   },
@@ -5469,6 +5469,20 @@
   "威力アップ〔中立〕": {
     "JP": null,
     "CN": "威力提升〔中立〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "おもてなし力": {
+    "JP": null,
+    "CN": "Hospitality skills",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "過去改竄": {
+    "JP": null,
+    "CN": "篡改过去",
     "TW": null,
     "NA": null,
     "KR": null

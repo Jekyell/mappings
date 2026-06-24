@@ -1454,5 +1454,23 @@
     "warIds": [
       9198
     ]
+  },
+  "94000049": {
+    "JP": "ネロ祭再び ～2016 Autumn～",
+    "CN": "尼禄祭再临 ～2017 Autumn～",
+    "TW": "尼祿祭再臨 ～2018 Autumn～",
+    "NA": "The Return of Nero Fest - Autumn 2018",
+    "KR": "돌아온 네로 축제 ~2018 Autumn~",
+    "warIds": []
+  },
+  "94000186": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9201
+    ]
   }
 }

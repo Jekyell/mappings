@@ -3739,8 +3739,8 @@
   },
   "テイスト・オブ・ウィッシュ": {
     "JP": null,
-    "CN": "心意的滋味",
-    "TW": null,
+    "CN": "心愿之味",
+    "TW": "心意的滋味",
     "NA": "Taste of Wish",
     "KR": null
   },
@@ -4005,8 +4005,8 @@
   },
   "ドラゴン・トレッキング": {
     "JP": null,
-    "CN": "龙的登山远足",
-    "TW": null,
+    "CN": "龙之山地徒步",
+    "TW": "龍的登山遠足",
     "NA": "Dragon Trekking",
     "KR": null
   },
@@ -9997,8 +9997,8 @@
   },
   "海へ": {
     "JP": null,
-    "CN": "向着大海",
-    "TW": null,
+    "CN": "去往大海",
+    "TW": "向著大海",
     "NA": "To the Sea",
     "KR": null
   },
@@ -10221,8 +10221,8 @@
   },
   "無常の果実": {
     "JP": null,
-    "CN": "无常之果实",
-    "TW": null,
+    "CN": "无常果实",
+    "TW": "無常之果實",
     "NA": "Ephemeral Fruit",
     "KR": null
   },
@@ -18348,7 +18348,42 @@
   },
   "繁中版9週年紀念": {
     "JP": null,
-    "CN": null,
+    "CN": "9th Anniversary of the Traditional Chinese Version",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "惨禍の萌芽": {
+    "JP": null,
+    "CN": "惨祸的萌芽",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "未だ見ぬ勝利": {
+    "JP": null,
+    "CN": "尚未得见的胜利",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "流転の剣聖": {
+    "JP": null,
+    "CN": "流转的剑圣",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "苦い記憶": {
+    "JP": null,
+    "CN": "苦涩的记忆",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "貴方への祈り": {
+    "JP": null,
+    "CN": "献与你的祈祷",
     "TW": null,
     "NA": null,
     "KR": null

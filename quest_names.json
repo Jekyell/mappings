@@ -47720,7 +47720,7 @@
   },
   "第４節 テュフォン・ネオス": {
     "JP": null,
-    "CN": "第４节 堤丰·尼俄斯",
+    "CN": "第４节 堤丰·涅俄斯",
     "TW": null,
     "NA": null,
     "KR": null
@@ -58878,7 +58878,7 @@
   },
   "魔霧に覆われし都": {
     "JP": null,
-    "CN": "被魔雾笼罩的都市",
+    "CN": "魔雾覆盖之都",
     "TW": null,
     "NA": null,
     "KR": null
@@ -58892,42 +58892,42 @@
   },
   "ではまた、一から": {
     "JP": null,
-    "CN": "那么，从头再来",
+    "CN": "那么，再次从头开始",
     "TW": null,
-    "NA": null,
+    "NA": "Now, Again from the Beginning",
     "KR": null
   },
   "邪竜の残影": {
     "JP": null,
-    "CN": "邪龙的残影",
+    "CN": "邪龙残影",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "捜し物はなんですか？": {
     "JP": null,
-    "CN": "你在寻找什么？",
+    "CN": "您要找什么呢？",
     "TW": null,
-    "NA": null,
+    "NA": "What Were You Looking For?",
     "KR": null
   },
   "神話息づく大地": {
     "JP": null,
-    "CN": "神话栖息的大地",
+    "CN": "神话叹息的大地",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "強化クエスト ダビデ 2": {
     "JP": null,
-    "CN": "强化任务 David 2",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 大卫 2",
+    "TW": "強化任務 大衛 2",
+    "NA": "Rank Up Quest: David 2",
+    "KR": "강화 퀘스트 다윗 2"
   },
   "永久に続く帝国": {
     "JP": null,
-    "CN": "永久持续的帝国",
+    "CN": "永续帝国",
     "TW": null,
     "NA": null,
     "KR": null
@@ -58948,28 +58948,28 @@
   },
   "聖地の争い": {
     "JP": null,
-    "CN": "圣地之争",
+    "CN": "圣地纷争",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "終点の神殿": {
     "JP": null,
-    "CN": "终点之神殿",
+    "CN": "终点的神殿",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "バラ色の日々": {
     "JP": null,
-    "CN": "玫瑰色的人生",
+    "CN": "蔷薇色的日子",
     "TW": null,
-    "NA": null,
+    "NA": "Rose-Tinted Days",
     "KR": null
   },
   "封鎖された海域": {
     "JP": null,
-    "CN": "被封锁的海域",
+    "CN": "封锁海域",
     "TW": null,
     "NA": null,
     "KR": null
@@ -58983,14 +58983,14 @@
   },
   "母なる海の仔": {
     "JP": null,
-    "CN": "母亲之海的孩子",
+    "CN": "大海母亲的子嗣",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "霊基解放クエスト ウルズ": {
     "JP": null,
-    "CN": "灵基解放任务 乌尔德",
+    "CN": "灵基解放关卡 乌尔德",
     "TW": null,
     "NA": null,
     "KR": null
@@ -59011,10 +59011,10 @@
   },
   "強化クエスト ミス・クレーン": {
     "JP": null,
-    "CN": "强化任务 Miss Crane",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 克莱恩小姐",
+    "TW": "強化任務 Ms.克蘭",
+    "NA": "Rank Up Quest: Miss Crane",
+    "KR": "강화 퀘스트 미스 크레인"
   },
   "お手伝い 道案内": {
     "JP": null,
@@ -59035,6 +59035,20 @@
     "CN": "帮忙 针灸服务助理",
     "TW": null,
     "NA": null,
+    "KR": null
+  },
+  "全特異点・踏破完了": {
+    "JP": null,
+    "CN": "全特异点·攻略完毕",
+    "TW": null,
+    "NA": "All Singularities - Traversals Complete",
+    "KR": null
+  },
+  "邪竜百年戦争": {
+    "JP": null,
+    "CN": "邪龙百年战争",
+    "TW": null,
+    "NA": "Hundred Years War of the Wicked Dragon",
     "KR": null
   }
 }

@@ -2654,5 +2654,19 @@
     "TW": "func解除狀態",
     "NA": "func Remove Effects",
     "KR": null
+  },
+  "137": {
+    "JP": "クラス:デミビースト",
+    "CN": "职阶:DEMIBEAST",
+    "TW": null,
+    "NA": "Class:DEMIBEAST",
+    "KR": null
+  },
+  "10039": {
+    "JP": "過去改竄",
+    "CN": "\"篡改过去\"",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
