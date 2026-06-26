@@ -36,8 +36,8 @@
   },
   "1ターン経過後に自身の攻撃力をアップ + 自身を除く味方全体にカード選出不能状態を付与する": {
     "JP": null,
-    "CN": "1回合后自身攻击力提升 + 除自身外全体队友赋予选卡不能状态",
-    "TW": null,
+    "CN": "1ターン経過後に自身の攻撃力をアップ + 自身を除く味方全体にカード選出不能状態を付与する",
+    "TW": "1回合後攻擊力提升 + 除自身以外的我方全體賦予無法選擇指令卡狀態",
     "NA": null,
     "KR": null
   },
@@ -85,8 +85,8 @@
   },
   "ArtsまたはBuster攻撃時、自身のQuickカードの性能をアップ": {
     "JP": null,
-    "CN": "在使用Arts或Buster指令卡攻击时，自身Quick指令卡性能提升",
-    "TW": null,
+    "CN": "当进行Arts或Buster攻击时，提升自身Quick卡性能",
+    "TW": "Arts或Buster攻擊時，自身的Quick指令卡性能提升",
     "NA": null,
     "KR": null
   },
@@ -193,7 +193,7 @@
     "CN": "Arts指令卡的普通攻击次数变成2倍但每次攻击的威力下降",
     "TW": "Arts指令卡的普通攻擊次數變成2倍但每次攻擊的威力下降",
     "NA": "Double the number of hits of normal Arts Card attacks and decrease hit strength proportionally",
-    "KR": "아츠 카드의 통상 공격의 히트 수가 2배가 되지만 매 히트 별 위력 DOWN"
+    "KR": "아츠 카드의 통상 공격의 히트 수가 2배가 되지만 매 히트당 위력 DOWN"
   },
   "Artsカードへのスターの集まりやすさをアップ": {
     "JP": null,
@@ -214,7 +214,7 @@
     "CN": "无法使用Arts指令卡",
     "TW": "無法使用Arts指令卡",
     "NA": "Unable to use Arts Cards",
-    "KR": "아츠 카드 사용 금지"
+    "KR": "아츠 카드 사용 불가"
   },
   "Arts攻撃に対する防御力をダウン": {
     "JP": null,
@@ -237,19 +237,40 @@
     "NA": "Increase Arts ATK Strength",
     "KR": "아츠 공격의 위력 UP"
   },
+  "Arts攻撃時、スターを獲得する": {
+    "JP": null,
+    "CN": "Arts攻击时，获得暴击星",
+    "TW": "Arts攻擊時，獲得爆擊星",
+    "NA": null,
+    "KR": null
+  },
+  "Arts攻撃時、味方全体のArtsカードの威力をアップ": {
+    "JP": null,
+    "CN": "Arts攻撃時、味方全体のArtsカードの威力をアップ",
+    "TW": "Arts攻擊時，我方全體的Arts指令卡威力提升",
+    "NA": null,
+    "KR": null
+  },
+  "Arts攻撃時、味方全体のArtsカードの宝具威力をアップ": {
+    "JP": null,
+    "CN": "Arts攻撃時、味方全体のArtsカードの宝具威力をアップ",
+    "TW": "Arts攻擊時，我方全體的Arts指令卡寶具威力提升",
+    "NA": null,
+    "KR": null
+  },
   "Arts攻撃時、対象のHP回復量をダウン＆低確率でNPを減らす＆ガッツ状態を解除": {
     "JP": null,
     "CN": "Arts攻击时，对象的生命值回复量降低＆低概率减少NP＆解除毅力状态",
-    "TW": "Arts攻擊時，對象的HP恢復量下降＆低機率NP減少＆毅力狀態解除",
+    "TW": "Arts攻擊時，對象的HP回復量降低＆低機率減少NP＆解除毅力狀態",
     "NA": null,
-    "KR": null
+    "KR": "아츠 공격 시 대상의 HP 회복량 DOWN&낮은 확률로 차지 감소&근성 상태 해제"
   },
   "Arts攻撃時、対象のHP回復量をダウン＆低確率でチャージを減らす＆ガッツ状態を解除": {
     "JP": null,
     "CN": "Arts攻击时，对象的生命值回复量降低＆低概率减少充能＆解除毅力状态",
-    "TW": "Arts攻擊時，對象的HP恢復量下降＆低機率Charge減少＆毅力狀態解除",
+    "TW": "Arts攻擊時，對象的HP回復量降低＆低機率減少Charge＆解除毅力狀態",
     "NA": null,
-    "KR": null
+    "KR": "아츠 공격 시 대상의 HP 회복량 DOWN&낮은 확률로 차지 감소&근성 상태 해제"
   },
   "Arts攻撃時、自身に回避状態を付与": {
     "JP": null,
@@ -258,12 +279,19 @@
     "NA": null,
     "KR": null
   },
+  "Arts攻撃時、自身のクリティカル発生率をアップ": {
+    "JP": null,
+    "CN": "Arts攻击时，提升自身的暴击发生率",
+    "TW": "Arts攻擊時，自身的爆擊率提升",
+    "NA": null,
+    "KR": null
+  },
   "Arts通常攻撃時、自身のNPを増やす": {
     "JP": null,
     "CN": "Arts普通攻击时，自身的NP增加",
-    "TW": "Arts攻擊時，自身的NP增加",
+    "TW": "Arts普通攻擊時，自身的NP增加",
     "NA": null,
-    "KR": null
+    "KR": "아츠 통상 공격 시 자신의 NP 증가"
   },
   "Busterカードでの通常攻撃時に自身のNPを増やす": {
     "JP": null,
@@ -342,6 +370,13 @@
     "NA": "Increase Buster Card strength",
     "KR": "버스터 카드의 위력 UP"
   },
+  "Busterカードの宝具で与えるダメージをアップ": {
+    "JP": null,
+    "CN": "提升Buster卡宝具造成的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Busterカードの性能をアップ": {
     "JP": null,
     "CN": "Buster指令卡的性能提升",
@@ -375,7 +410,7 @@
     "CN": "Buster攻击的暴击星掉落率提升",
     "TW": "提升Buster指令卡攻擊的星星掉落率",
     "NA": null,
-    "KR": null
+    "KR": "버스터 공격의 스타 발생률 UP"
   },
   "Buster攻撃の威力をアップ": {
     "JP": null,
@@ -405,6 +440,27 @@
     "NA": "During Buster attacks, increase Critical Strength for yourself before damage",
     "KR": "버스터 공격 시 대미지 전에 자신의 크리티컬 위력 UP"
   },
+  "Buster攻撃時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
+    "JP": null,
+    "CN": "When performing Buster attacks, grant all allies the effect of increasing their NP charge level by 1 stage when using a Noble Phantasm.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Buster攻撃時、味方全体のBusterカードの威力をアップ": {
+    "JP": null,
+    "CN": "Buster攻撃時、味方全体のBusterカードの威力をアップ",
+    "TW": "Buster攻擊時，我方全體的Buster指令卡威力提升",
+    "NA": null,
+    "KR": null
+  },
+  "Buster攻撃時、味方全体のBusterカードの宝具威力をアップ": {
+    "JP": null,
+    "CN": "Increase Buster card Noble Phantasm damage for all allies when performing a Buster attack.",
+    "TW": "Buster攻擊時，我方全體的Buster指令卡寶具威力提升",
+    "NA": null,
+    "KR": null
+  },
   "Buster攻撃時、自身のNPを増やす": {
     "JP": null,
     "CN": "Buster攻击时，自身的NP增加",
@@ -422,9 +478,9 @@
   "Buster通常攻撃時、ダメージ前に自身のクリティカル威力をアップ": {
     "JP": null,
     "CN": "Buster普通攻击造成伤害前，自身的暴击威力提升",
-    "TW": "Buster指令卡攻擊時，造成傷害前自身的爆擊發生率提升",
-    "NA": null,
-    "KR": null
+    "TW": "Buster普通攻擊造成傷害前，自身的爆擊威力提升",
+    "NA": "Increase your Critical Strength before inflicting damage during normal Buster attacks",
+    "KR": "버스터 통상 공격 시 대미지 전에 자신의 크리티컬 위력 UP"
   },
   "Extra Attackカードの性能をアップ": {
     "JP": null,
@@ -436,14 +492,14 @@
   "Extra Attack時にスターを獲得する": {
     "JP": null,
     "CN": "Extra攻击时获得暴击星",
-    "TW": "ExtraAttack時獲得爆擊星",
+    "TW": "Extra Attack時獲得爆擊星",
     "NA": "Gain C. Stars when using Extra Attack",
     "KR": "엑스트라 공격 시 스타 획득"
   },
   "Extra Attack時に味方全体のNPを少し増やす": {
     "JP": null,
     "CN": "Extra攻击时己方全体的NP少量增加",
-    "TW": "ExtraAttack時我方全體的NP少量增加",
+    "TW": "Extra Attack時我方全體的NP少量增加",
     "NA": "Slightly increase all allies' NP Gauge when using Extra Attack",
     "KR": "엑스트라 공격 시 아군 전체의 NP 조금 증가"
   },
@@ -496,6 +552,27 @@
     "NA": "When HP reaches 0, recover HP and survive (stackable with other Guts)",
     "KR": "HP가 0이 된 경우, HP를 회복하여 버틴다(다른 근성 상태와 중복 가능)"
   },
+  "HPが0になった時、低確率でHPを回復して耐える(他のガッツ状態と重複可能)": {
+    "JP": null,
+    "CN": "When HP reaches 0, has a low chance to recover HP and survive (can stack with other Guts status effects).",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "HPが0になった時、味方全体のNPを少し増やす": {
+    "JP": null,
+    "CN": "当HP降为0时，增加我方全体少量NP",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "HPが0になった時、味方全体のチャージを増やす": {
+    "JP": null,
+    "CN": "当HP归零时，增加我方全体的充能",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "HPが0になった時、味方全体の防御力をダウン＆呪い状態を付与＆呪厄状態を付与": {
     "JP": null,
     "CN": "生命值为0时，己方全体的防御力下降＆付与诅咒状态＆付与咒厄状态",
@@ -534,9 +611,9 @@
   "HPが100%の時、クリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当生命值为100%时，暴击伤害提升",
-    "TW": "當HP100%時，爆擊時傷害提升",
+    "TW": "當HP為100%時，爆擊傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "HP가 100%일 때, 크리티컬 시의 대미지 UP"
   },
   "HPが25%以下の間、攻撃力をアップ": {
     "JP": null,
@@ -548,9 +625,9 @@
   "HPが50%以上の間、クリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当生命值大于等于50%时，暴击伤害提升",
-    "TW": "當HP高於50%以上時，爆擊時傷害提升",
+    "TW": "當HP大於等於50%時，爆擊傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "HP가 50% 이상일 때, 크리티컬 시의 대미지 UP"
   },
   "HPが50%以下の間、NP獲得量をアップ": {
     "JP": null,
@@ -624,15 +701,22 @@
   },
   "HP回復効果または最大HPアップ効果を受けた時、自身のNPを少し増やす<毎ターンHP回復効果、概念礼装・コマンドコードによる効果を除く>": {
     "JP": null,
-    "CN": "受到HP回复效果或最大HP提升效果时，自身NP小幅增加<不包括每回合HP回复效果、概念礼装·指令纹章效果>",
-    "TW": null,
+    "CN": "当受到HP回复效果或最大HP提升效果时，自身的NP小幅增加<不包含每回合HP回复效果、概念礼装·指令纹章带来的效果>",
+    "TW": "HP恢復效果或最大HP提升效果發動時，自身的NP少量增加<每回合HP恢復效果、概念禮裝・指令紋章效果除外>",
+    "NA": null,
+    "KR": null
+  },
+  "HP回復効果または最大HPアップ効果を受けた時、自身のQuickカード性能をアップ<毎ターンHP回復効果、概念礼装・コマンドコードによる効果を除く>": {
+    "JP": null,
+    "CN": "当获得HP回复效果或最大HP提升效果时，提升自身的Quick卡性能<每回合HP回复效果、概念礼装・指令纹章带来的效果除外>",
+    "TW": "HP恢復效果或最大HP提升效果發動時，自身的Quick指令卡性能提升<每回合HP恢復效果、概念禮裝・指令紋章效果除外>",
     "NA": null,
     "KR": null
   },
   "HP回復効果または最大HPアップ効果を受けた時、自身のチャージを増やす<毎ターンHP回復効果、概念礼装・コマンドコードによる効果を除く>": {
     "JP": null,
-    "CN": "受到HP回复效果或最大HP提升效果时，增加自身充能<每回合HP回复效果、概念礼装·指令纹章效果除外>",
-    "TW": null,
+    "CN": "当受到HP回复效果或最大HP提升效果时，增加自身的蓄力值<不包含每回合HP回复效果、概念礼装・指令纹章带来的效果>",
+    "TW": "HP恢復效果或最大HP提升效果發動時，自身的Charge增加<每回合HP恢復效果、概念禮裝・指令紋章效果除外>",
     "NA": null,
     "KR": null
   },
@@ -645,8 +729,8 @@
   },
   "NP獲得量をアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "NP获取量提升<自身HP比例越低效果越高>",
-    "TW": null,
+    "CN": "Increase NP generation rate <effect increases as own HP percentage is lower>",
+    "TW": "NP獲得量提升<自身的HP比例越少效果越提升>",
     "NA": null,
     "KR": null
   },
@@ -734,6 +818,13 @@
     "NA": "Increase Quick Card strength",
     "KR": "퀵 카드의 위력 UP"
   },
+  "Quickカードの宝具で与えるダメージをアップ": {
+    "JP": null,
+    "CN": "提升Quick卡宝具造成的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Quickカードの性能をアップ": {
     "JP": null,
     "CN": "Quick指令卡的性能提升",
@@ -761,6 +852,13 @@
     "TW": "Quick指令卡的爆擊星集中提升",
     "NA": "Increase C. Star Gather Rate for Quick Cards",
     "KR": "퀵 카드로 스타 집중도 UP"
+  },
+  "Quick・Arts・Buster攻撃時に〔鈍の矢弾〕状態を1回分消費して、そのコマンドカードの威力をアップ＆そのコマンドカードが必中効果を得ている時は、さらにそのコマンドカードのクリティカル威力か宝具威力をアップ ＋ Extra攻撃時に〔鈍の矢弾〕状態を1回分消費して、Extra Attackカードの威力をアップ": {
+    "JP": null,
+    "CN": "When performing a Quick, Arts, or Buster attack, consume 1 stack of [Lead Bullet] state to increase that command card's effectiveness. If that command card already has a Sure Hit effect, further increase that command card's critical strength or Noble Phantasm strength. When performing an Extra attack, consume 1 stack of [Lead Bullet] state to increase Extra Attack card effectiveness.",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "Quick攻撃の威力をアップ": {
     "JP": null,
@@ -804,6 +902,20 @@
     "NA": "During Quick attacks, increase C. Star Drop Rate for yourself before damage",
     "KR": "퀵 공격 시 대미지 전에 자신의 스타 발생률 UP"
   },
+  "Quick攻撃時、味方全体のQuickカードの威力をアップ": {
+    "JP": null,
+    "CN": "Increases Quick card effectiveness for all allies when performing Quick attacks",
+    "TW": "Quick攻擊時，我方全體的Quick指令卡威力提升",
+    "NA": null,
+    "KR": null
+  },
+  "Quick攻撃時、味方全体のQuickカードの宝具威力をアップ": {
+    "JP": null,
+    "CN": "When performing a Quick attack, increase Quick card Noble Phantasm damage for all allies.",
+    "TW": "Quick攻擊時，我方全體的Quick指令卡寶具威力提升",
+    "NA": null,
+    "KR": null
+  },
   "Quick攻撃時、対象に呪い状態を付与": {
     "JP": null,
     "CN": "Quick攻击时，付与对象诅咒状态",
@@ -814,9 +926,9 @@
   "Quick攻撃時、自身のNPを増やす": {
     "JP": null,
     "CN": "Quick攻击时，自身的NP增加",
-    "TW": "用Quick指令卡攻擊時，自身的NP增加",
-    "NA": null,
-    "KR": null
+    "TW": "Quick攻擊時，自身的NP增加",
+    "NA": "Increase NP Gauge for yourself when attacking with a Quick Card",
+    "KR": "퀵 공격 시 자신의 NP 증가"
   },
   "Quick攻撃時、自身のNPを少し増やす": {
     "JP": null,
@@ -830,7 +942,7 @@
     "CN": "使用Quick指令卡攻击时，解除1个诅咒状态＆解除成功时,自身的攻击力提升",
     "TW": "使用Quick指令卡攻擊時，解除1個詛咒狀態＆解除成功時，自身的攻擊力提升",
     "NA": "Remove 1 Curse when attacking with Quick Card, and increase your ATK if removal is successful",
-    "KR": "퀵 카드로 공격 시 저주 상태 1개 해제&해제에 성공한 경우 자신의 공격력 UP"
+    "KR": "퀵 공격 시, 자신의 저주 상태 1개 해제&해제에 성공할 경우, 자신의 공격력 조금 UP"
   },
   "Quick攻撃時、自身の呪い状態を1つ解除＆解除に成功した場合、自身の攻撃力を少しアップ＆NPを増やす": {
     "JP": null,
@@ -849,14 +961,21 @@
   "Quick通常攻撃時、ダメージ前に対象の防御力をダウン": {
     "JP": null,
     "CN": "Quick普通攻击造成伤害前，对象的防御力减少",
-    "TW": "用Quick指令卡攻擊時，造成傷害前使對象的防禦力下降",
-    "NA": null,
-    "KR": null
+    "TW": "Quick普通攻擊造成傷害前，對象的防禦力減少",
+    "NA": "Decrease DEF of target before inflicting damage during normal Quick attacks",
+    "KR": "퀵 통상 공격 시 대미지 전에 대상의 방어력 DOWN"
   },
   "Quick通常攻撃時、自身に回避状態を付与": {
     "JP": null,
     "CN": "Quick普通攻击时，付与自身回避状态",
-    "TW": "Quick普通攻擊時，為自身附加迴避狀態",
+    "TW": "Quick普通攻擊時，賦予自身迴避狀態",
+    "NA": null,
+    "KR": "퀵 통상 공격 시 자신에게 회피 상태 부여"
+  },
+  "Quick通常攻撃時、自身のNPを少し増やす": {
+    "JP": null,
+    "CN": "Quick通常攻撃時、自身のNPを少し増やす",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -884,9 +1003,9 @@
   "『3000万DL突破キャンペーン』開催期間中において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『3000万DL突破活动』举办期间造成的伤害提升",
-    "TW": "在『3000萬下載突破活動』舉辦期間內造成的傷害提升",
+    "TW": "在『迦勒底小暑特別紀念活動』舉辦期間造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "“가정의 달 캠페인” 개최 기간 중 주는 대미지 UP"
   },
   "『Apocrypha/Inheritance of Glory』において与えるダメージをアップ": {
     "JP": null,
@@ -905,15 +1024,29 @@
   "『CBC2024 シャルルマーニュのモンジョワ・騎士道！』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『CBC2025 查理曼的蒙茹瓦骑士道！』中造成的伤害提升",
-    "TW": "在『CBC2024 查理曼的Montjoie騎士道！』中造成的傷害提升",
-    "NA": "Increase damage dealt during \"CBC2024 Charlemagne's Montjoie Chivalrism!\"",
-    "KR": null
+    "TW": "在『CBC2025 查理曼的Montjoie．騎士道！』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"CBC 2026 Charlemagne's Chivalrous Montjoie!\"",
+    "KR": "“CBC 2025 샤를마뉴의 몽주아 기사도!”에서 주는 대미지 UP"
   },
   "『CBC2025 彼の名はダンテ』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『CBC2026 其名为但丁』中造成的伤害提升",
     "TW": "在『CBC2025 他的名字是但丁』中造成的傷害提升",
     "NA": "Increase damage dealt during \"CBC 2025 The name is Dante\"",
+    "KR": null
+  },
+  "『CBC2026 マイ・カインド・オブ・アブダクション』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『CBC2026 我喜欢的诱拐』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "『Fate/strange Fakeコラボイベント』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『Fate/strange Fake联动活动』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "『Fate20周年記念キャンペーン』開催期間中において与えるダメージをアップ": {
@@ -937,6 +1070,13 @@
     "NA": "Increase damage dealt during \"GUDAGUDA Final Honnoji 2021\"",
     "KR": "“구다구다 파이널 혼노지 2021” 에서 주는 대미지 UP"
   },
+  "『ぐだぐだ新選組・ジ・エンド』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『唠唠叨叨新选组·THE·END』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "『ぐだぐだ新邪馬台国』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『唠唠叨叨新邪马台国』中造成的伤害提升",
@@ -948,7 +1088,7 @@
     "JP": null,
     "CN": "在『唠唠叨叨超五棱郭』中造成的伤害提升",
     "TW": "在『嘮嘮叨叨超五稜郭』中造成的傷害提升",
-    "NA": null,
+    "NA": "Increase damage dealt during \"GUDAGUDA Super Goryoukaku\"",
     "KR": "“구다구다 슈퍼 고료카쿠”에서 주는 대미지 UP"
   },
   "『ぐだぐだ龍馬危機一髪！』において与えるダメージをアップ": {
@@ -961,9 +1101,9 @@
   "『ぶち壊せ！ ミステリーハウス・クラフターズ』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『通通砸碎！ 神秘屋的工匠们』中造成的伤害提升",
-    "TW": "在『破壞吧！ 神秘宅邸的工匠們』中造成的傷害提升",
+    "TW": "在『通通砸碎！ 神秘屋的工匠們』中造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "“때려 부숴라! 미스터리 하우스 크래프터즈”에서 주는 대미지 UP"
   },
   "『アイアイエーの春風　～魔女と愉快な仲間と新しい冒険～』において与えるダメージをアップ": {
     "JP": null,
@@ -979,6 +1119,13 @@
     "NA": "Increase damage dealt during \"Akihabara Explosion!\"",
     "KR": "“아키하바라・익스플로전!”에서 주는 대미지 UP"
   },
+  "『アフタータイム・バレンタイン2026』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『Aftertime·情人节2026』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "『アークティック・サマーワールド！』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『北极·夏日世界！』中造成的伤害提升",
@@ -989,23 +1136,30 @@
   "『インドラの大試練』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『因陀罗的大试炼』中造成的伤害提升",
-    "TW": null,
+    "TW": "在『因陀羅的大試煉』中造成的傷害提升",
     "NA": "Increase damage dealt during \"Indra's Great Trial\"",
+    "KR": null
+  },
+  "『カルデアン・フロラリア』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『迦勒底·花神节』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "『カルデア・サマーアドベンチャー！ アンケート復刻版』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『迦勒底·夏日冒险！ 复刻版』中造成的伤害提升",
-    "TW": "在『迦勒底．夏日冒險！ 問卷復刻版』中造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "在『迦勒底．夏日冒險！ 復刻版』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"Revival: Chaldea Summer Adventure!\"",
+    "KR": "“칼데아 서머 어드벤처! 앙케이트 복각판” 에서 주는 대미지 UP"
   },
   "『カルデア・サマーアドベンチャー！ アンケート復刻版』において宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "在『迦勒底·夏日冒险！ 复刻版』中宝具造成的伤害提升",
-    "TW": "在『迦勒底．夏日冒險！ 問卷復刻版』中寶具造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "在『迦勒底．夏日冒險！ 復刻版』中寶具造成的傷害提升",
+    "NA": "Increase NP damage dealt during \"Revival: Chaldea Summer Adventure!\"",
+    "KR": "“칼데아 서머 어드벤처! 앙케이트 복각판” 에서 보구로 주는 대미지 UP"
   },
   "『カルデア・サマーアドベンチャー！』において与えるダメージをアップ": {
     "JP": null,
@@ -1027,6 +1181,13 @@
     "TW": "在『迦勒底．苦澀．情人節2022』中造成的傷害提升",
     "NA": "Increase damage dealt during \"Chaldea Bitter Valentine's 2023\"",
     "KR": "“칼데아 비터 발렌타인 2023” 에서 주는 대미지 UP"
+  },
+  "『カルデア・Ｕ－サマーアイランド』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『迦勒底·U－夏日岛屿』中造成的伤害提升",
+    "TW": "在『迦勒底．U－夏日島嶼』中造成的傷害提升",
+    "NA": null,
+    "KR": null
   },
   "『カルデア妖精騎士杯』において与えるダメージをアップ": {
     "JP": null,
@@ -1052,7 +1213,7 @@
   "『スペース・ファンタズムーン アナザー・クリスマス』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『Space Phantasmoon 另一个圣诞』中造成的伤害提升",
-    "TW": "在『Space Fantasmoon Another Christmas』中造成的傷害提升",
+    "TW": "在『Space Phantasmoon 另一個聖誕』中造成的傷害提升",
     "NA": null,
     "KR": null
   },
@@ -1066,9 +1227,9 @@
   "『セレブサマー・エクスペリエンス！』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『名流夏日体验！』中造成的伤害提升",
-    "TW": "在『夏日名流體驗！』中造成的傷害提升",
+    "TW": "在『名流夏日體驗！』中造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "“셀럽 서머 익스피리언스!” 에서 주는 대미지 UP"
   },
   "『ツングースカ・サンクチュアリ』において与えるダメージをアップ": {
     "JP": null,
@@ -1122,14 +1283,21 @@
   "『バレンタイン2024』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『情人节2025』中造成的伤害提升",
-    "TW": "在『巧克力之河的彼端』中造成的傷害提升",
+    "TW": "在『情人節2025』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"Valentine's 2026\"",
+    "KR": "“발렌타인 2025” 에서 주는 대미지 UP"
+  },
+  "『ファイナル・ハロウィン2025』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『最终·万圣节2025』中造成的伤害提升",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "『ポホヨラのクリスマス・イブ』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『波赫约拉的圣诞前夜』中造成的伤害提升",
-    "TW": "在『波赫約拉的平安夜』中造成的傷害提升",
+    "TW": "在『波赫約拉的聖誕前夜』中造成的傷害提升",
     "NA": null,
     "KR": null
   },
@@ -1172,14 +1340,14 @@
     "JP": null,
     "CN": "『开服3000日突破纪念』活动期间造成的伤害提升",
     "TW": "『迦勒底立秋特別紀念』活動期間造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "NA": "Increase damage dealt during \"3000 Days Anniversary Celebration Campaign\"",
+    "KR": "“한국 서비스 3000일 돌파 캠페인” 기간 중 주는 대미지 UP"
   },
   "『ワンジナ・ワールドツアー！』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『旺吉娜·世界之旅！』中造成的伤害提升",
     "TW": "在『旺吉娜．世界之旅！』中造成的傷害提升",
-    "NA": "Increase damage dealt during \"Wandjina World Tour!\"",
+    "NA": "Increase damage dealt during \"The Great Spirit's World Tour!\"",
     "KR": "“완지나 월드 투어!” 에서 주는 대미지 UP"
   },
   "『南溟弓張八犬伝』において与えるダメージをアップ": {
@@ -1189,12 +1357,26 @@
     "NA": "Increase damage dealt during \"Nanmei Yumihari Eight Dog Chronicles\"",
     "KR": "“남명궁장 팔견전” 에서 주는 대미지 UP"
   },
+  "『夏予習版:雀のお宿の活動日誌～閻魔亭繁盛記～』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "『失われた創世 未来からの方舟』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『失落的创世 来自未来的方舟』中造成的伤害提升",
+    "TW": "在『失落的創世 來自未來的方舟』中造成的傷害提升",
+    "NA": null,
+    "KR": null
+  },
   "『妖精双六虫籠遊戯』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『妖精双六虫笼游戏』中造成的伤害提升",
     "TW": "在『妖精雙六蟲籠遊戲』中造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "“요정 스고로쿠 충롱유희”에서 주는 대미지 UP"
   },
   "『小野小町古今抄』においてArtsカードの威力をアップ": {
     "JP": null,
@@ -1301,6 +1483,13 @@
     "NA": "Increase damage dealt during \"Revival: The Glorious Path to Santa Claus - The Sealed Christmas Present - Lite\"",
     "KR": "“복각: 영광의 산타클로스 로드 ~봉인된 크리스마스 선물~ 라이트판” 에서 주는 대미지 UP"
   },
+  "『復刻:水怪クライシス 無垢なる者たちの浮島 ライト版』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『复刻:水怪危机 无垢者们的浮岛 轻量版』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "『復刻:見参！ ラスベガス御前試合～水着剣豪七色勝負！ ライト版』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『复刻:拜见！ 拉斯维加斯御前比试～泳装剑豪七色决胜！ 轻量版』中造成的伤害提升",
@@ -1368,8 +1557,8 @@
     "JP": null,
     "CN": "在『盈月剑风帖』中造成的伤害提升",
     "TW": "在『盈月劍風帖』中造成的傷害提升",
-    "NA": "Increase damage dealt during \"Waxing Moon Clashing Swords Chronicles\"",
-    "KR": null
+    "NA": "Increase damage dealt during \"Waxing Moon Chronicles\"",
+    "KR": "“영월검풍첩” 에서 주는 대미지 UP"
   },
   "『節分酒宴絵巻 鬼楽百重塔』において与えるダメージをアップ": {
     "JP": null,
@@ -1389,20 +1578,20 @@
     "JP": null,
     "CN": "在『圣杯战线 ～白昼之城，黑夜之城～』中造成的伤害提升",
     "TW": "在『聖杯戰線 ～白晝之城、黑夜之城～』中造成的傷害提升",
-    "NA": "Increase damage dealt during \"Holy Grail Front: White Castle by Day, Black Castle by Night\"",
+    "NA": "Increase damage dealt during \"Grail Front - Castle of Shining Dawn, Castle of Shadowed Dusk\"",
     "KR": "“성배전선 ~백천의 성, 흑야의 성~” 에서 주는 대미지 UP"
   },
   "『育て！ マイ・リトル・ドラゴン』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『培育吧！ 我的小小龙』中造成的伤害提升",
-    "TW": "在『養育吧！ My Little Dragon』中造成的傷害提升",
+    "TW": "在『育成！ 我的小小龍』中造成的傷害提升",
     "NA": null,
     "KR": null
   },
   "『落涙の翼』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『落泪之翼』中造成的伤害提升",
-    "TW": null,
+    "TW": "在『落淚之翼』中造成的傷害提升",
     "NA": "Increase damage dealt during \"Wings of Lacrimation\"",
     "KR": null
   },
@@ -1416,9 +1605,9 @@
   "『螺旋証明世界 リリムハーロット アンケート復刻版』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『螺旋证明世界 Lilim Harlot 复刻版』中造成的伤害提升",
-    "TW": "在『螺旋證明世界 莉莉姆哈洛特 問卷復刻版』中造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "在『螺旋證明世界 Lilim Harlot 復刻版』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"Revival: Spiral Proof World, Lilim Harlot\"",
+    "KR": "“나선증명세계 릴림 할롯 앙케이드 복각판” 에서 주는 대미지 UP"
   },
   "『螺旋証明世界 リリムハーロット』において与えるダメージをアップ": {
     "JP": null,
@@ -1444,16 +1633,16 @@
   "『踊るドラゴン・キャッスル！』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『舞动龙宫！』中造成的伤害提升",
-    "TW": "在『舞動龍宮城』中造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "在『舞動龍宮！』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"The Dancing Dragon Castle!\"",
+    "KR": "“춤추는 드래곤 캐슬!” 에서 주는 대미지 UP"
   },
   "『雪原のメリー・クリスマス2023』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『雪原的圣诞快乐2024』中造成的伤害提升",
-    "TW": "在『雪原的聖誕快樂2023』中造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "在『雪原的聖誕快樂2025』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"Merry Christmas in the Snowy Field 2025\"",
+    "KR": "“설원의 메리 크리스마스 2025”에서 주는 대미지 UP"
   },
   "『風雲からくりイリヤ城』において与えるダメージをアップ": {
     "JP": null,
@@ -1465,9 +1654,9 @@
   "『魔法使いの夜アフターナイト』において与えるダメージをアップ": {
     "JP": null,
     "CN": "在『魔法使之夜 After Night』中造成的伤害提升",
-    "TW": "在『魔法使之夜After Night』中造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "在『魔法使之夜 After Night』中造成的傷害提升",
+    "NA": "Increase damage dealt during \"After Witch on the Holy Night\"",
+    "KR": "“마법사의 밤 애프터 나이트”에서 주는 대미지 UP"
   },
   "〔やけど〕状態に対するクリティカル威力をアップ": {
     "JP": null,
@@ -1480,7 +1669,7 @@
     "JP": null,
     "CN": "对〔灼伤〕状态的敌人造成的伤害提升",
     "TW": "對〔灼傷〕狀態的敵人造成的傷害提升",
-    "NA": "Increase damage dealt against [Burned] enemies",
+    "NA": "Increase damage dealt to [Burned] enemies",
     "KR": "[화상] 상태인 적에게 주는 대미지 UP"
   },
   "〔アサシン〕に与えるダメージをアップ": {
@@ -1553,6 +1742,13 @@
     "NA": "Increase ATK against [Archer] class",
     "KR": "[아처] 클래스에 대한 공격력 UP"
   },
+  "〔イリヤ〕特性を付与する": {
+    "JP": null,
+    "CN": "赋予〔Illya〕特性",
+    "TW": "賦予〔伊莉雅〕特性",
+    "NA": null,
+    "KR": null
+  },
   "〔ウィリアム・テル〕の宝具による回避状態特攻の対象となる状態(弱体扱い)": {
     "JP": null,
     "CN": "成为〔威廉·退尔〕宝具的回避状态特攻对象的状态(视为弱化)",
@@ -1562,8 +1758,8 @@
   },
   "〔エクストラクラス〕に与えるダメージをアップ": {
     "JP": null,
-    "CN": "〔Extra职阶〕造成的伤害提升",
-    "TW": null,
+    "CN": "Increases damage dealt to 〔Extra Class〕",
+    "TW": "在〔額外〕職階中造成的傷害提升",
     "NA": null,
     "KR": null
   },
@@ -1573,6 +1769,13 @@
     "TW": "對〔額外〕職階的攻擊力提升",
     "NA": "Increase ATK against [Extra] class",
     "KR": "[엑스트라 클래스] 클래스에 대한 공격력 UP"
+  },
+  "〔エリザベート〕特性を付与する": {
+    "JP": null,
+    "CN": "Apply 〔Elizabeth〕 trait",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "〔キャスター〕に与えるダメージをアップ": {
     "JP": null,
@@ -1587,6 +1790,13 @@
     "TW": "〔Caster〕職階對自身的爆擊發生機率減少",
     "NA": "Decrease chance to sustain Critical Hits from [Cancer] class",
     "KR": "[캐스터] 클래스로부터 크리티컬 공격을 받을 확률 감소"
+  },
+  "〔キャスター〕クラスに与えるクリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "Increase critical damage against Caster class enemies",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "〔キャスター〕クラスに対して相性有利になる": {
     "JP": null,
@@ -1621,7 +1831,7 @@
     "CN": "对〔樱系列系〕造成的伤害提升",
     "TW": "在〔櫻系列〕中造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "[사쿠라 시리즈 계열]에게 주는 대미지 UP"
   },
   "〔サーヴァント〕による宝具で受けるダメージを減らす": {
     "JP": null,
@@ -1633,9 +1843,9 @@
   "〔サーヴァント〕に与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "对〔从者〕造成暴击时的伤害提升",
-    "TW": "對〔從者〕造成的爆擊傷害提升",
+    "TW": "對〔從者〕造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "[서번트]에게 주는 크리티컬 시 대미지 UP"
   },
   "〔サーヴァント〕に与えるダメージをアップ": {
     "JP": null,
@@ -1703,9 +1913,9 @@
   "〔セイバー〕クラスに対するクラス相性が攻撃優位になる": {
     "JP": null,
     "CN": "对〔Saber〕职阶的职阶相性处于攻击优势",
-    "TW": "對〔Saber〕職階的攻擊優勢狀態",
+    "TW": "對〔Saber〕職階的職階相性處於攻擊優勢",
     "NA": null,
-    "KR": null
+    "KR": "[세이버] 클래스에 대해 클래스 상성이 공격 유리가 된다"
   },
   "〔セイバー〕クラスに対する攻撃力をアップ": {
     "JP": null,
@@ -1713,6 +1923,20 @@
     "TW": "對〔Saber〕職階的攻擊力提升",
     "NA": "Increase ATK against [Saber] class",
     "KR": "[세이버] 클래스에 대한 공격력 UP"
+  },
+  "〔ターゲット集中〕状態の時に攻撃を受けるとスターを獲得": {
+    "JP": null,
+    "CN": "在处于〔目标集中〕状态时受到攻击，将获得暴击星",
+    "TW": "在〔目標集中〕狀態時受到攻擊會獲得爆擊星",
+    "NA": null,
+    "KR": null
+  },
+  "〔ハロウィン〕のフィールドにおいてのみ、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "仅在〔Halloween〕场地中，提升暴击时的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "〔バーサーカー〕に与えるダメージをアップ": {
     "JP": null,
@@ -1868,9 +2092,37 @@
     "NA": "Apply [Roman] trait (treated as Buff)",
     "KR": "[로마] 특성 부여(강화 취급)"
   },
+  "〔七騎士〕に対するクラス相性が防御優位になる": {
+    "JP": null,
+    "CN": "Class advantage against [Seven Classes] becomes defensive.",
+    "TW": "對〔七騎士〕職階的防禦優勢狀態",
+    "NA": null,
+    "KR": null
+  },
   "〔七騎士クラス〕に与えるダメージをアップ": {
     "JP": null,
-    "CN": "对【七骑士职阶】造成的伤害提升",
+    "CN": "Increases damage dealt to [Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker] class enemies",
+    "TW": "對〔七騎士職階〕造成的傷害提升",
+    "NA": null,
+    "KR": null
+  },
+  "〔七騎士クラス〕に対する防御力をアップ": {
+    "JP": null,
+    "CN": "Increase defense against [Seven Knight Classes]",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔中庸〕特性に与えるダメージをアップ": {
+    "JP": null,
+    "CN": "Increase damage against [Neutral] attribute",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔中立〕特性に与えるダメージをアップ": {
+    "JP": null,
+    "CN": "增加对〔Neutral〕属性目标的伤害",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1919,8 +2171,8 @@
   },
   "〔人間〕特性に対する即死付与率をアップ": {
     "JP": null,
-    "CN": "〔人类〕特性即死赋予率提升",
-    "TW": null,
+    "CN": "Increase instant-death success rate against [Human] enemies",
+    "TW": "對〔人類〕特性對象的即死賦予率提升",
     "NA": null,
     "KR": null
   },
@@ -1933,8 +2185,8 @@
   },
   "〔人類の脅威〕特性の攻撃によりHPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)": {
     "JP": null,
-    "CN": "当因〔人类威胁〕特性的攻击导致HP变为0时，将回复HP并承受住攻击(可与其他毅力状态叠加)。",
-    "TW": null,
+    "CN": "When HP reaches 0 due to an attack with the [Threat to Humanity] trait, recover HP and survive (can stack with other Guts statuses)",
+    "TW": "〔人類的威脅〕特性的攻擊導致HP歸0時，恢復一定HP避免死亡(可與其他毅力狀態重疊)",
     "NA": null,
     "KR": null
   },
@@ -1950,21 +2202,21 @@
     "CN": "付与〔保护对象〕特性",
     "TW": "賦予〔保護對象〕特性",
     "NA": null,
-    "KR": null
+    "KR": "[보호 대상] 특성 부여"
   },
   "〔保護対象外〕特性に与えるダメージをアップ": {
     "JP": null,
     "CN": "对〔非保护对象〕特性造成的伤害提升",
-    "TW": "對〔保護對象外〕特性造成的傷害提升",
+    "TW": "對〔非保護對象〕特性造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "[보호 대상 외] 특성에게 주는 대미지 UP"
   },
   "〔保護対象外〕特性を付与する": {
     "JP": null,
     "CN": "付与〔非保护对象〕特性",
-    "TW": "賦予〔保護對象外〕特性",
+    "TW": "賦予〔非保護對象〕特性",
     "NA": null,
-    "KR": null
+    "KR": "[보호 대상 외] 특성 부여"
   },
   "〔円卓の騎士と妖精〕特性に与えるダメージをアップ": {
     "JP": null,
@@ -1972,6 +2224,13 @@
     "TW": "對〔圓桌騎士或妖精〕特性造成的傷害提升",
     "NA": "Increase damage dealt against [Round Table Knights and Fae]",
     "KR": "[원탁의 기사와 요정] 특성에게 주는 대미지 UP"
+  },
+  "〔冥界の花園〕状態に変身する<宝具が変化・解除不能>": {
+    "JP": null,
+    "CN": "Transform into 〔Garden of the Underworld〕 status <Noble Phantasm changes・cannot be dispelled>",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "〔冥界の護り〕特性を付与する": {
     "JP": null,
@@ -2040,8 +2299,8 @@
     "JP": null,
     "CN": "对〔拥有地之力的从者〕造成的伤害提升",
     "TW": "對〔擁有地之力的從者〕造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "NA": "Increase damage dealt to [Servants with Earth Attribute]",
+    "KR": "[지의 힘을 가진 서번트] 에게 주는 대미지 UP"
   },
   "〔地獄〕のフィールドにおいてのみ、Busterカードの性能をアップ": {
     "JP": null,
@@ -2143,35 +2402,42 @@
   },
   "〔対敵注視〕状態の敵からの被ダメージを減らす": {
     "JP": null,
-    "CN": "使来自〔注视敌人〕状态的敌人的攻击伤害降低",
-    "TW": null,
+    "CN": "Reduce damage taken from enemies with the [Targeted] status",
+    "TW": "對〔對敵注視〕狀態的敵人所受的傷害減少",
     "NA": null,
     "KR": null
   },
   "〔対敵注視〕状態の敵に与えるクリティカル時のダメージをアップ": {
     "JP": null,
-    "CN": "〔注视敌人〕状态下的敌方目标在受到暴击时的伤害提升",
-    "TW": null,
+    "CN": "Increase critical damage against enemies with the 〔Enemy-Focused〕 status",
+    "TW": "對〔對敵注視〕狀態的敵人造成爆擊時的傷害提升",
     "NA": null,
     "KR": null
   },
   "〔対敵注視〕状態の敵に与えるダメージをアップ<毎ターン徐々に効果アップ>": {
     "JP": null,
-    "CN": "〔敌注视〕状态下对敌人造成的伤害提升<每回合效果逐渐提升>",
-    "TW": null,
+    "CN": "Increase damage dealt to enemies with the [Targeting] status <Effect increases gradually each turn>",
+    "TW": "對〔對敵注視〕狀態的敵人造成的傷害提升<每回合逐漸提升效果>",
     "NA": null,
     "KR": null
   },
   "〔対敵注視〕状態の敵に対する防御力をアップ": {
     "JP": null,
-    "CN": "〔对敌方注视〕状态下对敌方防御力提升",
-    "TW": null,
+    "CN": "Increases defense against enemies with the [Targeted] status",
+    "TW": "對〔對敵注視〕狀態的敵人提升防禦力",
     "NA": null,
     "KR": null
   },
   "〔対極共生〕による状態効果の変換確率をアップ＆〔放出残滓〕と〔増幅負荷〕が自身の耐性を無視するようになる【デメリット】": {
     "JP": null,
-    "CN": "【对立共生】的状态效果转换概率提升＆【释放残渣】和【增幅负荷】将无视自身抗性【不利效果】",
+    "CN": "Increase the conversion rate of status effects by [Polar Symbiosis] & [Release Residue] and [Amplification Load] will now ignore self resistance [Demerit]",
+    "TW": "對〔對極共生〕的狀態效果轉換機率提升＆〔放出殘滓〕與〔增幅負荷〕無視自身的耐性【副作用】",
+    "NA": null,
+    "KR": null
+  },
+  "〔封印〕状態の敵に与えるダメージをアップ": {
+    "JP": null,
+    "CN": "Increase damage against enemies with [Seal] status",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2192,17 +2458,17 @@
   },
   "〔弱体状態〕の敵に与えるダメージをアップ<対象の〔弱体状態〕が多いほど特攻威力アップ(最大5個)>": {
     "JP": null,
-    "CN": "对〔弱体状态〕的敌人造成伤害提升<目标的〔弱体状态〕越多特攻威力提升越大(最多5个)>",
-    "TW": null,
+    "CN": "Increase damage dealt against enemies with [Debuff] status <The more [Debuff] statuses the target has, the higher the special attack damage (up to 5 stacks)>",
+    "TW": "對〔弱化狀態〕的敵人造成的傷害提升<對象的〔弱化狀態〕越多，特攻威力越提升(最大5個)>",
     "NA": null,
     "KR": null
   },
   "〔恐怖〕状態の敵に与えるダメージをアップ": {
     "JP": null,
     "CN": "对〔恐怖〕状态的敌人造成的伤害提升",
-    "TW": "對〔恐怖〕狀態造成的傷害提升",
+    "TW": "對〔恐怖〕狀態的敵人造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "[공포] 상태인 적에게 주는 대미지 UP"
   },
   "〔悪〕特性に与えるクリティカル時のダメージをアップ": {
     "JP": null,
@@ -2235,9 +2501,9 @@
   "〔拘束〕〔スタン〕〔石化〕状態の敵に与えるダメージをアップ": {
     "JP": null,
     "CN": "对〔束缚〕〔晕眩〕〔石化〕状态的敌人造成的伤害提升",
-    "TW": "對〔拘束〕〔暈眩〕〔石化〕狀態的敵人造成的傷害提升",
-    "NA": null,
-    "KR": null
+    "TW": "對〔束縛〕〔暈眩〕〔石化〕狀態的敵人造成的傷害提升",
+    "NA": "Increase damage dealt to [Bound], [Stunned], or [Petrified] enemies",
+    "KR": "[구속], [스턴], [석화] 상태인 적에게 주는 대미지 UP"
   },
   "〔拘束〕状態の敵に与えるダメージをアップ": {
     "JP": null,
@@ -2248,17 +2514,31 @@
   },
   "〔放出残滓〕によるダメージをHP回復効果に確率で変換する": {
     "JP": null,
-    "CN": "【释放残渣】造成的伤害有一定概率转化为HP恢复效果",
+    "CN": "将〔残滓放出〕造成的伤害以一定概率转化为HP回复效果",
+    "TW": "〔放出殘滓〕造成的傷害有機率轉化為HP恢復效果",
+    "NA": null,
+    "KR": null
+  },
+  "〔新選組〕特性を付与する": {
+    "JP": null,
+    "CN": "Apply [Shinsengumi] trait to self.",
     "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔日輪〕状態の時にスター発生率をアップ": {
+    "JP": null,
+    "CN": "在〔Sun〕状态时提升暴击星掉落率",
+    "TW": "〔日輪〕狀態時，爆擊星掉落率提升",
     "NA": null,
     "KR": null
   },
   "〔星の力〕に与えるダメージをアップ": {
     "JP": null,
     "CN": "对〔星之力〕造成的伤害提升",
-    "TW": "對〔星之力〕的傷害提升",
+    "TW": "對〔星之力〕造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "[별의 힘]에게 주는 대미지 UP"
   },
   "〔暗闇〕のフィールドにおいてのみ、Artsカードの性能をアップ": {
     "JP": null,
@@ -2291,7 +2571,35 @@
   "〔暗闇〕のフィールドにおいてのみ、攻撃力をアップ": {
     "JP": null,
     "CN": "仅限场地为〔黑暗〕时，攻击力提升",
-    "TW": "僅在處於〔暗闇〕場所時，攻擊力提升",
+    "TW": "僅限場地為〔黑暗〕時，攻擊力提升",
+    "NA": "Increase ATK only when on a [Darkness] field",
+    "KR": "[어둠]인 필드에서 공격력 UP"
+  },
+  "〔月下〕状態の時にArtsカードの性能をアップ": {
+    "JP": null,
+    "CN": "Increase Arts card performance while in the [Moonlight] state",
+    "TW": "〔月下〕狀態時，Arts指令卡性能提升",
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にBusterカードの性能をアップ": {
+    "JP": null,
+    "CN": "Increase Buster card effectiveness while in the 〔Moonlight〕 status.",
+    "TW": "〔月下〕狀態時，Buster指令卡性能提升",
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にNP獲得量をアップ": {
+    "JP": null,
+    "CN": "Increases NP generation rate when in [Moonlit] state",
+    "TW": "〔月下〕狀態時，NP獲得量提升",
+    "NA": null,
+    "KR": null
+  },
+  "〔月下〕状態の時にQuickカードの性能をアップ": {
+    "JP": null,
+    "CN": "Increase Quick card performance when in the 〔Moonlight〕 state",
+    "TW": "〔月下〕狀態時，Quick指令卡性能提升",
     "NA": null,
     "KR": null
   },
@@ -2305,16 +2613,16 @@
   "〔森〕〔都市〕〔暗闇〕のフィールドにおいてのみ、攻撃力をアップ": {
     "JP": null,
     "CN": "仅限场地为〔森林〕〔都市〕〔黑暗〕时，攻击力提升",
-    "TW": "處於〔森林〕〔都市〕〔暗闇〕場所時攻擊力提升",
-    "NA": null,
-    "KR": null
+    "TW": "僅限場地為〔森林〕〔都市〕〔黑暗〕時，攻擊力提升",
+    "NA": "Increase ATK only when on a [Forest], [City], or [Darkness] field",
+    "KR": "[숲], [도시], [어둠]인 필드에서 공격력 UP"
   },
   "〔森〕〔都市〕〔暗闇〕のフィールドにおいてのみ、防御力をアップ": {
     "JP": null,
     "CN": "仅限场地为〔森林〕〔都市〕〔黑暗〕时，防御力提升",
-    "TW": "處於〔森林〕〔都市〕〔暗闇〕場所時防禦力提升",
-    "NA": null,
-    "KR": null
+    "TW": "僅限場地為〔森林〕〔都市〕〔黑暗〕時，防禦力提升",
+    "NA": "Increase DEF only when on a [Forest], [City], or [Darkness] field",
+    "KR": "[숲], [도시], [어둠]인 필드에서 방어력 UP"
   },
   "〔森〕のフィールドにおいてクリティカル発生率がアップする": {
     "JP": null,
@@ -2379,6 +2687,20 @@
     "NA": "Increase damage dealt to [Poisoned] enemies",
     "KR": "[독] 상태인 적에게 주는 대미지 UP"
   },
+  "〔気配遮断〕状態の間、即死効果を無効にする": {
+    "JP": null,
+    "CN": "〔Presence Concealment〕状态期间，无效化即死效果",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔気配遮断〕状態の間、弱体付与率をアップ": {
+    "JP": null,
+    "CN": "〔Presence Concealment〕状態の間、弱体付与率をアップ",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "〔水辺〕のあるフィールドにおいてのみ、Busterカードの性能をアップ": {
     "JP": null,
     "CN": "仅限场地为〔水边〕时，Buster指令卡性能提升",
@@ -2418,8 +2740,8 @@
     "JP": null,
     "CN": "回合结束时NP增加",
     "TW": "回合結束時NP增加",
-    "NA": "Gain NP at end of each turn",
-    "KR": "턴 종료 시 NP 증가"
+    "NA": "Increase NP Gauge at the end of turn only when on a [Near Water] field",
+    "KR": "[물가]인 필드에서 턴 종료 시 NP 증가"
   },
   "〔水辺〕のあるフィールドにおいてのみ、ターン終了時にスターを獲得する": {
     "JP": null,
@@ -2591,8 +2913,8 @@
   },
   "〔獣の力〕に与えるダメージをアップ": {
     "JP": null,
-    "CN": "【兽之力】造成的伤害提升",
-    "TW": null,
+    "CN": "Increase damage against [Beast] class enemies",
+    "TW": "對〔獸之力〕的傷害提升",
     "NA": null,
     "KR": null
   },
@@ -2722,6 +3044,20 @@
     "NA": "Add [Dragon] trait to target",
     "KR": "[용] 특성 부여"
   },
+  "〔精神異常〕状態の敵に与えるダメージをアップ": {
+    "JP": null,
+    "CN": "Increases damage dealt to enemies with [Mental Debuff] status",
+    "TW": "對〔精神異常〕狀態的敵人造成的傷害提升",
+    "NA": null,
+    "KR": null
+  },
+  "〔納刀体勢〕特性を付与する": {
+    "JP": null,
+    "CN": "Apply [Sheathed] trait to self.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "〔聖杯所持〕状態を付与する": {
     "JP": null,
     "CN": "付与〔持有圣杯〕的状态",
@@ -2781,14 +3117,35 @@
   "〔身代わり〕状態が付与されている間、弱体を受けなくなる": {
     "JP": null,
     "CN": "被付与〔替身〕状态时，免疫弱化",
-    "TW": "處於〔替身〕狀態時，弱化無效",
-    "NA": null,
-    "KR": null
+    "TW": "被賦予〔替身〕狀態時，免疫弱化",
+    "NA": "Immune to all debuffs when the [Substitute] state is applied",
+    "KR": "[대역] 상태가 부여되어 있을 때 약화 무효"
   },
   "〔都市〕のフィールドにおいてのみ、クリティカルの発生率をアップ": {
     "JP": null,
     "CN": "仅限场地为〔都市〕时，暴击率提升",
     "TW": "僅在處於〔都市〕的場域中，爆擊的發生率提升",
+    "NA": null,
+    "KR": "[도시] 필드에서 크리티컬 발생률 UP"
+  },
+  "〔鈍の矢弾〕状態を消費して付与されたArts攻撃強化状態の効果量を一時的に増大させる": {
+    "JP": null,
+    "CN": "Consume [Dull Bullet] status to temporarily increase the effect of the granted Arts performance up status.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔鈍の矢弾〕状態を消費して付与されたBuster攻撃強化状態の効果量を一時的に増大させる": {
+    "JP": null,
+    "CN": "Consumes the 〔Dull Bullet〕 state to temporarily increase the effect of the granted Buster performance up state.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔鈍の矢弾〕状態を消費して付与されたQuick攻撃強化状態の効果量を一時的に増大させる": {
+    "JP": null,
+    "CN": "Consume [Dull Bullet] status to temporarily increase the effect of the Quick performance up status granted.",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2864,8 +3221,8 @@
   },
   "〔魅了〕状態の時に防御力をダウン": {
     "JP": null,
-    "CN": "处于〔魅惑〕状态时防御力下降",
-    "TW": null,
+    "CN": "Decrease defense when in [Charm] status",
+    "TW": "〔魅惑〕狀態時防禦力下降",
     "NA": null,
     "KR": null
   },
@@ -2887,7 +3244,7 @@
     "JP": null,
     "CN": "对〔魔兽型从者〕对象造成的伤害提升",
     "TW": "對〔魔獸型從者〕對象造成的傷害提升",
-    "NA": null,
+    "NA": "Increase damage dealt against [Demonic Beast type Servants]",
     "KR": "[마수형 서번트]에게 주는 대미지 UP"
   },
   "いいね！をもらうほど自身の宝具威力がアップする": {
@@ -2911,12 +3268,68 @@
     "NA": "Immune to Burn",
     "KR": "화상 상태 무효"
   },
+  "エネミー側のフィールドにいるすべての対象が「Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the enemy field gain the effect \"increase damage taken from Arts card attacks, NP generation rate, and star generation rate.\"",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the enemy field receive an effect that increases damage taken from Buster card attacks, NP generation rate, and critical star generation rate.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the enemy field receive an effect that increases damage taken from Quick card attacks, NP generation rate, and critical star generation rate.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「クリティカル攻撃で受けるダメージが増える効果」を受ける": {
+    "JP": null,
+    "CN": "使敌方场上的所有对象获得“受到的暴击伤害增加”效果",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「宝具攻撃で受けるダメージが増える効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the enemy field gain the effect of \"increasing damage taken from Noble Phantasm attacks.\"",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「攻撃力をアップする効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the enemy field receive an \"attack up effect\".",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "エネミー側のフィールドにいるすべての対象が「防御力をダウンする効果」を受ける": {
+    "JP": null,
+    "CN": "Make all targets on the enemy field receive a \"defense down\" effect",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ガッツ状態の間、Busterカードの性能をアップ": {
     "JP": null,
     "CN": "处于毅力状态期间，Buster指令卡性能提升",
     "TW": "處於毅力狀態期間，Buster指令卡性能提升",
     "NA": "Increase Buster Card effectiveness while Guts is active",
     "KR": "근성 상태인 동안 버스터 카드 성능 UP"
+  },
+  "ガッツ発動によるHP回復効果量をアップ": {
+    "JP": null,
+    "CN": "Increase HP recovery amount when Guts is activated",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ガッツ発動時、Busterカードの性能をアップ": {
     "JP": null,
@@ -2944,7 +3357,7 @@
     "CN": "毅力发动时，获得大量暴击星",
     "TW": "毅力發動時，大量獲得爆擊星",
     "NA": null,
-    "KR": null
+    "KR": "근성 발동 시 스타 대량 획득"
   },
   "ガッツ発動時、スターを獲得する": {
     "JP": null,
@@ -2972,7 +3385,7 @@
     "CN": "毅力发动时，己方全体的NP少量增加",
     "TW": "毅力發動時，我方全體的NP稍微增加",
     "NA": null,
-    "KR": null
+    "KR": "근성 발동 시 아군 전체의 NP 조금 증가"
   },
   "ガッツ発動時、味方全体のチャージを増やす": {
     "JP": null,
@@ -3032,8 +3445,8 @@
   },
   "ガッツ発動時、自身のBusterカードの性能をアップ": {
     "JP": null,
-    "CN": "发动毅力时，自身Buster卡性能提升",
-    "TW": null,
+    "CN": "When Guts is triggered, increase own Buster card performance",
+    "TW": "毅力發動時，Buster指令卡性能提升",
     "NA": null,
     "KR": null
   },
@@ -3051,6 +3464,13 @@
     "NA": "Increase NP Gauge for yourself when Guts is activated",
     "KR": "근성 발동 시 자신의 NP 증가"
   },
+  "ガッツ発動時、自身のNPを少し増やす": {
+    "JP": null,
+    "CN": "When Guts is triggered, increase own NP gauge slightly.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ガッツ発動時、自身の〔罪の刻印〕を1つ消費して自身の攻撃力をアップ": {
     "JP": null,
     "CN": "毅力发动时，消耗1个自身的〔罪之刻印〕，自身的攻击力提升",
@@ -3063,42 +3483,42 @@
     "CN": "毅力发动时，自身的暴击率提升",
     "TW": "毅力發動時，自身的爆擊發生率提升",
     "NA": null,
-    "KR": null
+    "KR": "근성 발동 시 자신의 크리티컬 발생률 UP"
   },
   "ガッツ発動時、自身のチャージを増やす": {
     "JP": null,
     "CN": "毅力发动时，自身的充能增加",
     "TW": "毅力發動時，自身的Charge增加",
-    "NA": null,
-    "KR": null
+    "NA": "Increase Charge for yourself when Guts is activated",
+    "KR": "근성 발동 시 자신의 차지 증가"
   },
   "ガッツ発動時、自身の宝具威力をアップ": {
     "JP": null,
     "CN": "毅力发动时，宝具造成的伤害提升",
     "TW": "毅力發動時，寶具造成的傷害提升",
     "NA": "Increase NP damage when Guts is triggered",
-    "KR": "근성 발동 시 보구로 주는 대미지 UP"
+    "KR": "근성 발동 시 자신의 보구 위력 UP"
   },
   "ガッツ発動時、自身の宝具威力をアップ＆弱体状態を解除": {
     "JP": null,
     "CN": "毅力发动时，自身的宝具威力提升＆弱化状态解除",
-    "TW": "毅力發動時，寶具威力提升&解除弱化狀態",
-    "NA": "Increase NP Strength & remove debuffs when Guts is activated",
+    "TW": "毅力發動時，自身的寶具威力提升＆弱化狀態解除",
+    "NA": "Increase NP Strength and remove Debuffs for yourself when Guts is triggered",
     "KR": "근성 발동 시 보구 위력 UP&약화 상태 해제"
   },
   "ガッツ発動時、自身の攻撃力をアップ": {
     "JP": null,
     "CN": "毅力发动时，自身的攻击力提升",
     "TW": "毅力發動時，自身的攻擊力提升",
-    "NA": null,
-    "KR": null
+    "NA": "Increase ATK for yourself when Guts is triggered",
+    "KR": "근성 발동 시 자신의 공격력 UP"
   },
   "クラスを対象と同じクラスに変更する": {
     "JP": null,
     "CN": "变成与对象相同的职阶",
     "TW": "將職階變更為與對象相同的職階",
     "NA": null,
-    "KR": null
+    "KR": "클래스를 대상과 동일한 클래스로 변경한다"
   },
   "クラス相性の防御不利を打ち消す": {
     "JP": null,
@@ -3140,7 +3560,7 @@
     "CN": "被暴击攻击造成的伤害、受击NP发生量、受击暴击星掉落率增加",
     "TW": "爆擊攻擊造成的傷害、受擊NP發生量、受擊爆擊星掉落率增加",
     "NA": null,
-    "KR": null
+    "KR": "크리티컬 공격으로 받는 대미지, NP 발생량, 스타 발생률 증가"
   },
   "クリティカル攻撃に対する防御力をダウン": {
     "JP": null,
@@ -3155,6 +3575,13 @@
     "TW": "受到爆擊攻擊時恢復我方全體的HP<無法恢復HP為0的對象>",
     "NA": "Recover all allies' HP when Critically attacked <No recovery for anyone with 0 HP>",
     "KR": "크리티컬 공격을 받으면 아군 전체의 HP 회복<HP가 0인 대상은 회복 불능>"
+  },
+  "クリティカル攻撃を受ける確率を増やす": {
+    "JP": null,
+    "CN": "增加受到critical攻击的概率",
+    "TW": "提升遭到爆擊攻擊的機率",
+    "NA": null,
+    "KR": null
   },
   "クリティカル攻撃を受ける確率を減らす": {
     "JP": null,
@@ -3187,7 +3614,14 @@
   "クリティカル攻撃時、自身に〔王勇〕状態を付与": {
     "JP": null,
     "CN": "暴击攻击时，付与自身〔王威〕状态",
-    "TW": "爆擊攻擊時，賦予自身〔王勇〕狀態",
+    "TW": "爆擊攻擊時，賦予自身〔王威〕狀態",
+    "NA": "Add [Heroic King] to yourself during Critical Attacks",
+    "KR": "크리티컬 공격 시 자신에게 [왕의 용맹] 상태 부여"
+  },
+  "クリティカル攻撃時、自身のNPを少し増やす": {
+    "JP": null,
+    "CN": "当暴击时，少量增加自身的NP。",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -3195,6 +3629,27 @@
     "JP": null,
     "CN": "暴击攻击时，追加效果发动",
     "TW": "爆擊攻擊時，發動追加效果",
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル時のArtsカードの威力をアップ": {
+    "JP": null,
+    "CN": "Increase Arts card effectiveness when performing a critical hit.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル時のBusterカードの威力をアップ": {
+    "JP": null,
+    "CN": "提升Buster卡在暴击时的威力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル時のQuickカードの威力をアップ": {
+    "JP": null,
+    "CN": "提升Quick卡在暴击时的威力",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -3207,8 +3662,8 @@
   },
   "クリティカル時のダメージをアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "暴击威力提升<自身HP越少效果越高>",
-    "TW": null,
+    "CN": "提升暴击时的伤害<自身的HP比例越低效果越高>",
+    "TW": "爆擊時傷害提升<自身的生命值比例越低，效果越提升>",
     "NA": null,
     "KR": null
   },
@@ -3226,6 +3681,13 @@
     "NA": "Decrease Critical Hit Rate (Treated as Mental Debuff)",
     "KR": "크리티컬 발생률 DOWN(정신이상 취급)"
   },
+  "グランドサインの追加効果の発動機会を得る": {
+    "JP": null,
+    "CN": "获得发动Grand Sign追加效果的机会",
+    "TW": "獲得發動Grand Sign的追加效果的機會",
+    "NA": null,
+    "KR": null
+  },
   "コマンドカードのタイプをチェンジする": {
     "JP": null,
     "CN": "变更指令卡的类型",
@@ -3236,16 +3698,16 @@
   "コマンドコードが刻印されたカードで攻撃時、追加効果を発動する": {
     "JP": null,
     "CN": "用被刻印了指令纹章的指令卡攻击时，发动追加效果",
-    "TW": "使用刻印了指令紋章的指令卡攻擊時，追加效果發動",
+    "TW": "用被刻印了指令紋章的指令卡攻擊時，發動追加效果",
     "NA": "An additional effect is granted when attacking with the engraved Command Card.",
     "KR": "커맨드 코드가 각인된 카드로 공격 시 추가 효과 발동"
   },
   "スキル〔駒鳥の殺人〕の残り使用可能回数を表す": {
     "JP": null,
     "CN": "表现了技能〔被杀的知更鸟〕的剩余可使用次数",
-    "TW": "顯示技能〔被殺死的知更鳥〕可使用次數",
-    "NA": null,
-    "KR": null
+    "TW": "表現了技能〔被殺的知更鳥〕的剩餘可使用次數",
+    "NA": "Display the number of remaining uses for skill [Lost Robin Rondo]",
+    "KR": "스킬 [울새의 살인]의 남은 사용 가능 횟수를 나타낸다"
   },
   "スキルのランクをアップする": {
     "JP": null,
@@ -3264,9 +3726,9 @@
   "スキル使用後に使用したスキルのチャージを1進める<スキルごとに1回限り>": {
     "JP": null,
     "CN": "技能使用后所使用的技能冷却减少1<每个技能仅能触发1次>",
-    "TW": "使用技能後，所使用技能的充能減少1<各技能一次為限>",
+    "TW": "技能使用後所使用的技能冷卻減少1<每個技能僅能觸發1次>",
     "NA": null,
-    "KR": null
+    "KR": "스킬 사용 후 사용한 스킬 쿨타임 1 감소<스킬마다 1회 한정>"
   },
   "スキル封印を受けなくなる": {
     "JP": null,
@@ -3285,9 +3747,9 @@
   "スタン・石化・拘束・豚化を受けなくなる": {
     "JP": null,
     "CN": "免疫晕眩、石化、束缚、猪化",
-    "TW": "眩暈·石化·拘束·豬化無效",
+    "TW": "免疫暈眩、石化、束縛、豬化",
     "NA": null,
-    "KR": null
+    "KR": "스턴・석화・구속・돼지화 무효"
   },
   "スタン付与率をアップ": {
     "JP": null,
@@ -3302,6 +3764,13 @@
     "TW": "暈眩耐性提升",
     "NA": "Increase Stun resistance",
     "KR": "스턴 내성 UP"
+  },
+  "スターが発生する確率を増やす": {
+    "JP": null,
+    "CN": "增加星星掉落率",
+    "TW": "增加爆擊星掉落率",
+    "NA": null,
+    "KR": null
   },
   "スターが発生する確率を減らす": {
     "JP": null,
@@ -3333,8 +3802,8 @@
   },
   "スター発生率をアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "星星发生率提升<自身HP比例越低效果越高>",
-    "TW": null,
+    "CN": "Increase star generation rate <Effect increases as own HP percentage decreases>",
+    "TW": "爆擊星掉落率提升<自身的生命值比例越低，效果越提升>",
     "NA": null,
     "KR": null
   },
@@ -3359,24 +3828,45 @@
     "NA": "Decrease Charge by 1 each turn",
     "KR": "턴마다 차지량 1 감소"
   },
+  "ターン毎のチャージ量を1減らす<他の同一効果と重複可能>": {
+    "JP": null,
+    "CN": "Decrease charge by 1 per turn <Can stack with other identical effects>",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ターン終了時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
+    "JP": null,
+    "CN": "ターン終了時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ターン終了時、味方全体のNPを増やす": {
     "JP": null,
     "CN": "回合结束时，己方全体的NP增加",
-    "TW": "回合結束時我方全體的NP增加",
-    "NA": null,
-    "KR": null
+    "TW": "回合結束時，我方全體的NP增加",
+    "NA": "Increase NP Gauge for all allies at the end of turn",
+    "KR": "턴 종료 시 아군 전체의 NP 증가"
   },
   "ターン終了時、自身に〔魔弾〕を付与": {
     "JP": null,
     "CN": "回合结束时，付与自身〔魔弹〕",
-    "TW": "回合結束時自身賦予〔魔彈〕狀態",
+    "TW": "回合結束時，賦予自身〔魔彈〕",
+    "NA": "Apply [Magic Bullets] to yourself at the end of turn",
+    "KR": "턴 종료 시 자신에게 [마탄] 부여"
+  },
+  "ターン終了時、自身のHPが減少する(強化扱い)【デメリット】": {
+    "JP": null,
+    "CN": "回合结束时，自身HP减少(视为强化状态)【副作用】",
+    "TW": null,
     "NA": null,
     "KR": null
   },
   "ターン終了時、自身のHPを回復する<「痛飲する者」「神々の王」の効果対象となる>": {
     "JP": null,
-    "CN": "回合结束时，回复自身HP<效果对象为\"痛饮者\"\"众神之王\">",
-    "TW": null,
+    "CN": "ターン終了時、自身のHPを回復する<「痛飲する者」「神々の王」の効果対象となる>",
+    "TW": "回合結束時恢復自身的HP<成為「痛飲者」「眾神之王」的效果對象>",
     "NA": null,
     "KR": null
   },
@@ -3399,14 +3889,14 @@
     "CN": "回合结束时生命值减少",
     "TW": "回合結束時HP減少",
     "NA": "Lose HP at end of each turn",
-    "KR": "턴 종료 시 HP DOWN"
+    "KR": "턴 종료 시 HP 감소"
   },
   "ターン終了時にHPが減る(重複してかからない)": {
     "JP": null,
     "CN": "回合结束时生命值减少(不会重复叠加)",
     "TW": "回合結束時HP減少(不會重複疊加)",
     "NA": "Lose HP at the end of each turn (Cannot Stack)",
-    "KR": "턴 종료 시 HP DOWN(중복해서 걸리지 않음)"
+    "KR": "턴 종료 시 HP 감소(중복해서 걸리지 않음)"
   },
   "ターン終了時にHPが減る＆他のやけどにかからなくなる": {
     "JP": null,
@@ -3506,6 +3996,13 @@
     "NA": "When in an Evade state (excluded if it cannot be removed) at the end of turn, apply [Marking] to target",
     "KR": "턴 종료 시 회피 상태(해제 불능인 상태는 제외)일 때 대상에게 [마킹] 상태 부여"
   },
+  "ターン終了時に自身のHPを減らす": {
+    "JP": null,
+    "CN": "在回合结束时减少自身的HP",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ターン終了時に自身のNPを減らす状態(1回)<強化扱い>を付与【デメリット】": {
     "JP": null,
     "CN": "回合结束时，付与自身NP减少的状态(1次)<视为强化>【负面效果】",
@@ -3541,26 +4038,33 @@
     "NA": "Very low chance to inflict Stun to all allies except yourself at the end of turn",
     "KR": "턴 종료 시에 자신을 제외한 아군 전체에게 아주 낮은 확률로 스턴"
   },
+  "ターン経過後、自身に〔湖水の夢〕状態<特殊な睡眠状態、耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能>を付与": {
+    "JP": null,
+    "CN": "回合结束后，赋予自身〔湖水的梦〕状态<特殊睡眠状态、抗性无效・不可解除・不可被选为祭品・不可进行换人>",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ターン経過後、自身のコマンドカードのタイプをArtsに変化させる＆Artsカード性能をアップ": {
     "JP": null,
     "CN": "回合经过后，将自身的指令卡类型变化为技＆Arts指令卡性能提升",
-    "TW": "經過當回合，自身的指令卡轉換為Arts＆Arts指令卡性能提升",
-    "NA": null,
-    "KR": null
+    "TW": "回合經過後，將自身的指令卡類型變化為Arts＆Arts指令卡性能提升",
+    "NA": "At the end of turn, change Command Cards to Arts type & increase Arts Card effectiveness for yourself",
+    "KR": "턴 경과 후 자신의 커맨드 카드 타입을 아츠로 변경&아츠 카드 성능 UP"
   },
   "ターン経過後、自身のコマンドカードのタイプをBusterに変化させる＆Busterカード性能をアップ": {
     "JP": null,
     "CN": "回合经过后，将自身的指令卡类型变化为力＆Buster指令卡性能提升",
-    "TW": "經過當回合，自身的指令卡轉換為Buster＆Buster指令卡性能提升",
-    "NA": null,
-    "KR": null
+    "TW": "回合經過後，將自身的指令卡類型變化為Buster＆Buster指令卡性能提升",
+    "NA": "At the end of turn, change Command Cards to Buster type & increase Buster Card effectiveness for yourself",
+    "KR": "턴 경과 후 자신의 커맨드 카드 타입을 버스터로 변경&버스터 카드 성능 UP"
   },
   "ターン経過後、自身のコマンドカードのタイプをQuickに変化させる＆Quickカード性能をアップ": {
     "JP": null,
     "CN": "回合经过后，将自身的指令卡类型变化为迅＆Quick指令卡性能提升",
-    "TW": "經過當回合，自身的指令卡轉換為Quick＆Quick指令卡性能提升",
-    "NA": null,
-    "KR": null
+    "TW": "回合經過後，將自身的指令卡類型變化為Quick＆Quick指令卡性能提升",
+    "NA": "At the end of turn, change Command Cards to Quick type & increase Quick Card effectiveness for yourself",
+    "KR": "턴 경과 후 자신의 커맨드 카드 타입을 퀵으로 변경&퀵 카드 성능 UP"
   },
   "ターン経過後に支援砲撃が着弾する": {
     "JP": null,
@@ -3569,23 +4073,30 @@
     "NA": "Fire Support will arrive after the enemy's turn",
     "KR": "턴 경과 후 지원포격 착탄"
   },
+  "ターン開始時、敵全体に呪い状態を付与": {
+    "JP": null,
+    "CN": "At start of turn, apply Curse to all enemies.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ターン開始時、敵全体のQuick攻撃耐性をダウン＆クリティカル攻撃耐性をダウン": {
     "JP": null,
     "CN": "回合开始时，敌方全体的Quick攻击耐性下降＆暴击攻击耐性下降",
     "TW": "回合開始時，敵全體的Quick攻擊耐性下降＆爆擊攻擊耐性下降",
     "NA": null,
-    "KR": null
+    "KR": "턴 개시 시, 적 전체의 퀵 공격 내성 DOWN&크리티컬 공격 내성 DOWN"
   },
   "ダメージカットを無視して、攻撃によるダメージを与える": {
     "JP": null,
     "CN": "攻击无视伤害减免造成伤害",
-    "TW": "攻擊無視被傷害減免狀態",
-    "NA": null,
-    "KR": null
+    "TW": "攻擊無視傷害減免造成傷害",
+    "NA": "Ignore Damage Cut and deal ATK damage",
+    "KR": "대미지 컷을 무시하고 공격에 의한 대미지를 준다"
   },
   "チェイン不成立時、自身の防御力をアップ": {
     "JP": null,
-    "CN": "连锁不成立时，自身防御力提升",
+    "CN": "当Chain未成立时，自身防御力提升",
     "TW": "Chain不成立時，自身的防禦力提升",
     "NA": null,
     "KR": null
@@ -3608,7 +4119,7 @@
     "JP": null,
     "CN": "场地为〔空中〕时，宝具造成的伤害提升",
     "TW": "場地為〔空中〕時，寶具造成的傷害提升",
-    "NA": null,
+    "NA": "Increase NP damage when the field is [Aerial]",
     "KR": "필드가 [공중]일 때 보구로 주는 대미지 UP"
   },
   "フィールドに登場した時、Busterカードの性能をアップする": {
@@ -3635,9 +4146,9 @@
   "フィールドに登場した時、味方全体の攻撃力をアップ": {
     "JP": null,
     "CN": "在场地上登场时，己方全体的攻击力提升",
-    "TW": "在場地上登場時，賦予我方攻擊力提升",
+    "TW": "在場地上登場時，我方全體的攻擊力提升",
     "NA": null,
-    "KR": null
+    "KR": "필드에 등장했을 때 아군 전체의 공격력 UP"
   },
   "フィールドに登場した時、回避状態を付与する": {
     "JP": null,
@@ -3659,6 +4170,13 @@
     "TW": "打消場地的〔陽光照射〕",
     "NA": "Negate the field's [Sunlight]",
     "KR": "필드의 [햇빛] 삭제"
+  },
+  "フィールドを〔ハロウィン〕にする": {
+    "JP": null,
+    "CN": "将场地变为〔Halloween〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "フィールドを〔千年城〕状態にする": {
     "JP": null,
@@ -3705,9 +4223,9 @@
   "フィールドを〔水辺〕状態にする": {
     "JP": null,
     "CN": "场地变为〔水边〕的状态",
-    "TW": "令場地變為〔水邊〕狀態",
+    "TW": "場地變為〔水邊〕的狀態",
     "NA": null,
-    "KR": null
+    "KR": "필드를 [물가] 상태로 변경"
   },
   "フィールドを〔炎上〕にする": {
     "JP": null,
@@ -3721,7 +4239,7 @@
     "CN": "场地变为〔都市〕的状态",
     "TW": "令場地變為〔都市〕狀態",
     "NA": null,
-    "KR": null
+    "KR": "필드를 [도시] 상태로 만든다"
   },
   "フィールドを〔陽射し〕にする": {
     "JP": null,
@@ -3729,6 +4247,34 @@
     "TW": "令場地變為〔陽光照射〕",
     "NA": "Turn the field to [Sunlight]",
     "KR": "필드를 [햇빛]으로 변경"
+  },
+  "プレイヤー側のフィールドにいるすべての対象が「クリティカル攻撃で受けるダメージが増える効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the player's field receive an effect that \"increases damage taken from Critical attacks\"",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プレイヤー側のフィールドにいるすべての対象が「宝具攻撃で受けるダメージが増える効果」を受ける": {
+    "JP": null,
+    "CN": "All targets on the player's side of the field receive the \"increased damage taken from Noble Phantasm attacks\" effect.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プレイヤー側のフィールドにいるすべての対象が「攻撃力をアップする効果」を受ける": {
+    "JP": null,
+    "CN": "Apply an \"Attack Up\" effect to all targets on the player's side of the field.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プレイヤー側のフィールドにいるすべての対象が「防御力をダウンする効果」を受ける": {
+    "JP": null,
+    "CN": "Apply \"Defense Down\" to all targets on the player's side of the field.",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ルーラークラスへの特攻を付与": {
     "JP": null,
@@ -3760,8 +4306,8 @@
   },
   "与えるダメージをアップ<自身の〔弱体状態〕が多いほど威力アップ(最大5個)>": {
     "JP": null,
-    "CN": "攻击伤害提升<自身〔弱化状态〕越多威力提升(最大5个)>",
-    "TW": null,
+    "CN": "Increase damage dealt <威力 increases the more 〔Debuff〕 states you have (max 5)>.",
+    "TW": "造成的傷害提升<自身的〔弱體狀態〕越多威力越高(最多5個)>",
     "NA": null,
     "KR": null
   },
@@ -3779,6 +4325,13 @@
     "NA": "Increase NP Gain of the engraved Command Card",
     "KR": "각인된 카드의 NP 획득량 UP"
   },
+  "動物<猛獣・魔獣型のサーヴァント・ケモノ科のサーヴァント>(一部を除く)がフィールドにいる間、Artsカードの性能をアップ": {
+    "JP": null,
+    "CN": "当场上有动物<猛兽・魔兽型saber、兽科saber>(部分除外)时，提升Arts卡性能",
+    "TW": "動物<猛獸・魔獸型從者・獸科從者>(一部分除外)在場地上時，Arts指令卡性能提升",
+    "NA": null,
+    "KR": null
+  },
   "即死付与率をアップ": {
     "JP": null,
     "CN": "即死付与率提升",
@@ -3789,9 +4342,9 @@
   "即死効果を受けた時、HPを回復して耐える": {
     "JP": null,
     "CN": "受到即死效果时，回复生命值避免死亡",
-    "TW": "在受到即死效果時，回復HP",
-    "NA": null,
-    "KR": null
+    "TW": "受到即死效果時，恢復HP避免死亡",
+    "NA": "When Death goes into effect, recover HP and survive",
+    "KR": "즉사 효과를 받았을 때 HP를 회복하여 버틴다"
   },
   "即死効果を無効にする": {
     "JP": null,
@@ -3821,6 +4374,20 @@
     "NA": "A state where a draft is complete",
     "KR": "원고가 완성된 상태"
   },
+  "受けたダメージを吸収する": {
+    "JP": null,
+    "CN": "吸收所受伤害",
+    "TW": "吸收所受的傷害",
+    "NA": null,
+    "KR": null
+  },
+  "呪いによるダメージをHP回復効果に変換する": {
+    "JP": null,
+    "CN": "将诅咒造成的伤害转换为HP回复效果",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "呪いの効果量アップ": {
     "JP": null,
     "CN": "诅咒的效果量提升",
@@ -3840,28 +4407,28 @@
     "CN": "诅咒付与率提升",
     "TW": "詛咒賦予率提升",
     "NA": null,
-    "KR": null
+    "KR": "저주 부여율 UP"
   },
   "味方がやられた時、自身のNPを増やす": {
     "JP": null,
     "CN": "己方被击败时，自身的NP增加",
-    "TW": "我方被擊倒時，自身的NP增加",
-    "NA": null,
-    "KR": null
+    "TW": "我方被擊敗時，自身的NP增加",
+    "NA": "Increase NP Gauge for yourself when an ally is defeated",
+    "KR": "아군이 쓰러졌을 때 자신의 NP 증가"
   },
   "味方がやられた時、自身のチャージを増やす": {
     "JP": null,
     "CN": "己方被击败时，自身的充能增加",
-    "TW": "我方被擊倒時，自身的Charge增加",
-    "NA": null,
-    "KR": null
+    "TW": "我方被擊敗時，自身的Charge增加",
+    "NA": "Increase Charge for yourself when an ally is defeated",
+    "KR": "아군이 쓰러졌을 때 자신의 차지 증가"
   },
   "回避と無敵を無視して、攻撃によるダメージを与える": {
     "JP": null,
     "CN": "无视回避与无敌状态以造成伤害",
     "TW": "無視迴避與無敵狀態造成傷害",
     "NA": "Ignore Evade and Invincible to deal damage",
-    "KR": "회피와 무적을 무시하고 대미지 부여"
+    "KR": "회피와 무적을 무시하고 공격에 의한 대미지 부여"
   },
   "回避と無敵を無視してダメージを与える": {
     "JP": null,
@@ -3886,8 +4453,8 @@
   },
   "回避状態の間、敵からの攻撃で受ける5000以上のダメージを5000に抑える": {
     "JP": null,
-    "CN": "回避状态期间，来自敌人的5000以上伤害将被抑制为5000",
-    "TW": null,
+    "CN": "While in an Evasion state, reduce damage taken from enemy attacks that would exceed 5000 to 5000.",
+    "TW": "在迴避狀態中，敵人的攻擊所受的5000以上的傷害抑制為5000",
     "NA": null,
     "KR": null
   },
@@ -3957,23 +4524,23 @@
   "宝具のタイプを攻撃タイプにチェンジする": {
     "JP": null,
     "CN": "将宝具的类型变更为攻击类",
-    "TW": "將寶具的類型更改為攻擊類型",
+    "TW": "將寶具的類型變更為攻擊類",
     "NA": null,
-    "KR": null
+    "KR": "보구 타입을 공격 타입으로 체인지"
   },
   "宝具のタイプを防御タイプにチェンジする": {
     "JP": null,
     "CN": "将宝具的类型变更为防御类",
-    "TW": "將寶具的類型更改為防禦類型",
+    "TW": "將寶具的類型變更為防禦類",
     "NA": null,
-    "KR": null
+    "KR": "보구 타입을 방어 타입으로 체인지"
   },
   "宝具を使用できなくなる": {
     "JP": null,
     "CN": "无法使用宝具",
     "TW": "無法使用寶具",
     "NA": "Unable to use Noble Phantasms",
-    "KR": "보구를 사용할 수 없게 된다"
+    "KR": "보구 사용 불가"
   },
   "宝具を全体攻撃宝具から単体攻撃宝具に変更する": {
     "JP": null,
@@ -3982,10 +4549,38 @@
     "NA": "Change from AOE NP to Single Target NP",
     "KR": "보구를 전체 공격 보구에서 단일 공격 보구로 변경"
   },
+  "宝具を全体攻撃宝具に変更する": {
+    "JP": null,
+    "CN": "将宝具变更为全体攻击宝具",
+    "TW": "將寶具變更為全體攻擊寶具",
+    "NA": null,
+    "KR": null
+  },
+  "宝具を単体攻撃宝具に変更する": {
+    "JP": null,
+    "CN": "将宝具变更为单体攻击宝具",
+    "TW": "將寶具變更為單體攻擊寶具",
+    "NA": null,
+    "KR": null
+  },
   "宝具を補助宝具から全体攻撃宝具に変更する": {
     "JP": null,
     "CN": "宝具从辅助宝具变更为全体攻击宝具",
     "TW": "將寶具從輔助寶具變更為全體攻擊寶具",
+    "NA": null,
+    "KR": null
+  },
+  "宝具チェインを除くチェイン不成立時、ターゲットしている敵単体にターン毎のチャージ量が1減る状態を付与(他の同一効果と重複可能)＋HPの残比率の最も少ない味方単体のHPを回復<1度使用すると再使用に2ターン必要>": {
+    "JP": null,
+    "CN": "Except for Noble Phantasm chains, when a chain is not formed, apply a state to a targeted single enemy where their charge amount per turn is reduced by 1 (can stack with other identical effects) + restore HP to a single ally with the lowest remaining HP percentage <Requires 2 turns to reuse after one use>",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具チェインを除くチェイン不成立時、自身に〔見敵迎撃〕状態を付与(強化解除不能・重複不可)＆〔鈍の矢弾〕状態の残り回数を増加する": {
+    "JP": null,
+    "CN": "若除宝具连锁（Noble Phantasm Chain）外未能成立连锁时，赋予自身〔迎击来敌〕状态（无法解除强化・不可重复）＆增加〔钝之矢弹〕状态的剩余次数",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -3996,24 +4591,38 @@
     "NA": null,
     "KR": null
   },
+  "宝具チェインを除くチェイン不成立時、自身に回避状態(他の回避状態と重複可能)を付与＆即死耐性をアップ": {
+    "JP": null,
+    "CN": "除宝具Chain外，若Chain未成立，则赋予自身回避状态（可与其它回避状态叠加）＆提升即死耐性",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "宝具チェインを除くチェイン不成立時、自身に回避状態(強化解除不能・グランドサイン効果以外の他の回避状態と重複可能)を付与<1度使用すると再使用に4ターン必要>": {
     "JP": null,
-    "CN": "无法形成除宝具连锁外的连锁时，赋予自身回避状态（无法被强化解除·可与其他非Grand Sign效果的回避状态重复）<使用1次后需间隔4回合方可再次使用>",
-    "TW": null,
+    "CN": "除宝具连锁外，若未能达成连锁，赋予自身回避状态（无法被强化解除，可与非Grand Sign效果的其他回避状态叠加）<使用1次后需4回合冷却>",
+    "TW": "除了寶具Chain以外Chain不成立時，賦予自身迴避狀態(無法強化解除・除Grand Sign效果以外的其他迴避狀態可重疊)<使用1次後再使用需要4回合>",
     "NA": null,
     "KR": null
   },
   "宝具チェインを除くチェイン不成立時、自身に無敵状態(強化解除不能・グランドサイン効果以外の他の無敵状態と重複可能)を付与<1度使用すると再使用に4ターン必要>": {
     "JP": null,
-    "CN": "除宝具连锁外的连锁未达成时，赋予自身无敌状态（不可强化解除·可与其他无敌状态重叠，大令咒效果除外）<使用1次后需再经过4回合方可再次使用>",
-    "TW": null,
+    "CN": "除宝具Chain外，若Chain未成立，赋予自身无敌状态（不可解除强化・可与Grand Sign效果以外的其他无敌状态叠加）<使用1次后需4回合方可再次使用>",
+    "TW": "除了寶具Chain以外Chain不成立時，賦予自身無敵狀態(無法強化解除・除Grand Sign效果以外的其他無敵狀態可重疊)<使用1次後再使用需要4回合>",
+    "NA": null,
+    "KR": null
+  },
+  "宝具チェインを除くチェイン不成立時、自身に被ダメージをカットする状態を付与<強化解除不能>＋自身が〔境域掌握〕状態の時は追加で味方全体に被ダメージをカットする状態を付与": {
+    "JP": null,
+    "CN": "除宝具连锁（Noble Phantasm Chain）外，若连锁（Chain）未成立，赋予自身伤害减免状态<不可解除强化>＋自身处于〔领域掌握〕状态时，额外赋予全体队友伤害减免状态",
+    "TW": "除了寶具Chain以外Chain不成立時，賦予自身被傷害減免狀態<無法強化解除>＋自身處於〔境域掌握〕狀態時，追加賦予己方全體被傷害減免狀態",
     "NA": null,
     "KR": null
   },
   "宝具チェインを除くチェイン不成立時、自身の宝具攻撃耐性をアップ": {
     "JP": null,
-    "CN": "除宝具连击外的连击失败时，自身宝具攻击耐性提升",
-    "TW": null,
+    "CN": "当宝具连锁以外的连锁未成立时，自身的宝具攻击耐性提升",
+    "TW": "除了寶具Chain以外Chain不成立時，自身的寶具攻擊耐性提升",
     "NA": null,
     "KR": null
   },
@@ -4027,14 +4636,14 @@
   "宝具以外の攻撃による被ダメージを減らす": {
     "JP": null,
     "CN": "宝具以外的攻击造成的伤害降低",
-    "TW": "減少除了寶具以外的攻擊傷害",
-    "NA": null,
-    "KR": null
+    "TW": "寶具以外的攻擊造成的傷害降低",
+    "NA": "Decrease damage taken from attacks except Noble Phantasms",
+    "KR": "보구 이외의 공격에 의한 받는 대미지 감소"
   },
   "宝具使用時、自身に「〔対極共生〕による状態効果の変換確率を100%にアップ＆〔放出残滓〕と〔増幅負荷〕が自身の耐性を無視するようになる【デメリット】状態」を付与": {
     "JP": null,
-    "CN": "宝具使用时，赋予自身「〔对极共生〕造成的状态效果转换概率提升至100%＆〔放出残滓〕与〔增幅负荷〕会无视自身耐性的【负面效果】状态」",
-    "TW": null,
+    "CN": "When using a Noble Phantasm, grant self \"increase the conversion probability of status effects caused by [Antagonistic Symbiosis] to 100% & [Residual Discharge] and [Amplification Load] will ignore self's resistance [Demerit]\" status.",
+    "TW": "使用寶具時，賦予自身「〔對極共生〕的狀態效果變換機率提升至100%＆〔放出殘滓〕與〔增幅負荷〕無視自身的耐性【副作用】狀態」",
     "NA": null,
     "KR": null
   },
@@ -4052,10 +4661,17 @@
     "NA": "Temporarily increase the effect of NP Strength Up <Unstackable>",
     "KR": "보구 위력 UP 상태의 효과량을 일시적으로 증가<중복 불가>"
   },
+  "宝具攻撃で受けるダメージが増える": {
+    "JP": null,
+    "CN": "Increase damage taken from Noble Phantasm attacks",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "宝具攻撃耐性をアップ": {
     "JP": null,
-    "CN": "宝具攻击耐性提升",
-    "TW": null,
+    "CN": "Increase Noble Phantasm resistance",
+    "TW": "寶具攻擊耐性提升",
     "NA": null,
     "KR": null
   },
@@ -4099,7 +4715,7 @@
     "CN": "对弱化状态的耐性下降",
     "TW": "對弱化狀態的耐性下降",
     "NA": "Decrease debuff resistance",
-    "KR": "약화 효과 내성 DOWN"
+    "KR": "약화 내성 DOWN"
   },
   "弱体耐性をダウン(弱体解除で解除不能)": {
     "JP": null,
@@ -4153,9 +4769,9 @@
   "強化解除耐性をアップ(〔増殖〕状態解除の対象となる)": {
     "JP": null,
     "CN": "强化解除耐性提升(为解除〔增殖〕状态的对象)",
-    "TW": "強化解除耐性提升（成為〔增殖〕狀態解除的對象）",
+    "TW": "強化解除耐性提升(為解除〔增殖〕狀態的對象)",
     "NA": null,
-    "KR": null
+    "KR": "강화 해제 내성 UP([증식] 상태 해제의 대상이 된다)"
   },
   "待機状態となる": {
     "JP": null,
@@ -4180,8 +4796,8 @@
   },
   "必中を無視して、攻撃によるダメージを0にする(グランドサイン効果以外の他の無敵状態と重複可能)": {
     "JP": null,
-    "CN": "无视必中效果，使攻击伤害变为0（可与其他无敌状态效果叠加，御主标志效果除外）",
-    "TW": null,
+    "CN": "Ignore Sure Hit and reduce damage from attacks to 0 (can stack with other invincibility states besides Grand Sign effects).",
+    "TW": "無視必中狀態讓傷害變為0(除Grand Sign效果以外的其他無敵狀態可重疊)",
     "NA": null,
     "KR": null
   },
@@ -4189,7 +4805,7 @@
     "JP": null,
     "CN": "无视必中，攻击造成的伤害为0(可与其他无敌状态叠加)",
     "TW": "無視必中，攻擊造成的傷害為0",
-    "NA": null,
+    "NA": "Ignore Sure Hit and reduce ATK damage to 0 (stackable with other Invincible)",
     "KR": "필중을 무시하고 공격에 의한 대미지를 0으로 한다(다른 무적 상태와 중복 가능)"
   },
   "急所が判明している状態": {
@@ -4223,9 +4839,9 @@
   "攻撃によるダメージでHPが0になる時、その攻撃を回避してダメージを0にする": {
     "JP": null,
     "CN": "当攻击造成的伤害会导致生命值为0时，回避该次攻击令伤害为0",
-    "TW": "當受到攻擊造成傷害使得HP降到0時，可以迴避該攻擊並將傷害減少為0",
-    "NA": null,
-    "KR": null
+    "TW": "當攻擊造成的傷害會導致HP為0時，迴避該次攻擊令傷害為0",
+    "NA": "When HP reaches 0 from attack damage, evade the attack and reduce damage taken to 0",
+    "KR": "공격에 의한 대미지로 HP가 0이 될 때 그 공격을 회피하고 대미지를 0으로 한다"
   },
   "攻撃によるダメージを0にする": {
     "JP": null,
@@ -4236,7 +4852,14 @@
   },
   "攻撃によるダメージを0にする(グランドサイン効果以外の他の回避状態と重複可能)": {
     "JP": null,
-    "CN": "使攻击造成的伤害变为0（可与其他回避状态叠加，唯Grand Sign效果除外）",
+    "CN": "将受到的攻击伤害变为0(可与Grand Sign效果以外的其他回避状态叠加)",
+    "TW": "受到的傷害變為0(除Grand Sign效果以外的其他迴避狀態可重疊)",
+    "NA": null,
+    "KR": null
+  },
+  "攻撃によるダメージを0にする(他の回避状態と重複可能)": {
+    "JP": null,
+    "CN": "将受到的伤害减至0（可与其他回避状态叠加）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4300,15 +4923,15 @@
   "攻撃を受けるとスターを獲得する": {
     "JP": null,
     "CN": "受到攻击时，获得暴击星",
-    "TW": "受到攻擊時獲得爆擊星",
-    "NA": null,
+    "TW": "受到攻擊時，獲得爆擊星",
+    "NA": "Gain C. Stars when attacked",
     "KR": "공격을 받으면 스타 획득"
   },
   "攻撃を受けると味方全体の〔ワンジナ〕に〔精霊の怒り〕状態を付与": {
     "JP": null,
     "CN": "受到攻击时，付与己方全体〔旺吉娜〕〔精灵之怒〕状态",
     "TW": "受到攻擊時，賦予我方全體〔旺吉娜〕〔精靈之怒〕狀態",
-    "NA": null,
+    "NA": "Apply [Spirit's Anger] when attacked to all [Wandjina] allies",
     "KR": "공격을 받으면 아군 전체의 [완지나]에게 [정령의 분노] 상태 부여"
   },
   "攻撃を受けると敵単体のクリティカル威力をダウン": {
@@ -4358,21 +4981,21 @@
     "CN": "受到攻击时，自身的生命值回复",
     "TW": "受到攻擊時，自身的HP恢復",
     "NA": null,
-    "KR": null
+    "KR": "공격을 받으면 자신의 HP 회복"
   },
   "攻撃を受けると自身のNPを増やす": {
     "JP": null,
     "CN": "受到攻击时，自身的NP增加",
     "TW": "受到攻擊時，自身的NP增加",
-    "NA": null,
-    "KR": null
+    "NA": "Increase NP Gauge for yourself when sustaining attacks",
+    "KR": "공격을 받으면 자신의 NP 증가"
   },
   "攻撃を受けると自身のNPを増やす＆クリティカル威力をアップ": {
     "JP": null,
     "CN": "受到攻击时，自身的NP增加＆暴击威力提升",
     "TW": "受到攻擊時，自身的NP增加＆爆擊威力提升",
-    "NA": null,
-    "KR": null
+    "NA": "Increase NP Gauge & Critical Strength for yourself when sustaining attacks",
+    "KR": "공격을 받으면 자신의 NP 증가&크리티컬 위력 UP"
   },
   "攻撃を受けると自身のクリティカル威力をアップ": {
     "JP": null,
@@ -4384,23 +5007,23 @@
   "攻撃を受けると自身のクリティカル発生率をアップ": {
     "JP": null,
     "CN": "受到攻击时，自身的暴击率提升",
-    "TW": "受到攻擊時，自身的爆擊發生率提升",
-    "NA": null,
+    "TW": "受到攻擊時，自身的爆擊率提升",
+    "NA": "Increase your Critical Rate when attacked",
     "KR": "공격을 받으면 자신의 크리티컬 발생률 UP"
   },
   "攻撃を受けると自身のチャージを低確率で増やす＆クリティカル威力をアップ": {
     "JP": null,
     "CN": "受到攻击时，自身的充能低概率增加＆暴击威力提升",
-    "TW": "受到攻擊時，低機率增加自身Charge＆爆擊威力提升",
-    "NA": null,
-    "KR": null
+    "TW": "受到攻擊時，自身的Charge低機率增加＆爆擊威力提升",
+    "NA": "Low chance to increase Charge & Critical Strength for yourself when sustaining attacks",
+    "KR": "공격을 받으면 자신의 차지를 낮은 확률로 증가&크리티컬 위력 UP"
   },
   "攻撃を受けると自身の宝具威力をアップ": {
     "JP": null,
     "CN": "受到攻击时，自身的宝具威力提升",
     "TW": "受到攻擊時，自身的寶具威力提升",
     "NA": null,
-    "KR": null
+    "KR": "공격을 받으면 자신의 보구 위력 UP"
   },
   "攻撃を受けると自身の攻撃力をアップ": {
     "JP": null,
@@ -4418,8 +5041,8 @@
   },
   "攻撃力をアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "攻击力提升<自身HP比例越低效果越高>",
-    "TW": null,
+    "CN": "Increase ATK <Effect increases as own HP percentage is lower>",
+    "TW": "攻擊力提升<自身的HP比例越低效果越提升>",
     "NA": null,
     "KR": null
   },
@@ -4451,6 +5074,13 @@
     "NA": "Decrease ATK buff success rate",
     "KR": "공격 강화 성공률 DOWN"
   },
+  "攻撃時、ダメージ前に対象にやけど状態を付与": {
+    "JP": null,
+    "CN": "攻击时，在造成伤害前赋予对象灼伤状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "攻撃時、ダメージ前に対象に毒状態を付与": {
     "JP": null,
     "CN": "攻击造成伤害前，付与对象毒状态",
@@ -4465,12 +5095,26 @@
     "NA": null,
     "KR": null
   },
+  "攻撃時、ダメージ前に自身のQuick・Arts・Busterカードの威力をアップ": {
+    "JP": null,
+    "CN": "攻击时，在伤害发生前提升自身Quick、Arts、Buster指令卡的性能。",
+    "TW": "攻擊造成傷害前，自身的Quick・Arts・Buster指令卡的威力提升",
+    "NA": null,
+    "KR": null
+  },
+  "攻撃時、ダメージ前に自身のクリティカル威力をアップ": {
+    "JP": null,
+    "CN": "攻击时，在造成伤害前提升自身的暴击威力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "攻撃時、ダメージ前に自身のスター発生率をアップ": {
     "JP": null,
     "CN": "攻击造成伤害前，自身的暴击星掉落率提升",
     "TW": "攻擊造成傷害前，自身的爆擊發生率提升",
-    "NA": null,
-    "KR": null
+    "NA": "During attacks, increase C. Star Drop Rate for yourself before damage",
+    "KR": "공격 시 대미지 전 자신의 스타 발생률 UP"
   },
   "攻撃時、ダメージ前に自身の全てのコマンドカードの威力をアップ": {
     "JP": null,
@@ -4481,8 +5125,8 @@
   },
   "攻撃時、対象に〔対敵注視〕状態を付与": {
     "JP": null,
-    "CN": "攻击时，赋予目标〔敌视〕状态",
-    "TW": null,
+    "CN": "Apply [Enemy Focus] status to the target when attacking",
+    "TW": "攻擊時，賦予對象〔對敵注視〕狀態",
     "NA": null,
     "KR": null
   },
@@ -4497,15 +5141,15 @@
     "JP": null,
     "CN": "攻击时，付与对象灼伤状态",
     "TW": "攻擊時，賦予對象灼傷狀態",
-    "NA": null,
-    "KR": null
+    "NA": "Inflict Burn to target when attacking",
+    "KR": "공격 시 대상에게 화상 상태 부여"
   },
   "攻撃時、対象に呪い状態を付与": {
     "JP": null,
     "CN": "攻击时，付与对象诅咒状态",
     "TW": "攻擊時，賦予對象詛咒狀態",
     "NA": null,
-    "KR": null
+    "KR": "공격 시 대상에게 저주 상태 부여"
   },
   "攻撃時、対象に延焼状態を付与": {
     "JP": null,
@@ -4528,6 +5172,13 @@
     "NA": null,
     "KR": null
   },
+  "攻撃時、対象に高確率でスタン状態を付与": {
+    "JP": null,
+    "CN": "攻击时，以高概率赋予对象Stun状态",
+    "TW": "攻擊時，高機率賦予對象暈眩狀態",
+    "NA": null,
+    "KR": null
+  },
   "攻撃時、対象の〔標的破壊〕状態の残りターン数を1ターン延長(クリティカル時はさらに1ターン延長)": {
     "JP": null,
     "CN": "攻击时，将对象〔目标破坏〕状态的剩余回合数延长1回合(暴击时再延长1回合)",
@@ -4537,8 +5188,8 @@
   },
   "攻撃時、対象の強化状態を1つ解除": {
     "JP": null,
-    "CN": "攻击时，解除目标1个强化状态",
-    "TW": null,
+    "CN": "Remove 1 offensive buff from the target when attacking",
+    "TW": "攻擊時，解除對象的強化狀態1個",
     "NA": null,
     "KR": null
   },
@@ -4556,19 +5207,26 @@
     "NA": "Apply [Like!] to yourself when attacking",
     "KR": "공격 시 자신에게 [좋아요!] 상태 부여"
   },
+  "攻撃時、自身に呪い状態を付与": {
+    "JP": null,
+    "CN": "攻击时，赋予自身诅咒状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "攻撃時、自身のNPを増やす": {
     "JP": null,
     "CN": "攻击时，自身的NP增加",
-    "TW": "攻擊時，賦予自身的NP增加",
-    "NA": null,
-    "KR": null
+    "TW": "攻擊時，自身的NP增加",
+    "NA": "Increase NP Gauge for yourself during attacks",
+    "KR": "공격 시 자신의 NP 증가"
   },
   "攻撃時、自身のNPを少し増やす": {
     "JP": null,
     "CN": "攻击时，自身的NP少量增加",
-    "TW": "攻擊時，賦予自身的NP少量增加",
-    "NA": null,
-    "KR": null
+    "TW": "攻擊時，自身的NP少量增加",
+    "NA": "Slightly increase NP Gauge for yourself during attacks",
+    "KR": "공격 시 자신의 NP를 조금 증가"
   },
   "攻撃時、追加効果が発動": {
     "JP": null,
@@ -4587,9 +5245,9 @@
   "攻撃時に対象が〔やけど〕状態の時、自身のNPを増やす": {
     "JP": null,
     "CN": "攻击对象为〔灼伤〕状态时，自身的NP增加",
-    "TW": "攻擊時若對象處於〔灼傷〕狀態時，自身NP增加",
-    "NA": null,
-    "KR": null
+    "TW": "攻擊對象為〔灼傷〕狀態時，自身的NP增加",
+    "NA": "Increase your NP Gauge when attack target is [Burned]",
+    "KR": "공격 시 대상이 [화상] 상태일 때 자신의 NP 증가"
   },
   "攻撃時に対象に毒・呪い・やけど状態を付与": {
     "JP": null,
@@ -4621,8 +5279,8 @@
   },
   "攻撃時のダメージ前に、ターゲットしている敵に解除可能な防御強化状態が付与されている場合、攻撃対象の防御強化状態を解除＆解除可能な防御強化状態が付与されていない場合、自身の攻撃の威力をアップ": {
     "JP": null,
-    "CN": "攻击时，在造成伤害前，若目标敌人带有可解除的防御强化状态，则解除该敌人的防御强化状态；若敌人未附带可解除的防御强化状态，则提升自身的攻击威力。",
-    "TW": null,
+    "CN": "Before dealing damage, if the targeted enemy has any removable defensive buffs, remove the defensive buffs from the attack target & if no removable defensive buffs are applied, increase own attack power.",
+    "TW": "攻擊時造成傷害前，若目標對象有可解除的防禦強化狀態，則解除攻擊對象的防禦強化狀態＆若目標沒有可解除的防禦強化狀態，則提升自身的攻擊威力",
     "NA": null,
     "KR": null
   },
@@ -4632,6 +5290,13 @@
     "TW": "被敵人攻擊的機率提升",
     "NA": "Increase chance of being targeted by enemies",
     "KR": "적의 타깃이 될 가능성 UP"
+  },
+  "敵の攻撃宝具使用時の効果発動前に、〔鈍の矢弾〕状態を1回分消費して、敵全体の攻撃強化状態を1つ解除＆宝具威力をダウン<最大3回分消費して回数分の効果が発動>(見敵迎撃状態は重複不可)": {
+    "JP": null,
+    "CN": "Before the enemy uses an attack Noble Phantasm, consume 1 stack of [Dull Projectile] to remove 1 offensive buff from all enemies & reduce their Noble Phantasm damage <can be consumed up to 3 times, with the effect triggering for each stack consumed> (The \"Intercepting the Enemy\" status cannot stack)",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "敵の通常行動の対象になった時、敵の行動後にフラガラックで反撃する": {
     "JP": null,
@@ -4646,6 +5311,13 @@
     "TW": "擊倒敵人時，賦予自身〔按讚！〕狀態",
     "NA": "Apply [Like!] to yourself when defeating an enemy",
     "KR": "적을 처치했을 때 자신에게 [좋아요!] 상태 부여"
+  },
+  "敵ターン終了時、敵全体の強化状態を1つ解除＆〔過去改竄〕状態を付与 ＋ 味方全体の弱体状態を1つ解除": {
+    "JP": null,
+    "CN": "在敌方回合结束时，解除敌方全体的1个强化状态并赋予〔过去篡改〕状态，同时解除我方全体的1个弱化状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "最大HPを増やす": {
     "JP": null,
@@ -4666,21 +5338,21 @@
     "CN": "死亡时，获得大量暴击星",
     "TW": "死亡時，大量獲得爆擊星",
     "NA": null,
-    "KR": null
+    "KR": "사망 시 스타 대량 획득"
   },
   "死亡時、味方全体のNPを少し増やす": {
     "JP": null,
     "CN": "死亡时，己方全体的NP少量增加",
     "TW": "死亡時，我方全體的NP稍微增加",
     "NA": null,
-    "KR": null
+    "KR": "사망 시 아군 전체의 NP 조금 증가"
   },
   "死亡時、味方単体のクリティカル発生率をアップ": {
     "JP": null,
     "CN": "死亡时，己方单体的暴击率提升",
     "TW": "死亡時，我方單體的爆擊發生率提升",
     "NA": null,
-    "KR": null
+    "KR": "사망 시 아군 한 명의 크리티컬 발생률 UP"
   },
   "死亡時にスターを獲得する": {
     "JP": null,
@@ -4763,7 +5435,7 @@
     "JP": null,
     "CN": "每回合结束时，自身的暴击威力提升",
     "TW": "每回合結束時，自身的爆擊威力提升",
-    "NA": null,
+    "NA": "Increase Critical Strength for yourself at the end of each turn",
     "KR": "매 턴 종료 시 자신의 크리티컬 위력 UP"
   },
   "毎ターン終了時、自身の宝具威力をアップ": {
@@ -4777,7 +5449,7 @@
     "JP": null,
     "CN": "每回合结束时，自身的强化付与率提升",
     "TW": "每回合結束時，自身的強化賦予率提升",
-    "NA": null,
+    "NA": "Increase Buff chance rate for yourself at the end of each turn",
     "KR": "매 턴 종료 시 자신의 강화 부여율 UP"
   },
   "毎ターン終了時に回避状態を付与": {
@@ -4814,6 +5486,13 @@
     "TW": "中毒、詛咒、灼傷耐性提升",
     "NA": "Increase resistance against Poison, Curse, and Burn",
     "KR": "독, 저주, 화상 내성 UP"
+  },
+  "毒と呪いとやけどを受けなくなる": {
+    "JP": null,
+    "CN": "Immune to Poison, Curse, and Burn.",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "毒と呪いを受けなくなる": {
     "JP": null,
@@ -4871,12 +5550,19 @@
     "NA": "Immune to Confusion",
     "KR": "혼란 무효"
   },
+  "灰が舞うフィールド<〔灰桜〕状態の対象がいるフィールドまたは〔炎上〕しているフィールド>で、宝具で与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在灰烬飞舞的场地<处于〔灰樱〕状态的目标所在的场地或处于〔燃烧〕状态的场地>，提升宝具造成的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "無敵と対粛正防御を無視して、攻撃によるダメージを与える<回避は貫通不能>": {
     "JP": null,
     "CN": "攻击无视无敌与对肃正防御造成伤害<无法贯通回避>",
-    "TW": "無敵和對粛正防禦無視，造成攻擊傷害<回避無法貫通>",
+    "TW": "攻擊無視無敵與對肅正防禦造成傷害<無法貫通迴避>",
     "NA": null,
-    "KR": null
+    "KR": "무적과 대 숙정방어를 무시하고, 공격에 의한 대미지를 준다<회피는 관통 불능>"
   },
   "無敵を受けなくなる": {
     "JP": null,
@@ -4887,8 +5573,8 @@
   },
   "無敵状態の間、防御力をアップ": {
     "JP": null,
-    "CN": "无敌状态期间，提升防御力",
-    "TW": null,
+    "CN": "While in an invincibility state, increase defense.",
+    "TW": "無敵狀態期間，防禦力提升",
     "NA": null,
     "KR": null
   },
@@ -4902,7 +5588,14 @@
   "無敵貫通を無視して、攻撃によるダメージを0にする(強化解除で解除不能)": {
     "JP": null,
     "CN": "无视无敌贯通，攻击造成的伤害为0(用强化解除无法解除)",
-    "TW": "無視無敵貫通，攻擊造成的傷害為0(不可被強化解除)",
+    "TW": "無視無敵貫通，攻擊造成的傷害為0(用強化解除無法解除)",
+    "NA": "Ignore Pierce Invincible and reduce ATK damage received to 0 (Cannot be removed through Buff removal)",
+    "KR": "무적 관통을 무시하고 공격에 의한 대미지를 0으로 한다(강화 해제로 해제 불가)"
+  },
+  "特定の行動時に消費され、グランドサインの特殊効果の発動機会を得る": {
+    "JP": null,
+    "CN": "在进行特定行动时消耗，并获得发动Grand Sign特殊效果的机会。",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -4959,7 +5652,7 @@
     "JP": null,
     "CN": "精灵之怒越多自身的宝具威力越大",
     "TW": "精靈之怒越多自身的寶具威力越大",
-    "NA": null,
+    "NA": "The more intense the Spirit's Anger, the more NP Strength increases for yourself",
     "KR": "[정령의 분노]가 쌓일수록 자신의 보구 위력 UP"
   },
   "自身が〔アサシン〕クラスの場合、〔アサシン〕クラスに与えるクリティカル時のダメージをアップ": {
@@ -4967,257 +5660,264 @@
     "CN": "当自身为〔Assassin〕职阶时，对〔Assassin〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Assassin〕職階時，對〔Assassin〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [어쌔신] 클래스일 때, [어쌔신] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔アサシン〕クラスの場合、〔アサシン〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Assassin〕职阶时，对〔Assassin〕职阶造成的伤害提升",
     "TW": "自身為〔Assassin〕職階時，對〔Assassin〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [어쌔신] 클래스일 때, [어쌔신] 클래스에게 주는 대미지 UP"
   },
   "自身が〔アサシン〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Assassin〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Assassin〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Assassin〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [어쌔신] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔アルターエゴ〕クラスの場合、〔アルターエゴ〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Alterego〕职阶时，对〔Alterego〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Alterego〕職階時，對〔Alterego〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [얼터에고] 클래스일 때, [얼터에고] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔アルターエゴ〕クラスの場合、〔アルターエゴ〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Alterego〕职阶时，对〔Alterego〕职阶造成的伤害提升",
     "TW": "自身為〔Alterego〕職階時，對〔Alterego〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [얼터에고] 클래스일 때, [얼터에고] 클래스에게 주는 대미지 UP"
   },
   "自身が〔アヴェンジャー〕クラスの場合、〔アヴェンジャー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Avenger〕职阶时，对〔Avenger〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Avenger〕職階時，對〔Avenger〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [어벤저] 클래스일 때, [어벤저] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔アヴェンジャー〕クラスの場合、〔アヴェンジャー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Avenger〕职阶时，对〔Avenger〕职阶造成的伤害提升",
     "TW": "自身為〔Avenger〕職階時，對〔Avenger〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [어벤저] 클래스일 때, [어벤저] 클래스에게 주는 대미지 UP"
   },
   "自身が〔アーチャー〕クラスの場合、〔アーチャー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Archer〕职阶时，对〔Archer〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Archer〕職階時，對〔Archer〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [아처] 클래스일 때, [아처] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔アーチャー〕クラスの場合、〔アーチャー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Archer〕职阶时，对〔Archer〕职阶造成的伤害提升",
     "TW": "自身為〔Archer〕職階時，對〔Archer〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [아처] 클래스일 때, [아처] 클래스에게 주는 대미지 UP"
   },
   "自身が〔アーチャー〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Archer〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Archer〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Archer〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [아처] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔キャスター〕クラスの場合、〔キャスター〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Caster〕职阶时，对〔Caster〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Caster〕職階時，對〔Caster〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [캐스터] 클래스일 때, [캐스터] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔キャスター〕クラスの場合、〔キャスター〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Caster〕职阶时，对〔Caster〕职阶造成的伤害提升",
     "TW": "自身為〔Caster〕職階時，對〔Caster〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [캐스터] 클래스일 때, [캐스터] 클래스에게 주는 대미지 UP"
   },
   "自身が〔キャスター〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Caster〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Caster〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Caster〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [캐스터] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔セイバー〕クラスの場合、〔セイバー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Saber〕职阶时，对〔Saber〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Saber〕職階時，對〔Saber〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [세이버] 클래스일 때, [세이버] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔セイバー〕クラスの場合、〔セイバー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Saber〕职阶时，对〔Saber〕职阶造成的伤害提升",
     "TW": "自身為〔Saber〕職階時，對〔Saber〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [세이버] 클래스일 때, [세이버] 클래스에게 주는 대미지 UP"
   },
   "自身が〔セイバー〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Saber〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Saber〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Saber〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [세이버] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔バーサーカー〕クラスの場合、〔バーサカー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Berserker〕职阶时，对〔Berserker〕职阶造成的伤害提升",
     "TW": "自身為〔Berserker〕職階時，對〔Berserker〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [버서커] 클래스일 때, [버서커] 클래스에게 주는 대미지 UP"
   },
   "自身が〔バーサーカー〕クラスの場合、〔バーサーカー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Berserker〕职阶时，对〔Berserker〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Berserker〕職階時，對〔Berserker〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [버서커] 클래스일 때, [버서커] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔バーサーカー〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Berserker〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Berserker〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Berserker〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [버서커] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔フォーリナー〕クラスの場合、〔フォーリナー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Foreigner〕职阶时，对〔Foreigner〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Foreigner〕職階時，對〔Foreigner〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [포리너] 클래스일 때, [포리너] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔フォーリナー〕クラスの場合、〔フォーリナー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Foreigner〕职阶时，对〔Foreigner〕职阶造成的伤害提升",
     "TW": "自身為〔Foreigner〕職階時，對〔Foreigner〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [포리너] 클래스일 때, [포리너] 클래스에게 주는 대미지 UP"
   },
   "自身が〔プリテンダー〕クラスの場合、〔プリテンダー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Pretender〕职阶时，对〔Pretender〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Pretender〕職階時，對〔Pretender〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [프리텐더] 클래스일 때, [프리텐더] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔プリテンダー〕クラスの場合、〔プリテンダー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Pretender〕职阶时，对〔Pretender〕职阶造成的伤害提升",
     "TW": "自身為〔Pretender〕職階時，對〔Pretender〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [프리텐더] 클래스일 때, [프리텐더] 클래스에게 주는 대미지 UP"
   },
   "自身が〔ムーンキャンサー〕クラスの場合、〔ムーンキャンサー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔MoonCancer〕职阶时，对〔MoonCancer〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Moon Cancer〕職階時，對〔Moon Cancer〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [문캔서] 클래스일 때, [문캔서] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔ムーンキャンサー〕クラスの場合、〔ムーンキャンサー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔MoonCancer〕职阶时，对〔MoonCancer〕职阶造成的伤害提升",
     "TW": "自身為〔Moon Cancer〕職階時，對〔Moon Cancer〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [문캔서] 클래스일 때, [문캔서] 클래스에게 주는 대미지 UP"
   },
   "自身が〔ライダー〕クラスの場合、〔ライダー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Rider〕职阶时，对〔Rider〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Rider〕職階時，對〔Rider〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [라이더] 클래스일 때, [라이더] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔ライダー〕クラスの場合、〔ライダー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Rider〕职阶时，对〔Rider〕职阶造成的伤害提升",
     "TW": "自身為〔Rider〕職階時，對〔Rider〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [라이더] 클래스일 때, [라이더] 클래스에게 주는 대미지 UP"
   },
   "自身が〔ライダー〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Rider〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Rider〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Rider〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [라이더] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔ランサー〕クラスの場合、〔ランサー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Lancer〕职阶时，对〔Lancer〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Lancer〕職階時，對〔Lancer〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [랜서] 클래스일 때, [랜서] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔ランサー〕クラスの場合、〔ランサー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Lancer〕职阶时，对〔Lancer〕职阶造成的伤害提升",
     "TW": "自身為〔Lancer〕職階時，對〔Lancer〕職階造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [랜서] 클래스일 때, [랜서] 클래스에게 주는 대미지 UP"
   },
   "自身が〔ランサー〕クラスの場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Lancer〕职阶时，宝具造成的伤害提升",
-    "TW": "自身為〔Lancer〕職階時，寶具造成的傷害提升",
+    "TW": "當自身為〔Lancer〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [랜서] 클래스일 때, 보구로 주는 대미지 UP"
   },
   "自身が〔ルーラー〕クラスの場合、〔ルーラー〕クラスに与えるクリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Ruler〕职阶时，对〔Ruler〕职阶造成暴击时的伤害提升",
     "TW": "自身為〔Ruler〕職階時，對〔Ruler〕職階造成爆擊時的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [룰러] 클래스일 때, [룰러] 클래스에게 주는 크리티컬 시의 대미지 UP"
   },
   "自身が〔ルーラー〕クラスの場合、〔ルーラー〕クラスに与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身为〔Ruler〕职阶时，对〔Ruler〕职阶造成的伤害提升",
     "TW": "自身為〔Ruler〕職階時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [룰러] 클래스일 때, [룰러] 클래스에게 주는 대미지 UP"
   },
   "自身が〔混沌〕特性を持つ場合、刻印されたカードのNP獲得量をアップ": {
     "JP": null,
     "CN": "当自身持有〔混沌〕特性时，被刻印的指令卡的NP获得量提升",
     "TW": "僅在自身擁有〔混沌〕特性時，刻印的指令卡的NP獲得量提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [혼돈] 특성을 가진 경우, 각인된 카드의 NP 획득량 UP"
   },
   "自身が〔神性〕特性を持つ場合、宝具で与えるダメージをアップ": {
     "JP": null,
     "CN": "当自身持有〔神性〕特性时，宝具造成的伤害提升",
-    "TW": "僅在自身擁有〔神性〕特性時，寶具造成的傷害提升",
+    "TW": "當自身持有〔神性〕特性時，寶具造成的傷害提升",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [신성] 특성을 가진 경우, 보구로 주는 대미지 UP"
   },
   "自身が〔秩序〕特性を持つ場合、クリティカル時のダメージをアップ": {
     "JP": null,
     "CN": "当自身持有〔秩序〕特性时，暴击伤害提升",
     "TW": "僅在自身擁有〔秩序〕特性時，爆擊時的傷害增加",
     "NA": null,
-    "KR": null
+    "KR": "자신이 [질서] 특성을 가진 경우, 크리티컬 시 대미지 UP"
   },
   "自身がやられた時、味方全体のNPを増やす": {
     "JP": null,
     "CN": "自身被击败时，己方全体的NP增加",
-    "TW": "自身被擊倒時，我方全體的NP增加",
+    "TW": "自身被擊敗時，我方全體的NP增加",
+    "NA": null,
+    "KR": "자신이 쓰러졌을 때 아군 전체의 NP 증가"
+  },
+  "自身がやられた時、自身を除く味方全体のNPを増やす": {
+    "JP": null,
+    "CN": "当自身被击倒时，提升除自身以外我方全体的NP",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -5245,9 +5945,9 @@
   "自身が使用するスキル・宝具のデメリット効果を無効化する<一部の効果を除く>": {
     "JP": null,
     "CN": "自身使用的技能、宝具的负面效果无效化<部分效果除外>",
-    "TW": "無視自身使用技能・寶具的負面效果<部分效果除外>",
-    "NA": null,
-    "KR": null
+    "TW": "自身使用的技能、寶具的負面效果無效化<部分效果除外>",
+    "NA": "Negates the demerit effects of skills and Noble Phantasms you use <excludes some effects>",
+    "KR": "자신이 사용하는 스킬・보구의 단점 효과를 무효화<일부 효과 제외>"
   },
   "自身が最後に攻撃を受けた相手からのダメージに対する耐性をアップ": {
     "JP": null,
@@ -5284,9 +5984,51 @@
     "NA": "Set Target to yourself",
     "KR": "자신에게 타깃 고정"
   },
+  "自身に付与されている即死付与率アップ状態の効果量合計が10%以上の時、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "当自身被赋予的即死赋予率提升状态的效果总量达到10%以上时，提升暴击时的伤害。",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身に付与されている即死付与率アップ状態の効果量合計が100%以上の時、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "当自身被赋予的即死赋予率提升状态效果总量达到100%以上时，提升暴击威力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身に付与されている即死付与率アップ状態の効果量合計が150%以上の時、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "当自身被赋予的即死赋予率提升状态的效果量合计在150%以上时，提升暴击时的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身に付与されている即死付与率アップ状態の効果量合計が30%以上の時、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "当自身被赋予的即死赋予率提升状态的效果总量达到30%以上时，提升暴击时的伤害",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身に付与されている即死付与率アップ状態の効果量合計が60%以上の時、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": "当自身被赋予的即死赋予率提升状态效果总量在60%以上时，提升暴击时的伤害。",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "自身に付与される〔増幅負荷〕による攻撃力ダウン効果を攻撃力アップ効果に確率で変換する": {
     "JP": null,
-    "CN": "自身所受到的【增幅负荷】带来的攻击力下降效果有一定概率转化为攻击力上升效果",
+    "CN": "以一定概率将自身被赋予的〔增幅负载〕带来的攻击力下降效果转换为攻击力提升效果",
+    "TW": "將自身被賦予的〔增幅負荷〕所帶來的攻擊力下降效果，有機率轉化為攻擊力提升效果",
+    "NA": null,
+    "KR": null
+  },
+  "自身に付与される回避効果を〔気配遮断〕状態に変化させる": {
+    "JP": null,
+    "CN": "将自身被赋予的闪避效果变更为〔气配遮断〕状态",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5335,15 +6077,15 @@
   },
   "自身のコマンドカードを含むアーツチェイン成立時、味方全体のArtsカードの威力をアップ＋自身の被ダメージ時のNP獲得量をアップ": {
     "JP": null,
-    "CN": "在自身指令卡参与的Arts Chain成立时，提升己方全体Arts指令卡性能＋提升自身受伤时的NP获得量",
-    "TW": null,
+    "CN": "当自身包含指令卡的Arts Chain成立时，提升我方全体Arts指令卡性能＋提升自身受到伤害时的NP获得量",
+    "TW": "自身Arts Chain成立時，我方全體的Arts指令卡威力提升＋自身被傷害時的NP獲得量提升",
     "NA": null,
     "KR": null
   },
   "自身のコマンドカードを含むアーツチェイン成立時、味方全体の被強化成功率をアップ＋自身の弱体付与成功率をアップ＆〔増幅負荷〕状態を2つ付与【デメリット】": {
     "JP": null,
-    "CN": "自身Arts指令卡参与的Arts Chain达成时，提升己方全体强化成功率＋自身弱化赋予成功率提升＆赋予2个【增幅负荷】状态【负面效果】",
-    "TW": null,
+    "CN": "When an Arts Chain including your own Command Cards is formed, increase the buff success rate for all allies + increase your own debuff success rate & grant yourself 2 stacks of [Amplification Load] status【Demerit】",
+    "TW": "自身Arts Chain成立時，我方全體的強化成功率提升＋自身的弱體賦予成功率提升＆〔增幅負荷〕狀態2個【副作用】",
     "NA": null,
     "KR": null
   },
@@ -5351,6 +6093,20 @@
     "JP": null,
     "CN": "当包含自身指令卡在内的技击连携成立时，自身Arts指令卡的威力提升<自身的生命值比例越高，效果越高>",
     "TW": "自身Arts Chain成立時，自身的Arts指令卡威力提升<自身的HP比例越高效果越大>",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むアーツチェイン成立時、自身のArtsカードの威力をアップ＆〔鈍の矢弾〕状態を消費して付与されたArts攻撃強化状態の効果量を一時的に増大させる状態を付与": {
+    "JP": null,
+    "CN": "当自身参与的指令卡组成Arts Chain时，提升自身Arts卡性能，并赋予自身以下状态：消耗〔钝之矢弹〕状态，暂时提升已赋予的Arts攻击强化状态的效果量。",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むアーツチェイン成立時、自身のArtsカードの宝具威力をアップ＋フィールドに「自身がフィールドにいる間、敵全体のArts攻撃耐性をダウンする状態」を付与(先にグランドサインによるフィールド効果が付与されていた場合は効果を上書き)": {
+    "JP": null,
+    "CN": "When an Arts Chain including the user's own Command Cards is activated, increase the user's Arts NP Damage + grant the field \"a state where all enemies' Arts attack resistance is decreased while the user is on the field\" (if a field effect from Grand Sign is already active, overwrite the effect).",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -5363,22 +6119,36 @@
   },
   "自身のコマンドカードを含むアーツチェイン成立時、自身のNP獲得量をアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "当自身指令牌参与达成Arts Chain（蓝卡连锁）时，自身NP获取量提升<自身HP比例越低效果越高>",
+    "CN": "当包含自身指令卡的Arts Chain成立时，提升自身NP获得量<自身的HP比例越少效果越高>",
+    "TW": "自身Arts Chain成立時，自身的NP獲得量提升<自身的HP比例越低效果越大>",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むアーツチェイン成立時、自身のNP獲得量をアップ＋自身が〔境域掌握〕状態の時は追加で「Arts攻撃時に味方全体のArtsカードの宝具威力をアップする状態」を付与": {
+    "JP": null,
+    "CN": "When an Arts Chain including this servant's Command Cards is triggered, increase own NP Generation rate + If self is in the 〔Domain Mastery〕 state, additionally grant \"a state that increases the Arts Noble Phantasm damage of all allies when performing Arts attacks\"",
+    "TW": "自身Arts Chain成立時，自身的NP獲得量提升＋自身處於〔境域掌握〕狀態時，追加附加「Arts攻擊時我方全體的Arts指令卡寶具威力提升狀態」",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むアーツチェイン成立時、自身のクリティカル攻撃時のArtsカードの威力をアップ＆即死付与成功率をアップ": {
+    "JP": null,
+    "CN": "When an Arts Chain including your own Command Cards is triggered, increase your own Arts card effectiveness during critical attacks & increase your own Instant-Death success rate.",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "自身のコマンドカードを含むクイックチェイン成立時、味方全体のQuickカードの威力をアップ＋自身の被クリティカル発生耐性をアップ": {
     "JP": null,
-    "CN": "在自身指令卡参与的快速连锁成立时，提升己方全体的Quick指令卡威力＋提升自身的暴击发生率抗性",
-    "TW": null,
+    "CN": "当自身包含指令卡的Quick Chain成立时，提升全体队友的Quick指令卡性能＋提升自身的暴击发生耐性",
+    "TW": "自身Quick Chain成立時，我方全體的Quick指令卡威力提升＋自身的被爆擊發生耐性提升",
     "NA": null,
     "KR": null
   },
   "自身のコマンドカードを含むクイックチェイン成立時、自身に「攻撃時に対象の強化状態を1つ解除する状態」を付与＆〔増幅負荷〕状態を3つ付与【デメリット】": {
     "JP": null,
-    "CN": "在自身指令卡参与的快速连锁达成时，赋予自身「攻击时解除目标1个强化状态」效果，并附加3层[过载]状态【负面效果】",
-    "TW": null,
+    "CN": "当自身包含指令卡的Quick Chain成功时，赋予自身“攻击时解除目标1个强化状态的状态”＆赋予3个〔增幅负荷〕状态【副作用】",
+    "TW": "自身Quick Chain成立時，自身附加「攻擊時解除對象1個強化狀態的狀態」＆〔增幅負荷〕狀態3個【副作用】",
     "NA": null,
     "KR": null
   },
@@ -5389,10 +6159,31 @@
     "NA": null,
     "KR": null
   },
+  "自身のコマンドカードを含むクイックチェイン成立時、自身のQuickカードの威力をアップ＆〔鈍の矢弾〕状態を消費して付与されたQuick攻撃強化状態の効果量を一時的に増大させる状態を付与": {
+    "JP": null,
+    "CN": "When a Quick Chain including your own Command Cards is formed, grant yourself a state that increases Quick card effectiveness & temporarily increases the effect amount of Quick attack buffs applied by consuming the [Slow Projectile] state.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むクイックチェイン成立時、自身のQuickカードの宝具威力をアップ＋フィールドに「自身がフィールドにいる間、敵全体のQuick攻撃耐性をダウンする状態」を付与(先にグランドサインによるフィールド効果が付与されていた場合は効果を上書き)": {
+    "JP": null,
+    "CN": "当自身参与的Quick Chain成立时，提升自身Quick卡宝具威力＋赋予自身「在场期间，敌方全体Quick攻击耐性下降的状态」（若此前已由Grand Sign赋予过场地效果，则覆盖该效果）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むクイックチェイン成立時、自身のクリティカル攻撃時のQuickカードの威力をアップ＆即死付与成功率をアップ": {
+    "JP": null,
+    "CN": "当自身包含指令卡的Quick Chain成立时，提升自身暴击攻击时的Quick卡威力＆提升即死赋予成功率",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "自身のコマンドカードを含むクイックチェイン成立時、自身のスター発生率をアップ<自身のHP割合が少ないほど効果アップ>＆スター集中度をアップ": {
     "JP": null,
-    "CN": "暴击星发生率提升<自身HP比例越低效果提升>＆暴击权重提升",
-    "TW": null,
+    "CN": "When a Quick Chain is formed including your own Command Cards, increase your own star generation rate <effect increases as your own HP percentage is lower> & increase your own star absorption.",
+    "TW": "自身Quick Chain成立時，自身的爆擊星掉落率提升<自身的HP比例越低效果越大>＆爆擊星集中度提升",
     "NA": null,
     "KR": null
   },
@@ -5403,17 +6194,24 @@
     "NA": null,
     "KR": null
   },
+  "自身のコマンドカードを含むクイックチェイン成立時、自身のスター発生率をアップ＆スター集中度をアップ＋自身が〔境域掌握〕状態の時は追加で「Quick攻撃時に味方全体のQuickカードの宝具威力をアップする状態」を付与": {
+    "JP": null,
+    "CN": "当自身的指令卡包含在Quick Chain中时，提升自身的暴击星掉落率＆提升暴击星集中度＋若自身处于〔境域掌握〕状态，则额外赋予“在Quick攻击时提升我方全体Quick卡宝具威力状态”的效果",
+    "TW": "自身Quick Chain成立時，自身的爆擊星掉落率提升＆爆擊星集中度提升＋自身處於〔境域掌握〕狀態時，追加附加「Quick攻擊時我方全體的Quick指令卡寶具威力提升狀態」",
+    "NA": null,
+    "KR": null
+  },
   "自身のコマンドカードを含むバスターチェイン成立時、味方全体のBusterカードの威力をアップ＋自身の〔対敵注視〕状態の敵へのクリティカル威力をアップ": {
     "JP": null,
-    "CN": "当自身指令卡构成暴击Chain时，提升己方全体的Buster卡性能＋提高自身对带有〔敌方注视〕状态的敌人的暴击威力",
-    "TW": null,
+    "CN": "当自身包含指令卡在内的Buster Chain发动时，提升己方全体Buster指令卡性能＋提升自身对〔对敌注视〕状态敌人的暴击威力",
+    "TW": "自身Buster Chain成立時，我方全體的Buster指令卡威力提升＋自身對〔對敵注視〕狀態的敵人的爆擊威力提升",
     "NA": null,
     "KR": null
   },
   "自身のコマンドカードを含むバスターチェイン成立時、味方全体のクリティカル威力をアップ＋自身に〔増幅負荷〕状態を1つ付与【デメリット】": {
     "JP": null,
-    "CN": "我方全体的暴击威力提升+自身赋予【增幅负荷】状态1个【负面效果】",
-    "TW": null,
+    "CN": "When a Buster Chain including the user's own Command Cards is formed, increase critical damage for all allies + grant self 1 stack of [Amplification Load] status [Demerit]",
+    "TW": "自身Buster Chain成立時，我方全體的爆擊威力提升＋自身附加〔增幅負荷〕狀態1個【副作用】",
     "NA": null,
     "KR": null
   },
@@ -5421,6 +6219,20 @@
     "JP": null,
     "CN": "当包含自身指令卡在内的力击连携成立时，自身Buster指令卡的威力提升<自身的生命值比例越高，效果越高>",
     "TW": "自身Buster Chain成立時，自身的Buster指令卡威力提升<自身的HP比例越高效果越大>",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むバスターチェイン成立時、自身のBusterカードの威力をアップ＆〔鈍の矢弾〕状態を消費して付与されたBuster攻撃強化状態の効果量を一時的に増大させる状態を付与": {
+    "JP": null,
+    "CN": "当自身参与的指令卡组成Buster Chain时，赋予自身“提升Buster指令卡性能”的状态，并赋予“消耗〔钝之矢弹〕状态，暂时增加已赋予的Buster攻击强化状态效果量”的状态。",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むバスターチェイン成立時、自身のBusterカードの宝具威力をアップ＋フィールドに「自身がフィールドにいる間、敵全体のBuster攻撃耐性をダウンする状態」を付与(先にグランドサインによるフィールド効果が付与されていた場合は効果を上書き)": {
+    "JP": null,
+    "CN": "When a Buster Chain is formed including the self's Command Cards, increase the self's Buster card NP strength + grant a \"decrease enemy party's Buster attack resistance while self is on the field\" state to the field (if a field effect from Grand Sign was already applied, the effect is overwritten)",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -5433,7 +6245,21 @@
   },
   "自身のコマンドカードを含むバスターチェイン成立時、自身のクリティカル威力をアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "当自身包括于暴击连锁中时，自身的暴击威力提升<自身HP比例越低效果提升幅度越大>",
+    "CN": "When a Buster Chain including the user's own command cards is formed, increase the user's critical damage <effect increases as the user's HP percentage decreases>",
+    "TW": "自身Buster Chain成立時，自身的爆擊威力提升<自身的HP比例越低效果越大>",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むバスターチェイン成立時、自身のクリティカル威力をアップ＋自身が〔境域掌握〕状態の時は追加で「Buster攻撃時に味方全体のBusterカードの宝具威力をアップする状態」を付与": {
+    "JP": null,
+    "CN": "当自身参与的Buster Chain发动时，提升自身暴击威力＋若自身处于〔境域掌握〕状态，则额外赋予“Buster攻击时，提升己方全体Buster卡宝具威力状态”的效果",
+    "TW": "自身Buster Chain成立時，自身的爆擊威力提升＋自身處於〔境域掌握〕狀態時，追加附加「Buster攻擊時我方全體的Buster指令卡寶具威力提升狀態」",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むバスターチェイン成立時、自身のクリティカル攻撃時のBusterカードの威力をアップ＆即死付与成功率をアップ": {
+    "JP": null,
+    "CN": "When a Buster Chain is formed including your own command cards, increase your own Buster card effectiveness during critical attacks & increase your own instant-kill success rate.",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5442,6 +6268,20 @@
     "JP": null,
     "CN": "当包含自身指令卡在内的追击连携成立时，付与自身「攻击造成伤害前，自身所有指令卡的威力提升」的状态",
     "TW": "自身Brave Chain成立時，自身附加「攻擊時，傷害前自身的所有指令卡的威力提升狀態」",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むブレイブチェイン成立時、自身に「攻撃時のダメージ前に、自身のQuick・Arts・Busterカードの威力をアップする状態」を付与＋自身が〔境域掌握〕状態の時は追加で「Quick攻撃時に味方全体のQuickカードの威力をアップする状態」「Arts攻撃時に味方全体のArtsカードの威力をアップする状態」「Buster攻撃時に味方全体のBusterカードの威力をアップする状態」を付与": {
+    "JP": null,
+    "CN": "When a Brave Chain including self's command cards is initiated, grant self \"state of increasing self's Quick, Arts, and Buster card performance before damage when attacking\" + if self is in [Territory Control] state, additionally grant \"state of increasing all allies' Quick card performance when attacking with Quick\", \"state of increasing all allies' Arts card performance when attacking with Arts\", and \"state of increasing all allies' Buster card performance when attacking with Buster\"",
+    "TW": "自身Brave Chain成立時，自身附加「攻擊時造成傷害前，自身的Quick・Arts・Buster指令卡的威力提升狀態」＋自身處於〔境域掌握〕狀態時，追加附加「Quick攻擊時我方全體的Quick指令卡威力提升狀態」「Arts攻擊時我方全體的Arts指令卡威力提升狀態」「Buster攻擊時我方全體的Buster指令卡威力提升狀態」",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むマイティチェイン成立時、味方全体の攻撃力をアップ": {
+    "JP": null,
+    "CN": "When a Mighty Chain including their own command cards is triggered, increase the attack of all allies.",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -5454,14 +6294,28 @@
   },
   "自身のコマンドカードを含むマイティチェイン成立時、自身に「被ダメージ時に自身の攻撃力をアップする状態」を付与＆「攻撃時に対象に〔対敵注視〕状態を付与する状態」を付与": {
     "JP": null,
-    "CN": "当自身指令卡触发暴击Chain时，赋予自身“受到伤害时提升自身攻击力的状态”与“攻击时赋予目标[敌方关注]状态的状态”",
+    "CN": "When a Mighty Chain including the user's Command Cards is triggered, apply \"Buff self's ATK when taking damage\" & \"Apply [Enemy Focus] to target when attacking\" to self.",
+    "TW": "自身Mighty Chain成立時，自身附加「被傷害時自身的攻擊力提升狀態」＆附加「攻擊時對象附加〔對敵注視〕狀態的狀態」",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むマイティチェイン成立時、自身に必中状態を付与＆〔鈍の矢弾〕状態の残り回数を増加する": {
+    "JP": null,
+    "CN": "当自身的指令卡包含在Mighty Chain中时，赋予自身必中状态 & 增加〔钝之矢弹〕状态的剩余次数",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "自身のコマンドカードを含むマイティチェイン成立時、自身のExtra Attackカードの威力をアップ＆「通常攻撃時に対象と自身に〔放出残滓〕状態を付与する状態」を付与＆被弱体解除成功率をダウン【デメリット】": {
     "JP": null,
-    "CN": "当自身的指令卡组成Mighty Chain时，自身Extra Attack指令卡性能提升＆赋予「普通攻击时对目标与自身附加〔释放残渣〕状态」效果＆弱化解除成功率下降【负面效果】",
+    "CN": "When a Mighty Chain is formed including your own Command Cards, increase your own Extra Attack card performance & grant yourself a \"state where normal attacks inflict [Residual Emission] on the target and yourself\" & decrease debuff removal success rate【Demerit】",
+    "TW": "自身Mighty Chain成立時，自身的Extra Attack指令卡威力提升＆附加「普通攻擊時對象與自身附加〔放出殘滓〕狀態的狀態」＆被弱體解除成功率下降【副作用】",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むマイティチェイン成立時、自身のクリティカル威力をアップ＆自身に付与されている即死付与率アップ状態の効果量合計に応じてクリティカル威力をアップ": {
+    "JP": null,
+    "CN": "When a Mighty Chain is formed including your own Command Cards, increase your own critical damage & increase your own critical damage based on the total effect value of your \"Instant Death Resistance\" buffs.",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5475,14 +6329,42 @@
   },
   "自身のコマンドカードを含むマイティチェイン成立時、自身の攻撃力をアップ<自身のHP割合が少ないほど効果アップ>": {
     "JP": null,
-    "CN": "在包含自身的指令卡达成多段连击时，自身攻击力提升<自身HP比例越低效果提升幅度越大>",
+    "CN": "当包含自身指令卡的Mighty Chain成立时，提升自身攻击力<自身HP比例越少效果越高>",
+    "TW": "自身Mighty Chain成立時，自身的攻擊力提升<自身的HP比例越低效果越大>",
+    "NA": null,
+    "KR": null
+  },
+  "自身のコマンドカードを含むマイティチェイン成立時、自身の攻撃力をアップ＋自身が〔境域掌握〕状態の時は追加で味方全体の攻撃力をアップ": {
+    "JP": null,
+    "CN": "当自身参与组成Mighty Chain时，提升自身的攻击力＋当自身处于〔领域掌握〕状态时，额外提升我方全体的攻击力",
+    "TW": "自身Mighty Chain成立時，自身的攻擊力提升＋自身處於〔境域掌握〕狀態時，追加提升我方全體的攻擊力",
+    "NA": null,
+    "KR": null
+  },
+  "自身のスキル使用時、「味方全体の攻撃の威力をアップ」「スターを獲得」「味方全体のNPを少し増やす」のいずれかの効果を追加で得る(グランドサインによるフィールド効果が付与されている場合、その効果が「Quick攻撃耐性ダウンの時は威力アップ」「Arts攻撃耐性ダウンの時はスター獲得」「Buster攻撃耐性ダウンの時はNP増加」に固定される)<1度使用すると再使用に1ターン必要>": {
+    "JP": null,
+    "CN": "When using their own skills, gain one of the following additional effects: \"Increase ATK of all allies,\" \"Gain critical stars,\" or \"Increase NP of all allies by a small amount\" (If a Grand Sign field effect is active, these effects are fixed to \"Increase ATK if Quick attack resistance is down,\" \"Gain critical stars if Arts attack resistance is down,\" and \"Increase NP if Buster attack resistance is down\") <Can be used once, requires 1 turn to reuse>",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "自身の宝具使用時の効果発動前に、自身に「攻撃時のダメージ前に、ターゲットしている敵に解除可能な防御強化状態が付与されている場合、攻撃対象の防御強化状態を解除＆解除可能な防御強化状態が付与されていない場合、自身の攻撃の威力をアップする状態」を付与": {
     "JP": null,
-    "CN": "自身宝具发动效果前，赋予自身「攻击时伤害发动前，若目标敌方处于可解除的防御强化状态，则解除该防御对象的防御强化状态＆若未赋予可解除的防御强化状态时，提升自身攻击力」状态",
+    "CN": "在自身宝具使用时的效果发动前，赋予自身“在攻击时的伤害前，若目标敌人被赋予了可解除的防御强化状态，则解除攻击对象的防御强化状态；若未被赋予可解除的防御强化状态，则提升自身攻击威力”的状态",
+    "TW": "自身的寶具使用時效果發動前，自身附加「攻擊時傷害前，若目標敵人被賦予可解除的防禦強化狀態，則解除攻擊對象的防禦強化狀態＆若未被賦予可解除的防禦強化狀態，則提升自身的攻擊威力的狀態」",
+    "NA": null,
+    "KR": null
+  },
+  "自身の宝具使用時の効果発動前に、自身に〔境域掌握〕状態を付与": {
+    "JP": null,
+    "CN": "Before activating own Noble Phantasm effect, apply [Boundary Mastery] status to self",
+    "TW": "自身的寶具使用時效果發動前，自身附加〔境域掌握〕狀態",
+    "NA": null,
+    "KR": null
+  },
+  "自身の登場時、自身の〔鈍の矢弾〕状態の残り回数を増加する ＋ 毎ターン終了時、自身の〔鈍の矢弾〕状態の残り回数を増加する": {
+    "JP": null,
+    "CN": "Increase the remaining number of turns for self's [Dull Arrow] state when entering the field + Increase the remaining number of turns for self's [Dull Arrow] state at the end of each turn",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5493,6 +6375,27 @@
     "TW": "自身普通攻擊時賦予敵方單體防禦力下降狀態",
     "NA": "Decrease a single enemy's DEF during your normal attacks",
     "KR": "자신의 통상 공격 시 적 하나에게 방어력 DOWN 부여"
+  },
+  "自身を除く〔キャスター〕クラスの味方が宝具を使用した時、NP消費量に応じて自身のNPを増やす<重複不可>": {
+    "JP": null,
+    "CN": "当自身以外的〔Caster〕职介己方使用宝具时，根据NP消耗量增加自身的NP＜不可重复＞",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身を除く〔キャスター〕クラスの味方が宝具を使用した時、チャージ消費量に応じて自身のチャージを増やす<重複不可>": {
+    "JP": null,
+    "CN": "当自身以外的Caster职介队友使用宝具时，根据蓄力消耗量增加自身的蓄力<不可重复>",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身を除く味方全体のガッツ発動前、対象のガッツ回復量をアップ＆攻撃力をアップ": {
+    "JP": null,
+    "CN": "Increases Guts recovery amount and ATK for all allies except self (before Guts triggers)",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "自身を除く味方全体の一定ダメージ以上のダメージを一定ダメージに抑える": {
     "JP": null,
@@ -5514,6 +6417,13 @@
     "TW": "無法行動(只要受到攻擊即可解除)",
     "NA": "Become incapacitated (Removed when sustaining attack)",
     "KR": "행동불능이 된다(공격을 받으면 해제)"
+  },
+  "行動不能になる(特殊な睡眠状態、耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能)": {
+    "JP": null,
+    "CN": "无法行动(特殊睡眠状态，免疫耐性、无法解除、无法选择祭品、无法进行换人)",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "行動不能になる(耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能)": {
     "JP": null,
@@ -5566,8 +6476,8 @@
   },
   "被弱体解除成功率をダウン": {
     "JP": null,
-    "CN": "弱体解除成功率下降",
-    "TW": null,
+    "CN": "降低弱体解除成功率",
+    "TW": "被弱體解除成功率下降",
     "NA": null,
     "KR": null
   },
@@ -5604,7 +6514,7 @@
     "CN": "普通攻击的攻击次数变为2倍，攻击威力降低",
     "TW": "普通攻擊的HIT數變為2倍，攻擊威力降低",
     "NA": "Double the number of hits of normal attacks and decrease hit strength proportionally",
-    "KR": "공격의 히트 수가 2배가 되지만 매 히트 별 위력 DOWN"
+    "KR": "공격의 히트 수가 2배가 되지만 매 히트당 위력 DOWN"
   },
   "通常攻撃の攻撃力をアップ": {
     "JP": null,
@@ -5618,7 +6528,7 @@
     "CN": "普通攻击造成伤害前，自身的暴击威力提升",
     "TW": "普通攻擊造成傷害前，自身的爆擊威力提升",
     "NA": null,
-    "KR": null
+    "KR": "통상 공격 시 대미지 전 자신의 크리티컬 위력 UP "
   },
   "通常攻撃時、ダメージ前に自身のクリティカル威力をアップ＆呪い状態を付与【デメリット】": {
     "JP": null,
@@ -5636,8 +6546,8 @@
   },
   "通常攻撃時、対象と自身に〔放出残滓〕状態を付与": {
     "JP": null,
-    "CN": "通常攻击时，赋予目标与自身〔残留放射〕状态",
-    "TW": null,
+    "CN": "On normal attacks, apply [Residual Emission] status to the target and self.",
+    "TW": "普通攻擊時，對象與自身附加〔放出殘滓〕狀態",
     "NA": null,
     "KR": null
   },
@@ -5655,26 +6565,40 @@
     "NA": "Target receives buff with normal attacks",
     "KR": "통상 공격 시, 대상에게 강화 효과 발생"
   },
+  "通常攻撃時、対象の強化状態を1つ解除＆〔過去改竄〕状態を付与": {
+    "JP": null,
+    "CN": "Upon normal attacks, remove 1 buff from the target & apply [History Alteration] status.",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "通常攻撃時、対象の被強化成功率をダウン": {
     "JP": null,
     "CN": "普通攻击时，对象的被强化成功率降低",
-    "TW": "普通攻擊時，對象的強化成功率下降",
-    "NA": null,
-    "KR": null
+    "TW": "普通攻擊時，對象的被強化成功率降低",
+    "NA": "Decrease Buff Success Rate of target during normal attacks",
+    "KR": "통상 공격 시 대상이 받는 강화 성공률 DOWN"
   },
   "通常攻撃時、自身に〔精霊の怒り〕状態を付与": {
     "JP": null,
     "CN": "普通攻击时，付与自身〔精灵之怒〕状态",
     "TW": "普通攻擊時，賦予自身〔精靈之怒〕狀態",
-    "NA": null,
+    "NA": "Apply [Spirit's Anger] to yourself when attacking",
     "KR": "통상 공격 시 자신에게 [정령의 분노] 상태 부여"
+  },
+  "通常攻撃時、自身に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
+    "JP": null,
+    "CN": "通常攻击时，赋予自身宝具使用时的蓄力阶段提升1阶段的状态",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "通常攻撃時、自身のNPを増やす": {
     "JP": null,
     "CN": "普通攻击时，自身的NP增加",
     "TW": "普通攻擊時，自身的NP增加",
     "NA": null,
-    "KR": null
+    "KR": "통상 공격 시 자신의 NP 증가"
   },
   "通常攻撃時に〔愛炎〕状態を付与する": {
     "JP": null,
@@ -5682,6 +6606,13 @@
     "TW": "普通攻擊時賦予〔愛炎〕狀態",
     "NA": "Apply Flames of Love during normal attacks",
     "KR": "통상 공격 시 [애염] 상태 부여"
+  },
+  "通常攻撃時にクリティカルが発生しなかった場合、対象の即死耐性をダウン＆被スター発生耐性をダウン ＋ 通常攻撃時にクリティカルが発生した場合、対象に高確率で即死効果 ＋ このグランドサインの効果による即死失敗時、対象に付与されている即死耐性ダウン状態の数が3個以上の場合、対象のクリティカル攻撃耐性をダウン": {
+    "JP": null,
+    "CN": "当通常攻击未造成暴击时，降低目标即死耐性＆降低被暴击星发生耐性 ＋ 当通常攻击造成暴击时，以高概率对目标赋予即死效果 ＋ 因该Grand Sign效果导致即死失败时，若目标被赋予的即死耐性下降状态数量为3个以上，则降低目标的暴击攻击耐性",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "通常攻撃時に対象にやけど状態を付与": {
     "JP": null,
@@ -5700,9 +6631,9 @@
   "通常攻撃時に消費され、その攻撃の間だけ攻撃力アップ効果を得る": {
     "JP": null,
     "CN": "普通攻击时消耗，并仅在攻击期间获得攻击力提升的效果",
-    "TW": "在普通攻擊時消耗，並在該攻擊期間獲得攻擊力提升的效果",
-    "NA": null,
-    "KR": null
+    "TW": "普通攻擊時消耗，並僅在攻擊期間獲得攻擊力提升的效果",
+    "NA": "Increase ATK only for this attack (Consumed during normal attack)",
+    "KR": "통상 공격 시 소비되며 그 공격 동안 공격력 UP 효과 획득"
   },
   "通常攻撃時に自身のHPを回復する ＋ 敵単体の強化状態を1つ解除＆解除成功時、防御力をダウン": {
     "JP": null,
@@ -5746,6 +6677,13 @@
     "NA": "Before inflicting damage from normal attacks, increase your normal attack damage + Decrease a single enemy's ATK",
     "KR": "통상 공격 시 대미지 전 자신의 통상 공격으로 주는 대미지 UP + 적 하나의 공격력 DOWN"
   },
+  "過去を改竄された状態(弱体扱い)": {
+    "JP": null,
+    "CN": "过去被篡改的状态(视为弱体)",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "防御力をアップ": {
     "JP": null,
     "CN": "防御力提升",
@@ -5765,7 +6703,7 @@
     "CN": "无视防御力提升的效果造成伤害",
     "TW": "無視防禦力提升的效果給予傷害",
     "NA": "Ignore DEF Up and deal damage",
-    "KR": "방어력 UP을 무시하고 대미지를 준다"
+    "KR": "방어력 UP을 무시하고, 공격에 의한 대미지를 준다"
   },
   "防御力アップを無視してダメージを与える": {
     "JP": null,
@@ -5779,7 +6717,7 @@
     "CN": "免疫防御力下降效果",
     "TW": "無法被施加任何防禦力下降狀態",
     "NA": null,
-    "KR": null
+    "KR": "방어력 DOWN 효과 무효"
   },
   "防御弱体を受けなくなる": {
     "JP": null,
@@ -5822,943 +6760,5 @@
     "TW": "魅惑耐性下降",
     "NA": "Decrease Charm resistance",
     "KR": "매료 내성 DOWN"
-  },
-  "HP回復効果または最大HPアップ効果を受けた時、自身のQuickカード性能をアップ<毎ターンHP回復効果、概念礼装・コマンドコードによる効果を除く>": {
-    "JP": null,
-    "CN": "当受到HP回复效果或最大HP提升效果时，自身Quick指令卡性能提升<不包括每回合HP回复效果、概念礼装及指令码效果>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『カルデア・Ｕ－サマーアイランド』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『迦勒底·U－夏日岛屿』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔ターゲット集中〕状態の時に攻撃を受けるとスターを獲得": {
-    "JP": null,
-    "CN": "在〔目标集中〕状态下受到攻击时可获得星星",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "受けたダメージを吸収する": {
-    "JP": null,
-    "CN": "吸收受到的伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "攻撃時、対象に高確率でスタン状態を付与": {
-    "JP": null,
-    "CN": "攻击时，高概率使目标陷入眩晕状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔七騎士〕に対するクラス相性が防御優位になる": {
-    "JP": null,
-    "CN": "对【七骑士】的职阶相性变为防御优势",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔イリヤ〕特性を付与する": {
-    "JP": null,
-    "CN": "〔伊莉雅〕赋予特性",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔日輪〕状態の時にスター発生率をアップ": {
-    "JP": null,
-    "CN": "〔日轮〕状态下提升暴击星发生率",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔月下〕状態の時にArtsカードの性能をアップ": {
-    "JP": null,
-    "CN": "【月下】状态下Arts指令卡性能提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔月下〕状態の時にBusterカードの性能をアップ": {
-    "JP": null,
-    "CN": "〔月下〕状态下提升Buster指令卡的性能",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔月下〕状態の時にNP獲得量をアップ": {
-    "JP": null,
-    "CN": "〔月下〕状态下NP获取量提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔月下〕状態の時にQuickカードの性能をアップ": {
-    "JP": null,
-    "CN": "〔月下〕状态下Quick卡性能提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具を全体攻撃宝具に変更する": {
-    "JP": null,
-    "CN": "将宝具变更为全体攻击宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具を単体攻撃宝具に変更する": {
-    "JP": null,
-    "CN": "将宝具改为单体攻击宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔精神異常〕状態の敵に与えるダメージをアップ": {
-    "JP": null,
-    "CN": "〔精神异常〕状态下对敌人造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル攻撃を受ける確率を増やす": {
-    "JP": null,
-    "CN": "增加受到暴击攻击的几率",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スターが発生する確率を増やす": {
-    "JP": null,
-    "CN": "增加星星出现的概率",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Arts攻撃時、スターを獲得する": {
-    "JP": null,
-    "CN": "Arts攻击时获得星星",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Arts攻撃時、自身のクリティカル発生率をアップ": {
-    "JP": null,
-    "CN": "Arts攻击时，自身暴击发生率提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『失われた創世 未来からの方舟』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『失落的创世 来自未来的方舟』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "動物<猛獣・魔獣型のサーヴァント・ケモノ科のサーヴァント>(一部を除く)がフィールドにいる間、Artsカードの性能をアップ": {
-    "JP": null,
-    "CN": "当场上存在动物<猛兽・魔兽型从者・兽科从者>(部分除外)时，提升Arts指令卡性能",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Arts攻撃時、味方全体のArtsカードの威力をアップ": {
-    "JP": null,
-    "CN": "Arts攻击时，提升己方全体的Arts卡性能",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Arts攻撃時、味方全体のArtsカードの宝具威力をアップ": {
-    "JP": null,
-    "CN": "Arts攻击时，提升己方全体Arts指令卡的宝具威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Buster攻撃時、味方全体のBusterカードの威力をアップ": {
-    "JP": null,
-    "CN": "Buster攻击时，己方全体的Buster指令卡性能提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Buster攻撃時、味方全体のBusterカードの宝具威力をアップ": {
-    "JP": null,
-    "CN": "Buster攻击时，提升己方全体Buster指令卡的宝具威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quick攻撃時、味方全体のQuickカードの威力をアップ": {
-    "JP": null,
-    "CN": "Quick攻击时，己方全体的Quick卡性能提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quick攻撃時、味方全体のQuickカードの宝具威力をアップ": {
-    "JP": null,
-    "CN": "Quick攻击时，提升己方全体Quick卡牌的宝具威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "グランドサインの追加効果の発動機会を得る": {
-    "JP": null,
-    "CN": "获得发动Grand Sign追加效果的机会",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具チェインを除くチェイン不成立時、自身に被ダメージをカットする状態を付与<強化解除不能>＋自身が〔境域掌握〕状態の時は追加で味方全体に被ダメージをカットする状態を付与": {
-    "JP": null,
-    "CN": "除宝具指令卡外的指令卡Chain未达成时，自身获得伤害减免状态<无法强化解除>＋自身处于〔境域掌握〕状态时，追加赋予全体队友伤害减免状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "攻撃時、ダメージ前に自身のQuick・Arts・Busterカードの威力をアップ": {
-    "JP": null,
-    "CN": "攻击时，伤害前提升自身的Quick・Arts・Buster指令卡性能",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むアーツチェイン成立時、自身のNP獲得量をアップ＋自身が〔境域掌握〕状態の時は追加で「Arts攻撃時に味方全体のArtsカードの宝具威力をアップする状態」を付与": {
-    "JP": null,
-    "CN": "Arts Chain发动时，自身NP获得量提升＋自身处于〔境域掌握〕状态时，追加赋予「Arts攻击时提升己方全体Arts指令卡的宝具威力状态」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むクイックチェイン成立時、自身のスター発生率をアップ＆スター集中度をアップ＋自身が〔境域掌握〕状態の時は追加で「Quick攻撃時に味方全体のQuickカードの宝具威力をアップする状態」を付与": {
-    "JP": null,
-    "CN": "自身指令卡参与达成Quick Chain时，自身暴击星发生率提升＆暴击星集中度提升＋自身处于〔境域掌握〕状态时，额外赋予「Quick攻击时提升己方全体Quick指令卡的宝具威力状态」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むバスターチェイン成立時、自身のクリティカル威力をアップ＋自身が〔境域掌握〕状態の時は追加で「Buster攻撃時に味方全体のBusterカードの宝具威力をアップする状態」を付与": {
-    "JP": null,
-    "CN": "当自身指令卡参与形成Buster连锁时，自身暴击威力提升＋若处于【境域掌握】状态时，额外赋予\"Buster攻击时提升己方全体Buster指令卡宝具威力\"状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むブレイブチェイン成立時、自身に「攻撃時のダメージ前に、自身のQuick・Arts・Busterカードの威力をアップする状態」を付与＋自身が〔境域掌握〕状態の時は追加で「Quick攻撃時に味方全体のQuickカードの威力をアップする状態」「Arts攻撃時に味方全体のArtsカードの威力をアップする状態」「Buster攻撃時に味方全体のBusterカードの威力をアップする状態」を付与": {
-    "JP": null,
-    "CN": "自身组成包括自身指令卡在内的勇者之链时，赋予自身「攻击时伤害前提升自身Quick・Arts・Buster指令卡性能的状态」＋自身处于〔领域掌控〕状态时追加赋予「Quick攻击时提升己方全体Quick指令卡性能的状态」「Arts攻击时提升己方全体Arts指令卡性能的状态」「Buster攻击时提升己方全体Buster指令卡性能的状态」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むマイティチェイン成立時、自身の攻撃力をアップ＋自身が〔境域掌握〕状態の時は追加で味方全体の攻撃力をアップ": {
-    "JP": null,
-    "CN": "当自身指令卡参与达成Mighty Chain时，自身攻击力提升＋若自身处于〔境域掌握〕状态，则额外提升全体攻击力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身の宝具使用時の効果発動前に、自身に〔境域掌握〕状態を付与": {
-    "JP": null,
-    "CN": "自身发动宝具时，在效果发动前赋予自身〔境域掌握〕状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『ぐだぐだ新選組・ジ・エンド』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『唠唠叨叨新选组·THE·END』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔納刀体勢〕特性を付与する": {
-    "JP": null,
-    "CN": "赋予〔纳刀体势〕特性",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "HPが0になった時、低確率でHPを回復して耐える(他のガッツ状態と重複可能)": {
-    "JP": null,
-    "CN": "HP归零时，低概率恢复HP并坚持。(可与其他Guts状态叠加)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔新選組〕特性を付与する": {
-    "JP": null,
-    "CN": "赋予〔新选组〕特性",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔キャスター〕クラスに与えるクリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "提升对〔Caster〕阶级的暴击伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔気配遮断〕状態の間、即死効果を無効にする": {
-    "JP": null,
-    "CN": "〔气息遮断〕状态期间，即死效果无效",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔気配遮断〕状態の間、弱体付与率をアップ": {
-    "JP": null,
-    "CN": "〔气息遮断〕状态期间，弱化赋予率提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル時のArtsカードの威力をアップ": {
-    "JP": null,
-    "CN": "暴击时Arts卡的威力提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル時のBusterカードの威力をアップ": {
-    "JP": null,
-    "CN": "暴击时Buster卡的威力提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル時のQuickカードの威力をアップ": {
-    "JP": null,
-    "CN": "提升暴击时Quick卡的威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具チェインを除くチェイン不成立時、自身に回避状態(他の回避状態と重複可能)を付与＆即死耐性をアップ": {
-    "JP": null,
-    "CN": "NP Chain除外，Chain未成立时，付与自身回避状态(可与其他回避状态叠加)＆即死耐性提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "攻撃によるダメージを0にする(他の回避状態と重複可能)": {
-    "JP": null,
-    "CN": "使攻击造成的伤害变为0 (可与其他回避状态叠加)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身に付与されている即死付与率アップ状態の効果量合計が10%以上の時、クリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "当自身获得的即死赋予率提升状态的效果量合计为10%以上时，暴击时的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身に付与されている即死付与率アップ状態の効果量合計が100%以上の時、クリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "自身处于即死赋予率提升状态的效果量合计达100%以上时，暴击时的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身に付与されている即死付与率アップ状態の効果量合計が150%以上の時、クリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "自身被赋予的即死赋予率提升状态的效果量合计达到150%以上时，暴击时的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身に付与されている即死付与率アップ状態の効果量合計が30%以上の時、クリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "自身被赋予的即死赋予率提升状态的效果量合计为30%以上时，暴击时伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身に付与されている即死付与率アップ状態の効果量合計が60%以上の時、クリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "当自身被赋予的即死赋予率提升状态的效果量总计为60%以上时，提升暴击时的伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身に付与される回避効果を〔気配遮断〕状態に変化させる": {
-    "JP": null,
-    "CN": "将自身获得的闪避效果变更为〔气息遮断〕状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むアーツチェイン成立時、自身のクリティカル攻撃時のArtsカードの威力をアップ＆即死付与成功率をアップ": {
-    "JP": null,
-    "CN": "当包含自身指令卡的Arts Chain成立时，提升自身暴击攻击时Arts卡的威力&提升即死赋予成功率",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むクイックチェイン成立時、自身のクリティカル攻撃時のQuickカードの威力をアップ＆即死付与成功率をアップ": {
-    "JP": null,
-    "CN": "包含自身指令卡的Quick Chain成立时，自身暴击攻击时的Quick卡性能提升&即死付与成功率提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むバスターチェイン成立時、自身のクリティカル攻撃時のBusterカードの威力をアップ＆即死付与成功率をアップ": {
-    "JP": null,
-    "CN": "当包含自身指令卡的Buster Chain成立时、自身暴击攻击时的Buster指令卡威力提升＆即死付与成功率提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むマイティチェイン成立時、自身のクリティカル威力をアップ＆自身に付与されている即死付与率アップ状態の効果量合計に応じてクリティカル威力をアップ": {
-    "JP": null,
-    "CN": "自身包含指令卡的Mighty Chain成立时，提升自身暴击威力＆根据自身持有的即死赋予率提升状态的效果量总和提升暴击威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "通常攻撃時にクリティカルが発生しなかった場合、対象の即死耐性をダウン＆被スター発生耐性をダウン ＋ 通常攻撃時にクリティカルが発生した場合、対象に高確率で即死効果 ＋ このグランドサインの効果による即死失敗時、対象に付与されている即死耐性ダウン状態の数が3個以上の場合、対象のクリティカル攻撃耐性をダウン": {
-    "JP": null,
-    "CN": "普通攻击时未暴击时，目标即死耐性下降 & 被暴击星发生耐性下降 ＋ 普通攻击时暴击时，目标高概率即死效果 ＋ 此Grand Sign的效果造成的即死失败时，目标被赋予的即死耐性下降状态数量为3个以上时，目标暴击攻击耐性下降",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Buster攻撃時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
-    "JP": null,
-    "CN": "进行Buster攻击时，赋予我方全体宝具使用时蓄力阶段提升1级的状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『ファイナル・ハロウィン2025』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『最终·万圣节2025』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔エリザベート〕特性を付与する": {
-    "JP": null,
-    "CN": "〔伊丽莎白〕赋予特性",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールドを〔ハロウィン〕にする": {
-    "JP": null,
-    "CN": "将场地设为〔万圣节〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "攻撃時、ダメージ前に対象にやけど状態を付与": {
-    "JP": null,
-    "CN": "攻击时，伤害前对目标施加灼伤状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ターン開始時、敵全体に呪い状態を付与": {
-    "JP": null,
-    "CN": "回合开始时，敌方全体施加诅咒状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔ハロウィン〕のフィールドにおいてのみ、クリティカル時のダメージをアップ": {
-    "JP": null,
-    "CN": "仅限在〔万圣节〕的战场上，提升暴击伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ターン終了時に自身のHPを減らす": {
-    "JP": null,
-    "CN": "回合结束时减少自身HP",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身がやられた時、自身を除く味方全体のNPを増やす": {
-    "JP": null,
-    "CN": "自身退场时，除自身以外的我方全体NP增加",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Busterカードの宝具で与えるダメージをアップ": {
-    "JP": null,
-    "CN": "提升Buster指令卡宝具的伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quickカードの宝具で与えるダメージをアップ": {
-    "JP": null,
-    "CN": "Quick卡宝具伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quick・Arts・Buster攻撃時に〔鈍の矢弾〕状態を1回分消費して、そのコマンドカードの威力をアップ＆そのコマンドカードが必中効果を得ている時は、さらにそのコマンドカードのクリティカル威力か宝具威力をアップ ＋ Extra攻撃時に〔鈍の矢弾〕状態を1回分消費して、Extra Attackカードの威力をアップ": {
-    "JP": null,
-    "CN": "Quick・Arts・Buster攻击时消耗1层〔钝之矢弹〕状态，提升该指令卡威力&该指令卡获得必中效果时，进一步提升该指令卡的暴击威力或宝具威力 ＋ Extra攻击时消耗1层〔钝之矢弹〕状态，提升Extra Attack卡的威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔鈍の矢弾〕状態を消費して付与されたArts攻撃強化状態の効果量を一時的に増大させる": {
-    "JP": null,
-    "CN": "消耗〔钝之矢弹〕状态，暂时性提升赋予的Arts攻击强化状态的效果量。",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔鈍の矢弾〕状態を消費して付与されたBuster攻撃強化状態の効果量を一時的に増大させる": {
-    "JP": null,
-    "CN": "消耗〔钝之矢弹〕状态，使已赋予的Buster攻击强化状态的效果量暂时提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔鈍の矢弾〕状態を消費して付与されたQuick攻撃強化状態の効果量を一時的に増大させる": {
-    "JP": null,
-    "CN": "消耗〔钝之矢弹〕状态，暂时提升所赋予的Quick攻击强化状态的效果量",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具チェインを除くチェイン不成立時、自身に〔見敵迎撃〕状態を付与(強化解除不能・重複不可)＆〔鈍の矢弾〕状態の残り回数を増加する": {
-    "JP": null,
-    "CN": "宝具Chain以外的Chain不成立时，自身赋予〔见敌迎击〕状态(强化解除不能・重复不可)＆增加〔钝之矢弹〕状态的剩余次数",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "敵の攻撃宝具使用時の効果発動前に、〔鈍の矢弾〕状態を1回分消費して、敵全体の攻撃強化状態を1つ解除＆宝具威力をダウン<最大3回分消費して回数分の効果が発動>(見敵迎撃状態は重複不可)": {
-    "JP": null,
-    "CN": "在敌方攻击宝具效果发动前，消耗1层〔钝的矢弹〕状态，解除敌方全体1个攻击强化状态＆宝具威力下降<最多可消耗3次，并根据消耗次数发动相应效果>(见敌迎击状态不可叠加)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "特定の行動時に消費され、グランドサインの特殊効果の発動機会を得る": {
-    "JP": null,
-    "CN": "在特定行动时消耗，获得Grand Sign特殊效果的发动机会",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むアーツチェイン成立時、自身のArtsカードの威力をアップ＆〔鈍の矢弾〕状態を消費して付与されたArts攻撃強化状態の効果量を一時的に増大させる状態を付与": {
-    "JP": null,
-    "CN": "当包含自身指令卡的Arts Chain成立时，提升自身的Arts卡性能&赋予消耗〔钝的矢弾〕状态，使已赋予的Arts攻击强化状态效果量暂时增大的状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むクイックチェイン成立時、自身のQuickカードの威力をアップ＆〔鈍の矢弾〕状態を消費して付与されたQuick攻撃強化状態の効果量を一時的に増大させる状態を付与": {
-    "JP": null,
-    "CN": "包含自身指令卡的Quick Chain成立时，提升自身Quick卡的威力＆消耗〔钝之矢弹〕状态，赋予一个使所赋予的Quick攻击强化状态效果量暂时增大的状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むバスターチェイン成立時、自身のBusterカードの威力をアップ＆〔鈍の矢弾〕状態を消費して付与されたBuster攻撃強化状態の効果量を一時的に増大させる状態を付与": {
-    "JP": null,
-    "CN": "当包含自身指令卡的Buster Chain成立时，提升自身Buster卡的威力＆消耗〔钝之矢弹〕状态，赋予暂时性增大通过消耗该状态获得的Buster攻击强化状态效果量的状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むマイティチェイン成立時、自身に必中状態を付与＆〔鈍の矢弾〕状態の残り回数を増加する": {
-    "JP": null,
-    "CN": "包含自身指令卡在内的Mighty Chain成立时，自身附加必中状态＆〔钝之矢弹〕状态的剩余次数增加",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身の登場時、自身の〔鈍の矢弾〕状態の残り回数を増加する ＋ 毎ターン終了時、自身の〔鈍の矢弾〕状態の残り回数を増加する": {
-    "JP": null,
-    "CN": "自身登场时，自身的〔迟钝箭弹〕状态的剩余次数增加 ＋ 每回合结束时，自身的〔迟钝箭弹〕状态的剩余次数增加",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔七騎士クラス〕に対する防御力をアップ": {
-    "JP": null,
-    "CN": "提升对〔七骑士职阶〕的防御力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する効果」を受ける": {
-    "JP": null,
-    "CN": "敌方场上所有对象获得「Arts卡的攻击造成的被伤害、被NP获取量、被暴击星发生率增加的效果」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する効果」を受ける": {
-    "JP": null,
-    "CN": "敌方场上所有对象获得「Buster卡攻击时所受伤害、NP获得量、暴击星发生率提升」的效果",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する効果」を受ける": {
-    "JP": null,
-    "CN": "敌方场上的所有对象会受到「Quick卡攻击所造成的伤害、NP获得量、暴击星掉落率增加的效果」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ターン毎のチャージ量を1減らす<他の同一効果と重複可能>": {
-    "JP": null,
-    "CN": "每回合充能减少1<可与其他同类效果叠加>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具チェインを除くチェイン不成立時、ターゲットしている敵単体にターン毎のチャージ量が1減る状態を付与(他の同一効果と重複可能)＋HPの残比率の最も少ない味方単体のHPを回復<1度使用すると再使用に2ターン必要>": {
-    "JP": null,
-    "CN": "在未形成指令卡串（不包括宝具指令卡串）时，对目标敌方单体施加每回合蓄力减少1格的状态（可与其它同类效果叠加）＋恢复HP残比率最低的己方单体的HP<使用1次后，再使用需要2回合>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むアーツチェイン成立時、自身のArtsカードの宝具威力をアップ＋フィールドに「自身がフィールドにいる間、敵全体のArts攻撃耐性をダウンする状態」を付与(先にグランドサインによるフィールド効果が付与されていた場合は効果を上書き)": {
-    "JP": null,
-    "CN": "自身指令卡参与的Arts Chain成立时，自身Arts卡的宝具威力提升＋赋予场上「自身在场时，敌方全体的Arts攻击耐性下降状态」(若场上已存在由Grand Sign赋予的场地效果，则覆盖该效果)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むクイックチェイン成立時、自身のQuickカードの宝具威力をアップ＋フィールドに「自身がフィールドにいる間、敵全体のQuick攻撃耐性をダウンする状態」を付与(先にグランドサインによるフィールド効果が付与されていた場合は効果を上書き)": {
-    "JP": null,
-    "CN": "包含自身指令卡的Quick Chain成立时，自身Quick指令卡的宝具威力提升＋赋予场上「自身在场时，敌方全体的Quick攻击耐性下降的状态」(若已赋予Grand Sign的场上效果，则覆盖该效果)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むバスターチェイン成立時、自身のBusterカードの宝具威力をアップ＋フィールドに「自身がフィールドにいる間、敵全体のBuster攻撃耐性をダウンする状態」を付与(先にグランドサインによるフィールド効果が付与されていた場合は効果を上書き)": {
-    "JP": null,
-    "CN": "包含自身指令卡的Buster Chain成立时，提升自身的Buster卡的宝具威力＋赋予场上「自身在场期间，敌方全体的Buster攻击耐性下降的状态」(若先前已通过グランドサイン赋予场上效果，则效果会覆盖)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のコマンドカードを含むマイティチェイン成立時、味方全体の攻撃力をアップ": {
-    "JP": null,
-    "CN": "包含自身指令卡的勇者连携成立时，我方全体的攻击力提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身のスキル使用時、「味方全体の攻撃の威力をアップ」「スターを獲得」「味方全体のNPを少し増やす」のいずれかの効果を追加で得る(グランドサインによるフィールド効果が付与されている場合、その効果が「Quick攻撃耐性ダウンの時は威力アップ」「Arts攻撃耐性ダウンの時はスター獲得」「Buster攻撃耐性ダウンの時はNP増加」に固定される)<1度使用すると再使用に1ターン必要>": {
-    "JP": null,
-    "CN": "自身技能发动时，随机额外获得「己方全体攻击威力提升」、「获得暴击星」、「己方全体NP略微增加」中的一项效果(若附有Grand Sign的场地效果，则该效果固定为：Quick攻击耐性下降时威力提升，Arts攻击耐性下降时获得暴击星，Buster攻击耐性下降时NP增加)<使用1次后需等待1回合才能再次使用>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身を除く〔キャスター〕クラスの味方が宝具を使用した時、NP消費量に応じて自身のNPを増やす<重複不可>": {
-    "JP": null,
-    "CN": "当自身以外〔Caster〕阶级的友方使用宝具时，根据NP消耗量增加自身的NP<不可叠加>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身を除く〔キャスター〕クラスの味方が宝具を使用した時、チャージ消費量に応じて自身のチャージを増やす<重複不可>": {
-    "JP": null,
-    "CN": "不包括自身，〔Caster〕职阶的己方使用宝具时，根据消耗的蓄力值增加自身蓄力<不可重复>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ガッツ発動によるHP回復効果量をアップ": {
-    "JP": null,
-    "CN": "提升战续发动时的HP回复量",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ターン終了時、自身のHPが減少する(強化扱い)【デメリット】": {
-    "JP": null,
-    "CN": "回合结束时，自身HP减少(视为强化效果)。【负面效果】",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ターン経過後、自身に〔湖水の夢〕状態<特殊な睡眠状態、耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能>を付与": {
-    "JP": null,
-    "CN": "回合结束后，自身附带〔湖水之梦〕状态<特殊睡眠状态、耐性无效・无法解除・无法选择为献祭・无法换人>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自身を除く味方全体のガッツ発動前、対象のガッツ回復量をアップ＆攻撃力をアップ": {
-    "JP": null,
-    "CN": "除了自身以外的我方全体，在毅力发动前，提升对象的毅力恢复量和攻击力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "行動不能になる(特殊な睡眠状態、耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能)": {
-    "JP": null,
-    "CN": "行动不能(特殊睡眠状态、耐性无效・无法解除・无法选择献祭对象・无法换人)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "HPが0になった時、味方全体のNPを少し増やす": {
-    "JP": null,
-    "CN": "当HP变为0时，小幅增加己方全体的NP",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "HPが0になった時、味方全体のチャージを増やす": {
-    "JP": null,
-    "CN": "当HP归零时，增加我方全体的充能",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quick通常攻撃時、自身のNPを少し増やす": {
-    "JP": null,
-    "CN": "Quick通常攻击时，自身NP略微增加",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『カルデアン・フロラリア』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『迦勒底·花神节』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「攻撃力をアップする効果」を受ける": {
-    "JP": null,
-    "CN": "敌方全体获得「攻击力提升效果」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル攻撃時、自身のNPを少し増やす": {
-    "JP": null,
-    "CN": "暴击攻击时，自身NP少量增加",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ターン終了時、味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
-    "JP": null,
-    "CN": "回合结束时，赋予我方全体宝具使用时提升1阶段蓄力阶段的状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "プレイヤー側のフィールドにいるすべての対象が「攻撃力をアップする効果」を受ける": {
-    "JP": null,
-    "CN": "All targets on your field receive an Attack Up effect",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "攻撃時、自身に呪い状態を付与": {
-    "JP": null,
-    "CN": "Inflicts Cursed status on self when attacking",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "灰が舞うフィールド<〔灰桜〕状態の対象がいるフィールドまたは〔炎上〕しているフィールド>で、宝具で与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在灰烬飞舞的场地<存在〔灰樱〕状态对象的场地或〔炎上〕中的场地>，提升宝具造成的伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "通常攻撃時、自身に宝具使用時のチャージ段階を1段階引き上げる状態を付与": {
-    "JP": null,
-    "CN": "普通攻击时，赋予自身[发动宝具时]宝具蓄力阶段提升1级的状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔冥界の花園〕状態に変身する<宝具が変化・解除不能>": {
-    "JP": null,
-    "CN": "〔冥界の花園〕状态变身<宝具变化・无法解除>",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「クリティカル攻撃で受けるダメージが増える効果」を受ける": {
-    "JP": null,
-    "CN": "All targets on the enemy field receive the Critical Damage Taken Up effect.",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「宝具攻撃で受けるダメージが増える効果」を受ける": {
-    "JP": null,
-    "CN": "敌方场上的所有对象获得「宝具攻击所受伤害增加的效果」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エネミー側のフィールドにいるすべての対象が「防御力をダウンする効果」を受ける": {
-    "JP": null,
-    "CN": "敌方场上的所有目标受到「防御力降低效果」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "プレイヤー側のフィールドにいるすべての対象が「クリティカル攻撃で受けるダメージが増える効果」を受ける": {
-    "JP": null,
-    "CN": "「我方场上的所有对象获得「暴击攻击所受伤害增加效果」」",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "プレイヤー側のフィールドにいるすべての対象が「宝具攻撃で受けるダメージが増える効果」を受ける": {
-    "JP": null,
-    "CN": "玩家侧场上的所有对象获得“宝具攻击所受伤害增加”的效果",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "プレイヤー側のフィールドにいるすべての対象が「防御力をダウンする効果」を受ける": {
-    "JP": null,
-    "CN": "所有我方场上的目标受到「防御力下降效果」。",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『CBC2026 マイ・カインド・オブ・アブダクション』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『CBC2026 我喜欢的诱拐』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『アフタータイム・バレンタイン2026』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『Aftertime·情人节2026』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔封印〕状態の敵に与えるダメージをアップ": {
-    "JP": null,
-    "CN": "增加对处于〔封印〕状态的敌人造成的伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ガッツ発動時、自身のNPを少し増やす": {
-    "JP": null,
-    "CN": "不屈发动时，自身NP少量增加",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "毒と呪いとやけどを受けなくなる": {
-    "JP": null,
-    "CN": "不会受到毒、诅咒、灼伤状态",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『復刻:水怪クライシス 無垢なる者たちの浮島 ライト版』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『复刻:水怪危机 无垢者们的浮岛 轻量版』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『Fate/strange Fakeコラボイベント』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『Fate/strange Fake联动活动』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具攻撃で受けるダメージが増える": {
-    "JP": null,
-    "CN": "宝具攻击受到的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔中庸〕特性に与えるダメージをアップ": {
-    "JP": null,
-    "CN": "对〔中庸〕特性伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔中立〕特性に与えるダメージをアップ": {
-    "JP": null,
-    "CN": "提升对〔中立〕特性造成的伤害",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "呪いによるダメージをHP回復効果に変換する": {
-    "JP": null,
-    "CN": "将诅咒造成的伤害转化为HP回复效果",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "攻撃時、ダメージ前に自身のクリティカル威力をアップ": {
-    "JP": null,
-    "CN": "攻击时，伤害结算前提升自身的暴击威力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "『夏予習版:雀のお宿の活動日誌～閻魔亭繁盛記～』において与えるダメージをアップ": {
-    "JP": null,
-    "CN": "在『夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～』中造成的伤害提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "敵ターン終了時、敵全体の強化状態を1つ解除＆〔過去改竄〕状態を付与 ＋ 味方全体の弱体状態を1つ解除": {
-    "JP": null,
-    "CN": "At the end of the enemy turn, remove 1 buff from all enemies & apply [History Alteration] to them + remove 1 debuff from all allies",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "通常攻撃時、対象の強化状態を1つ解除＆〔過去改竄〕状態を付与": {
-    "JP": null,
-    "CN": "Upon normal attack, remove 1 buff from the target & apply [Past Alteration] status",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "過去を改竄された状態(弱体扱い)": {
-    "JP": null,
-    "CN": "过去被篡改的状态(视为弱体)",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

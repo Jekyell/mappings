@@ -27,6 +27,20 @@
     "NA": "Arts Up <ATK>",
     "KR": "아츠 UP<공격력>"
   },
+  "Artsアップ〔動物がいる間〕": {
+    "JP": null,
+    "CN": "Arts提升〔动物在场时〕",
+    "TW": "Arts提升〔動物在場時〕",
+    "NA": null,
+    "KR": null
+  },
+  "Artsアップ〔月下〕": {
+    "JP": null,
+    "CN": "Arts提升〔月下〕",
+    "TW": "Arts提升〔月下〕",
+    "NA": null,
+    "KR": null
+  },
   "Artsカード耐性": {
     "JP": null,
     "CN": "Arts指令卡耐性",
@@ -48,18 +62,32 @@
     "NA": "Arts Down",
     "KR": "아츠 DOWN"
   },
+  "Artsブースト〔鈍の矢弾〕": {
+    "JP": null,
+    "CN": "Arts Boost [Slow Projectile]",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Arts・Buster攻撃時追加効果": {
     "JP": null,
     "CN": "Arts・Buster攻击时追加效果",
-    "TW": null,
+    "TW": "Arts・Buster攻擊時追加效果",
     "NA": "Bonus Effect with Arts·Buster",
     "KR": null
   },
   "Arts威力アップ": {
     "JP": null,
     "CN": "Arts威力提升",
-    "TW": null,
+    "TW": "Arts威力提升",
     "NA": "Arts Strength Up",
+    "KR": null
+  },
+  "Arts威力アップ〔クリティカル〕": {
+    "JP": null,
+    "CN": "Arts威力提升〔暴击〕",
+    "TW": "Arts威力提升〔爆擊〕",
+    "NA": "Arts Strength Up (Critical)",
     "KR": null
   },
   "Arts封印": {
@@ -97,6 +125,13 @@
     "NA": "Bonus Effect with Arts Attack (C. Star Gain)",
     "KR": "아츠 공격 시 추가 효과(스타 획득)"
   },
+  "Arts攻撃時追加効果〔境域掌握〕": {
+    "JP": null,
+    "CN": "Arts攻击时追加效果〔境域掌握〕",
+    "TW": "Arts攻擊時追加效果〔境域掌握〕",
+    "NA": null,
+    "KR": null
+  },
   "Arts攻撃耐性ダウン": {
     "JP": null,
     "CN": "Arts指令卡耐性下降",
@@ -109,7 +144,7 @@
     "CN": "Arts普通攻击时追加效果",
     "TW": "Arts普通攻擊時追加效果",
     "NA": "Additional Effect with Normal Arts Attack",
-    "KR": null
+    "KR": "아츠 통상 공격 시 추가 효과"
   },
   "Break時ガッツ": {
     "JP": null,
@@ -132,6 +167,13 @@
     "NA": "Buster Up <ATK>",
     "KR": "버스터 UP<공격력>"
   },
+  "Busterアップ〔月下〕": {
+    "JP": null,
+    "CN": "Buster提升〔月下〕",
+    "TW": "Buster提升〔月下〕",
+    "NA": null,
+    "KR": null
+  },
   "Busterカード耐性": {
     "JP": null,
     "CN": "Buster指令卡耐性",
@@ -153,11 +195,25 @@
     "NA": "Buster Down",
     "KR": "버스터 DOWN"
   },
+  "Busterブースト〔鈍の矢弾〕": {
+    "JP": null,
+    "CN": "Buster Boost [Blunt Projectile]",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Buster威力アップ": {
     "JP": null,
     "CN": "Buster威力提升",
-    "TW": null,
+    "TW": "Buster威力提升",
     "NA": "Buster Strength Up",
+    "KR": null
+  },
+  "Buster威力アップ〔クリティカル〕": {
+    "JP": null,
+    "CN": "Buster威力提升〔暴击〕",
+    "TW": "Buster威力提升〔爆擊〕",
+    "NA": "Buster Strength Up (Critical)",
     "KR": null
   },
   "Buster封印": {
@@ -216,6 +272,13 @@
     "NA": "Bonus Effect with Buster (DEF Down)",
     "KR": "버스터 공격 시 추가 효과(방어력 DOWN)"
   },
+  "Buster攻撃時追加効果〔境域掌握〕": {
+    "JP": null,
+    "CN": "Buster攻击时追加效果〔境域掌握〕",
+    "TW": "Buster攻擊時追加效果〔境域掌握〕",
+    "NA": null,
+    "KR": null
+  },
   "Buster攻撃耐性ダウン": {
     "JP": null,
     "CN": "Buster指令卡耐性下降",
@@ -227,8 +290,8 @@
     "JP": null,
     "CN": "Buster普通攻击造成伤害前追加效果",
     "TW": "Buster普通攻擊造成傷害前追加效果",
-    "NA": "Pre-Buster Damage Bonus Effect",
-    "KR": null
+    "NA": "Pre-Normal Buster ATK Damage Bonus Effect",
+    "KR": "버스터 통상 공격 대미지 전 추가 효과"
   },
   "Buster通常攻撃時追加効果": {
     "JP": null,
@@ -241,7 +304,7 @@
     "JP": null,
     "CN": "COFFEE BREAK",
     "TW": "COFFEE BREAK",
-    "NA": "COFFEE BREAK",
+    "NA": "Coffee Break",
     "KR": null
   },
   "Extra Attackアップ": {
@@ -268,7 +331,7 @@
   "Extra Attack時追加効果": {
     "JP": null,
     "CN": "Extra攻击时追加效果",
-    "TW": "ExtraAttack時追加效果",
+    "TW": "Extra Attack時追加效果",
     "NA": "Bonus Effect with Extra Attack",
     "KR": "엑스트라 공격 시 추가 효과"
   },
@@ -321,6 +384,13 @@
     "NA": "NP Gain Up",
     "KR": "NP 획득 UP"
   },
+  "NP獲得アップ〔月下〕": {
+    "JP": null,
+    "CN": "NP获取提升〔月下〕",
+    "TW": "NP獲得提升〔月下〕",
+    "NA": null,
+    "KR": null
+  },
   "NP獲得アップ：Arts": {
     "JP": null,
     "CN": "NP获得提升：Arts",
@@ -347,7 +417,7 @@
     "CN": "NP获得量提升：混沌",
     "TW": "NP獲得提升：混沌",
     "NA": null,
-    "KR": null
+    "KR": "NP 획득 UP: 혼돈"
   },
   "NP獲得アップ：陽射し": {
     "JP": null,
@@ -384,6 +454,20 @@
     "NA": "Quick Up <ATK>",
     "KR": "퀵 UP<공격력>"
   },
+  "Quickアップ〔夏の承認欲求〕": {
+    "JP": null,
+    "CN": "Quick提升〔夏之认可欲望〕",
+    "TW": "Quick提升〔夏之認可慾望〕",
+    "NA": null,
+    "KR": null
+  },
+  "Quickアップ〔月下〕": {
+    "JP": null,
+    "CN": "Quick提升〔月下〕",
+    "TW": "Quick提升〔月下〕",
+    "NA": null,
+    "KR": null
+  },
   "Quickカード耐性": {
     "JP": null,
     "CN": "Quick指令卡耐性",
@@ -405,11 +489,25 @@
     "NA": "Quick Down",
     "KR": "퀵 DOWN"
   },
+  "Quickブースト〔鈍の矢弾〕": {
+    "JP": null,
+    "CN": "Quick Up [Slow Bullet]",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Quick威力アップ": {
     "JP": null,
     "CN": "Quick威力提升",
-    "TW": null,
+    "TW": "Quick威力提升",
     "NA": "Quick Strength Up",
+    "KR": null
+  },
+  "Quick威力アップ〔クリティカル〕": {
+    "JP": null,
+    "CN": "Quick威力提升〔暴击〕",
+    "TW": "Quick威力提升〔爆擊〕",
+    "NA": "Quick Strength Up (Critical)",
     "KR": null
   },
   "Quick封印": {
@@ -438,7 +536,7 @@
     "CN": "Quick攻击时追加效果(诅咒解除)",
     "TW": "Quick攻擊時追加效果(詛咒解除)",
     "NA": "Bonus Effect with Quick (Remove Curse)",
-    "KR": "퀵 공격 시 추가 효과(저주 해제)"
+    "KR": "퀵 공격 시 추가 효과"
   },
   "Quick攻撃時追加効果(NP獲得)": {
     "JP": null,
@@ -475,6 +573,13 @@
     "NA": "Bonus Effect with Quick Attack (DEF Down)",
     "KR": "퀵 공격 시 추가 효과(방어력 DOWN)"
   },
+  "Quick攻撃時追加効果〔境域掌握〕": {
+    "JP": null,
+    "CN": "Quick攻击时追加效果〔境域掌握〕",
+    "TW": "Quick攻擊時追加效果〔境域掌握〕",
+    "NA": null,
+    "KR": null
+  },
   "Quick攻撃耐性ダウン": {
     "JP": null,
     "CN": "Quick指令卡耐性下降",
@@ -486,8 +591,8 @@
     "JP": null,
     "CN": "Quick普通攻击造成伤害前追加效果",
     "TW": "Quick普通攻擊造成傷害前追加效果",
-    "NA": "Pre-Quick Damage Bonus Effect",
-    "KR": null
+    "NA": "Pre-Normal Quick ATK Damage Bonus Effect",
+    "KR": "퀵 통상 공격 대미지 전 추가 효과"
   },
   "Quick通常攻撃時追加効果": {
     "JP": null,
@@ -538,6 +643,13 @@
     "NA": "Change Sub Attribute: {0}",
     "KR": null
   },
+  "stranger Folklore": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "subFieldIndividuality": {
     "JP": "フィールド特性打ち消し〔{0}〕",
     "CN": "打消场地特性〔{0}〕",
@@ -566,6 +678,13 @@
     "NA": "[Field]Delete Field [{0}]",
     "KR": "[필드]필드 삭제 [{0}]"
   },
+  "〔呪い〕回復化": {
+    "JP": null,
+    "CN": "〔诅咒〕回复化",
+    "TW": null,
+    "NA": "[Curse] Recovery",
+    "KR": null
+  },
   "〔毒〕回復化": {
     "JP": null,
     "CN": "〔毒〕回复化",
@@ -587,6 +706,13 @@
     "NA": "To Kamakura",
     "KR": "자, 가마쿠라로"
   },
+  "おもてなし力": {
+    "JP": null,
+    "CN": "待客之道",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ぐだぐだ家老パワー": {
     "JP": null,
     "CN": "唠唠叨叨家老力量",
@@ -604,7 +730,7 @@
   "ぐだぐだ激走パワー": {
     "JP": null,
     "CN": "唠唠叨叨疾驰力量",
-    "TW": "嘮嘮叨叨激走力量",
+    "TW": "嘮嘮叨叨疾馳力量",
     "NA": "GUDAGUDA Full Speed Power",
     "KR": "구다구다 질주 파워"
   },
@@ -699,6 +825,13 @@
     "NA": null,
     "KR": null
   },
+  "エニス・グイトリン": {
+    "JP": null,
+    "CN": "伊尼斯・古特灵",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "オフェンスモード": {
     "JP": null,
     "CN": "攻击模式",
@@ -748,12 +881,26 @@
     "NA": "Guts",
     "KR": "근성"
   },
+  "ガッツ<低確率>": {
+    "JP": null,
+    "CN": "毅力<低概率>",
+    "TW": null,
+    "NA": "Guts <Low Chance>",
+    "KR": null
+  },
   "ガッツ<高確率>": {
     "JP": null,
     "CN": "毅力<高概率>",
     "TW": "毅力<高機率>",
     "NA": "Guts <High Chance>",
     "KR": "근성<높은 확률>"
+  },
+  "ガッツ回復量アップ": {
+    "JP": null,
+    "CN": "毅力回复量提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ガッツ時発動": {
     "JP": null,
@@ -794,7 +941,7 @@
     "JP": null,
     "CN": "毅力时发动(宝具威力提升＆弱化解除)",
     "TW": "毅力時發動(寶具威力提升＆弱化解除)",
-    "NA": "Activate when Guts IS Triggered (NP Strength Up & Remove Debuff)",
+    "NA": "Activate when Guts is Triggered (NP Strength Up & Remove Debuff)",
     "KR": "근성 시 발동(보구 위력 UP&약화 해제)"
   },
   "ガッツ時発動(復讐の怨念)": {
@@ -830,7 +977,7 @@
     "CN": "职阶变化",
     "TW": "職階變化",
     "NA": "Class Change",
-    "KR": null
+    "KR": "클래스 변화"
   },
   "クラス相性変更": {
     "JP": null,
@@ -856,9 +1003,9 @@
   "クリスマス・ポーター": {
     "JP": null,
     "CN": "圣诞运输者",
-    "TW": "聖誕搬運工",
+    "TW": "聖誕運輸者",
     "NA": "Christmas Porter",
-    "KR": null
+    "KR": "크리스마스・포터"
   },
   "クリティカル威力アップ": {
     "JP": null,
@@ -900,42 +1047,42 @@
     "CN": "暴击威力提升〔Assassin〕",
     "TW": "爆擊威力提升〔Assassin〕",
     "NA": "Critical Strength Up (Assassin)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[어쌔신]"
   },
   "クリティカル威力アップ〔アルターエゴ〕": {
     "JP": null,
     "CN": "暴击威力提升〔Alterego〕",
     "TW": "爆擊威力提升〔Alterego〕",
     "NA": "Critical Strength Up (Alterego)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[얼터에고]"
   },
   "クリティカル威力アップ〔アヴェンジャー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Avenger〕",
     "TW": "爆擊威力提升〔Avenger〕",
     "NA": "Critical Strength Up (Avenger)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[어벤저]"
   },
   "クリティカル威力アップ〔アーチャー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Archer〕",
     "TW": "爆擊威力提升〔Archer〕",
     "NA": "Critical Strength Up (Archer)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[아처]"
   },
   "クリティカル威力アップ〔キャスター〕": {
     "JP": null,
     "CN": "暴击威力提升〔Caster〕",
     "TW": "爆擊威力提升〔Caster〕",
     "NA": "Critical Strength Up (Caster)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[캐스터]"
   },
   "クリティカル威力アップ〔サーヴァント〕": {
     "JP": null,
     "CN": "暴击威力提升〔从者〕",
     "TW": "爆擊威力提升〔從者〕",
     "NA": "Critical Strength Up [Servant]",
-    "KR": null
+    "KR": "크리티컬 위력 UP[서번트]"
   },
   "クリティカル威力アップ〔セイバー〕": {
     "JP": null,
@@ -949,49 +1096,49 @@
     "CN": "暴击威力提升〔Berserker〕",
     "TW": "爆擊威力提升〔Berserker〕",
     "NA": "Critical Strength Up (Berserker)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[버서커]"
   },
   "クリティカル威力アップ〔フォーリナー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Foreigner〕",
     "TW": "爆擊威力提升〔Foreigner〕",
     "NA": "Critical Strength Up (Foreigner)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[포리너]"
   },
   "クリティカル威力アップ〔プリテンダー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Pretender〕",
     "TW": "爆擊威力提升〔Pretender〕",
     "NA": "Critical Strength Up (Pretender)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[프리텐더]"
   },
   "クリティカル威力アップ〔ムーンキャンサー〕": {
     "JP": null,
     "CN": "暴击威力提升〔MoonCancer〕",
     "TW": "爆擊威力提升〔Moon Cancer〕",
     "NA": "Critical Strength Up (MoonCancer)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[문캔서]"
   },
   "クリティカル威力アップ〔ライダー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Rider〕",
     "TW": "爆擊威力提升〔Rider〕",
     "NA": "Critical Strength Up (Rider)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[라이더]"
   },
   "クリティカル威力アップ〔ランサー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Lancer〕",
     "TW": "爆擊威力提升〔Lancer〕",
     "NA": "Critical Strength Up (Lancer)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[랜서]"
   },
   "クリティカル威力アップ〔ルーラー〕": {
     "JP": null,
     "CN": "暴击威力提升〔Ruler〕",
     "TW": "爆擊威力提升〔Ruler〕",
     "NA": "Critical Strength Up (Ruler)",
-    "KR": null
+    "KR": "크리티컬 위력 UP[룰러]"
   },
   "クリティカル威力アップ〔人の力〕": {
     "JP": null,
@@ -1010,7 +1157,7 @@
   "クリティカル威力アップ〔対敵注視〕": {
     "JP": null,
     "CN": "暴击威力提升〔对敌注视〕",
-    "TW": null,
+    "TW": "爆擊威力提升〔對敵注視〕",
     "NA": null,
     "KR": null
   },
@@ -1056,12 +1203,33 @@
     "NA": "Critical STR Up (Sunlight)",
     "KR": "크리티컬 위력 UP[햇빛]"
   },
+  "クリティカル威力アップ：Arts": {
+    "JP": null,
+    "CN": "暴击威力提升：Arts",
+    "TW": "爆擊威力提升：Arts",
+    "NA": "Critical Strength Up: Arts",
+    "KR": null
+  },
+  "クリティカル威力アップ：Buster": {
+    "JP": null,
+    "CN": "暴击威力提升：Buster",
+    "TW": "爆擊威力提升：Buster",
+    "NA": "Critical Strength Up: Buster",
+    "KR": null
+  },
+  "クリティカル威力アップ：Quick": {
+    "JP": null,
+    "CN": "暴击威力提升：Quick",
+    "TW": "爆擊威力提升：Quick",
+    "NA": "Critical Strength Up: Quick",
+    "KR": null
+  },
   "クリティカル威力アップ：秩序": {
     "JP": null,
     "CN": "暴击威力提升：秩序",
     "TW": "爆擊威力提升：秩序",
     "NA": "Critical STR Up: Lawful",
-    "KR": null
+    "KR": "크리티컬 위력 UP: 질서"
   },
   "クリティカル威力ダウン": {
     "JP": null,
@@ -1199,9 +1367,9 @@
   "コマドリカウンター": {
     "JP": null,
     "CN": "知更鸟计数",
-    "TW": "知更鳥計數器",
+    "TW": "知更鳥計數",
     "NA": "Robin Counter",
-    "KR": null
+    "KR": "울새 카운터"
   },
   "コマンドカードタイプチェンジ": {
     "JP": null,
@@ -1231,6 +1399,13 @@
     "NA": "Command Code Bonus Attack Effect",
     "KR": "커맨드 코드 공격 시 추가 효과"
   },
+  "サスペンス・アクター": {
+    "JP": null,
+    "CN": "Suspense Actor",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "サバキャンパー": {
     "JP": null,
     "CN": "从者露营者",
@@ -1241,8 +1416,15 @@
   "サマータイム・トラベラー": {
     "JP": null,
     "CN": "夏日游客",
-    "TW": "夏日觀光客",
+    "TW": "夏日遊客",
     "NA": "Summertime Traveler",
+    "KR": "서머 타임 트래블러"
+  },
+  "サマー・エクスペリエンサー": {
+    "JP": null,
+    "CN": "Summer Experiencer",
+    "TW": "夏日體驗者",
+    "NA": null,
     "KR": null
   },
   "サマー・キャスト": {
@@ -1283,9 +1465,9 @@
   "スキル使用後リチャージ": {
     "JP": null,
     "CN": "技能使用后再装填",
-    "TW": "技能使用後再充能",
+    "TW": "技能使用後再裝填",
     "NA": "Recharge After Skill Usage",
-    "KR": null
+    "KR": "스킬 사용 후 리차지"
   },
   "スキル封印": {
     "JP": null,
@@ -1311,9 +1493,9 @@
   "スタン・石化・拘束・豚化無効": {
     "JP": null,
     "CN": "晕眩、石化、束缚、猪化无效",
-    "TW": "暈眩・石化・束縛・豬化無效",
+    "TW": "暈眩、石化、束縛、豬化無效",
     "NA": "Stun, Petrify, Bound and Pigify Immune",
-    "KR": null
+    "KR": "스턴・석화・구속・돼지화 무효"
   },
   "スタン付与アップ": {
     "JP": null,
@@ -1357,6 +1539,13 @@
     "NA": "C. Star Drop Rate Up vs. Saber",
     "KR": "스타 발생 UP[세이버]"
   },
+  "スター発生アップ〔日輪〕": {
+    "JP": null,
+    "CN": "星掉落提升〔日轮〕",
+    "TW": "星掉落提升〔日輪〕",
+    "NA": null,
+    "KR": null
+  },
   "スター発生アップ：Arts": {
     "JP": null,
     "CN": "暴击星掉落率提升:Arts",
@@ -1369,7 +1558,7 @@
     "CN": "暴击星掉落率提升：Buster",
     "TW": "爆擊星掉落率提升：Buster",
     "NA": "C. Star Drop Rate Up: Buster",
-    "KR": null
+    "KR": "스타 발생 UP: 버스터"
   },
   "スター発生ダウン": {
     "JP": null,
@@ -1465,9 +1654,9 @@
   "スーパー・ドゥーパー・クラフター": {
     "JP": null,
     "CN": "超一流工匠",
-    "TW": "頂級建築師",
+    "TW": "超一流工匠",
     "NA": null,
-    "KR": null
+    "KR": "슈퍼 두퍼 크래프터"
   },
   "タゲ集中アップ": {
     "JP": null,
@@ -1528,9 +1717,9 @@
   "ダメージカット貫通": {
     "JP": null,
     "CN": "伤害减免贯通",
-    "TW": "被傷害減免貫通",
-    "NA": "Ignore Damage Cut",
-    "KR": null
+    "TW": "傷害減免貫通",
+    "NA": "Pierce Damage Cut",
+    "KR": "대미지 컷 관통"
   },
   "ダメージプラス": {
     "JP": null,
@@ -1545,6 +1734,13 @@
     "TW": "傷害削減",
     "NA": "Damage Minus",
     "KR": "대미지 마이너스"
+  },
+  "ダメージ吸収": {
+    "JP": null,
+    "CN": "吸收伤害",
+    "TW": "吸收傷害",
+    "NA": "Damage Absorb",
+    "KR": null
   },
   "チャージ2倍": {
     "JP": null,
@@ -1565,6 +1761,13 @@
     "CN": "巧克力漂流者",
     "TW": "巧克力漂流家",
     "NA": "Choco Rafter",
+    "KR": "초코 래프터"
+  },
+  "テオブロマ・カリス": {
+    "JP": null,
+    "CN": "Theobroma Charis",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "ディフェンスモード": {
@@ -1573,6 +1776,13 @@
     "TW": "防禦模式",
     "NA": "Defensive Mode",
     "KR": "디펜스 모드"
+  },
+  "トライ・アーク・ライダー": {
+    "JP": null,
+    "CN": "Tri-Ark Rider",
+    "TW": "三弧之騎士",
+    "NA": null,
+    "KR": null
   },
   "トレジャーハンター": {
     "JP": null,
@@ -1598,7 +1808,7 @@
   "ノエル・エトワール": {
     "JP": null,
     "CN": "圣诞节之星",
-    "TW": "聖誕星",
+    "TW": "聖誕節之星",
     "NA": null,
     "KR": null
   },
@@ -1635,7 +1845,7 @@
     "CN": "完美角色",
     "TW": "完美角色",
     "NA": "Perfect Role",
-    "KR": null
+    "KR": "퍼펙트 롤"
   },
   "ヒット数アップ": {
     "JP": null,
@@ -1670,6 +1880,13 @@
     "CN": "皮克西之指",
     "TW": "皮可西的手指",
     "NA": null,
+    "KR": "픽시 핑거"
+  },
+  "フィールドセット〔ハロウィン〕": {
+    "JP": null,
+    "CN": "场地设置〔万圣节〕",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "フィールドセット〔森〕": {
@@ -1699,6 +1916,55 @@
     "TW": "場地設定〔陽光照射〕",
     "NA": "Field Set [Sunlight]",
     "KR": "필드 세트[햇빛]"
+  },
+  "フィールド効果〔Arts攻撃耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔Arts指令卡耐性下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔Buster攻撃耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔Buster指令卡耐性下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔Quick攻撃耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔Quick指令卡耐性下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔クリティカル威力耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔暴击威力耐性下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔宝具威力耐性ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔宝具威力耐性下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔攻撃力アップ〕": {
+    "JP": null,
+    "CN": "场地效果〔攻击力提升〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド効果〔防御力ダウン〕": {
+    "JP": null,
+    "CN": "场地效果〔防御力下降〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "フィールド変化〔千年城〕": {
     "JP": null,
@@ -1733,14 +1999,14 @@
     "CN": "场地变化〔水边〕",
     "TW": "場地變化〔水邊〕",
     "NA": "Field Change [Near Water]",
-    "KR": null
+    "KR": "필드 변화[물가]"
   },
   "フィールド変化〔都市〕": {
     "JP": null,
     "CN": "场地变化〔都市〕",
     "TW": "場地變化〔都市〕",
     "NA": "Field Change [City]",
-    "KR": null
+    "KR": "필드 변화[도시]"
   },
   "フィールド特性打ち消し〔陽射し〕": {
     "JP": null,
@@ -1763,12 +2029,26 @@
     "NA": "Fragarach Counter",
     "KR": "프라가라흐 카운터"
   },
+  "ブルーム・フローリスト": {
+    "JP": null,
+    "CN": "Bloom Florist",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "プラネットセッション": {
+    "JP": null,
+    "CN": "Planet Session",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "プリンシパル・キャスト": {
     "JP": null,
     "CN": "主要演员",
-    "TW": "主演",
+    "TW": "主要演員",
     "NA": "Principal Cast",
-    "KR": null
+    "KR": "프린서플 캐스트"
   },
   "マイティチェイン成立時発動効果": {
     "JP": null,
@@ -1842,8 +2122,8 @@
   },
   "一刺にて城を穿つ（槍）": {
     "JP": null,
-    "CN": "一枪贯穿城池",
-    "TW": null,
+    "CN": "一刺穿城（Lancer）",
+    "TW": "一刺貫城（槍）",
     "NA": null,
     "KR": null
   },
@@ -1877,8 +2157,8 @@
   },
   "不倒の知る辺（此方）": {
     "JP": null,
-    "CN": "不倒的知者彼方",
-    "TW": null,
+    "CN": "Undying Guide (This Side)",
+    "TW": "不倒的依靠（此方）",
     "NA": null,
     "KR": null
   },
@@ -1891,15 +2171,22 @@
   },
   "不朽の寄る辺（彼方）": {
     "JP": null,
-    "CN": "不逝的归所（彼岸）",
-    "TW": null,
+    "CN": "Immortal Haven (The Beyond)",
+    "TW": "不朽的依靠（彼方）",
+    "NA": null,
+    "KR": null
+  },
+  "不沈の号令（騎）": {
+    "JP": null,
+    "CN": "Unsinkable Command (Rider)",
+    "TW": "不沈的號令（騎）",
     "NA": null,
     "KR": null
   },
   "不退の構え（槍）": {
     "JP": null,
-    "CN": "不动之势（枪）",
-    "TW": null,
+    "CN": "Unshakable Formation (Lancer)",
+    "TW": "不屈的架勢（槍）",
     "NA": null,
     "KR": null
   },
@@ -1934,9 +2221,9 @@
   "主人公補正": {
     "JP": null,
     "CN": "主人公补正",
-    "TW": "主人公補正",
-    "NA": "Protagonist Correction",
-    "KR": null
+    "TW": "主角補正",
+    "NA": "Plot Armor",
+    "KR": "주인공 보정"
   },
   "予告状送付": {
     "JP": null,
@@ -1971,14 +2258,14 @@
     "CN": "保护对象",
     "TW": "保護對象",
     "NA": "Preservation Target",
-    "KR": null
+    "KR": "보호 대상"
   },
   "保護対象外": {
     "JP": null,
     "CN": "非保护对象",
-    "TW": "保護對象外",
+    "TW": "非保護對象",
     "NA": "Non-Preservation Target",
-    "KR": null
+    "KR": "보호 대상 외"
   },
   "信仰の加護 A+++": {
     "JP": null,
@@ -2003,7 +2290,14 @@
   },
   "先陣守護（此方）": {
     "JP": null,
-    "CN": "先锋守护（此岸）",
+    "CN": "Guardian of the Vanguard (This Side)",
+    "TW": "先陣守護（此方）",
+    "NA": null,
+    "KR": null
+  },
+  "冥界の花園": {
+    "JP": null,
+    "CN": "冥界的花园",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2015,12 +2309,26 @@
     "NA": "Blessing of Kur",
     "KR": "명계의 가호"
   },
+  "勇気の王女": {
+    "JP": null,
+    "CN": "勇敢公主",
+    "TW": "勇敢公主",
+    "NA": null,
+    "KR": null
+  },
   "十の王冠": {
     "JP": null,
     "CN": "十之王冠",
     "TW": "十之王冠",
     "NA": "Domina Cornam",
     "KR": "열 개의 왕관"
+  },
+  "単独行動（弓）": {
+    "JP": null,
+    "CN": "单独行动（弓）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "即死付与率アップ": {
     "JP": null,
@@ -2032,7 +2340,7 @@
   "即死付与率アップ〔人間〕": {
     "JP": null,
     "CN": "即死付与率提升〔人类〕",
-    "TW": null,
+    "TW": "即死賦予率提升〔人類〕",
     "NA": "Death Chance Up vs. Human",
     "KR": null
   },
@@ -2040,8 +2348,8 @@
     "JP": null,
     "CN": "即死时毅力",
     "TW": "即死時毅力",
-    "NA": "Instant Death Guts",
-    "KR": null
+    "NA": "Guts ([Death] Activated)",
+    "KR": "즉사 시 근성"
   },
   "即死無効": {
     "JP": null,
@@ -2049,6 +2357,13 @@
     "TW": "即死無效",
     "NA": "Immune to Death",
     "KR": "즉사무효"
+  },
+  "即死無効〔気配遮断〕": {
+    "JP": null,
+    "CN": "即死无效〔气息遮断〕",
+    "TW": null,
+    "NA": "Immune to Death (Presence Concealment)",
+    "KR": null
   },
   "即死耐性アップ": {
     "JP": null,
@@ -2073,8 +2388,8 @@
   },
   "去なしの石突（槍）": {
     "JP": null,
-    "CN": "无用之石突（枪）",
-    "TW": null,
+    "CN": "去なしの石突（Lancer）",
+    "TW": "去無的石突（槍）",
     "NA": null,
     "KR": null
   },
@@ -2089,6 +2404,13 @@
     "JP": null,
     "CN": "诅咒付与提升",
     "TW": "賦予詛咒提升",
+    "NA": null,
+    "KR": "저주 부여 UP"
+  },
+  "呪い滲出": {
+    "JP": null,
+    "CN": "诅咒渗出",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2120,10 +2442,24 @@
     "NA": "Evade Trap",
     "KR": "회피 트랩"
   },
+  "境域掌握": {
+    "JP": null,
+    "CN": "Territory Creation",
+    "TW": "境域掌握",
+    "NA": null,
+    "KR": null
+  },
+  "境域掌握（騎）": {
+    "JP": null,
+    "CN": "Territory Creation (Rider)",
+    "TW": "境域掌握（騎）",
+    "NA": null,
+    "KR": null
+  },
   "増幅負荷": {
     "JP": null,
     "CN": "增幅负荷",
-    "TW": null,
+    "TW": "增幅負荷",
     "NA": null,
     "KR": null
   },
@@ -2166,7 +2502,7 @@
     "JP": null,
     "CN": "太岁之祸",
     "TW": "太歲之禍",
-    "NA": "Taisui's Misfortune",
+    "NA": "Taisui's Calamity",
     "KR": "태세의 재앙"
   },
   "威力アップ": {
@@ -2179,16 +2515,16 @@
   "威力アップ【3000万DL記念】": {
     "JP": null,
     "CN": "威力提升【3000万DL纪念】",
-    "TW": "威力提升【3000萬DL紀念】",
+    "TW": "威力提升【迦勒底小暑特別紀念】",
     "NA": null,
-    "KR": null
+    "KR": "위력 UP[가정의 달 기념]"
   },
   "威力アップ【3000日突破記念】": {
     "JP": null,
     "CN": "威力提升【3000日突破纪念】",
     "TW": "威力提升【迦勒底立秋特別紀念】",
-    "NA": "Strength Up [3000 Days Celebration]",
-    "KR": null
+    "NA": "Strength Up [3000 Days Anniversary]",
+    "KR": "위력 UP [3000일 돌파 기념]"
   },
   "威力アップ【Fate20周年記念】": {
     "JP": null,
@@ -2223,26 +2559,26 @@
     "CN": "威力提升〔Alterego〕",
     "TW": "威力提升〔Alterego〕",
     "NA": "STR Up vs. Alterego",
-    "KR": null
+    "KR": "위력 UP[얼터에고]"
   },
   "威力アップ〔アヴェンジャー〕": {
     "JP": null,
     "CN": "威力提升〔Avenger〕",
     "TW": "威力提升〔Avenger〕",
     "NA": "STR Up vs. Avenger",
-    "KR": null
+    "KR": "위력 UP[어벤저]"
   },
   "威力アップ〔アーチャー〕": {
     "JP": null,
     "CN": "威力提升〔Archer〕",
     "TW": "威力提升〔Archer〕",
     "NA": "STR Up vs. Archer",
-    "KR": null
+    "KR": "위력 UP[아처]"
   },
   "威力アップ〔エクストラクラス〕": {
     "JP": null,
     "CN": "威力提升（Extra Class）",
-    "TW": null,
+    "TW": "威力提升〔Extra Class〕",
     "NA": "STR Up vs. Extra Class",
     "KR": null
   },
@@ -2265,7 +2601,7 @@
     "CN": "威力提升〔樱系列系〕",
     "TW": "威力提升〔櫻系列〕",
     "NA": null,
-    "KR": null
+    "KR": "위력 UP[사쿠라 시리즈 계열]"
   },
   "威力アップ〔サーヴァント〕": {
     "JP": null,
@@ -2307,21 +2643,21 @@
     "CN": "威力提升〔Foreigner〕",
     "TW": "威力提升〔Foreigner〕",
     "NA": "Strength Up (Foreigner)",
-    "KR": null
+    "KR": "위력 UP[포리너]"
   },
   "威力アップ〔プリテンダー〕": {
     "JP": null,
     "CN": "威力提升〔Pretender〕",
     "TW": "威力提升〔Pretender〕",
     "NA": "STR Up vs. Pretender",
-    "KR": null
+    "KR": "위력 UP[프리텐더]"
   },
   "威力アップ〔ムーンキャンサー〕": {
     "JP": null,
     "CN": "威力提升〔MoonCancer〕",
     "TW": "威力提升〔Moon Cancer〕",
     "NA": "STR Up vs. MoonCancer",
-    "KR": null
+    "KR": "위력 UP[문캔서]"
   },
   "威力アップ〔ライダー〕": {
     "JP": null,
@@ -2335,7 +2671,7 @@
     "CN": "威力提升〔Lancer〕",
     "TW": "威力提升〔Lancer〕",
     "NA": "STR Up vs. Lancer",
-    "KR": null
+    "KR": "위력 UP[랜서]"
   },
   "威力アップ〔ルーラー〕": {
     "JP": null,
@@ -2354,8 +2690,22 @@
   "威力アップ〔七騎士クラス〕": {
     "JP": null,
     "CN": "威力提升〔七骑士职阶〕",
-    "TW": null,
+    "TW": "威力提升〔七騎士職階〕",
     "NA": "STR Up vs. Seven Knights Class",
+    "KR": null
+  },
+  "威力アップ〔中庸〕": {
+    "JP": null,
+    "CN": "威力提升〔中庸〕",
+    "TW": "威力提升〔中庸〕",
+    "NA": "STR Up vs. Balanced",
+    "KR": null
+  },
+  "威力アップ〔中立〕": {
+    "JP": null,
+    "CN": "威力提升〔中立〕",
+    "TW": "威力提升〔中立〕",
+    "NA": "STR Up vs. Neutral",
     "KR": null
   },
   "威力アップ〔中立のサーヴァント〕": {
@@ -2403,9 +2753,9 @@
   "威力アップ〔保護対象外〕": {
     "JP": null,
     "CN": "威力提升〔非保护对象〕",
-    "TW": "威力提升〔保護對象外〕",
+    "TW": "威力提升〔非保護對象〕",
     "NA": "Strength Up [Non-Preservation Target]",
-    "KR": null
+    "KR": "위력 UP[보호 대상 외]"
   },
   "威力アップ〔円卓の騎士と妖精〕": {
     "JP": null,
@@ -2439,8 +2789,8 @@
     "JP": null,
     "CN": "威力提升〔拥有地之力的从者〕",
     "TW": "威力提升〔擁有地之力的從者〕",
-    "NA": "Strength Up [Earth Servant]",
-    "KR": null
+    "NA": "STR Up (Servants with Earth Attribute)",
+    "KR": "위력 UP[지의 힘을 가진 서번트]"
   },
   "威力アップ〔天と地のサーヴァント〕": {
     "JP": null,
@@ -2463,6 +2813,13 @@
     "NA": "STR Up vs. Female",
     "KR": "위력 UP[여성]"
   },
+  "威力アップ〔封印〕": {
+    "JP": null,
+    "CN": "威力提升（封印）",
+    "TW": "威力提升﹝封印﹞",
+    "NA": "STR Up vs. Seal",
+    "KR": null
+  },
   "威力アップ〔巨人〕": {
     "JP": null,
     "CN": "威力提升〔巨人〕",
@@ -2482,7 +2839,7 @@
     "CN": "威力提升〔恐怖〕",
     "TW": "威力提升〔恐怖〕",
     "NA": "Strength Up [Terror]",
-    "KR": null
+    "KR": "위력 UP[공포]"
   },
   "威力アップ〔悪〕": {
     "JP": null,
@@ -2508,16 +2865,16 @@
   "威力アップ〔拘束・スタン・石化〕": {
     "JP": null,
     "CN": "威力提升〔束缚、眩晕、石化〕",
-    "TW": "威力提升〔拘束・暈眩・石化〕",
-    "NA": "Strength Up [Bound/Stun/Petrify]",
-    "KR": null
+    "TW": "威力提升〔束縛、暈眩、石化〕",
+    "NA": "STR Up (Bind, Stun, Petrify)",
+    "KR": "위력 UP[구속・스턴・석화]"
   },
   "威力アップ〔星の力〕": {
     "JP": null,
     "CN": "威力提升〔星之力〕",
     "TW": "威力提升〔星之力〕",
-    "NA": "Strength Up [Star Attribute]",
-    "KR": null
+    "NA": "Strength Up (Star Attribute)",
+    "KR": "위력 UP[별의 힘]"
   },
   "威力アップ〔機械〕": {
     "JP": null,
@@ -2578,7 +2935,7 @@
   "威力アップ〔獣の力〕": {
     "JP": null,
     "CN": "威力提升〔兽之力〕",
-    "TW": null,
+    "TW": "威力提升〔獸之力〕",
     "NA": "Strength Up [Beast Attribute]",
     "KR": null
   },
@@ -2637,6 +2994,13 @@
     "TW": "威力提升﹝龍﹞",
     "NA": "STR Up vs. Dragon",
     "KR": "위력 UP[용]"
+  },
+  "威力アップ〔精神異常〕": {
+    "JP": null,
+    "CN": "威力提升〔精神异常〕",
+    "TW": "威力提升〔精神異常〕",
+    "NA": "STR Up vs. Mental Debuff",
+    "KR": null
   },
   "威力アップ〔絆〕": {
     "JP": null,
@@ -2698,7 +3062,7 @@
     "JP": null,
     "CN": "威力提升〔魔兽型从者〕",
     "TW": "威力提升〔魔獸型從者〕",
-    "NA": "Strength Up [Demonic Beast Servant]",
+    "NA": "Strength Up (Demonic Beast type Servants)",
     "KR": "위력 UP[마수형 서번트]"
   },
   "威力アップ：Arts": {
@@ -2790,14 +3154,14 @@
     "CN": "宝具类型变更：攻击",
     "TW": "寶具類型變更：攻擊",
     "NA": "Noble Phantasm Type Change: Attack",
-    "KR": null
+    "KR": "보구 타입 체인지: 공격"
   },
   "宝具タイプチェンジ：防御": {
     "JP": null,
     "CN": "宝具类型变更：防御",
     "TW": "寶具類型變更：防禦",
     "NA": "Noble Phantasm Type Change: Defense",
-    "KR": null
+    "KR": "보구 타입 체인지: 방어"
   },
   "宝具チェンジ": {
     "JP": null,
@@ -2805,6 +3169,20 @@
     "TW": "寶具切換",
     "NA": "NP Change",
     "KR": "보구 차지"
+  },
+  "宝具使用時NP還元": {
+    "JP": null,
+    "CN": "宝具使用时NP复原",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具使用時チャージ還元": {
+    "JP": null,
+    "CN": "宝具使用时充能复原",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "宝具威力アップ": {
     "JP": null,
@@ -2838,7 +3216,7 @@
     "JP": null,
     "CN": "宝具威力提升〔空中〕",
     "TW": "寶具威力提升〔空中〕",
-    "NA": "NP Strength Up [Airspace]",
+    "NA": "NP Strength Up [Aerial]",
     "KR": "보구 위력 UP[공중]"
   },
   "宝具威力アップブースト": {
@@ -2862,61 +3240,75 @@
     "NA": "NP Strength Up: Arts",
     "KR": "보구 위력 UP: 아츠"
   },
+  "宝具威力アップ：Buster": {
+    "JP": null,
+    "CN": "宝具威力提升:Buster",
+    "TW": "寶具威力提升：Buster",
+    "NA": "NP Strength Up: Buster",
+    "KR": null
+  },
+  "宝具威力アップ：Quick": {
+    "JP": null,
+    "CN": "宝具威力提升:Quick",
+    "TW": "寶具威力提升：Quick",
+    "NA": "NP Strength Up: Quick",
+    "KR": null
+  },
   "宝具威力アップ：アサシン": {
     "JP": null,
     "CN": "宝具威力提升：Assassin",
-    "TW": "寶具威力提升:Assassin",
+    "TW": "寶具威力提升：Assassin",
     "NA": "NP Strength Up: Assassin",
-    "KR": null
+    "KR": "보구 위력 UP: 어쌔신"
   },
   "宝具威力アップ：アーチャー": {
     "JP": null,
     "CN": "宝具威力提升：Archer",
-    "TW": "寶具威力提升:Archer",
+    "TW": "寶具威力提升：Archer",
     "NA": "NP Strength Up: Archer",
-    "KR": null
+    "KR": "보구 위력 UP: 아처"
   },
   "宝具威力アップ：キャスター": {
     "JP": null,
     "CN": "宝具威力提升：Caster",
-    "TW": "寶具威力提升:Caster",
+    "TW": "寶具威力提升：Caster",
     "NA": "NP Strength Up: Caster",
-    "KR": null
+    "KR": "보구 위력 UP: 캐스터"
   },
   "宝具威力アップ：セイバー": {
     "JP": null,
     "CN": "宝具威力提升：Saber",
-    "TW": "寶具威力提升:Saber",
+    "TW": "寶具威力提升：Saber",
     "NA": "NP Strength Up: Saber",
-    "KR": null
+    "KR": "보구 위력 UP: 세이버"
   },
   "宝具威力アップ：バーサーカー": {
     "JP": null,
     "CN": "宝具威力提升：Berserker",
-    "TW": "寶具威力提升:Berserker",
+    "TW": "寶具威力提升：Berserker",
     "NA": "NP Strength Up: Berserker",
-    "KR": null
+    "KR": "보구 위력 UP: 버서커"
   },
   "宝具威力アップ：ライダー": {
     "JP": null,
     "CN": "宝具威力提升：Rider",
-    "TW": "寶具威力提升:Rider",
+    "TW": "寶具威力提升：Rider",
     "NA": "NP Strength Up: Rider",
-    "KR": null
+    "KR": "보구 위력 UP: 라이더"
   },
   "宝具威力アップ：ランサー": {
     "JP": null,
     "CN": "宝具威力提升：Lancer",
-    "TW": "寶具威力提升:Lancer",
+    "TW": "寶具威力提升：Lancer",
     "NA": "NP Strength Up: Lancer",
-    "KR": null
+    "KR": "보구 위력 UP: 랜서"
   },
   "宝具威力アップ：神性": {
     "JP": null,
     "CN": "宝具威力提升：神性",
-    "TW": "寶具威力提升:神性",
+    "TW": "寶具威力提升：神性",
     "NA": "NP Strength Up: Divine",
-    "KR": null
+    "KR": "보구 위력 UP: 신성"
   },
   "宝具威力ダウン": {
     "JP": null,
@@ -2930,6 +3322,13 @@
     "CN": "宝具威力耐性提升〔从者〕",
     "TW": "寶具威力耐性提升〔從者〕",
     "NA": "NP Strength Resist Up [Servant]",
+    "KR": null
+  },
+  "宝具威力耐性ダウン": {
+    "JP": null,
+    "CN": "宝具威力耐性下降",
+    "TW": "寶具威力耐性下降",
+    "NA": "NP Strength Resist Down",
     "KR": null
   },
   "宝具封印": {
@@ -2983,8 +3382,8 @@
   },
   "対極共生（彼方）": {
     "JP": null,
-    "CN": "彼岸·对立共生",
-    "TW": null,
+    "CN": "Symbiotic Opposition (Far Side)",
+    "TW": "對極共生（彼方）",
     "NA": null,
     "KR": null
   },
@@ -3005,9 +3404,9 @@
   "対粛正防御貫通(回避貫通不能)": {
     "JP": null,
     "CN": "对肃正防御贯通(无法贯通回避)",
-    "TW": "對肅正防禦貫通狀態(回避無法貫通)",
+    "TW": "對肅正防禦貫通(無法貫通迴避)",
     "NA": "Ignore Anti-Enforcement (Unable to ignore Evade)",
-    "KR": null
+    "KR": "대 숙정방어 관통(회피 관통 불능)"
   },
   "対魔力（剣）": {
     "JP": null,
@@ -3022,6 +3421,13 @@
     "TW": "封印無效",
     "NA": "Seal Immune",
     "KR": "봉인 무효"
+  },
+  "射て晴らすは征箭の雨（弓）": {
+    "JP": null,
+    "CN": "射落晴空之征箭雨（Archer）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "巡霊の祝祭": {
     "JP": null,
@@ -3044,6 +3450,13 @@
     "NA": "Electrify",
     "KR": "대전"
   },
+  "幕末チャンバラパワー": {
+    "JP": null,
+    "CN": "幕末剑戟力量",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "幻惑": {
     "JP": null,
     "CN": "幻惑",
@@ -3065,6 +3478,13 @@
     "NA": "Debuff Chance Up",
     "KR": "약화 효과 부여 UP"
   },
+  "弱体付与アップ〔気配遮断〕": {
+    "JP": null,
+    "CN": "弱化状态付与提升〔气息遮断〕",
+    "TW": null,
+    "NA": "Debuff Chance Up (Presence Concealment)",
+    "KR": null
+  },
   "弱体無効": {
     "JP": null,
     "CN": "弱化状态无效",
@@ -3084,7 +3504,7 @@
     "CN": "弱化状态耐性下降",
     "TW": "弱化狀態耐性下降",
     "NA": "Debuff Resist Down",
-    "KR": "약화 효과 내성 DOWN"
+    "KR": "약화 내성 DOWN"
   },
   "弱体耐性無視": {
     "JP": null,
@@ -3275,6 +3695,13 @@
     "NA": "Bind",
     "KR": "구속"
   },
+  "指先の言葉（術）": {
+    "JP": null,
+    "CN": "Words of the Fingertips (Caster)",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "撃破時追加効果(強化)": {
     "JP": null,
     "CN": "击破时追加效果(强化)",
@@ -3286,8 +3713,8 @@
     "JP": null,
     "CN": "攻击造成伤害前追加效果",
     "TW": "攻擊造成傷害前追加效果",
-    "NA": null,
-    "KR": null
+    "NA": "Pre-ATK Damage Bonus Effect",
+    "KR": "공격 대미지 전 추가 효과"
   },
   "攻撃力アップ": {
     "JP": null,
@@ -3520,12 +3947,26 @@
     "NA": "ATK Resist Up",
     "KR": "공격 내성 UP"
   },
+  "日輪": {
+    "JP": null,
+    "CN": "日轮",
+    "TW": "日輪",
+    "NA": null,
+    "KR": null
+  },
   "春風の漂流者": {
     "JP": null,
     "CN": "春风的漂流者",
     "TW": "春風的漂流者",
     "NA": "Drifter of the Spring Breeze",
     "KR": "봄바람의 표류자"
+  },
+  "暗剣（殺）": {
+    "JP": null,
+    "CN": "暗剑（杀）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "曇らせ侍る（狂）": {
     "JP": null,
@@ -3562,12 +4003,19 @@
     "NA": "Minus Maximum HP",
     "KR": "최대 HP 마이너스"
   },
+  "月下": {
+    "JP": null,
+    "CN": "月下",
+    "TW": "月下",
+    "NA": null,
+    "KR": null
+  },
   "月陰の縁": {
     "JP": null,
     "CN": "月影之缘",
     "TW": "月陰之緣",
-    "NA": "Destiny Under the Moonshade",
-    "KR": null
+    "NA": "Lunar Shadow's Fate",
+    "KR": "달빛의 인연"
   },
   "朔月の加護": {
     "JP": null,
@@ -3609,7 +4057,7 @@
     "CN": "死亡时发动",
     "TW": "死亡時發動",
     "NA": "Activate on Defeat",
-    "KR": null
+    "KR": "사망 시 발동"
   },
   "死亡時発動(平穏の無花果)": {
     "JP": null,
@@ -3653,6 +4101,13 @@
     "NA": "HP Recovery Per Turn",
     "KR": "매 턴 HP 회복"
   },
+  "毎ターンHP減少": {
+    "JP": null,
+    "CN": "每回合HP减少",
+    "TW": null,
+    "NA": "HP Loss Per Turn",
+    "KR": null
+  },
   "毎ターンNP減少": {
     "JP": null,
     "CN": "每回合NP减少",
@@ -3671,8 +4126,8 @@
     "JP": null,
     "CN": "每回合获得NP",
     "TW": "每回合獲得NP",
-    "NA": "NP Gain Per Turn ",
-    "KR": "매 턴 NP 획득"
+    "NA": "NP Gain each Turn (Near Water)",
+    "KR": "매 턴 NP 획득[물가]"
   },
   "毎ターンNP獲得〔炎上〕": {
     "JP": null,
@@ -3692,8 +4147,8 @@
     "JP": null,
     "CN": "每回合获得暴击星〔水边〕",
     "TW": "每回合獲得爆擊星〔水邊〕",
-    "NA": "C. Star Gain Per Turn [Near Water]",
-    "KR": null
+    "NA": "C. Star Gain Each Turn [Near Water]",
+    "KR": "매 턴 스타 획득[물가]"
   },
   "毎ターンスター獲得〔陽射し〕": {
     "JP": null,
@@ -3835,6 +4290,20 @@
     "NA": "Poison & Curse Immune",
     "KR": "독&저주 무효"
   },
+  "毒＆呪い＆やけど無効": {
+    "JP": null,
+    "CN": "毒＆诅咒＆灼烧无效",
+    "TW": null,
+    "NA": "Poison & Curse & Burn Immune",
+    "KR": null
+  },
+  "気配遮断（殺）": {
+    "JP": null,
+    "CN": "气息遮断 （杀）",
+    "TW": null,
+    "NA": "Presence Concealment (Assassin)",
+    "KR": null
+  },
   "水着剣豪の心得": {
     "JP": null,
     "CN": "泳装剑豪的心得",
@@ -3869,6 +4338,20 @@
     "TW": "混亂無效",
     "NA": "Nullify Confusion",
     "KR": "혼란 무효"
+  },
+  "湖水の夢": {
+    "JP": null,
+    "CN": "湖水之梦",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "灰桜": {
+    "JP": null,
+    "CN": "樱灰",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "焔": {
     "JP": null,
@@ -3905,6 +4388,13 @@
     "NA": "Ignore Invincible",
     "KR": "무적 관통"
   },
+  "無疵の間合い（殺）": {
+    "JP": null,
+    "CN": "Maiden's Distance (Assassin)",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "無限の魔力供給C": {
     "JP": null,
     "CN": "无限魔力供给C",
@@ -3921,10 +4411,24 @@
   },
   "熾炎翻す（此方）": {
     "JP": null,
-    "CN": "炽焰翻腾（这边）",
-    "TW": null,
+    "CN": "炽炎翻腾（此方）",
+    "TW": "熾炎翻轉（此方）",
     "NA": null,
     "KR": null
+  },
+  "特性付与〔イリヤ〕": {
+    "JP": null,
+    "CN": "特性付与〔伊莉雅〕",
+    "TW": "特性賦予〔伊莉雅〕",
+    "NA": "Apply Trait (Illya)",
+    "KR": "특성 부여[이리야]"
+  },
+  "特性付与〔エリザベート〕": {
+    "JP": null,
+    "CN": "特性付与〔伊丽莎白〕",
+    "TW": "特性賦予〔伊莉莎白〕",
+    "NA": "Apply Trait (Elisabeth)",
+    "KR": "특성 부여[엘리자베트]"
   },
   "特性付与〔ローマ〕": {
     "JP": null,
@@ -3946,6 +4450,13 @@
     "TW": "賦予特性〔惡〕",
     "NA": "Apply Trait (Evil)",
     "KR": "특성 부여[악]"
+  },
+  "特性付与〔新選組〕": {
+    "JP": null,
+    "CN": "付与特性〔新选组〕",
+    "TW": null,
+    "NA": "Apply Trait (Shinsengumi)",
+    "KR": null
   },
   "特性付与〔死霊〕": {
     "JP": null,
@@ -4026,15 +4537,15 @@
   },
   "理の傍ら": {
     "JP": null,
-    "CN": "理之旁侧",
-    "TW": null,
+    "CN": "Beside the logic",
+    "TW": "真理之側",
     "NA": null,
     "KR": null
   },
   "理の傍ら（彼方）": {
     "JP": null,
-    "CN": "理之彼端（彼方）",
-    "TW": null,
+    "CN": "理的彼端（彼方）",
+    "TW": "真理之側（彼方）",
     "NA": null,
     "KR": null
   },
@@ -4108,6 +4619,13 @@
     "NA": "Goes Into Effect Upon Entering",
     "KR": "등장 시 발동"
   },
+  "白馬の王子": {
+    "JP": null,
+    "CN": "白马王子",
+    "TW": "白馬王子",
+    "NA": null,
+    "KR": null
+  },
   "睡眠": {
     "JP": null,
     "CN": "睡眠",
@@ -4155,7 +4673,7 @@
     "CN": "空间保存",
     "TW": "空間保存",
     "NA": "Spatial Storage",
-    "KR": null
+    "KR": "공간 보존"
   },
   "精神異常付与アップ": {
     "JP": null,
@@ -4189,13 +4707,27 @@
     "JP": null,
     "CN": "精灵之怒",
     "TW": "精靈之怒",
-    "NA": "Wrath of the Spirits",
+    "NA": "Spirit's Anger",
     "KR": "정령의 분노"
+  },
+  "納刀体勢": {
+    "JP": null,
+    "CN": "纳刀态势",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "結界作成": {
+    "JP": null,
+    "CN": "结界作成",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "絶対豪運宝石圏準備": {
     "JP": null,
     "CN": "绝对豪运宝石圈 A",
-    "TW": null,
+    "TW": "絕對豪運寶石圈準備",
     "NA": null,
     "KR": null
   },
@@ -4220,6 +4752,13 @@
     "NA": "Holy Grail Possession",
     "KR": "성배 소지"
   },
+  "自焼": {
+    "JP": null,
+    "CN": "自燃",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "自陣防御": {
     "JP": null,
     "CN": "己阵防御",
@@ -4230,9 +4769,9 @@
   "致死ダメージ回避": {
     "JP": null,
     "CN": "回避致死伤害",
-    "TW": "致死傷害迴避",
-    "NA": "Lethal Damage Evade",
-    "KR": null
+    "TW": "迴避致死傷害",
+    "NA": "Evade Lethal Damage",
+    "KR": "치사 대미지 회피"
   },
   "蛇頭竜尾": {
     "JP": null,
@@ -4252,8 +4791,8 @@
     "JP": null,
     "CN": "染血的皇子",
     "TW": "血染的皇子",
-    "NA": "Bloodstained Prince",
-    "KR": null
+    "NA": "Blood-Soaked Prince",
+    "KR": "피투성이 황자"
   },
   "行動不能": {
     "JP": null,
@@ -4378,7 +4917,7 @@
     "JP": null,
     "CN": "被暴击发生耐性下降",
     "TW": "被爆擊發生耐性下降",
-    "NA": "Critical Resistance Down",
+    "NA": "Decrease Critical Resistance",
     "KR": "받는 크리티컬 발생 내성 Down"
   },
   "被スター発生耐性アップ": {
@@ -4387,6 +4926,13 @@
     "TW": "被爆擊星掉落耐性提升",
     "NA": "C. Star Generation Resistance Up",
     "KR": "받는 스타 발생 내성 UP"
+  },
+  "被スター発生耐性ダウン": {
+    "JP": null,
+    "CN": "被暴击星掉落耐性下降",
+    "TW": "被爆擊星掉落耐性下降",
+    "NA": "Decrease C. Star Drop Resistance",
+    "KR": null
   },
   "被ダメージ反射": {
     "JP": null,
@@ -4465,6 +5011,13 @@
     "NA": "Buff Chance Down",
     "KR": "받는 강화 성공률 DOWN"
   },
+  "見敵迎撃": {
+    "JP": null,
+    "CN": "迎击敌人",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "謳花爛漫": {
     "JP": null,
     "CN": "讴花烂漫",
@@ -4490,8 +5043,8 @@
     "JP": null,
     "CN": "替身",
     "TW": "替身",
-    "NA": "Substitution",
-    "KR": null
+    "NA": "Substitute",
+    "KR": "대역"
   },
   "迷宮濶歩": {
     "JP": null,
@@ -4588,21 +5141,21 @@
     "JP": null,
     "CN": "延迟发动〔Arts化〕",
     "TW": "延遲發動〔Arts化〕",
-    "NA": "Delayed Effect (Arts Transformation)",
+    "NA": "Delayed Effect (Turn to Arts)",
     "KR": "지연 발동[아츠화]"
   },
   "遅延発動〔Buster化〕": {
     "JP": null,
     "CN": "延迟发动〔Buster化〕",
     "TW": "延遲發動〔Buster化〕",
-    "NA": "Delayed Effect (Buster Transformation)",
+    "NA": "Delayed Effect (Turn to Buster)",
     "KR": "지연 발동[버스터화]"
   },
   "遅延発動〔Quick化〕": {
     "JP": null,
     "CN": "延迟发动〔Quick化〕",
     "TW": "延遲發動〔Quick化〕",
-    "NA": "Delayed Effect (Quick Transformation)",
+    "NA": "Delayed Effect (Turn to Quick)",
     "KR": "지연 발동[퀵화]"
   },
   "遅延発動（四夜の終末）": {
@@ -4626,12 +5179,26 @@
     "NA": "Delayed Effect (Annihilation Wish)",
     "KR": "지연 발동(사멸원망)"
   },
+  "過去改竄": {
+    "JP": null,
+    "CN": "历史改写",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "過日の夢想": {
     "JP": null,
     "CN": "过去的梦想",
     "TW": "過去的夢想",
-    "NA": "Reveries of Yore",
+    "NA": "Vision of the Past",
     "KR": "지난날의 몽상"
+  },
+  "道具作成（術）": {
+    "JP": null,
+    "CN": "道具作成（术）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "邪馬台パワー！": {
     "JP": null,
@@ -4639,6 +5206,13 @@
     "TW": "邪馬臺力量！",
     "NA": "Yamatai Power!",
     "KR": "야마타이 파워!"
+  },
+  "鈍の矢弾": {
+    "JP": null,
+    "CN": "钝之弹丸",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "鎮国武成王": {
     "JP": null,
@@ -4653,6 +5227,13 @@
     "TW": "防禦力提升",
     "NA": "DEF Up",
     "KR": "방어력 UP"
+  },
+  "防御力アップ〔七騎士クラス〕": {
+    "JP": null,
+    "CN": "防御力提升〔七骑士职阶〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "防御力アップ〔人型〕": {
     "JP": null,
@@ -4727,7 +5308,7 @@
   "防御力ダウン〔魅了〕": {
     "JP": null,
     "CN": "防御力下降〔魅惑〕",
-    "TW": null,
+    "TW": "防禦力下降〔魅惑〕",
     "NA": "DEF Down (Charm)",
     "KR": null
   },
@@ -4736,7 +5317,7 @@
     "CN": "防御力下降无效",
     "TW": "防禦力下降無效",
     "NA": "DEF Down Immune",
-    "KR": null
+    "KR": "방어력 DOWN 무효"
   },
   "防御力ダウン（強化扱い）": {
     "JP": null,
@@ -4750,14 +5331,14 @@
     "CN": "防御力下降〔Arts〕",
     "TW": "防禦力下降〔Arts〕",
     "NA": "DEF Down (Arts)",
-    "KR": "방어력 DOWN[아츠]"
+    "KR": "방어력 DOWN: 아츠"
   },
   "防御力ダウン：Buster": {
     "JP": null,
     "CN": "防御力下降〔Buster〕",
     "TW": "防禦力下降〔Buster〕",
     "NA": "DEF Down (Buster)",
-    "KR": "방어력 DOWN[버스터]"
+    "KR": "방어력 DOWN: 버스터"
   },
   "防御弱体無効": {
     "JP": null,
@@ -4807,6 +5388,20 @@
     "TW": "風雲力量",
     "NA": "Fuun Power",
     "KR": "풍운 파워"
+  },
+  "駿馬、戦場を駆る（騎）": {
+    "JP": null,
+    "CN": "Noble steed, galloping across the battlefield (Rider)",
+    "TW": "駿馬、戰場馳騁（騎）",
+    "NA": null,
+    "KR": null
+  },
+  "騎士叙勲": {
+    "JP": null,
+    "CN": "骑士授勋",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "魅了": {
     "JP": null,
@@ -4868,8 +5463,8 @@
     "JP": null,
     "CN": "魔弹",
     "TW": "魔彈",
-    "NA": "Magic Bullet",
-    "KR": null
+    "NA": "Magic Bullets",
+    "KR": "마탄"
   },
   "魔性の戦闘美": {
     "JP": null,
@@ -4885,604 +5480,9 @@
     "NA": "Magical Girl Power",
     "KR": "마법소녀력"
   },
-  "Quickアップ〔夏の承認欲求〕": {
-    "JP": null,
-    "CN": "Quick提升〔夏之认可欲望〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サマー・エクスペリエンサー": {
-    "JP": null,
-    "CN": "夏日体验者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ダメージ吸収": {
-    "JP": null,
-    "CN": "吸收伤害",
-    "TW": null,
-    "NA": "Damage Absorb",
-    "KR": null
-  },
-  "勇気の王女": {
-    "JP": null,
-    "CN": "勇敢公主",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "白馬の王子": {
-    "JP": null,
-    "CN": "白马王子",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Artsアップ〔月下〕": {
-    "JP": null,
-    "CN": "Arts提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Busterアップ〔月下〕": {
-    "JP": null,
-    "CN": "Buster提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "NP獲得アップ〔月下〕": {
-    "JP": null,
-    "CN": "NP获取提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quickアップ〔月下〕": {
-    "JP": null,
-    "CN": "Quick提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スター発生アップ〔日輪〕": {
-    "JP": null,
-    "CN": "星掉落提升〔日轮〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "日輪": {
-    "JP": null,
-    "CN": "日轮",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "月下": {
-    "JP": null,
-    "CN": "月下",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "特性付与〔イリヤ〕": {
-    "JP": null,
-    "CN": "特性付与〔伊莉雅〕",
-    "TW": "特性賦予〔伊莉雅〕",
-    "NA": "Apply Trait (Illya)",
-    "KR": "특성 부여[이리야]"
-  },
-  "威力アップ〔精神異常〕": {
-    "JP": null,
-    "CN": "威力提升〔精神异常〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "被スター発生耐性ダウン": {
-    "JP": null,
-    "CN": "被暴击星掉落耐性下降",
-    "TW": null,
-    "NA": "Decrease C. Star Drop Resistance",
-    "KR": null
-  },
-  "Artsアップ〔動物がいる間〕": {
-    "JP": null,
-    "CN": "Arts提升〔动物在场时〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "トライ・アーク・ライダー": {
-    "JP": null,
-    "CN": "三骑·弓骑兵",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Arts攻撃時追加効果〔境域掌握〕": {
-    "JP": null,
-    "CN": "Arts攻击时追加效果〔境域掌握〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Buster攻撃時追加効果〔境域掌握〕": {
-    "JP": null,
-    "CN": "Buster攻击时追加效果〔境域掌握〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quick攻撃時追加効果〔境域掌握〕": {
-    "JP": null,
-    "CN": "Quick攻击时追加效果〔境域掌握〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "不沈の号令（騎）": {
-    "JP": null,
-    "CN": "不沉号令（骑）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "境域掌握": {
-    "JP": null,
-    "CN": "Realm Mastery",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "境域掌握（騎）": {
-    "JP": null,
-    "CN": "领域支配（骑）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "駿馬、戦場を駆る（騎）": {
-    "JP": null,
-    "CN": "骏马，驰骋战场（骑）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "幕末チャンバラパワー": {
-    "JP": null,
-    "CN": "幕末剑戟力量",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "納刀体勢": {
-    "JP": null,
-    "CN": "纳刀态势",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ガッツ<低確率>": {
-    "JP": null,
-    "CN": "毅力<低概率>",
-    "TW": null,
-    "NA": "Guts <Low Chance>",
-    "KR": null
-  },
-  "特性付与〔新選組〕": {
-    "JP": null,
-    "CN": "付与特性〔新选组〕",
-    "TW": null,
-    "NA": "Apply Trait (Shinsengumi)",
-    "KR": null
-  },
-  "Arts威力アップ〔クリティカル〕": {
-    "JP": null,
-    "CN": "Arts威力提升〔暴击〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Buster威力アップ〔クリティカル〕": {
-    "JP": null,
-    "CN": "Buster威力提升〔暴击〕",
-    "TW": "Buster威力提升〔爆擊〕",
-    "NA": "Buster Strength Up (Critical)",
-    "KR": null
-  },
-  "Quick威力アップ〔クリティカル〕": {
-    "JP": null,
-    "CN": "Quick威力提升〔暴击〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "即死無効〔気配遮断〕": {
-    "JP": null,
-    "CN": "即死无效〔气息遮断〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "弱体付与アップ〔気配遮断〕": {
-    "JP": null,
-    "CN": "弱化状态付与提升〔气息遮断〕",
-    "TW": null,
-    "NA": "Debuff Chance Up (Presence Concealment)",
-    "KR": null
-  },
-  "暗剣（殺）": {
-    "JP": null,
-    "CN": "暗剑（杀）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "気配遮断（殺）": {
-    "JP": null,
-    "CN": "气息遮断 （杀）",
-    "TW": null,
-    "NA": "Presence Concealment (Assassin)",
-    "KR": null
-  },
-  "無疵の間合い（殺）": {
-    "JP": null,
-    "CN": "无伤间合（杀）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールドセット〔ハロウィン〕": {
-    "JP": null,
-    "CN": "场地设置〔万圣节〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "プラネットセッション": {
-    "JP": null,
-    "CN": "行星会议",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "特性付与〔エリザベート〕": {
-    "JP": null,
-    "CN": "特性付与〔伊丽莎白〕",
-    "TW": "特性賦予〔伊莉莎白〕",
-    "NA": "Apply Trait (Elisabeth)",
-    "KR": "특성 부여[엘리자베트]"
-  },
-  "呪い滲出": {
-    "JP": null,
-    "CN": "诅咒渗出",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "自焼": {
-    "JP": null,
-    "CN": "自燃",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Artsブースト〔鈍の矢弾〕": {
-    "JP": null,
-    "CN": "Arts性能提升〔钝之箭弹〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Busterブースト〔鈍の矢弾〕": {
-    "JP": null,
-    "CN": "Buster提升〔钝的矢弹〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Quickブースト〔鈍の矢弾〕": {
-    "JP": null,
-    "CN": "Quick强化〔钝之矢弹〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル威力アップ：Arts": {
-    "JP": null,
-    "CN": "暴击威力提升：Arts",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル威力アップ：Buster": {
-    "JP": null,
-    "CN": "暴击威力提升：Buster",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クリティカル威力アップ：Quick": {
-    "JP": null,
-    "CN": "暴击威力提升：Quick",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "単独行動（弓）": {
-    "JP": null,
-    "CN": "单独行动（弓）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具威力アップ：Buster": {
-    "JP": null,
-    "CN": "宝具威力提升:Buster",
-    "TW": "寶具威力提升：Buster",
-    "NA": "NP Strength Up: Buster",
-    "KR": null
-  },
-  "宝具威力アップ：Quick": {
-    "JP": null,
-    "CN": "宝具威力提升:Quick",
-    "TW": "寶具威力提升：Quick",
-    "NA": "NP Strength Up: Quick",
-    "KR": null
-  },
-  "射て晴らすは征箭の雨（弓）": {
-    "JP": null,
-    "CN": "射清征箭之雨（弓）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "見敵迎撃": {
-    "JP": null,
-    "CN": "见敌迎击",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "鈍の矢弾": {
-    "JP": null,
-    "CN": "钝矢弹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
   "鷲の目（弓）": {
     "JP": null,
-    "CN": "鹰眼（弓）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔Arts攻撃耐性ダウン〕": {
-    "JP": null,
-    "CN": "场地效果〔Arts指令卡耐性下降〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔Buster攻撃耐性ダウン〕": {
-    "JP": null,
-    "CN": "场地效果〔Buster指令卡耐性下降〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔Quick攻撃耐性ダウン〕": {
-    "JP": null,
-    "CN": "场地效果〔Quick指令卡耐性下降〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具使用時NP還元": {
-    "JP": null,
-    "CN": "宝具使用时NP复原",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具使用時チャージ還元": {
-    "JP": null,
-    "CN": "宝具使用时充能复原",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "指先の言葉（術）": {
-    "JP": null,
-    "CN": "指尖之语（术）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "道具作成（術）": {
-    "JP": null,
-    "CN": "道具作成（术）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "防御力アップ〔七騎士クラス〕": {
-    "JP": null,
-    "CN": "防御力提升〔七骑士职阶〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "結界作成": {
-    "JP": null,
-    "CN": "结界作成",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エニス・グイトリン": {
-    "JP": null,
-    "CN": "伊尼斯・古特灵",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ガッツ回復量アップ": {
-    "JP": null,
-    "CN": "毅力回复量提升",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "毎ターンHP減少": {
-    "JP": null,
-    "CN": "每回合HP减少",
-    "TW": null,
-    "NA": "HP Loss Per Turn",
-    "KR": null
-  },
-  "湖水の夢": {
-    "JP": null,
-    "CN": "湖水之梦",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "騎士叙勲": {
-    "JP": null,
-    "CN": "骑士授勋",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔攻撃力アップ〕": {
-    "JP": null,
-    "CN": "场地效果〔攻击力提升〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ブルーム・フローリスト": {
-    "JP": null,
-    "CN": "花绽的园艺师",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "灰桜": {
-    "JP": null,
-    "CN": "樱灰",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冥界の花園": {
-    "JP": null,
-    "CN": "冥界的花园",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔クリティカル威力耐性ダウン〕": {
-    "JP": null,
-    "CN": "场地效果〔暴击威力耐性下降〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔宝具威力耐性ダウン〕": {
-    "JP": null,
-    "CN": "场地效果〔宝具威力耐性下降〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フィールド効果〔防御力ダウン〕": {
-    "JP": null,
-    "CN": "场地效果〔防御力下降〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サスペンス・アクター": {
-    "JP": null,
-    "CN": "悬疑演员",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "テオブロマ・カリス": {
-    "JP": null,
-    "CN": "提歐布羅馬・卡利斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ〔封印〕": {
-    "JP": null,
-    "CN": "威力提升（封印）",
-    "TW": "威力提升﹝封印﹞",
-    "NA": "STR Up vs. Seal",
-    "KR": null
-  },
-  "毒＆呪い＆やけど無効": {
-    "JP": null,
-    "CN": "毒＆诅咒＆灼烧无效",
-    "TW": null,
-    "NA": "Poison & Curse & Burn Immune",
-    "KR": null
-  },
-  "stranger Folklore": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "宝具威力耐性ダウン": {
-    "JP": null,
-    "CN": "宝具威力耐性下降",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ〔中庸〕": {
-    "JP": null,
-    "CN": "威力提升〔中庸〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "〔呪い〕回復化": {
-    "JP": null,
-    "CN": "〔诅咒〕回复化",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ〔中立〕": {
-    "JP": null,
-    "CN": "威力提升〔中立〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "おもてなし力": {
-    "JP": null,
-    "CN": "Hospitality skills",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "過去改竄": {
-    "JP": null,
-    "CN": "篡改过去",
+    "CN": "Eagle Eye (Archer)",
     "TW": null,
     "NA": null,
     "KR": null

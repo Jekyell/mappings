@@ -191,9 +191,9 @@
   "アクアマリー": {
     "JP": null,
     "CN": "水玛丽",
-    "TW": "激流的瑪麗",
+    "TW": "水瑪莉",
     "NA": "Aqua Marie",
-    "KR": null
+    "KR": "아쿠아마리"
   },
   "アステリオス？": {
     "JP": null,
@@ -201,6 +201,20 @@
     "TW": "阿斯忒里翁？",
     "NA": "Asterios?",
     "KR": "아스테리오스?"
+  },
+  "アズライール": {
+    "JP": null,
+    "CN": "Azrael",
+    "TW": null,
+    "NA": "Azrael",
+    "KR": null
+  },
+  "アデーレ＆マカリオス": {
+    "JP": null,
+    "CN": "Adele & Macarios",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "アトランティス防衛兵": {
     "JP": null,
@@ -286,6 +300,20 @@
     "NA": "Avicebron's Golem",
     "KR": "아비케브론 골렘"
   },
+  "アーシャ＆アジャイ": {
+    "JP": null,
+    "CN": "Asha & Ajay",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アーチャー": {
+    "JP": null,
+    "CN": "Archer",
+    "TW": null,
+    "NA": "Archer",
+    "KR": null
+  },
   "イスカリ": {
     "JP": null,
     "CN": "伊斯卡利",
@@ -296,7 +324,7 @@
   "イノトリア": {
     "JP": null,
     "CN": "猪托莉雅",
-    "TW": "野豬托莉亞",
+    "TW": "豬托莉亞",
     "NA": "Boartria",
     "KR": "멧돼트리아"
   },
@@ -401,14 +429,14 @@
   "ウデトリア": {
     "JP": null,
     "CN": "手托莉雅",
-    "TW": "腕托莉亞",
+    "TW": "手托莉亞",
     "NA": "Armtria",
     "KR": "팔뚝트리아"
   },
   "ウミヌンノス": {
     "JP": null,
     "CN": "海洋努诺斯",
-    "TW": "海努諾斯",
+    "TW": "海洋努諾斯",
     "NA": "Oceanunnos",
     "KR": "바다눈노스"
   },
@@ -468,12 +496,19 @@
     "NA": "Ancient Ghost",
     "KR": "에인션트 고스트"
   },
+  "エンシェントサウルス": {
+    "JP": null,
+    "CN": "Ancient Saurus",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "エンフォーサー": {
     "JP": null,
     "CN": "执行者",
     "TW": "執行者",
     "NA": "Enforcer",
-    "KR": null
+    "KR": "인포서"
   },
   "オオヤドカリ": {
     "JP": null,
@@ -481,6 +516,20 @@
     "TW": "大寄居蟹",
     "NA": "Giant Hermit Crab",
     "KR": "큰 소라게"
+  },
+  "オグ": {
+    "JP": null,
+    "CN": "Ogu",
+    "TW": "奧格",
+    "NA": null,
+    "KR": null
+  },
+  "オフェリア": {
+    "JP": null,
+    "CN": "Ophelia",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "オリジン・キメラ": {
     "JP": null,
@@ -510,6 +559,13 @@
     "NA": "Olympus Soldier",
     "KR": "올림포스 병사"
   },
+  "オロチ・フロストレルム": {
+    "JP": null,
+    "CN": "Orochi Frostrealm",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "オートマタ": {
     "JP": null,
     "CN": "自动人偶",
@@ -523,6 +579,20 @@
     "TW": "陳舊裝置",
     "NA": "Old Gear",
     "KR": "올드 기어"
+  },
+  "オールドシェル": {
+    "JP": null,
+    "CN": "Old Shell",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カドック＆アナスタシア": {
+    "JP": null,
+    "CN": "Kadoc & Anastasia",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "カマソッソ": {
     "JP": null,
@@ -562,8 +632,8 @@
   "ガラガラオロチ": {
     "JP": null,
     "CN": "响尾大蛇",
-    "TW": "嘎啦嘎啦大蛇",
-    "NA": "Rattle Orochi",
+    "TW": "響尾大蛇",
+    "NA": "Rattle-Orochi",
     "KR": "방울오로치"
   },
   "ガラスハンド": {
@@ -592,7 +662,7 @@
     "CN": "防卫执行者",
     "TW": "守衛執行者",
     "NA": "Guard Enforcer",
-    "KR": null
+    "KR": "가드 인포서"
   },
   "キシトリア": {
     "JP": null,
@@ -628,6 +698,20 @@
     "TW": "殺戮人偶",
     "NA": "Killing Doll",
     "KR": "킬링 돌"
+  },
+  "キレーちゃん": {
+    "JP": null,
+    "CN": "绮礼酱",
+    "TW": null,
+    "NA": "Kirei-chan",
+    "KR": null
+  },
+  "キングエリザ": {
+    "JP": null,
+    "CN": "King Elizabeth",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "キングサンタ・ネコアルク": {
     "JP": null,
@@ -683,6 +767,20 @@
     "CN": "加拉哈德",
     "TW": "加拉哈德",
     "NA": "Galahad",
+    "KR": null
+  },
+  "ギルガメッシュ・ネイキッド": {
+    "JP": null,
+    "CN": "Gilgamesh (Naked)",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クエーサー・ジェネシス": {
+    "JP": null,
+    "CN": "Quasar Genesis",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "クコチヒコ": {
@@ -783,6 +881,13 @@
     "NA": "Crimson Jade",
     "KR": "크림슨 셰이드"
   },
+  "クロノサウルス": {
+    "JP": null,
+    "CN": "Chronosaurus",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "クーノブ": {
     "JP": null,
     "CN": "库信",
@@ -816,6 +921,13 @@
     "CN": "宏玛丽",
     "TW": "宏偉瑪麗",
     "NA": "Grand Marie",
+    "KR": null
+  },
+  "グリムクロウ": {
+    "JP": null,
+    "CN": "Grim Crow",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "グリモア": {
@@ -951,6 +1063,13 @@
     "NA": "Goblin",
     "KR": "고블린"
   },
+  "ゴブリン三兄弟": {
+    "JP": null,
+    "CN": "Goblin Tri-Brothers",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ゴースト": {
     "JP": null,
     "CN": "鬼魂",
@@ -1028,6 +1147,13 @@
     "NA": "Sapphire Golem",
     "KR": null
   },
+  "サベージホーク": {
+    "JP": null,
+    "CN": "Savage Hawk",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "サメトリア": {
     "JP": null,
     "CN": "鲨托莉雅",
@@ -1042,6 +1168,13 @@
     "NA": "Saramā",
     "KR": "사라마"
   },
+  "サン": {
+    "JP": null,
+    "CN": "Sun",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "サンダーブック": {
     "JP": null,
     "CN": "冰雪咒书",
@@ -1052,9 +1185,9 @@
   "サンドワーム": {
     "JP": null,
     "CN": "砂砾蠕虫",
-    "TW": "沙蟲",
+    "TW": "砂礫蠕蟲",
     "NA": "Sandworm",
-    "KR": null
+    "KR": "샌드웜"
   },
   "シェイプシフター": {
     "JP": null,
@@ -1090,6 +1223,13 @@
     "TW": "夏塔克鳥",
     "NA": "Shantak",
     "KR": "샨타크"
+  },
+  "シャークナイト": {
+    "JP": null,
+    "CN": "Shark Knight",
+    "TW": "鯊騎士",
+    "NA": "Shark Knight",
+    "KR": null
   },
   "シャークパイレーツ": {
     "JP": null,
@@ -1152,12 +1292,12 @@
     "CN": "钢铁蠕虫",
     "TW": "鋼蟲",
     "NA": "Steel Worm",
-    "KR": null
+    "KR": "스틸웜"
   },
   "ステラマリー": {
     "JP": null,
     "CN": "星玛丽",
-    "TW": null,
+    "TW": "星瑪麗",
     "NA": "Stellar Marie",
     "KR": null
   },
@@ -1174,6 +1314,13 @@
     "TW": "雪人",
     "NA": "Snowman",
     "KR": "스노우맨"
+  },
+  "スパイラル・レイザー": {
+    "JP": null,
+    "CN": "Spiral Laser",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "スフィンクス": {
     "JP": null,
@@ -1231,6 +1378,20 @@
     "NA": "Surtr Fenrir",
     "KR": "수르트・펜리르"
   },
+  "スーサ・オール": {
+    "JP": null,
+    "CN": "Susa-all",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "スース・オール": {
+    "JP": null,
+    "CN": "Suse-All",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "スーパーイシュタル": {
     "JP": null,
     "CN": "超级伊什塔尔",
@@ -1273,6 +1434,13 @@
     "NA": "Super Hijikata",
     "KR": "슈퍼 히지카타"
   },
+  "セイファート・ライムライト": {
+    "JP": null,
+    "CN": "Seyfert Limelight",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "センネンヤドカリ": {
     "JP": null,
     "CN": "千年寄居蟹",
@@ -1301,12 +1469,26 @@
     "NA": "Zeus-Gaia",
     "KR": "제우스・가이아"
   },
+  "ゼエヴ・オール": {
+    "JP": null,
+    "CN": "Zeev Ohr",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ソウルイーター": {
     "JP": null,
     "CN": "噬魂者",
     "TW": "噬魂者",
     "NA": "Soul Eater",
     "KR": "소울이터"
+  },
+  "ソンブレロ・アポカリプス": {
+    "JP": null,
+    "CN": "Sombrero Apocalypse",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ゾンビ": {
     "JP": null,
@@ -1336,6 +1518,27 @@
     "NA": "Zombie Cop",
     "KR": "좀비 경찰"
   },
+  "タイムシェル": {
+    "JP": null,
+    "CN": "Time Shell",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "タコ型宇宙人＠黄花": {
+    "JP": null,
+    "CN": "Octopus-type Alien @Huanghua",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "タルネゴール・オール": {
+    "JP": null,
+    "CN": "Talnegol All",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "タロス": {
     "JP": null,
     "CN": "塔罗斯",
@@ -1348,7 +1551,7 @@
     "CN": "代达罗斯",
     "TW": "代達洛斯",
     "NA": "Daedalus",
-    "KR": null
+    "KR": "다이달로스"
   },
   "ダゴン": {
     "JP": null,
@@ -1378,6 +1581,13 @@
     "NA": "Da Vinci-chan",
     "KR": "다 빈치짱"
   },
+  "ダークお母さんチョコ": {
+    "JP": null,
+    "CN": "Dark Mom Chocolate",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "チンピラ": {
     "JP": null,
     "CN": "小混混",
@@ -1406,6 +1616,13 @@
     "NA": "Tituba",
     "KR": "티튜바"
   },
+  "テペウ": {
+    "JP": null,
+    "CN": "Tepeu",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "テュフォン・ネオス": {
     "JP": null,
     "CN": "堤丰·涅俄斯",
@@ -1425,21 +1642,14 @@
     "CN": "甜点鬼魂",
     "TW": "甜點鬼魂",
     "NA": "Desert Ghost",
-    "KR": null
+    "KR": "데저트 고스트"
   },
   "デザートスケルトン": {
     "JP": null,
     "CN": "甜点骷髅兵",
-    "TW": "甜點骷髏",
+    "TW": "甜點骷髏兵",
     "NA": "Desert Skeleton",
-    "KR": null
-  },
-  "デメテル": {
-    "JP": null,
-    "CN": "得墨忒耳",
-    "TW": "狄蜜特",
-    "NA": "Demeter",
-    "KR": "데메테르"
+    "KR": "데저트 스켈레톤"
   },
   "デーモン": {
     "JP": null,
@@ -1473,7 +1683,7 @@
     "JP": null,
     "CN": "车手信",
     "TW": "飆車信",
-    "NA": "Drive Nobbu",
+    "NA": "Nobbu Drive",
     "KR": "드라이놋부"
   },
   "ドラゴニュート": {
@@ -1504,6 +1714,20 @@
     "NA": "Doll Maid",
     "KR": "인형 메이드"
   },
+  "ドーヴ": {
+    "JP": null,
+    "CN": "Dove",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ナハシュ・オール": {
+    "JP": null,
+    "CN": "Nahash Or",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ナーガ": {
     "JP": null,
     "CN": "那伽",
@@ -1518,6 +1742,13 @@
     "NA": "Naga Raja",
     "KR": "나가라자"
   },
+  "ニューノブ選組": {
+    "JP": null,
+    "CN": "New Nobu Shinsengumi",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ニワトリア": {
     "JP": null,
     "CN": "鸡托莉雅",
@@ -1528,7 +1759,7 @@
   "ニワトリア・リリィ": {
     "JP": null,
     "CN": "鸡托莉雅·Lily",
-    "TW": "雞托莉亞・Lily",
+    "TW": "雞托莉亞．Lily",
     "NA": "Poultria Lily",
     "KR": "닭트리아 릴리"
   },
@@ -1539,11 +1770,25 @@
     "NA": "Neko 108",
     "KR": null
   },
-  "ネモ／ノア": {
+  "ネフィリム": {
     "JP": null,
-    "CN": "尼莫/诺亚",
-    "TW": "尼莫/諾亞",
-    "NA": "Nemo/Noah",
+    "CN": "Nephilim",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ノアズ・アーク": {
+    "JP": null,
+    "CN": "Noah's Ark",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ノア・ゾーハル": {
+    "JP": null,
+    "CN": "Noah Zohar",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "ノッブUFO": {
@@ -1588,12 +1833,19 @@
     "NA": "HassaNobu",
     "KR": "하사노부"
   },
+  "ハンサムエンフォーサー": {
+    "JP": null,
+    "CN": "Handsome Enforcer",
+    "TW": null,
+    "NA": "Handsome Enforcer",
+    "KR": null
+  },
   "ハントエンフォーサー": {
     "JP": null,
     "CN": "猎手执行者",
     "TW": "狩獵執行者",
     "NA": "Hunt Enforcer",
-    "KR": null
+    "KR": "헌트 인포서"
   },
   "バイアクヘー": {
     "JP": null,
@@ -1629,6 +1881,20 @@
     "TW": "巴比倫士兵",
     "NA": "Babylon Soldier",
     "KR": "바빌론 병사"
+  },
+  "バーサーカー": {
+    "JP": null,
+    "CN": "Berserker",
+    "TW": null,
+    "NA": "Berserker",
+    "KR": null
+  },
+  "パツシィ": {
+    "JP": null,
+    "CN": "帕茨希",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "パンプキンオーガ・Ｊ": {
     "JP": null,
@@ -1745,9 +2011,16 @@
   "フレアマリー": {
     "JP": null,
     "CN": "火玛丽",
-    "TW": "燃燒的瑪麗",
+    "TW": "火瑪莉",
     "NA": "Flare Marie",
     "KR": "플레어 마리"
+  },
+  "フレッカス": {
+    "JP": null,
+    "CN": "Fleccas",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ブラックウルフ": {
     "JP": null,
@@ -1773,16 +2046,16 @@
   "ブレイズハンド": {
     "JP": null,
     "CN": "火焰之手",
-    "TW": "烈焰之手",
+    "TW": "火焰之手",
     "NA": "Blaze Hand",
-    "KR": null
+    "KR": "블레이즈 핸드"
   },
   "ブレイズフィスト": {
     "JP": null,
     "CN": "火焰之拳",
-    "TW": "烈焰之拳",
+    "TW": "火焰之拳",
     "NA": "Blaze Fist",
-    "KR": null
+    "KR": "블레이즈 피스트"
   },
   "ブロンズスプリガン": {
     "JP": null,
@@ -1822,7 +2095,7 @@
   "ヘビードラゴン": {
     "JP": null,
     "CN": "蛇龙",
-    "TW": "重型龍",
+    "TW": "蛇龍",
     "NA": "Heavy Dragon",
     "KR": "헤비 드래곤"
   },
@@ -1847,12 +2120,26 @@
     "NA": "Helter Skelter",
     "KR": "헬터 스켈터"
   },
+  "ベリル": {
+    "JP": null,
+    "CN": "Beryl",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ベル・ラフム": {
     "JP": null,
     "CN": "巴力拉赫穆",
     "TW": "巴力拉赫穆",
     "NA": "Bel Lahmu",
     "KR": "벨 라흐무"
+  },
+  "ペペロンチーノ": {
+    "JP": null,
+    "CN": "Peperoncino",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ホムンクルス": {
     "JP": null,
@@ -1867,6 +2154,13 @@
     "TW": "白色奇美拉",
     "NA": "White Chimera ",
     "KR": "화이트 키메라"
+  },
+  "ボンバーノッブ": {
+    "JP": null,
+    "CN": "Bomber Nobu",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ボーパルチキン": {
     "JP": null,
@@ -1889,12 +2183,47 @@
     "NA": "Mighty Merman",
     "KR": "마이티 머맨"
   },
+  "マガツヒトノカミ": {
+    "JP": null,
+    "CN": "祸津日神",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マガツヒノカミ": {
+    "JP": null,
+    "CN": "Magatsuhi no Kami",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マガツヒノカミ弾正": {
+    "JP": null,
+    "CN": "Magatsuhi no Kami Danjo",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "マガツ弾正": {
+    "JP": null,
+    "CN": "Magatsu Danjo",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "マジカルステッキ": {
     "JP": null,
     "CN": "魔法杖",
     "TW": "魔法杖",
     "NA": "Magical Stick",
     "KR": "매지컬 스틱"
+  },
+  "マスクエンフォーサー": {
+    "JP": null,
+    "CN": "Mask Enforcer",
+    "TW": null,
+    "NA": "Masked Enforcer",
+    "KR": null
   },
   "マスクオートマタ": {
     "JP": null,
@@ -1916,6 +2245,13 @@
     "TW": "巴流術假面",
     "NA": "Mask de Baritsu",
     "KR": "마스크 드 바리츠"
+  },
+  "マゼラン・スターロード": {
+    "JP": null,
+    "CN": "Magellan Starroad",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "マックスウェルの悪魔": {
     "JP": null,
@@ -1964,7 +2300,7 @@
     "CN": "好战机械",
     "TW": "軍事機器",
     "NA": "Militant Machine",
-    "KR": null
+    "KR": "밀리턴트 머신"
   },
   "ムシュフシュ": {
     "JP": null,
@@ -1994,6 +2330,13 @@
     "NA": "Moon Cancer@Boss",
     "KR": "문・캔서＠보스"
   },
+  "メイオール・エタニティ": {
+    "JP": null,
+    "CN": "Mayall Eternity",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "メイヴ監獄長": {
     "JP": null,
     "CN": "梅芙监狱长",
@@ -2004,9 +2347,9 @@
   "メカニカルソルジャー": {
     "JP": null,
     "CN": "机械战士",
-    "TW": "機械兵",
+    "TW": "機械戰士",
     "NA": "Mechanical Soldier",
-    "KR": null
+    "KR": "메카니컬 솔저"
   },
   "メガロス": {
     "JP": null,
@@ -2060,7 +2403,7 @@
   "モエルンノス": {
     "JP": null,
     "CN": "火焰努诺斯",
-    "TW": "燃燒努諾斯",
+    "TW": "火焰努諾斯",
     "NA": "Burnunnos",
     "KR": "불타눈노스"
   },
@@ -2120,12 +2463,19 @@
     "NA": "Yaraändoo",
     "KR": "야라안두"
   },
+  "ライダー": {
+    "JP": null,
+    "CN": "Rider",
+    "TW": null,
+    "NA": "Rider",
+    "KR": null
+  },
   "ライトニングバード": {
     "JP": null,
     "CN": "闪电鸟",
-    "TW": "閃電之鳥",
+    "TW": "閃電鳥",
     "NA": "Lightning Bird",
-    "KR": null
+    "KR": "라이트닝 버드"
   },
   "ラズルシャーチ": {
     "JP": null,
@@ -2155,6 +2505,13 @@
     "NA": "Lamia Queen",
     "KR": "라미아 퀸"
   },
+  "ランサー": {
+    "JP": null,
+    "CN": "lancer",
+    "TW": null,
+    "NA": "Lancer",
+    "KR": null
+  },
   "リア王": {
     "JP": null,
     "CN": "李尔王",
@@ -2167,7 +2524,7 @@
     "CN": "诱导执行者",
     "TW": "領導執行者",
     "NA": "Lead Enforcer",
-    "KR": null
+    "KR": "리드 인포서"
   },
   "ルビーゴーレム": {
     "JP": null,
@@ -2183,6 +2540,13 @@
     "NA": "Rainbow Wyvern",
     "KR": "레인보우 와이번"
   },
+  "レイヴン": {
+    "JP": null,
+    "CN": "Raven",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ロストベルト：ビーストⅣ": {
     "JP": null,
     "CN": "Lostbelt：Beast Ⅳ",
@@ -2194,15 +2558,15 @@
     "JP": null,
     "CN": "大鹏",
     "TW": "大鵬",
-    "NA": "Rock Bird",
-    "KR": null
+    "NA": "Roc Bird",
+    "KR": "로크새"
   },
   "ワァフスフィンクス": {
     "JP": null,
     "CN": "海赫斯芬克斯",
     "TW": "海赫斯芬克斯",
     "NA": "Huah Sphinx",
-    "KR": null
+    "KR": "와흐 스핑크스"
   },
   "ワイバーン": {
     "JP": null,
@@ -2242,9 +2606,9 @@
   "ワイルドハント": {
     "JP": null,
     "CN": "狂猎",
-    "TW": "狂野獵犬",
+    "TW": "狂獵",
     "NA": "Wild Hunt",
-    "KR": null
+    "KR": "와일드 헌트"
   },
   "ヴァジュラ": {
     "JP": null,
@@ -2309,6 +2673,13 @@
     "NA": "King of Men Goetia",
     "KR": "인왕 게티아"
   },
+  "人造浪士": {
+    "JP": null,
+    "CN": "Artificial Ronin",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "今川義元": {
     "JP": null,
     "CN": "今川义元",
@@ -2320,7 +2691,7 @@
     "JP": null,
     "CN": "今魔川兵",
     "TW": "今魔川兵",
-    "NA": "Imagawa Warrior",
+    "NA": "Imagawa Soldier",
     "KR": "이마가와 병사"
   },
   "偽オリオン": {
@@ -2347,9 +2718,9 @@
   "冥府に至る大穴": {
     "JP": null,
     "CN": "通往冥府的大洞",
-    "TW": "通往冥府的大洞穴",
-    "NA": "Large Hole Leading to the Underworld",
-    "KR": null
+    "TW": "通往冥府的大洞",
+    "NA": "Giant Hole to the Underworld",
+    "KR": "명부에 이르는 큰 구멍"
   },
   "勇者の扉": {
     "JP": null,
@@ -2438,7 +2809,7 @@
   "呪怨蟲": {
     "JP": null,
     "CN": "咒怨虫",
-    "TW": null,
+    "TW": "咒怨蟲",
     "NA": "Cursed Grudge Insect",
     "KR": null
   },
@@ -2460,8 +2831,8 @@
     "JP": null,
     "CN": "咒肉块",
     "TW": "咒肉塊",
-    "NA": "Accursed Flesh",
-    "KR": null
+    "NA": "Cursed Mass of Flesh",
+    "KR": "주육괴"
   },
   "四奸六賊": {
     "JP": null,
@@ -2508,9 +2879,9 @@
   "大呪肉塊": {
     "JP": null,
     "CN": "大咒肉块",
-    "TW": "巨大咒肉塊",
-    "NA": "Large Accursed Flesh",
-    "KR": null
+    "TW": "大咒肉塊",
+    "NA": "Large Cursed Mass of Flesh",
+    "KR": "대주육괴"
   },
   "大土蜘蛛": {
     "JP": null,
@@ -2624,6 +2995,13 @@
     "NA": "4th Rank Angel",
     "KR": null
   },
+  "天牛の残光": {
+    "JP": null,
+    "CN": "Afterglow of the Capricorn",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "天花": {
     "JP": null,
     "CN": "天花",
@@ -2673,6 +3051,13 @@
     "NA": "Queen's Soldier",
     "KR": null
   },
+  "女神アーテー": {
+    "JP": null,
+    "CN": "Goddess Ate",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "女酷吏": {
     "JP": null,
     "CN": "女酷吏",
@@ -2706,6 +3091,20 @@
     "CN": "小鬼",
     "TW": "小鬼",
     "NA": "Oni Imp",
+    "KR": null
+  },
+  "屍兵": {
+    "JP": null,
+    "CN": "Skeleton",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "屍草": {
+    "JP": null,
+    "CN": "Dead Grass",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "山の巨人": {
@@ -2813,6 +3212,27 @@
     "NA": "Mourning Ghost",
     "KR": "기령"
   },
+  "怪奇植物": {
+    "JP": null,
+    "CN": "Strange Plant",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "怪奇草": {
+    "JP": null,
+    "CN": "怪奇草",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "怪炎草": {
+    "JP": null,
+    "CN": "Monster Flame Herb",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "怪腕のゴズール": {
     "JP": null,
     "CN": "怪腕之戈兹尔",
@@ -2886,7 +3306,7 @@
   "暴れカンガルー": {
     "JP": null,
     "CN": "大闹的袋鼠",
-    "TW": "狂暴袋鼠",
+    "TW": "大鬧的袋鼠",
     "NA": "Rampaging Kangaroo",
     "KR": "난폭한 캥거루"
   },
@@ -2901,8 +3321,8 @@
     "JP": null,
     "CN": "最终使徒卡利奥斯特罗绝望伯爵",
     "TW": "最終使徒卡廖斯特羅絕望伯爵",
-    "NA": "Final Apostle: The Count of Despair, Cagliostro",
-    "KR": null
+    "NA": "Final Apostle Cagliostro",
+    "KR": "최종사도 칼리오스트로 절망백"
   },
   "服部武雄": {
     "JP": null,
@@ -2917,6 +3337,13 @@
     "TW": "朱瑞鳥．紅閻魔",
     "NA": "Vermillion Bird, Beni-Enma",
     "KR": "주서조・베니엔마"
+  },
+  "松永弾正": {
+    "JP": null,
+    "CN": "Matsunaga Danjo",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "柴田勝家": {
     "JP": null,
@@ -2942,9 +3369,9 @@
   "椀々様": {
     "JP": null,
     "CN": "椀椀大人",
-    "TW": null,
-    "NA": "Ms. Bowl",
-    "KR": null
+    "TW": "椀椀大人",
+    "NA": "Wanwan",
+    "KR": "완완 님"
   },
   "極北大呪黒卵": {
     "JP": null,
@@ -2964,8 +3391,8 @@
     "JP": null,
     "CN": "死灵骑士",
     "TW": "死靈騎士",
-    "NA": "Death Knight",
-    "KR": null
+    "NA": "Undead Knight",
+    "KR": "사령기사"
   },
   "殺人鬼": {
     "JP": null,
@@ -3000,7 +3427,7 @@
     "CN": "海幸彦",
     "TW": "海幸彥",
     "NA": "Umisachihiko",
-    "KR": null
+    "KR": "우미사치히코"
   },
   "海賊": {
     "JP": null,
@@ -3027,7 +3454,7 @@
     "JP": null,
     "CN": "海道霸皇『氏真』",
     "TW": "海道霸皇『氏真』",
-    "NA": "Seaway's Supreme Ruler \"Ujizane\"",
+    "NA": "Highway Emperor Ujizane",
     "KR": "해도패황 ‘우지자네’"
   },
   "海魔": {
@@ -3057,6 +3484,13 @@
     "TW": "火之巨人",
     "NA": "Muspel",
     "KR": "불 거인"
+  },
+  "灰纏い": {
+    "JP": null,
+    "CN": "Ash-clad",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "無知性ディノス": {
     "JP": null,
@@ -3345,6 +3779,13 @@
     "NA": "Auto Def. Unit Mk-2",
     "KR": "자동방위장치·2식"
   },
+  "花眼草": {
+    "JP": null,
+    "CN": "花眼草",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "芹沢鴨": {
     "JP": null,
     "CN": "芹泽鸭",
@@ -3429,12 +3870,26 @@
     "NA": "Hero Crystal: Shining Fou",
     "KR": "영령결정·빛나는 포우"
   },
+  "草産みの眼花": {
+    "JP": null,
+    "CN": "Grass-Birth Eye-Flower",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "虎熊童子": {
     "JP": null,
     "CN": "虎熊童子",
     "TW": "虎熊童子",
     "NA": "Torakuma-Douji",
     "KR": "토라쿠마도지"
+  },
+  "虞美人＆項羽": {
+    "JP": null,
+    "CN": "Yu Meiren & Xiang Yu",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "蛇": {
     "JP": null,
@@ -3516,9 +3971,9 @@
   "贋作空想樹盈月": {
     "JP": null,
     "CN": "赝作空想树盈月",
-    "TW": "贋作空想樹盈月",
-    "NA": "Counterfeit Tree of Emptiness Waxing Moon",
-    "KR": null
+    "TW": "贗作空想樹盈月",
+    "NA": "Forged Tree of Emptiness, Waxing Moon",
+    "KR": "위작공상수 영월"
   },
   "赤かぼMARU": {
     "JP": null,
@@ -3618,6 +4073,13 @@
     "NA": "Roman Conf. Captain",
     "KR": "연합 로마 병사 대장"
   },
+  "邪眼草": {
+    "JP": null,
+    "CN": "Evil Eye of the Serpent",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "邪鬼": {
     "JP": null,
     "CN": "邪鬼",
@@ -3667,6 +4129,13 @@
     "NA": "Golden Mecha Nobbu",
     "KR": "금의 메카 놋부"
   },
+  "金の亡者": {
+    "JP": null,
+    "CN": "贪财鬼",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "金色魔太閤秀吉": {
     "JP": null,
     "CN": "金色魔太阁",
@@ -3706,8 +4175,8 @@
     "JP": null,
     "CN": "闪光虫",
     "TW": "閃光蟲",
-    "NA": "Flashbug",
-    "KR": null
+    "NA": "Flash Bug",
+    "KR": "섬광충"
   },
   "闇の新選組隊士": {
     "JP": null,
@@ -4066,6 +4535,13 @@
     "NA": "Dark Warrior",
     "KR": "검은 무사"
   },
+  "黒獅子": {
+    "JP": null,
+    "CN": "Black Lion",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "黒聖杯": {
     "JP": null,
     "CN": "黑圣杯",
@@ -4085,7 +4561,7 @@
     "CN": "???",
     "TW": "???",
     "NA": "???",
-    "KR": null
+    "KR": "???"
   },
   "ＢＢ／ＧＯ": {
     "JP": null,
@@ -4101,6 +4577,13 @@
     "NA": "K Rasputin",
     "KR": null
   },
+  "Ｍ・スペクトラム": {
+    "JP": null,
+    "CN": "M・Spectrum",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ＯＲＴ": {
     "JP": null,
     "CN": "ORT",
@@ -4108,529 +4591,11 @@
     "NA": "ORT",
     "KR": "ORT"
   },
-  "キレーちゃん": {
-    "JP": null,
-    "CN": "可琳",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "シャークナイト": {
-    "JP": null,
-    "CN": "鲨骑士",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ハンサムエンフォーサー": {
-    "JP": null,
-    "CN": "英俊执行者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マスクエンフォーサー": {
-    "JP": null,
-    "CN": "面具执行者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
   "Ｕプレジデントシップ": {
     "JP": null,
-    "CN": "U总统制",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ネフィリム": {
-    "JP": null,
-    "CN": "尼菲莉姆",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "オグ": {
-    "JP": null,
-    "CN": "奥格",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ドーヴ": {
-    "JP": null,
-    "CN": "多佛",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "レイヴン": {
-    "JP": null,
-    "CN": "乌鸦",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ノアズ・アーク": {
-    "JP": null,
-    "CN": "诺亚方舟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スーサ・オール": {
-    "JP": null,
-    "CN": "苏萨·奥尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スース・オール": {
-    "JP": null,
-    "CN": "苏斯·奥尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ゼエヴ・オール": {
-    "JP": null,
-    "CN": "泽夫·奥尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "タルネゴール・オール": {
-    "JP": null,
-    "CN": "塔涅戈尔·奥尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ナハシュ・オール": {
-    "JP": null,
-    "CN": "纳哈什·奥尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ノア・ゾーハル": {
-    "JP": null,
-    "CN": "诺亚·索哈尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ボンバーノッブ": {
-    "JP": null,
-    "CN": "炸弹信长",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "松永弾正": {
-    "JP": null,
-    "CN": "松永弹正",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ニューノブ選組": {
-    "JP": null,
-    "CN": "新诺布选组",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マガツヒトノカミ": {
-    "JP": null,
-    "CN": "祸津人神",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マガツヒノカミ": {
-    "JP": null,
-    "CN": "祸津日神",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マガツヒノカミ弾正": {
-    "JP": null,
-    "CN": "祸津日神 弹正",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マガツ弾正": {
-    "JP": null,
-    "CN": "祸津弹正",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "人造浪士": {
-    "JP": null,
-    "CN": "人造浪士",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アズライール": {
-    "JP": null,
-    "CN": "阿兹拉尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "タコ型宇宙人＠黄花": {
-    "JP": null,
-    "CN": "章鱼型宇宙人＠黄花",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フレッカス": {
-    "JP": null,
-    "CN": "弗雷卡斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "キングエリザ": {
-    "JP": null,
-    "CN": "国王伊丽莎",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ギルガメッシュ・ネイキッド": {
-    "JP": null,
-    "CN": "吉尔伽美什・Naked",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ロード・ログレス": {
-    "JP": null,
-    "CN": "领主・罗格雷斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アーチャー": {
-    "JP": null,
-    "CN": "Archer",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バーサーカー": {
-    "JP": null,
-    "CN": "Berserker",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ライダー": {
-    "JP": null,
-    "CN": "Rider",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ランサー": {
-    "JP": null,
-    "CN": "Lancer",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マリス・カルデアス": {
-    "JP": null,
-    "CN": "马里斯·迦勒底亚斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "オロチ・フロストレルム": {
-    "JP": null,
-    "CN": "大蛇・霜之国",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クエーサー・ジェネシス": {
-    "JP": null,
-    "CN": "Quasar Genesis",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スパイラル・レイザー": {
-    "JP": null,
-    "CN": "螺旋剃刀",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "セイファート・ライムライト": {
-    "JP": null,
-    "CN": "赛弗特·莱姆莱特",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ソンブレロ・アポカリプス": {
-    "JP": null,
-    "CN": "宽边帽启示录",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マゼラン・スターロード": {
-    "JP": null,
-    "CN": "麦哲伦・星之领主",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "メイオール・エタニティ": {
-    "JP": null,
-    "CN": "梅奥尔・永恒",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Ｍ・スペクトラム": {
-    "JP": null,
-    "CN": "M·光谱",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アデーレ＆マカリオス": {
-    "JP": null,
-    "CN": "阿黛尔 & 马卡里奥斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アーシャ＆アジャイ": {
-    "JP": null,
-    "CN": "Asha & Ajay",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "オフェリア": {
-    "JP": null,
-    "CN": "奧菲莉婭",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カドック＆アナスタシア": {
-    "JP": null,
-    "CN": "卡多克＆阿纳斯塔西娅",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ゴブリン三兄弟": {
-    "JP": null,
-    "CN": "哥布林三兄弟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "テペウ": {
-    "JP": null,
-    "CN": "特佩乌",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "パツシィ": {
-    "JP": null,
-    "CN": "帕茨希",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ベリル": {
-    "JP": null,
-    "CN": "贝里尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ペペロンチーノ": {
-    "JP": null,
-    "CN": "佩佩隆奇诺",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "虞美人＆項羽": {
-    "JP": null,
-    "CN": "虞美人＆項羽",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "怪奇植物": {
-    "JP": null,
-    "CN": "怪奇植物",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "屍草": {
-    "JP": null,
-    "CN": "尸草",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "灰纏い": {
-    "JP": null,
-    "CN": "Ash-Clad",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "草産みの眼花": {
-    "JP": null,
-    "CN": "草产之眼花",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ダークお母さんチョコ": {
-    "JP": null,
-    "CN": "黑暗妈妈巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "金の亡者": {
-    "JP": null,
-    "CN": "守财奴",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フランチェスカ・プレラーティ": {
-    "JP": null,
-    "CN": "弗兰切斯卡·普雷拉蒂",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "屍兵": {
-    "JP": null,
-    "CN": "尸兵",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "怪奇草": {
-    "JP": null,
-    "CN": "怪奇草",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "怪炎草": {
-    "JP": null,
-    "CN": "怪炎草",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "花眼草": {
-    "JP": null,
-    "CN": "花眼草",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "邪眼草": {
-    "JP": null,
-    "CN": "邪眼草",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "黒獅子": {
-    "JP": null,
-    "CN": "黑狮子",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "女神アーテー": {
-    "JP": null,
-    "CN": "女神阿忒",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サン": {
-    "JP": null,
-    "CN": "山",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "天牛の残光": {
-    "JP": null,
-    "CN": "天牛的残光",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "グリムクロウ": {
-    "JP": null,
-    "CN": "格林克劳",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サベージホーク": {
-    "JP": null,
-    "CN": "野蛮之鹰",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エンシェントサウルス": {
-    "JP": null,
-    "CN": "Ancient Saurus",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "オールドシェル": {
-    "JP": null,
-    "CN": "Old Shell",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クロノサウルス": {
-    "JP": null,
-    "CN": "Chronosaurus",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "タイムシェル": {
-    "JP": null,
-    "CN": "Time Shell",
-    "TW": null,
-    "NA": null,
+    "CN": "U-Presidentship",
+    "TW": "U總統號",
+    "NA": "U President Ship",
     "KR": null
   }
 }

@@ -1,15 +1,22 @@
 {
   "10周年記念": {
     "JP": null,
-    "CN": "10周年纪念",
-    "TW": null,
+    "CN": "10th Anniversary",
+    "TW": "10週年紀念",
     "NA": null,
     "KR": null
   },
   "2025年お正月": {
     "JP": null,
-    "CN": "2025年新年",
+    "CN": "2025 New Year",
     "TW": "2025年新年",
+    "NA": null,
+    "KR": null
+  },
+  "2026年お正月": {
+    "JP": null,
+    "CN": "2026 New Year",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -29,8 +36,15 @@
   },
   "3100万DL突破記念": {
     "JP": null,
-    "CN": "3000万下载量突破纪念",
+    "CN": "31 Million Downloads Celebration",
     "TW": "3100萬DL突破紀念",
+    "NA": null,
+    "KR": null
+  },
+  "3400万DL突破記念": {
+    "JP": null,
+    "CN": "34 Million Downloads Campaign",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -45,6 +59,13 @@
     "JP": null,
     "CN": "9周年倒计时",
     "TW": "9週年倒數計時",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project": {
+    "JP": null,
+    "CN": null,
+    "TW": "Final Order Project",
     "NA": null,
     "KR": null
   },
@@ -71,14 +92,14 @@
   },
   "LB7クリア応援キャンペーン": {
     "JP": null,
-    "CN": "LB7通关支援活动",
+    "CN": "LB7 Clear Support Campaign",
     "TW": "LB7通關應援活動",
     "NA": null,
     "KR": null
   },
   "クリスマス開幕直前": {
     "JP": null,
-    "CN": "圣诞节开幕在即",
+    "CN": "圣诞节开幕前夕",
     "TW": "聖誕節開幕直前",
     "NA": null,
     "KR": null
@@ -92,28 +113,28 @@
   },
   "冠位戴冠戦開幕記念": {
     "JP": null,
-    "CN": "冠位加冕之战开幕纪念",
+    "CN": "Grand Order Commencement Commemoration",
     "TW": "冠位戴冠戰開幕紀念",
     "NA": null,
     "KR": null
   },
   "大統領特異点クリア応援": {
     "JP": null,
-    "CN": "总统特异点通关支援",
+    "CN": "总统特异点通关应援",
     "TW": "大總統特異點通關應援",
     "NA": null,
     "KR": null
   },
   "奏章Ⅰクリア応援キャンペーン": {
     "JP": null,
-    "CN": "终章Ⅰ通关应援活动",
+    "CN": "Ordeal Call: Ⅰ Clear Support Campaign",
     "TW": "奏章Ⅰ通關應援活動",
     "NA": null,
     "KR": null
   },
   "奏章Ⅱクリア応援CP": {
     "JP": null,
-    "CN": "篇章Ⅱ通关应援CP",
+    "CN": "奏章Ⅱ通关应援CP",
     "TW": "奏章Ⅱ通關應援活動",
     "NA": null,
     "KR": null
@@ -141,28 +162,28 @@
   },
   "奏章Ⅲクリア応援1": {
     "JP": null,
-    "CN": "终章Ⅲ通关应援1",
+    "CN": "奏章Ⅲ通关应援1",
     "TW": "奏章Ⅲ通關應援1",
     "NA": null,
     "KR": null
   },
   "奏章Ⅲクリア応援2": {
     "JP": null,
-    "CN": "终章Ⅲ通关应援2",
+    "CN": "奏章Ⅲ通关应援2",
     "TW": "奏章Ⅲ通關應援2",
     "NA": null,
     "KR": null
   },
   "奏章Ⅳ開幕直前": {
     "JP": null,
-    "CN": "终章Ⅳ开幕在即",
+    "CN": "奏章Ⅳ开幕直前",
     "TW": "奏章Ⅳ開幕直前",
     "NA": null,
     "KR": null
   },
   "奏章Ⅳ開幕記念": {
     "JP": null,
-    "CN": "奏章Ⅳ开幕纪念",
+    "CN": "Ordeal Call Ⅳ Opening Commemoration",
     "TW": "奏章Ⅳ開幕紀念",
     "NA": null,
     "KR": null
@@ -176,29 +197,36 @@
   },
   "巡霊の祝祭 第10弾": {
     "JP": null,
-    "CN": "神灵巡礼庆典 第10弹",
+    "CN": "Holy Grail Front Festival No. 10",
     "TW": "巡靈的祝祭 第10彈",
     "NA": null,
     "KR": null
   },
   "巡霊の祝祭 第11弾": {
     "JP": null,
-    "CN": "巡灵祝祭 第11弹",
+    "CN": "Memorial Ceremony Part 11",
     "TW": "巡靈的祝祭 第11彈",
     "NA": null,
     "KR": null
   },
   "巡霊の祝祭 第12弾": {
     "JP": null,
-    "CN": "巡灵祝祭 第12弹",
+    "CN": "Memorial Ceremony Part 12",
     "TW": "巡靈的祝祭 第12彈",
     "NA": null,
     "KR": null
   },
   "巡霊の祝祭 第13弾": {
     "JP": null,
-    "CN": "巡灵祝祭 第13弹",
+    "CN": "Ritual of Spirits No. 13",
     "TW": "巡靈的祝祭 第13彈",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭 第14弾": {
+    "JP": null,
+    "CN": "Memorial Ceremony of Grail Front No. 14",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -211,14 +239,14 @@
   },
   "戦力増強キャンペーン": {
     "JP": null,
-    "CN": "战力强化活动",
+    "CN": "战力增强活动",
     "TW": "戰力增強紀念活動",
     "NA": null,
     "KR": null
   },
   "戦力増強ミッション": {
     "JP": null,
-    "CN": "战力强化任务",
+    "CN": "战力增强任务",
     "TW": "戰力增強任務",
     "NA": null,
     "KR": null
@@ -230,9 +258,23 @@
     "NA": null,
     "KR": null
   },
+  "新章開幕直前": {
+    "JP": null,
+    "CN": "新章开幕前夕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開幕記念": {
+    "JP": null,
+    "CN": "新章开幕纪念",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "新米マスター応援": {
     "JP": null,
-    "CN": "新手御主应援",
+    "CN": "新米Master应援",
     "TW": "新人御主應援",
     "NA": null,
     "KR": null
@@ -246,7 +288,7 @@
   },
   "水着参加応援 Vol.2": {
     "JP": null,
-    "CN": "泳装应援 Vol.2",
+    "CN": "泳装参加应援 Vol.2",
     "TW": "泳裝參加應援 Vol.2",
     "NA": null,
     "KR": null
@@ -274,7 +316,7 @@
   },
   "水着参加応援 第2弾": {
     "JP": null,
-    "CN": "泳装参赛助威 第2弹",
+    "CN": "水着活动应援 第2弹",
     "TW": "泳裝參加應援 第2彈",
     "NA": null,
     "KR": null
@@ -282,55 +324,13 @@
   "第2部 終章到達応援": {
     "JP": null,
     "CN": "第2部 终章到达应援",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "巡霊の祝祭 第14弾": {
-    "JP": null,
-    "CN": "巡灵的祝祭 第14弹",
-    "TW": null,
+    "TW": "第二部 終章到達應援",
     "NA": null,
     "KR": null
   },
   "第2部 終章開幕直前": {
     "JP": null,
-    "CN": "第2部 终章开幕直前",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "2026年お正月": {
-    "JP": null,
-    "CN": "2026年正月",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3400万DL突破記念": {
-    "JP": null,
-    "CN": "3400万DL突破纪念",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開幕直前": {
-    "JP": null,
-    "CN": "新章开幕前夕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開幕記念": {
-    "JP": null,
-    "CN": "New Chapter Opening Campaign",
+    "CN": "Cosmos in the Lostbelt 序幕开幕直前",
     "TW": null,
     "NA": null,
     "KR": null

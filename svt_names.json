@@ -25,7 +25,7 @@
     "CN": "响＆千键",
     "TW": "響＆千鍵",
     "NA": "Hibiki & Chikagi",
-    "KR": null
+    "KR": "히비키&치카기"
   },
   "アイドルXオルタ": {
     "JP": null,
@@ -170,7 +170,7 @@
   "アビゲイル・ウィリアムズ〔サンタ〕": {
     "JP": null,
     "CN": "阿比盖尔·威廉姆斯〔圣诞〕",
-    "TW": "艾比蓋兒．威廉斯〔聖誕〕",
+    "TW": "艾比蓋兒．威廉斯〔Santa〕",
     "NA": "Abigail Williams (Santa)",
     "KR": null
   },
@@ -303,16 +303,16 @@
   "アレッサンドロ・ディ・カリオストロ": {
     "JP": null,
     "CN": "亚历山德罗·迪·卡利奥斯特罗",
-    "TW": "亞歷山德羅・卡廖斯特羅",
+    "TW": "亞歷山德羅．迪．卡廖斯特羅",
     "NA": "Alessandro di Cagliostro",
-    "KR": null
+    "KR": "알레산드로 디 칼리오스트로"
   },
   "アンキ・エレシュキガル": {
     "JP": null,
     "CN": "安基埃列什基伽勒",
-    "TW": "太空埃列什基伽勒",
+    "TW": "安祺埃列什基伽勒",
     "NA": "Anki Ereshkigal",
-    "KR": null
+    "KR": "안키・에레쉬키갈"
   },
   "アンデルセン": {
     "JP": null,
@@ -333,7 +333,7 @@
     "CN": "安德洛墨达",
     "TW": "安朵美達",
     "NA": "Andromeda",
-    "KR": null
+    "KR": "안드로메다"
   },
   "アンリマユ": {
     "JP": null,
@@ -457,7 +457,7 @@
   "インドラ": {
     "JP": null,
     "CN": "因陀罗",
-    "TW": null,
+    "TW": "因陀羅",
     "NA": "Indra",
     "KR": null
   },
@@ -488,6 +488,13 @@
     "TW": "威廉．泰爾",
     "NA": "William Tell",
     "KR": "윌리엄 텔"
+  },
+  "ウルズ": {
+    "JP": null,
+    "CN": "乌尔德",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "エイリーク": {
     "JP": null,
@@ -667,7 +674,7 @@
   "オルガマリー・アニムスフィア": {
     "JP": null,
     "CN": "奥尔加玛丽·阿尼姆斯菲亚",
-    "TW": null,
+    "TW": "奧爾加瑪麗．阿尼姆斯菲亞",
     "NA": "Olga Marie Animusphere",
     "KR": null
   },
@@ -697,7 +704,7 @@
     "CN": "Kazuradrop",
     "TW": "Kazuradrop",
     "NA": "Kazuradrop",
-    "KR": null
+    "KR": "카즈라드롭"
   },
   "カラミティ・ジェーン": {
     "JP": null,
@@ -711,7 +718,7 @@
     "CN": "卡利奥斯特罗伯爵",
     "TW": "卡廖斯特羅伯爵",
     "NA": "Count Cagliostro",
-    "KR": null
+    "KR": "칼리오스트로 백작"
   },
   "カリギュラ": {
     "JP": null,
@@ -996,9 +1003,9 @@
   "ゴールデンＢＢ": {
     "JP": null,
     "CN": "黄金ＢＢ",
-    "TW": "黃金BB",
+    "TW": "黃金ＢＢ",
     "NA": "Golden BB",
-    "KR": null
+    "KR": "골든 BB"
   },
   "サリエリ": {
     "JP": null,
@@ -1038,7 +1045,7 @@
   "サンタズムーン": {
     "JP": null,
     "CN": "Santasmoon",
-    "TW": "聖誕月姬",
+    "TW": "Santasmoon",
     "NA": "Santa's Moon",
     "KR": null
   },
@@ -1061,7 +1068,7 @@
     "CN": "希耶尔",
     "TW": "希耶爾",
     "NA": "Ciel",
-    "KR": null
+    "KR": "시엘"
   },
   "シグルド": {
     "JP": null,
@@ -1124,7 +1131,7 @@
     "CN": "天狼星",
     "TW": "天狼星",
     "NA": "Sirius",
-    "KR": null
+    "KR": "시리우스"
   },
   "ジェロニモ": {
     "JP": null,
@@ -1224,6 +1231,20 @@
     "NA": "Jeanne d'Arc Alter Santa Lily",
     "KR": "잔 다르크 얼터 산타 릴리"
   },
+  "ジュネス・クレーン": {
+    "JP": null,
+    "CN": "热内斯·克莱恩",
+    "TW": "熱內斯・克蘭",
+    "NA": "Jeunesse Crane",
+    "KR": null
+  },
+  "ジョン・ラックランド": {
+    "JP": null,
+    "CN": "无地王约翰",
+    "TW": null,
+    "NA": "John Lackland",
+    "KR": null
+  },
   "ジル": {
     "JP": null,
     "CN": "吉尔",
@@ -1271,7 +1292,7 @@
     "CN": "星之希耶尔",
     "TW": "星之希耶爾",
     "NA": "Star Ciel",
-    "KR": null
+    "KR": "스타 시엘"
   },
   "ステンノ": {
     "JP": null,
@@ -1299,7 +1320,7 @@
     "CN": "太空埃列什基伽勒",
     "TW": "太空埃列什基伽勒",
     "NA": "Space Ereshkigal",
-    "KR": null
+    "KR": "스페이스 에레쉬키갈"
   },
   "スペース・ファンタズムーンＶ": {
     "JP": null,
@@ -1327,7 +1348,7 @@
     "CN": "超级青子",
     "TW": "超級青子",
     "NA": "Super Aoko",
-    "KR": null
+    "KR": "슈퍼 아오코"
   },
   "セイバーオルタ": {
     "JP": null,
@@ -1439,7 +1460,7 @@
     "CN": "图坦卡蒙",
     "TW": "圖坦卡門",
     "NA": "Tutankhamun",
-    "KR": null
+    "KR": "투탕카멘"
   },
   "ティアマト": {
     "JP": null,
@@ -1466,7 +1487,7 @@
     "JP": null,
     "CN": "忒修斯",
     "TW": "忒修斯",
-    "NA": "Theseus",
+    "NA": "Thēseus",
     "KR": "테세우스"
   },
   "テノチティトラン": {
@@ -1479,7 +1500,7 @@
   "テュフォン・エフェメロス": {
     "JP": null,
     "CN": "堤丰·厄斐墨洛斯",
-    "TW": "Typhon Ephemeros",
+    "TW": "堤豐．厄斐墨洛斯",
     "NA": "Typhon Ephemeros",
     "KR": "티폰・에페메로스"
   },
@@ -1517,6 +1538,20 @@
     "TW": "惡魔卡蓮",
     "NA": "Devil Caren",
     "KR": "데블 카렌"
+  },
+  "デメテル": {
+    "JP": null,
+    "CN": "得墨忒耳",
+    "TW": "狄蜜特",
+    "NA": "Demeter",
+    "KR": "데메테르"
+  },
+  "デメテル・エリニュス": {
+    "JP": null,
+    "CN": "得墨忒耳·厄里倪厄斯",
+    "TW": null,
+    "NA": "Demeter Erinyes",
+    "KR": null
   },
   "トネリコ": {
     "JP": null,
@@ -1670,13 +1705,20 @@
     "CN": "尼莫〔圣诞〕",
     "TW": "尼莫〔Santa〕",
     "NA": "Nemo (Santa)",
-    "KR": null
+    "KR": "네모[산타]"
   },
   "ネモサンタ": {
     "JP": null,
     "CN": "尼莫圣诞",
-    "TW": "尼莫Santa",
+    "TW": "尼莫聖誕",
     "NA": "Nemo Santa",
+    "KR": "네모 산타"
+  },
+  "ネモ／ノア": {
+    "JP": null,
+    "CN": "尼莫／诺亚",
+    "TW": "尼莫/諾亞",
+    "NA": "Nemo/Noah",
     "KR": null
   },
   "ネロ": {
@@ -1826,6 +1868,13 @@
     "NA": "Pārvatī",
     "KR": "파르바티"
   },
+  "ヒッポリュテ": {
+    "JP": null,
+    "CN": "希波吕忒",
+    "TW": null,
+    "NA": "Hippolyte",
+    "KR": null
+  },
   "ヒルド": {
     "JP": null,
     "CN": "希露德",
@@ -1850,9 +1899,9 @@
   "ヒロインXX・オルタ": {
     "JP": null,
     "CN": "谜之女主角XX·Alter",
-    "TW": "女主角XX・Alter",
+    "TW": "謎之女主角XX．Alter",
     "NA": "Heroine XX (Alter)",
-    "KR": null
+    "KR": "히로인 XX 얼터"
   },
   "ヒロインXオルタ": {
     "JP": null,
@@ -1986,6 +2035,41 @@
     "TW": "弗朗西斯．德雷克",
     "NA": "Francis Drake",
     "KR": "프랜시스 드레이크"
+  },
+  "フランソワ": {
+    "JP": null,
+    "CN": "弗朗索瓦",
+    "TW": null,
+    "NA": "François",
+    "KR": null
+  },
+  "フランソワ・プレラーティ": {
+    "JP": null,
+    "CN": "弗朗索瓦·普勒拉蒂",
+    "TW": null,
+    "NA": "François Prélat",
+    "KR": null
+  },
+  "フランチェスカ": {
+    "JP": null,
+    "CN": "弗兰切斯卡",
+    "TW": null,
+    "NA": "Francesca",
+    "KR": null
+  },
+  "フランチェスカ・プレラーティ": {
+    "JP": null,
+    "CN": "弗兰切斯卡·普勒拉蒂",
+    "TW": null,
+    "NA": "Francesca Prélat",
+    "KR": null
+  },
+  "フローラ": {
+    "JP": null,
+    "CN": "芙萝拉",
+    "TW": null,
+    "NA": "Flora",
+    "KR": null
   },
   "ブラダマンテ": {
     "JP": null,
@@ -2141,6 +2225,13 @@
     "NA": "Manannan mac Lir (Bazett)",
     "KR": "마나난 막 리르[바제트]"
   },
+  "マリス・カルデアス": {
+    "JP": null,
+    "CN": "马里斯·迦勒底亚斯",
+    "TW": null,
+    "NA": "Maris Chaldeas",
+    "KR": null
+  },
   "マリー・アントワネット": {
     "JP": null,
     "CN": "玛丽·安托瓦内特",
@@ -2153,14 +2244,14 @@
     "CN": "玛丽·安托瓦内特〔Alter〕",
     "TW": "瑪莉．安東尼〔Alter〕",
     "NA": "Marie Antoinette (Alter)",
-    "KR": null
+    "KR": "마리 앙투아네트(얼터)"
   },
   "マリー・アントワネット・オルタ": {
     "JP": null,
     "CN": "玛丽·安托瓦内特·Alter",
     "TW": "瑪莉．安東尼．Alter",
-    "NA": "Marie Antoinette Alter",
-    "KR": null
+    "NA": "Marie Antoinette (Alter)",
+    "KR": "마리 앙투아네트(얼터)"
   },
   "マルタ": {
     "JP": null,
@@ -2216,7 +2307,7 @@
     "CN": "缪瑞恩",
     "TW": "姆莉安",
     "NA": "Muryan",
-    "KR": null
+    "KR": "무리안"
   },
   "メアリー": {
     "JP": null,
@@ -2349,7 +2440,7 @@
     "CN": "大和武尊",
     "TW": "日本武尊",
     "NA": "Yamato Takeru",
-    "KR": null
+    "KR": "야마토타케루"
   },
   "ヨハンナ": {
     "JP": null,
@@ -2405,7 +2496,7 @@
     "CN": "理查一世",
     "TW": "理查Ⅰ世",
     "NA": "Richard I",
-    "KR": null
+    "KR": "리처드 1세"
   },
   "リリス": {
     "JP": null,
@@ -2491,6 +2582,13 @@
     "NA": "Romulus=Quirinus",
     "KR": "로물루스=퀴리누스"
   },
+  "ロード・ログレス": {
+    "JP": null,
+    "CN": "领主洛格雷斯",
+    "TW": null,
+    "NA": "Lord Logres",
+    "KR": null
+  },
   "ローラン": {
     "JP": null,
     "CN": "罗兰",
@@ -2524,7 +2622,7 @@
     "CN": "梵高〔矿工〕",
     "TW": "梵谷〔礦工〕",
     "NA": "Van Gogh (Miner)",
-    "KR": null
+    "KR": "반 고흐[마이너]"
   },
   "ヴァン・ホーエンハイム・パラケルスス": {
     "JP": null,
@@ -2601,7 +2699,7 @@
     "CN": "久远寺有珠",
     "TW": "久遠寺有珠",
     "NA": "Kuonji Alice",
-    "KR": null
+    "KR": "쿠온지 아리스"
   },
   "九紋竜エリザ": {
     "JP": null,
@@ -2679,6 +2777,13 @@
     "TW": "卑彌呼",
     "NA": "Himiko",
     "KR": "히미코"
+  },
+  "原田左之助": {
+    "JP": null,
+    "CN": "原田左之助",
+    "TW": null,
+    "NA": "Harada Sanosuke",
+    "KR": null
   },
   "司馬懿": {
     "JP": null,
@@ -2867,7 +2972,7 @@
     "CN": "宫本伊织",
     "TW": "宮本伊織",
     "NA": "Miyamoto Iori",
-    "KR": null
+    "KR": "미야모토 이오리"
   },
   "宮本武蔵": {
     "JP": null,
@@ -2909,7 +3014,7 @@
     "CN": "岸波白野",
     "TW": "岸波白野",
     "NA": "Kishinami Hakuno",
-    "KR": null
+    "KR": "키시나미 하쿠노"
   },
   "巌窟王": {
     "JP": null,
@@ -2922,15 +3027,15 @@
     "JP": null,
     "CN": "岩窟王　基督山",
     "TW": "巖窟王　基督山",
-    "NA": "The Count of Monte Cristo",
-    "KR": null
+    "NA": "Monte Cristo",
+    "KR": "암굴왕 몽테크리스토"
   },
   "巌窟王モンテ・クリスト": {
     "JP": null,
     "CN": "岩窟王基督山",
     "TW": "巖窟王基督山",
-    "NA": "The Count of Monte Cristo",
-    "KR": null
+    "NA": "Monte Cristo",
+    "KR": "암굴왕 몽테크리스토"
   },
   "巴御前": {
     "JP": null,
@@ -2986,7 +3091,7 @@
     "CN": "教教我吧！希耶尔老师",
     "TW": "請教教我！希耶爾老師",
     "NA": "Teach Me! Miss Ciel",
-    "KR": null
+    "KR": "가르쳐 줘! 시엘 선생님"
   },
   "斎藤一": {
     "JP": null,
@@ -3022,6 +3127,13 @@
     "TW": "曲亭馬琴",
     "NA": "Kyokutei Bakin",
     "KR": "쿄쿠테이 바킨"
+  },
+  "朔月美遊": {
+    "JP": null,
+    "CN": "朔月美游",
+    "TW": "朔月美遊",
+    "NA": "Miyu Sakatsuki",
+    "KR": null
   },
   "望月千代女": {
     "JP": null,
@@ -3142,6 +3254,13 @@
     "NA": "Okita Souji (Alter)",
     "KR": "오키타 소지(얼터)"
   },
+  "河上彦斎": {
+    "JP": null,
+    "CN": "河上彦斋",
+    "TW": null,
+    "NA": "Kawakami Gensai",
+    "KR": null
+  },
   "浅上藤乃": {
     "JP": null,
     "CN": "浅上藤乃",
@@ -3189,7 +3308,7 @@
     "CN": "源赖光／丑御前",
     "TW": "源賴光／丑御前",
     "NA": "Minamoto-no-Raikou/Ushi Gozen",
-    "KR": null
+    "KR": "미나모토노 라이코/우시고젠"
   },
   "煉獄オルタ": {
     "JP": null,
@@ -3216,15 +3335,15 @@
     "JP": null,
     "CN": "狮心王",
     "TW": "獅心王",
-    "NA": "Lionheart",
-    "KR": null
+    "NA": "Richard the Lionheart",
+    "KR": "사자심왕"
   },
   "獅子心王リチャード": {
     "JP": null,
     "CN": "狮心王理查",
     "TW": "獅心王理查",
     "NA": "Richard the Lionheart",
-    "KR": null
+    "KR": "사자심왕 리처드"
   },
   "玄奘三蔵": {
     "JP": null,
@@ -3232,6 +3351,20 @@
     "TW": "玄奘三藏",
     "NA": "Xuanzang Sanzang",
     "KR": "현장 삼장"
+  },
+  "玉兎": {
+    "JP": null,
+    "CN": "玉兔",
+    "TW": "玉兔",
+    "NA": "Jade Rabbit",
+    "KR": null
+  },
+  "玉兎輝夜": {
+    "JP": null,
+    "CN": "玉兔辉夜",
+    "TW": "玉兔輝夜",
+    "NA": "Jade Rabbit Kaguya",
+    "KR": null
   },
   "玉藻の前": {
     "JP": null,
@@ -3245,7 +3378,7 @@
     "CN": "由井正雪",
     "TW": "由井正雪",
     "NA": "Yui Shousetsu",
-    "KR": null
+    "KR": "유이 쇼세츠"
   },
   "百貌のハサン": {
     "JP": null,
@@ -3274,6 +3407,20 @@
     "TW": "紫式部",
     "NA": "Murasaki Shikibu",
     "KR": "무라사키 시키부"
+  },
+  "終わりのエリザベート": {
+    "JP": null,
+    "CN": "终结之伊丽莎白",
+    "TW": null,
+    "NA": "Elisabeth of the End",
+    "KR": null
+  },
+  "終末のアーチャー": {
+    "JP": null,
+    "CN": "终末的Archer",
+    "TW": null,
+    "NA": "Archer of the End",
+    "KR": null
   },
   "織田信勝": {
     "JP": null,
@@ -3315,6 +3462,13 @@
     "CN": "耀星哈桑",
     "TW": "耀星的哈桑",
     "NA": "Hassan of the Shining Star",
+    "KR": "요성의 하산"
+  },
+  "花咲翁": {
+    "JP": null,
+    "CN": "花咲翁",
+    "TW": null,
+    "NA": "Hanasaka no Okina",
     "KR": null
   },
   "茨木童子": {
@@ -3350,6 +3504,13 @@
     "CN": "苍崎青子",
     "TW": "蒼崎青子",
     "NA": "Aozaki Aoko",
+    "KR": "아오자키 아오코"
+  },
+  "藤堂平助": {
+    "JP": null,
+    "CN": "藤堂平助",
+    "TW": null,
+    "NA": "Tōdō Heisuke",
     "KR": null
   },
   "蘆屋道満": {
@@ -3379,6 +3540,13 @@
     "TW": "虞美人",
     "NA": "Yu Mei-ren",
     "KR": "우미인"
+  },
+  "蛇女房": {
+    "JP": null,
+    "CN": "蛇女房",
+    "TW": null,
+    "NA": "Hebi Nyōbō",
+    "KR": null
   },
   "言峰神父": {
     "JP": null,
@@ -3453,9 +3621,9 @@
   "謎の代行者C.I.E.L": {
     "JP": null,
     "CN": "谜之代行者C.I.E.L",
-    "TW": "謎之代行者C.I.E.L",
+    "TW": "謎之代理人C.I.E.L",
     "NA": "Mysterious Executor C.I.E.L",
-    "KR": null
+    "KR": "수수께끼의 대행자 C.I.E.L"
   },
   "謎の蘭丸X": {
     "JP": null,
@@ -3477,6 +3645,13 @@
     "TW": "超人俄里翁",
     "NA": "Super Orion",
     "KR": "초인 오리온"
+  },
+  "近藤勇": {
+    "JP": null,
+    "CN": "近藤勇",
+    "TW": null,
+    "NA": "Kondo Isami",
+    "KR": null
   },
   "酒呑童子": {
     "JP": null,
@@ -3518,7 +3693,7 @@
     "CN": "阿昙矶良",
     "TW": "阿曇磯良",
     "NA": "Azumi-no-Isora",
-    "KR": null
+    "KR": "아즈미노 이소라"
   },
   "陳宮": {
     "JP": null,
@@ -3545,8 +3720,8 @@
     "JP": null,
     "CN": "静希草十郎",
     "TW": "靜希草十郎",
-    "NA": "Shizuki Soujuurou",
-    "KR": null
+    "NA": "Sizuki Soujyuro",
+    "KR": "시즈키 소쥬로"
   },
   "静謐のハサン": {
     "JP": null,
@@ -3649,23 +3824,23 @@
   "ＢＢコスモ": {
     "JP": null,
     "CN": "ＢＢ宇宙",
-    "TW": "BB宇宙",
+    "TW": "ＢＢ宇宙",
     "NA": "BB Cosmos",
-    "KR": null
+    "KR": "BB 코스모"
   },
   "ＢＢドバイ": {
     "JP": null,
     "CN": "ＢＢ迪拜",
-    "TW": "BB杜拜",
+    "TW": "ＢＢ杜拜",
     "NA": "BB Dubai",
-    "KR": null
+    "KR": "BB 두바이"
   },
   "Ｅ－アクアマリー": {
     "JP": null,
     "CN": "Ｅ－水玛丽",
-    "TW": "E-水藍瑪麗",
+    "TW": "Ｅ−水瑪麗",
     "NA": "E-Aqua Marie",
-    "KR": null
+    "KR": "E-아쿠아마리"
   },
   "Ｅ－グランマリー": {
     "JP": null,
@@ -3677,16 +3852,16 @@
   "Ｅ－ステラマリー": {
     "JP": null,
     "CN": "E－星玛丽",
-    "TW": null,
+    "TW": "E-星瑪麗",
     "NA": "E-Stellar Marie",
     "KR": null
   },
   "Ｅ－フレアマリー": {
     "JP": null,
     "CN": "Ｅ－火玛丽",
-    "TW": "E-火光瑪麗",
+    "TW": "Ｅ−火瑪麗",
     "NA": "E-Flare Marie",
-    "KR": null
+    "KR": "E-플레어마리"
   },
   "Ｓ・ファンタズムーン": {
     "JP": null,
@@ -3708,180 +3883,5 @@
     "TW": "ＵＤＫ－巴格斯特",
     "NA": "UDK-Barghest",
     "KR": "UDK-바게스트"
-  },
-  "朔月美遊": {
-    "JP": null,
-    "CN": "朔月美游",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "玉兎": {
-    "JP": null,
-    "CN": "玉兔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "玉兎輝夜": {
-    "JP": null,
-    "CN": "玉兔辉夜",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ジュネス・クレーン": {
-    "JP": null,
-    "CN": "热内斯·克莱恩",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ネモ／ノア": {
-    "JP": null,
-    "CN": "尼莫／诺亚",
-    "TW": "尼莫/諾亞",
-    "NA": "Nemo/Noah",
-    "KR": null
-  },
-  "原田左之助": {
-    "JP": null,
-    "CN": "原田左之助",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "河上彦斎": {
-    "JP": null,
-    "CN": "河上彦斋",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "藤堂平助": {
-    "JP": null,
-    "CN": "藤堂平助",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "近藤勇": {
-    "JP": null,
-    "CN": "近藤勇",
-    "TW": null,
-    "NA": "Kondo Isami",
-    "KR": null
-  },
-  "終わりのエリザベート": {
-    "JP": null,
-    "CN": "终结之伊丽莎白",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マリス・カルデアス": {
-    "JP": null,
-    "CN": "马里斯·迦勒底亚斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ロード・ログレス": {
-    "JP": null,
-    "CN": "领主洛格雷斯",
-    "TW": null,
-    "NA": "Lord Logres",
-    "KR": null
-  },
-  "フローラ": {
-    "JP": null,
-    "CN": "芙萝拉",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "花咲翁": {
-    "JP": null,
-    "CN": "花咲翁",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "蛇女房": {
-    "JP": null,
-    "CN": "蛇女房",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "デメテル": {
-    "JP": null,
-    "CN": "得墨忒耳",
-    "TW": "狄蜜特",
-    "NA": "Demeter",
-    "KR": "데메테르"
-  },
-  "デメテル・エリニュス": {
-    "JP": null,
-    "CN": "得墨忒耳·厄里倪厄斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ヒッポリュテ": {
-    "JP": null,
-    "CN": "希波吕忒",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フランソワ": {
-    "JP": null,
-    "CN": "弗朗索瓦",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フランソワ・プレラーティ": {
-    "JP": null,
-    "CN": "弗朗索瓦·普勒拉蒂",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フランチェスカ": {
-    "JP": null,
-    "CN": "弗兰切斯卡",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フランチェスカ・プレラーティ": {
-    "JP": null,
-    "CN": "弗兰切斯卡·普勒拉蒂",
-    "TW": null,
-    "NA": "Francesca Prélat",
-    "KR": null
-  },
-  "ジョン・ラックランド": {
-    "JP": null,
-    "CN": "无地王约翰",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ウルズ": {
-    "JP": null,
-    "CN": "乌尔德",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "終末のアーチャー": {
-    "JP": null,
-    "CN": "终末的Archer",
-    "TW": null,
-    "NA": "Archer of the End",
-    "KR": null
   }
 }

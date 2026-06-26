@@ -83,6 +83,13 @@
     "NA": "Shinichiro Miki & Daisuke Hirakawa & Shunsuke Takeuchi",
     "KR": "미키 신이치로&히라카와 다이스케&Takeuchi Shunsuke"
   },
+  "三木眞一郎＆諏訪部順一": {
+    "JP": null,
+    "CN": "三木真一郎＆诹访部顺一",
+    "TW": "三木真一郎＆諏訪部順一",
+    "NA": "Shinichiro Miki & Junichi Suwabe",
+    "KR": "미키 신이치로&스와베 준이치"
+  },
   "上坂すみれ": {
     "JP": null,
     "CN": "上坂堇",
@@ -124,6 +131,13 @@
     "TW": "中井和哉",
     "NA": "Kazuya Nakai",
     "KR": "나카이 카즈야"
+  },
+  "中島ヨシキ": {
+    "JP": null,
+    "CN": "中岛良树",
+    "TW": null,
+    "NA": "Nakajima Yoshiki",
+    "KR": null
   },
   "中村悠一": {
     "JP": null,
@@ -167,6 +181,13 @@
     "NA": "Kenji Nomura",
     "KR": "노무라 켄지"
   },
+  "久川綾": {
+    "JP": null,
+    "CN": "久川绫",
+    "TW": null,
+    "NA": "Hisakawa Aya",
+    "KR": null
+  },
   "久野美咲": {
     "JP": null,
     "CN": "久野美咲",
@@ -174,17 +195,31 @@
     "NA": "Misaki Kuno",
     "KR": "쿠노 미사키"
   },
+  "井上ほの花": {
+    "JP": null,
+    "CN": "井上穗乃花",
+    "TW": null,
+    "NA": "Inoue Honoka",
+    "KR": null
+  },
   "井上和彦": {
     "JP": null,
     "CN": "井上和彦",
-    "TW": null,
+    "TW": "井上和彦",
     "NA": "Inoue Kazuhiko",
+    "KR": null
+  },
+  "井上和彦＆島﨑信長": {
+    "JP": null,
+    "CN": "井上和彦＆岛崎信长",
+    "TW": "井上和彦＆島崎信長",
+    "NA": "Inoue Kazuhiko & Nobunaga Shimazaki",
     "KR": null
   },
   "井上和彦＆高山みなみ＆土岐隼一": {
     "JP": null,
     "CN": "井上和彦＆高山南＆土岐隼一",
-    "TW": null,
+    "TW": "井上和彦＆高山南＆土岐隼一",
     "NA": "Inoue Kazuhiko & Takayama Minami & Toki Shun'ichi",
     "KR": null
   },
@@ -229,6 +264,13 @@
     "TW": "伊東健人",
     "NA": "Kent Ito",
     "KR": "이토 켄토"
+  },
+  "伊東健人＆千葉翔也＆小西克幸": {
+    "JP": null,
+    "CN": "伊东健人＆千叶翔也＆小西克幸",
+    "TW": "伊東健人＆千葉翔也＆小西克幸",
+    "NA": "Kent Ito & Chiba Shōya & Konishi Katsuyuki",
+    "KR": null
   },
   "伊瀬茉莉也": {
     "JP": null,
@@ -306,6 +348,13 @@
     "TW": "保志總一朗＆江越彬紀＆西前忠久",
     "NA": "Soichiro Hoshi & Akinori Egoshi & Tadahisa Saizen",
     "KR": "호시 소이치로&에고시 아키노리&사이젠 타다히사"
+  },
+  "内山夕実": {
+    "JP": null,
+    "CN": "内山夕实",
+    "TW": null,
+    "NA": "Uchiyama Yumi",
+    "KR": null
   },
   "内山昂輝": {
     "JP": null,
@@ -485,7 +534,7 @@
   "土岐隼一": {
     "JP": null,
     "CN": "土岐隼一",
-    "TW": null,
+    "TW": "土岐隼一",
     "NA": "Toki Shun'ichi",
     "KR": null
   },
@@ -522,7 +571,7 @@
     "CN": "堀内贤雄＆坂本真绫",
     "TW": "堀內賢雄＆坂本真綾",
     "NA": "Kenyu Horiuchi & Maaya Sakamoto",
-    "KR": null
+    "KR": "호리우치 켄유&사카모토 마아야"
   },
   "堀江由衣": {
     "JP": null,
@@ -598,7 +647,7 @@
     "JP": null,
     "CN": "大空直美",
     "TW": "大空直美",
-    "NA": "Ozora Naomi",
+    "NA": "Naomi Ohzora",
     "KR": "오오조라 나오미"
   },
   "子安武人": {
@@ -664,6 +713,13 @@
     "NA": "Rikiya Koyama",
     "KR": "코야마 리키야"
   },
+  "小市眞琴": {
+    "JP": null,
+    "CN": "小市真琴",
+    "TW": null,
+    "NA": "Koichi Makoto",
+    "KR": null
+  },
   "小松未可子": {
     "JP": null,
     "CN": "小松未可子",
@@ -704,7 +760,14 @@
     "CN": "小林裕介",
     "TW": "小林裕介",
     "NA": "Yusuke Kobayashi",
-    "KR": null
+    "KR": "코바야시 유스케"
+  },
+  "小林裕介＆浪川大輔＆稲田徹": {
+    "JP": null,
+    "CN": "小林裕介＆浪川大辅＆稻田彻",
+    "TW": "小林裕介＆浪川大輔＆稻田徹",
+    "NA": "Yusuke Kobayashi & Daisuke Namikawa & Tetsu Inada",
+    "KR": "코바야시 유스케&나미카와 다이스케&이나다 테츠"
   },
   "小清水亜美": {
     "JP": null,
@@ -745,8 +808,8 @@
     "JP": null,
     "CN": "小野友树",
     "TW": "小野友樹",
-    "NA": "Ono Yūki",
-    "KR": null
+    "NA": "Yuki Ono",
+    "KR": "오노 유우키"
   },
   "小野大輔": {
     "JP": null,
@@ -774,7 +837,7 @@
     "CN": "山下七海",
     "TW": "山下七海",
     "NA": "Yamashita Nanami",
-    "KR": null
+    "KR": "야마시타 나나미"
   },
   "山下大輝": {
     "JP": null,
@@ -790,24 +853,38 @@
     "NA": "Koichi Yamadera",
     "KR": "야마데라 코이치"
   },
+  "山崎岳彦": {
+    "JP": null,
+    "CN": "山崎岳彦",
+    "TW": null,
+    "NA": "Yamazaki Takehiko",
+    "KR": null
+  },
+  "山崎岳彦＆小市眞琴": {
+    "JP": null,
+    "CN": "山崎岳彦＆小市真琴",
+    "TW": null,
+    "NA": "Yamazaki Takehiko & Koichi Makoto",
+    "KR": null
+  },
   "山村響": {
     "JP": null,
     "CN": "山村响",
     "TW": "山村響",
-    "NA": "Yamamura Hibiku",
-    "KR": null
+    "NA": "Hibiku Yamamura",
+    "KR": "야마무라 히비쿠"
   },
   "山村響＆河西健吾＆鈴村健一": {
     "JP": null,
     "CN": "山村响＆河西健吾＆铃村健一",
     "TW": "山村響＆河西健吾＆鈴村健一",
     "NA": "Yamamura Hibiku & Kawanishi Kengo & Kenichi Suzumura",
-    "KR": null
+    "KR": "야마무라 히비쿠&카와니시 켄고&스즈무라 켄이치"
   },
   "山根綺": {
     "JP": null,
     "CN": "山根绮",
-    "TW": null,
+    "TW": "山根綺",
     "NA": "Yamane Aya",
     "KR": null
   },
@@ -831,6 +908,13 @@
     "TW": "岡本信彥",
     "NA": "Nobuhiko Okamoto",
     "KR": "오카모토 노부히코"
+  },
+  "岡本信彦＆津田健次郎＆鈴木崚汰": {
+    "JP": null,
+    "CN": "冈本信彦＆津田健次郎＆铃木崚汰",
+    "TW": "岡本信彥＆津田健次郎＆鈴木崚汰",
+    "NA": "Nobuhiko Okamoto & Kenjiro Tsuda & Ryota Suzuki",
+    "KR": "오카모토 노부히코&츠다 켄지로&스즈키 료타"
   },
   "峯田茉優": {
     "JP": null,
@@ -892,7 +976,7 @@
     "JP": null,
     "CN": "后藤邑子",
     "TW": "後藤邑子",
-    "NA": "Yūko Gotō",
+    "NA": "Yuko Goto",
     "KR": "고토 유코"
   },
   "悠木碧": {
@@ -916,6 +1000,13 @@
     "NA": "Haruka Tomatsu",
     "KR": "토마츠 하루카"
   },
+  "斉藤壮馬": {
+    "JP": null,
+    "CN": "齐藤壮马",
+    "TW": null,
+    "NA": "Saitō Sōma",
+    "KR": null
+  },
   "斎藤千和": {
     "JP": null,
     "CN": "斋藤千和",
@@ -935,6 +1026,20 @@
     "CN": "新井里美",
     "TW": "新井里美",
     "NA": "Satomi Arai",
+    "KR": null
+  },
+  "新垣樽助": {
+    "JP": null,
+    "CN": "新垣樽助",
+    "TW": null,
+    "NA": "Shingaki Tarusuke",
+    "KR": null
+  },
+  "新垣樽助＆星野貴紀＆悠木碧＆石川界人": {
+    "JP": null,
+    "CN": "新垣樽助＆星野贵纪＆悠木碧＆石川界人",
+    "TW": null,
+    "NA": "Shingaki Tarusuke & Takanori Hoshino & Aoi Yuki & Kaito Ishikawa",
     "KR": null
   },
   "日岡なつみ": {
@@ -1046,15 +1151,15 @@
     "JP": null,
     "CN": "本多阳子＆仙台惠理",
     "TW": "本多陽子＆仙台惠理",
-    "NA": "Honda Youko & Sendai Eri",
-    "KR": null
+    "NA": "Yoko Honda & Eri Sendai",
+    "KR": "혼다 요코&센다이 에리"
   },
   "本渡楓": {
     "JP": null,
     "CN": "本渡枫",
     "TW": "本渡楓",
     "NA": "Hondo Kaede",
-    "KR": null
+    "KR": "혼도 카에데"
   },
   "杉山紀彰": {
     "JP": null,
@@ -1069,6 +1174,13 @@
     "TW": "杉山紀彰＆小山力也＆中田讓治",
     "NA": "Noriaki Sugiyama & Rikiya Koyama & Jouji Nakata",
     "KR": "스기야마 노리아키&코야마 리키야&나카타 죠지"
+  },
+  "杉山紀彰＆阿部敦＆島﨑信長": {
+    "JP": null,
+    "CN": "杉山纪彰＆阿部敦＆岛崎信长",
+    "TW": "杉山纪彰＆阿部敦＆島崎信長",
+    "NA": "Noriaki Sugiyama & Abe Atsushi & Nobunaga Shimazaki",
+    "KR": "스기야마 노리아키&아베 아츠시&시마자키 노부나가"
   },
   "杉田智和": {
     "JP": null,
@@ -1104,6 +1216,13 @@
     "TW": "松風雅也",
     "NA": "Masaya Matsukaze",
     "KR": "마츠카제 마사야"
+  },
+  "松風雅也＆宮野真守＆置鮎龍太郎＆水島大宙＆内山昂輝": {
+    "JP": null,
+    "CN": "松风雅也＆宫野真守＆置鲇龙太郎＆水岛大宙＆内山昂辉",
+    "TW": "松風雅也＆宮野真守＆置鯰龍太郎＆水島大宙＆內山昂輝",
+    "NA": "Masaya Matsukaze & Mamoru Miyano & Ryotaro Okiayu & Daichu Mizushima & Koki Uchiyama",
+    "KR": "마츠카제 마사야&미야노 마모루&오키아유 료타로&미즈시마 타카히로&우치야마 코우키"
   },
   "松風雅也＆石川界人": {
     "JP": null,
@@ -1144,7 +1263,7 @@
     "JP": null,
     "CN": "梅原裕一郎",
     "TW": "梅原裕一郎",
-    "NA": "Yuichiro Umehara",
+    "NA": "Yuuichirou Umehara",
     "KR": "우메하라 유이치로"
   },
   "森なな子": {
@@ -1284,8 +1403,8 @@
     "JP": null,
     "CN": "河西健吾",
     "TW": "河西健吾",
-    "NA": "Kawanishi Kengo",
-    "KR": null
+    "NA": "Kengo Kawanishi",
+    "KR": "카와니시 켄고"
   },
   "津田健次郎": {
     "JP": null,
@@ -1357,6 +1476,13 @@
     "NA": "Minami Tanaka & Mikako Komatsu & Sora Amamiya",
     "KR": "타나카 미나미&코마츠 미카코&아마미야 소라"
   },
+  "田丸篤志": {
+    "JP": null,
+    "CN": "田丸笃志",
+    "TW": null,
+    "NA": "Tamaru Atsushi",
+    "KR": null
+  },
   "田村ゆかり": {
     "JP": null,
     "CN": "田村由香里",
@@ -1368,7 +1494,14 @@
     "JP": null,
     "CN": "田村睦心",
     "TW": "田村睦心",
-    "NA": "Tamura Mutsumi",
+    "NA": "Mutsumi Tamura",
+    "KR": "타무라 무츠미"
+  },
+  "白石晴香": {
+    "JP": null,
+    "CN": "白石晴香",
+    "TW": null,
+    "NA": "Shiraishi Haruka",
     "KR": null
   },
   "真堂圭": {
@@ -1398,6 +1531,13 @@
     "TW": "石川界人",
     "NA": "Kaito Ishikawa",
     "KR": "이시카와 카이토"
+  },
+  "石田彰": {
+    "JP": null,
+    "CN": "石田彰",
+    "TW": null,
+    "NA": "Ishida Akira",
+    "KR": null
   },
   "石見舞菜香": {
     "JP": null,
@@ -1509,7 +1649,7 @@
     "CN": "米泽圆",
     "TW": "米澤圓",
     "NA": "Madoka Yonezawa",
-    "KR": null
+    "KR": "요네자와 마도카"
   },
   "紡木吏佐": {
     "JP": null,
@@ -1532,6 +1672,13 @@
     "NA": "Ryotaro Okiayu",
     "KR": "오키아유 료타로"
   },
+  "羊宮妃那": {
+    "JP": null,
+    "CN": "羊宫妃那",
+    "TW": null,
+    "NA": "Yōmiya Hina",
+    "KR": null
+  },
   "能登麻美子": {
     "JP": null,
     "CN": "能登麻美子",
@@ -1545,6 +1692,13 @@
     "TW": "花守由美里",
     "NA": "Yumiri Hanamori",
     "KR": "하나모리 유미리"
+  },
+  "花守ゆみり＆三上哲＆前野智昭": {
+    "JP": null,
+    "CN": "花守由美里＆三上哲＆前野智昭",
+    "TW": "花守由美里＆三上哲＆前野智昭",
+    "NA": "Yumiri Hanamori & Satoshi Mikami & Tomoaki Maeno",
+    "KR": "하나모리 유미리&미카미 사토시&마에노 토모아키"
   },
   "花守ゆみり＆井口裕香＆子安武人": {
     "JP": null,
@@ -1578,8 +1732,8 @@
     "JP": null,
     "CN": "花泽香菜＆福圆美里",
     "TW": "花澤香菜＆福圓美里",
-    "NA": "Hanazawa Kana & Misato Fukuen",
-    "KR": null
+    "NA": "Kana Hanazawa & Misato Fukuen",
+    "KR": "하나자와 카나&후쿠엔 미사토"
   },
   "芹澤優": {
     "JP": null,
@@ -1686,6 +1840,13 @@
     "NA": "Toshiyuki Toyonaga & Takahiro Sakurai",
     "KR": "토요나가 토시유키&사쿠라이 타카히로"
   },
+  "豊永利行＆稲田徹＆緑川光": {
+    "JP": null,
+    "CN": "丰永利行＆稻田彻＆绿川光",
+    "TW": "豐永利行＆稻田徹＆綠川光",
+    "NA": "Toshiyuki Toyonaga & Tetsu Inada & Hikaru Midorikawa",
+    "KR": "토요나가 토시유키&이나다 테츠&미도리카와 히카루"
+  },
   "赤羽根健治": {
     "JP": null,
     "CN": "赤羽根健治",
@@ -1760,8 +1921,8 @@
     "JP": null,
     "CN": "铃代纱弓",
     "TW": "鈴代紗弓",
-    "NA": "Suzuhiro Sayumi",
-    "KR": null
+    "NA": "Sayumi Suzushiro",
+    "KR": "스즈시로 사유미"
   },
   "鈴木崚汰": {
     "JP": null,
@@ -1833,6 +1994,13 @@
     "NA": "Tomokazu Seki ",
     "KR": "세키 토모카즈"
   },
+  "関根明良": {
+    "JP": null,
+    "CN": "关根明良",
+    "TW": null,
+    "NA": "Sekine Akira",
+    "KR": null
+  },
   "阿澄佳奈": {
     "JP": null,
     "CN": "阿澄佳奈",
@@ -1852,14 +2020,14 @@
     "CN": "阿部敦",
     "TW": "阿部敦",
     "NA": "Abe Atsushi",
-    "KR": null
+    "KR": "아베 아츠시"
   },
   "阿部里果": {
     "JP": null,
     "CN": "阿部里果",
-    "TW": "阿部里果",
+    "TW": "阿部裡果",
     "NA": "Abe Rika",
-    "KR": null
+    "KR": "아베 리카"
   },
   "阿部里果＆子安武人＆小野賢章": {
     "JP": null,
@@ -1913,7 +2081,7 @@
   "高山みなみ": {
     "JP": null,
     "CN": "高山南",
-    "TW": null,
+    "TW": "高山南",
     "NA": "Takayama Minami",
     "KR": null
   },
@@ -1986,173 +2154,5 @@
     "TW": "黑田崇矢",
     "NA": "Takaya Kuroda",
     "KR": "쿠로다 타카야"
-  },
-  "斉藤壮馬": {
-    "JP": null,
-    "CN": "齐藤壮马",
-    "TW": null,
-    "NA": "Saitō Sōma",
-    "KR": null
-  },
-  "田丸篤志": {
-    "JP": null,
-    "CN": "田丸笃志",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "白石晴香": {
-    "JP": null,
-    "CN": "白石晴香",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新垣樽助": {
-    "JP": null,
-    "CN": "新垣樽助",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "井上ほの花": {
-    "JP": null,
-    "CN": "井上穗乃花",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "内山夕実": {
-    "JP": null,
-    "CN": "内山夕实",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "石田彰": {
-    "JP": null,
-    "CN": "石田彰",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "三木眞一郎＆諏訪部順一": {
-    "JP": null,
-    "CN": "三木真一郎＆诹访部顺一",
-    "TW": "三木真一郎＆諏訪部順一",
-    "NA": "Shinichiro Miki & Junichi Suwabe",
-    "KR": "미키 신이치로&스와베 준이치"
-  },
-  "中島ヨシキ": {
-    "JP": null,
-    "CN": "中岛良树",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "久川綾": {
-    "JP": null,
-    "CN": "久川绫",
-    "TW": null,
-    "NA": "Hisakawa Aya",
-    "KR": null
-  },
-  "井上和彦＆島﨑信長": {
-    "JP": null,
-    "CN": "井上和彦＆岛崎信长",
-    "TW": "井上和彦＆島崎信長",
-    "NA": "Inoue Kazuhiko & Nobunaga Shimazaki",
-    "KR": null
-  },
-  "伊東健人＆千葉翔也＆小西克幸": {
-    "JP": null,
-    "CN": "伊东健人＆千叶翔也＆小西克幸",
-    "TW": "伊東健人＆千葉翔也＆小西克幸",
-    "NA": "Kent Ito & Chiba Shōya & Konishi Katsuyuki",
-    "KR": null
-  },
-  "小林裕介＆浪川大輔＆稲田徹": {
-    "JP": null,
-    "CN": "小林裕介＆浪川大辅＆稻田彻",
-    "TW": "小林裕介＆浪川大輔＆稻田徹",
-    "NA": "Yusuke Kobayashi & Daisuke Namikawa & Tetsu Inada",
-    "KR": "코바야시 유스케&나미카와 다이스케&이나다 테츠"
-  },
-  "岡本信彦＆津田健次郎＆鈴木崚汰": {
-    "JP": null,
-    "CN": "冈本信彦＆津田健次郎＆铃木崚汰",
-    "TW": "岡本信彥＆津田健次郎＆鈴木崚汰",
-    "NA": "Nobuhiko Okamoto & Kenjiro Tsuda & Ryota Suzuki",
-    "KR": "오카모토 노부히코&츠다 켄지로&스즈키 료타"
-  },
-  "新垣樽助＆星野貴紀＆悠木碧＆石川界人": {
-    "JP": null,
-    "CN": "新垣樽助＆星野贵纪＆悠木碧＆石川界人",
-    "TW": null,
-    "NA": "Shingaki Tarusuke & Takanori Hoshino & Aoi Yuki & Kaito Ishikawa",
-    "KR": null
-  },
-  "杉山紀彰＆阿部敦＆島﨑信長": {
-    "JP": null,
-    "CN": "杉山纪彰＆阿部敦＆岛崎信长",
-    "TW": "杉山纪彰＆阿部敦＆島崎信長",
-    "NA": "Noriaki Sugiyama & Abe Atsushi & Nobunaga Shimazaki",
-    "KR": null
-  },
-  "松風雅也＆宮野真守＆置鮎龍太郎＆水島大宙＆内山昂輝": {
-    "JP": null,
-    "CN": "松风雅也＆宫野真守＆置鲇龙太郎＆水岛大宙＆内山昂辉",
-    "TW": "松風雅也＆宮野真守＆置鯰龍太郎＆水島大宙＆內山昂輝",
-    "NA": "Masaya Matsukaze & Mamoru Miyano & Ryotaro Okiayu & Daichu Mizushima & Koki Uchiyama",
-    "KR": "마츠카제 마사야&미야노 마모루&오키아유 료타로&미즈시마 타카히로&우치야마 코우키"
-  },
-  "花守ゆみり＆三上哲＆前野智昭": {
-    "JP": null,
-    "CN": "花守由美里＆三上哲＆前野智昭",
-    "TW": "花守由美里＆三上哲＆前野智昭",
-    "NA": "Yumiri Hanamori & Satoshi Mikami & Tomoaki Maeno",
-    "KR": "하나모리 유미리&미카미 사토시&마에노 토모아키"
-  },
-  "豊永利行＆稲田徹＆緑川光": {
-    "JP": null,
-    "CN": "丰永利行＆稻田彻＆绿川光",
-    "TW": "豐永利行＆稻田徹＆綠川光",
-    "NA": "Toshiyuki Toyonaga & Tetsu Inada & Hikaru Midorikawa",
-    "KR": "토요나가 토시유키&이나다 테츠&미도리카와 히카루"
-  },
-  "関根明良": {
-    "JP": null,
-    "CN": "关根明良",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "小市眞琴": {
-    "JP": null,
-    "CN": "小市真琴",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "山崎岳彦": {
-    "JP": null,
-    "CN": "山崎岳彦",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "山崎岳彦＆小市眞琴": {
-    "JP": null,
-    "CN": "山崎岳彦＆小市真琴",
-    "TW": null,
-    "NA": "Yamazaki Takehiko & Koichi Makoto",
-    "KR": null
-  },
-  "羊宮妃那": {
-    "JP": null,
-    "CN": "羊宫妃那",
-    "TW": null,
-    "NA": "Yōmiya Hina",
-    "KR": null
   }
 }

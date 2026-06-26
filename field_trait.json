@@ -73,6 +73,14 @@
       9052
     ]
   },
+  "94000049": {
+    "JP": "ネロ祭再び ～2016 Autumn～",
+    "CN": "尼禄祭再临 ～2017 Autumn～",
+    "TW": "尼祿祭再臨 ～2018 Autumn～",
+    "NA": "The Return of Nero Fest - Autumn 2018",
+    "KR": "돌아온 네로 축제 ~2018 Autumn~",
+    "warIds": []
+  },
   "94000050": {
     "JP": null,
     "CN": null,
@@ -322,7 +330,9 @@
       402,
       403,
       404,
-      405
+      405,
+      407,
+      501
     ]
   },
   "94000082": {
@@ -1255,106 +1265,6 @@
       8397
     ]
   },
-  "95000001": {
-    "JP": "種火集め",
-    "CN": "搜集种火",
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      1002
-    ]
-  },
-  "95000002": {
-    "JP": "宝物庫の扉を開け",
-    "CN": "打开宝物库之门",
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      1002
-    ]
-  },
-  "95000003": {
-    "JP": "修練場",
-    "CN": "修炼场",
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      1002
-    ]
-  },
-  "96000001": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      9166
-    ]
-  },
-  "96000002": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      9166
-    ]
-  },
-  "96000003": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      9166
-    ]
-  },
-  "96000004": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      9166
-    ]
-  },
-  "96000005": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      9166
-    ]
-  },
-  "96000006": {
-    "JP": "ミッションクエスト マシュ『獅子王戦』",
-    "CN": "任务关卡：玛修『狮子王战』",
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      106
-    ]
-  },
-  "96000007": {
-    "JP": "ミッションクエスト マシュ『女王モルガン戦』",
-    "CN": "任务关卡：玛修『女王摩根战』",
-    "TW": null,
-    "NA": null,
-    "KR": null,
-    "warIds": [
-      308
-    ]
-  },
   "94000175": {
     "JP": null,
     "CN": null,
@@ -1455,14 +1365,6 @@
       9198
     ]
   },
-  "94000049": {
-    "JP": "ネロ祭再び ～2016 Autumn～",
-    "CN": "尼禄祭再临 ～2017 Autumn～",
-    "TW": "尼祿祭再臨 ～2018 Autumn～",
-    "NA": "The Return of Nero Fest - Autumn 2018",
-    "KR": "돌아온 네로 축제 ~2018 Autumn~",
-    "warIds": []
-  },
   "94000186": {
     "JP": null,
     "CN": null,
@@ -1471,6 +1373,106 @@
     "KR": null,
     "warIds": [
       9201
+    ]
+  },
+  "95000001": {
+    "JP": "種火集め",
+    "CN": "搜集种火",
+    "TW": "搜集種火",
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1002
+    ]
+  },
+  "95000002": {
+    "JP": "宝物庫の扉を開け",
+    "CN": "打开宝物库之门",
+    "TW": "打開寶物庫之門",
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1002
+    ]
+  },
+  "95000003": {
+    "JP": "修練場",
+    "CN": "修炼场",
+    "TW": "修練場",
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1002
+    ]
+  },
+  "96000001": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000002": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000003": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000004": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000005": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      9166
+    ]
+  },
+  "96000006": {
+    "JP": "ミッションクエスト マシュ『獅子王戦』",
+    "CN": "任务关卡：玛修『狮子王战』",
+    "TW": "任務關卡：瑪修『獅子王戰』",
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      106
+    ]
+  },
+  "96000007": {
+    "JP": "ミッションクエスト マシュ『女王モルガン戦』",
+    "CN": "任务关卡：玛修『女王摩根战』",
+    "TW": "任務關卡：瑪修『女王摩根戰』",
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      308
     ]
   }
 }

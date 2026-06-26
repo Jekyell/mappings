@@ -37,9 +37,9 @@
   "2023年のホーリーラン": {
     "JP": null,
     "CN": "2024年的神圣奔走",
-    "TW": "2023年的聖誕遞送",
-    "NA": "Holy Land of 2023",
-    "KR": null
+    "TW": "2025年的神聖奔走",
+    "NA": "Holy Run of 2025",
+    "KR": "2025년의 홀리 런"
   },
   "2030年の欠片": {
     "JP": null,
@@ -50,21 +50,35 @@
   },
   "5th Anniversary": {
     "JP": null,
-    "CN": "5th Anniversary",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "6th Anniversary": {
     "JP": null,
-    "CN": "6th Anniversary",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "7th Anniversary": {
     "JP": null,
-    "CN": "7th Anniversary",
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "8th Anniversary": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Breaching": {
+    "JP": null,
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -85,7 +99,7 @@
   },
   "December 23rd": {
     "JP": null,
-    "CN": "December 23rd",
+    "CN": null,
     "TW": "December 23rd",
     "NA": null,
     "KR": null
@@ -99,42 +113,42 @@
   },
   "English Version 3rd Anniversary Celebration": {
     "JP": null,
-    "CN": "English Version 3rd Anniversary Celebration",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "English Version 4th Anniversary Celebration": {
     "JP": null,
-    "CN": "English Version 4th Anniversary Celebration",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "English Version 5th Anniversary Celebration": {
     "JP": null,
-    "CN": "English Version 5th Anniversary Celebration",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "English Version 6th Anniversary Celebration": {
     "JP": null,
-    "CN": "English Version 6th Anniversary Celebration",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "English Version 7th Anniversary Celebration": {
     "JP": null,
-    "CN": "English Version 7th Anniversary Celebration",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "English Version 8th Anniversary Celebration": {
     "JP": null,
-    "CN": "English Version 8th Anniversary Celebration",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -232,7 +246,7 @@
   },
   "Fate/hollow ataraxia REMASTERED": {
     "JP": null,
-    "CN": "Fate/hollow ataraxia REMASTERED",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -246,7 +260,7 @@
   },
   "Fate/stay night REMASTERED": {
     "JP": null,
-    "CN": "Fate/stay night REMASTERED",
+    "CN": null,
     "TW": "Fate/stay night REMASTERED",
     "NA": null,
     "KR": null
@@ -330,7 +344,7 @@
   },
   "Servant Art Chronicle": {
     "JP": null,
-    "CN": "Servant Art Chronicle",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -341,6 +355,13 @@
     "TW": "Singularity F",
     "NA": "Singularity F",
     "KR": "Singularity F"
+  },
+  "Studio Legale G": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "TEAM Phoenix": {
     "JP": null,
@@ -407,9 +428,9 @@
   },
   "waiting in the sky": {
     "JP": null,
-    "CN": "waiting in the sky",
+    "CN": null,
     "TW": "waiting in the sky",
-    "NA": null,
+    "NA": "Waiting in the Sky",
     "KR": null
   },
   "∞ドリーム": {
@@ -429,9 +450,9 @@
   "「FGO 藤丸立香はわからない」Season3": {
     "JP": null,
     "CN": "「FGO 藤丸立香想不明白」Season3",
-    "TW": null,
+    "TW": "「FGO 搞不懂的藤丸立香」Season3",
     "NA": "\"You've Lost Ritsuka Fujimaru\" Season 3",
-    "KR": null
+    "KR": "‘FGO 후지마루 리츠카는 잘 모르겠다’ Season 3"
   },
   "『昏い森の優しい雨』": {
     "JP": null,
@@ -485,9 +506,9 @@
   "あみぐるみ（アステリオス）": {
     "JP": null,
     "CN": "编织玩偶（阿斯忒里俄斯）",
-    "TW": "針織玩偶（阿斯忒裡俄斯）",
-    "NA": "Stuffed Toy (Asterios)",
-    "KR": null
+    "TW": "編織玩偶（阿斯忒里翁）",
+    "NA": "Crocheted Doll (Asterios)",
+    "KR": "뜨개 인형(아스테리오스)"
   },
   "ありえざる明日": {
     "JP": null,
@@ -524,6 +545,13 @@
     "NA": "A Certain Truth and Death",
     "KR": "어떤 진리와 죽음"
   },
+  "あれ？　もしかして": {
+    "JP": null,
+    "CN": "哎呀？　难道说",
+    "TW": "哎呀？ 難道說",
+    "NA": "Woah, No Way",
+    "KR": null
+  },
   "いただき貴き十字の峰": {
     "JP": null,
     "CN": "获赠的尊贵十字之盾面",
@@ -541,9 +569,9 @@
   "いつか星の河を越えて": {
     "JP": null,
     "CN": "终将跨越星河",
-    "TW": "橫渡星河終有時",
-    "NA": "Someday, We Can Cross Through the River of Stars",
-    "KR": null
+    "TW": "終將跨越星河",
+    "NA": "Across the River of Stars",
+    "KR": "언젠가 별의 강을 넘어서"
   },
   "いつか見た、あの日々の": {
     "JP": null,
@@ -576,7 +604,7 @@
   "いまは過ぎし星見の証": {
     "JP": null,
     "CN": "如今已成往昔的观星之证",
-    "TW": null,
+    "TW": "如今已成往昔的觀星之證",
     "NA": "The Now Passed Stargazer's Keepsake",
     "KR": null
   },
@@ -633,8 +661,8 @@
     "JP": null,
     "CN": "同款围裙",
     "TW": "同款圍裙",
-    "NA": "Matching Aprons",
-    "KR": null
+    "NA": "Matching Apron",
+    "KR": "한 쌍의 에이프런"
   },
   "おぞましき魔王のチョコ": {
     "JP": null,
@@ -706,6 +734,13 @@
     "NA": "Dandy Crimson (?) Necktie",
     "KR": "멋진 진홍색(?) 넥타이"
   },
+  "からくり義肢": {
+    "JP": null,
+    "CN": "机关义肢",
+    "TW": null,
+    "NA": "Artificial Limb",
+    "KR": null
+  },
   "かるであ草子": {
     "JP": null,
     "CN": "迦勒底草子",
@@ -734,6 +769,13 @@
     "NA": "GUDA-O",
     "KR": "구다오"
   },
+  "ぐだぐだ新選組": {
+    "JP": null,
+    "CN": "唠唠叨叨新选组",
+    "TW": null,
+    "NA": "Gudaguda Shinsegumi",
+    "KR": null
+  },
   "ぐだぐだ看板娘": {
     "JP": null,
     "CN": "唠唠叨叨看板娘",
@@ -760,7 +802,7 @@
     "CN": "胜过世间一切宝石",
     "TW": "勝過此世一切寶石",
     "NA": "More than Any Gemstones in this World",
-    "KR": null
+    "KR": "이 세상의 어떤 보석보다"
   },
   "この大地の精霊": {
     "JP": null,
@@ -783,12 +825,19 @@
     "NA": "Snack Stick (BBQ Flavor)",
     "KR": "곤봉 (바비큐 맛)"
   },
+  "ごく普通のカレー": {
+    "JP": null,
+    "CN": "再普通不过的咖喱",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ご褒美は勉強の後で": {
     "JP": null,
     "CN": "奖励要在学习后",
     "TW": "獎勵要在學習後",
-    "NA": "A Reward for Your Studies",
-    "KR": null
+    "NA": "A Reward Awaits After Your Studies",
+    "KR": "상은 공부 후에"
   },
   "ささやかな愉しみを、君と": {
     "JP": null,
@@ -909,6 +958,13 @@
     "NA": "Taking a Bath!",
     "KR": "지금은 입욕 중!"
   },
+  "ただの握り飯": {
+    "JP": null,
+    "CN": "只不过是饭团",
+    "TW": null,
+    "NA": "Just Your Everyday Rice Ball",
+    "KR": null
+  },
   "ただ一度の嘘": {
     "JP": null,
     "CN": "唯一的谎言",
@@ -996,9 +1052,9 @@
   "つまらないものですが": {
     "JP": null,
     "CN": "小小薄礼",
-    "TW": "雖說不過是尋常之物",
-    "NA": "It's Not Much, But...",
-    "KR": null
+    "TW": "小小薄禮",
+    "NA": "It's Not Much...",
+    "KR": "변변찮은 것입니다만"
   },
   "つよつよドラゴンハート": {
     "JP": null,
@@ -1047,7 +1103,7 @@
     "CN": "无比珍贵的礼物",
     "TW": "無比珍貴的禮物",
     "NA": "A Very Precious Gift",
-    "KR": null
+    "KR": "아주 소중한 선물"
   },
   "とんでもないものを盗んでいくためのチョコ": {
     "JP": null,
@@ -1070,6 +1126,13 @@
     "NA": "Chocolate Acorns",
     "KR": "도토리 초콜릿"
   },
+  "なだめの香り": {
+    "JP": null,
+    "CN": "抚慰之香",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "なつのあめ": {
     "JP": null,
     "CN": "夏雨",
@@ -1090,6 +1153,13 @@
     "TW": "平淡無奇的巧克力",
     "NA": "Just Some Ordinary Chocolates",
     "KR": "아무 특징도 없는 초콜릿"
+  },
+  "にゃんにゃんチョコ（仮）": {
+    "JP": null,
+    "CN": "喵喵巧克力（暂定）",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "はじまりの時間": {
     "JP": null,
@@ -1157,9 +1227,9 @@
   "ぶっ叩き券": {
     "JP": null,
     "CN": "殴打券",
-    "TW": "敲打券",
-    "NA": "Violently-Made Coupons",
-    "KR": null
+    "TW": "毆打券",
+    "NA": "Coupon for a Pummeling",
+    "KR": "주먹 찜질권"
   },
   "へびチョコ（てきとう）": {
     "JP": null,
@@ -1179,7 +1249,7 @@
     "JP": null,
     "CN": "星辰漫步",
     "TW": "星辰漫步",
-    "NA": "The Method to Walk on the Stars",
+    "NA": "How To Travel the Stars",
     "KR": "별을 걷는 법"
   },
   "ぼくらはともだち": {
@@ -1200,7 +1270,7 @@
     "JP": null,
     "CN": "仍在旅途",
     "TW": "仍在旅途",
-    "NA": "Still in the Middle of the Trip",
+    "NA": "Still on the Road",
     "KR": "아직 여행 도중"
   },
   "まどろみのうた": {
@@ -1208,7 +1278,7 @@
     "CN": "浅眠之歌",
     "TW": "淺眠之歌",
     "NA": "Song of Slumber",
-    "KR": null
+    "KR": "졸음을 부르는 노래"
   },
   "ままのみみ": {
     "JP": null,
@@ -1234,9 +1304,9 @@
   "みんなで食べてね": {
     "JP": null,
     "CN": "要和大家一起吃哦",
-    "TW": "要和大家一起吃哦",
-    "NA": "Everyone, Eat Up!",
-    "KR": null
+    "TW": "要跟大家一起吃哦",
+    "NA": "Eat It with Everybody",
+    "KR": "모두 함께 먹으렴"
   },
   "もう一つの結末": {
     "JP": null,
@@ -1244,6 +1314,13 @@
     "TW": "另一個結局",
     "NA": "Another Ending",
     "KR": "또 하나의 결말"
+  },
+  "もてなしの流儀": {
+    "JP": null,
+    "CN": "款待的定式",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "わくわくざぶーん優待チケット": {
     "JP": null,
@@ -1322,6 +1399,13 @@
     "NA": "Aztlán, My Home",
     "KR": "아스틀란・마이홈"
   },
+  "アズ・ア・ダッド": {
+    "JP": null,
+    "CN": "如父",
+    "TW": "如父",
+    "NA": "As a Dad",
+    "KR": null
+  },
   "アズ・ユー・ウィッシュ": {
     "JP": null,
     "CN": "如您所愿",
@@ -1335,6 +1419,13 @@
     "TW": "Azoth劍",
     "NA": "Azoth Blade",
     "KR": "아조트 검"
+  },
+  "アップルリップ・アイランド": {
+    "JP": null,
+    "CN": "Applelip AILand",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "アップル・アロー・チョコ": {
     "JP": null,
@@ -1364,6 +1455,13 @@
     "NA": "Child of Atlas",
     "KR": "아틀라스의 영아"
   },
+  "アトラスの守り": {
+    "JP": null,
+    "CN": "阿特拉斯的护佑",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "アトラス院": {
     "JP": null,
     "CN": "阿特拉斯院",
@@ -1376,6 +1474,13 @@
     "CN": "降临节巧克力盒",
     "TW": "降臨節巧克力盒子",
     "NA": "Advent Choco Box",
+    "KR": null
+  },
+  "アナザースペース・アナザーディメンジョン": {
+    "JP": null,
+    "CN": "异空间·异次元",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "アニバーサリー・ヒロインズ": {
@@ -1416,7 +1521,7 @@
   "アマング・ザ・ニンファエア": {
     "JP": null,
     "CN": "睡莲丛中",
-    "TW": null,
+    "TW": "睡蓮叢中",
     "NA": "Among the Nymphaea",
     "KR": null
   },
@@ -1426,6 +1531,13 @@
     "TW": "阿米特",
     "NA": "Ammit",
     "KR": "암무트"
+  },
+  "アライアンス": {
+    "JP": null,
+    "CN": "同盟",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "アリアドネの糸": {
     "JP": null,
@@ -1476,6 +1588,20 @@
     "NA": "Under the Knife",
     "KR": "언더 더 나이프"
   },
+  "アンダー・スラム": {
+    "JP": null,
+    "CN": "地下贫民窟",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アンブロシア結晶": {
+    "JP": null,
+    "CN": "仙馔结晶",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "アンヴァル": {
     "JP": null,
     "CN": "安巴尔",
@@ -1503,6 +1629,13 @@
     "TW": "It's Only a Paper Moon",
     "NA": "It's Only a Paper Moon",
     "KR": "잇츠 온리 어 페이퍼 문"
+  },
+  "イノセント・ダーク": {
+    "JP": null,
+    "CN": "纯洁之暗",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "イノセント・ブルー": {
     "JP": null,
@@ -1556,9 +1689,9 @@
   "ウィズ・ザ・ムーン": {
     "JP": null,
     "CN": "与月同在",
-    "TW": "伴月",
+    "TW": "與月同在",
     "NA": "With the Moon",
-    "KR": null
+    "KR": "위드 더 문"
   },
   "ウィズ・マイ・ファミリー": {
     "JP": null,
@@ -1572,7 +1705,7 @@
     "CN": "与我的父亲",
     "TW": "與我的父親",
     "NA": "With My Father",
-    "KR": null
+    "KR": "위드 마이 파더"
   },
   "ウィッシュ・カム・トゥルー": {
     "JP": null,
@@ -1640,9 +1773,9 @@
   "ウェルカム・トゥ・エキスポ": {
     "JP": null,
     "CN": "欢迎来到博览会",
-    "TW": "歡迎來到博覽會",
+    "TW": "Welcome to Expo",
     "NA": "Welcome to Expo",
-    "KR": null
+    "KR": "웰컴 투 엑스포"
   },
   "ウェルカム・バニー": {
     "JP": null,
@@ -1798,6 +1931,13 @@
     "NA": "Empty Garden",
     "KR": "엠프티 가든"
   },
+  "エンプレス・クエスト": {
+    "JP": null,
+    "CN": "女帝的探索",
+    "TW": "女帝的探索",
+    "NA": "Empress Quest",
+    "KR": null
+  },
   "エンローバーフォトン": {
     "JP": null,
     "CN": "光子巧克力条",
@@ -1817,14 +1957,14 @@
     "CN": "绿洲骑士",
     "TW": "綠洲騎士",
     "NA": "Oasis Knight",
-    "KR": null
+    "KR": "오아시스 나이트"
   },
   "オクト・ノーティカ": {
     "JP": null,
     "CN": "航海用八分仪",
-    "TW": "八之船",
+    "TW": "航海用八分儀",
     "NA": "Octo Nautica",
-    "KR": null
+    "KR": "옥토 노티카"
   },
   "オペラ・イン・アーケード": {
     "JP": null,
@@ -1955,9 +2095,9 @@
   "カプリシャス": {
     "JP": null,
     "CN": "变幻莫测",
-    "TW": "變幻無常",
+    "TW": "變幻莫測",
     "NA": "Capricious",
-    "KR": null
+    "KR": "카프리셔스"
   },
   "カボチャの聖杯": {
     "JP": null,
@@ -2000,6 +2140,13 @@
     "TW": "迦勒底的男人",
     "NA": "Man of Chaldea",
     "KR": "칼데아의 남자"
+  },
+  "カルデアの者": {
+    "JP": null,
+    "CN": "迦勒底之人",
+    "TW": null,
+    "NA": "Those from Chaldea",
+    "KR": null
   },
   "カルデアの顕学": {
     "JP": null,
@@ -2111,7 +2258,7 @@
     "CN": "迦勒底晚餐时光",
     "TW": "迦勒底晚餐時光",
     "NA": "Chaldea Dinnertime",
-    "KR": "칼데아 디너 타임"
+    "KR": "칼데아 디너타임"
   },
   "カルデア・ニューオーダー": {
     "JP": null,
@@ -2148,6 +2295,13 @@
     "NA": "Chaldea Petit Four",
     "KR": "칼데아 쁘띠 푸르"
   },
+  "カルデア・ホームスイートホーム": {
+    "JP": null,
+    "CN": "迦勒底甜蜜归宿",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "カルデア・ポートレイト": {
     "JP": null,
     "CN": "迦勒底肖像",
@@ -2158,9 +2312,9 @@
   "カルデア・モーニング": {
     "JP": null,
     "CN": "迦勒底之晨",
-    "TW": "迦勒底清晨",
+    "TW": "迦勒底晨光",
     "NA": "Chaldea Morning",
-    "KR": null
+    "KR": "칼데아 모닝"
   },
   "カルデア・ライフセーバーズ": {
     "JP": null,
@@ -2187,8 +2341,8 @@
     "JP": null,
     "CN": "迦勒底刑警",
     "TW": "迦勒底刑警",
-    "NA": "Chaldean Detectives",
-    "KR": null
+    "NA": "Chaldea Detectives",
+    "KR": "칼데아 형사"
   },
   "カルデア夏の推薦図書": {
     "JP": null,
@@ -2252,6 +2406,13 @@
     "TW": "咖哩×白飯",
     "NA": "Curry × Rice",
     "KR": "카레×라이스"
+  },
+  "カ星を救いし槍": {
+    "JP": null,
+    "CN": "拯救瓜星之枪",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ガトー・オ・ショコラ": {
     "JP": null,
@@ -2365,10 +2526,17 @@
     "NA": "Frozen Sports Drinks",
     "KR": "꽁꽁 얼린 스포츠 드링크"
   },
+  "キングエリザチョコ": {
+    "JP": null,
+    "CN": "王者伊丽莎巧克力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "キングダム・オブ・ユアーズ": {
     "JP": null,
     "CN": "属于你的王国",
-    "TW": null,
+    "TW": "屬於你的王國",
     "NA": "Kingdom of Yours",
     "KR": null
   },
@@ -2400,12 +2568,19 @@
     "NA": "Queen's Dream",
     "KR": "퀸즈 드림"
   },
+  "クイーンズ・ボヤージュ": {
+    "JP": null,
+    "CN": "女王的出航",
+    "TW": "女王的出航",
+    "NA": "Queen's Voyage",
+    "KR": null
+  },
   "クイーン・キラー": {
     "JP": null,
     "CN": "女王杀手",
-    "TW": "王后殺手",
+    "TW": "女王殺手",
     "NA": "Queen Killer",
-    "KR": null
+    "KR": "퀸 킬러"
   },
   "クサントス": {
     "JP": null,
@@ -2445,9 +2620,9 @@
   "クラウン＆オーギュスト": {
     "JP": null,
     "CN": "悲伤小丑＆开心小丑",
-    "TW": "白丑角＆黑丑角",
+    "TW": "Clown＆Auguste",
     "NA": "Crown & August",
-    "KR": null
+    "KR": "크라운&어거스트"
   },
   "クラブ・アルゴノーツ": {
     "JP": null,
@@ -2475,7 +2650,7 @@
     "CN": "智慧的水晶",
     "TW": "智慧的結晶",
     "NA": "Crystal of Wisdom",
-    "KR": null
+    "KR": "크리스탈 오브 위즈덤"
   },
   "クリスマスの思い出": {
     "JP": null,
@@ -2533,6 +2708,20 @@
     "NA": "Glass Full Sweet Time",
     "KR": "글래스풀 스위트 타임"
   },
+  "グランドセイバーチョコ": {
+    "JP": null,
+    "CN": "Grand Saber巧克力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "グランド・ギャザリング": {
+    "JP": null,
+    "CN": "冠位酒会",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "グランド・チョコレート": {
     "JP": null,
     "CN": "宏伟巧克力",
@@ -2566,7 +2755,7 @@
     "CN": "贪婪的骰子",
     "TW": "貪婪的骰子",
     "NA": "Greedy Dice",
-    "KR": null
+    "KR": "그리디 다이스"
   },
   "グレイテスト・オーシャン": {
     "JP": null,
@@ -2593,8 +2782,8 @@
     "JP": null,
     "CN": "刻耳柏洛斯巧克力",
     "TW": "刻耳柏洛斯巧克力",
-    "NA": "Cerberus Choco",
-    "KR": null
+    "NA": "Cerberus Chocolate",
+    "KR": "케르베로스 초코"
   },
   "コスモカルデア高等学園": {
     "JP": null,
@@ -2613,9 +2802,9 @@
   "コム・アン・サブリエ": {
     "JP": null,
     "CN": "宛若沙漏",
-    "TW": "如沙漏般",
+    "TW": "宛若沙漏",
     "NA": "Comme un Sablier",
-    "KR": null
+    "KR": "콤 앙 사블리에"
   },
   "コヤンスカヤの野望～ユーラシア版～": {
     "JP": null,
@@ -2685,7 +2874,7 @@
     "CN": "黄金☆名流之夜",
     "TW": "黃金☆名流之夜",
     "NA": "Golden☆Celeb Night",
-    "KR": null
+    "KR": "골든☆셀럽 나이트"
   },
   "ゴールデングラス": {
     "JP": null,
@@ -2729,6 +2918,13 @@
     "NA": "Goldfish Scooping",
     "KR": "골드피쉬 스쿠핑"
   },
+  "サイン・オブ・スプリング": {
+    "JP": null,
+    "CN": "春日讯号",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "サウザンド・ナイツ": {
     "JP": null,
     "CN": "千夜",
@@ -2748,13 +2944,20 @@
     "CN": "卫星基站24-25",
     "TW": "衛星站23-24",
     "NA": "Satellite Station 23-24",
-    "KR": null
+    "KR": "새틀라이트 스테이션 23-24"
   },
   "サテライトステーション24-25": {
     "JP": null,
     "CN": "卫星基站25-26",
     "TW": "衛星站24-25",
     "NA": "Satellite Station 24-25",
+    "KR": null
+  },
+  "サテライトステーション26": {
+    "JP": null,
+    "CN": "卫星基站26",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "サマーアドベンチャー・メモリー": {
@@ -2784,6 +2987,13 @@
     "TW": "夏日週年慶",
     "NA": "Summer Anniversary",
     "KR": "서머 애니버서리"
+  },
+  "サマー・インフェルノ": {
+    "JP": null,
+    "CN": "炼狱之夏",
+    "TW": "煉獄之夏",
+    "NA": "Summer Inferno",
+    "KR": null
   },
   "サマー・ブレイク": {
     "JP": null,
@@ -2851,8 +3061,15 @@
   "サン・シャワー": {
     "JP": null,
     "CN": "沐浴阳光",
-    "TW": null,
+    "TW": "沐浴陽光",
     "NA": "Sun Shower",
+    "KR": null
+  },
+  "サン・ボート": {
+    "JP": null,
+    "CN": "太阳小舟",
+    "TW": "太陽小舟",
+    "NA": "Sun Boat",
     "KR": null
   },
   "サービス・ゲームス": {
@@ -2872,9 +3089,9 @@
   "ザ・スーク": {
     "JP": null,
     "CN": "苏克集市",
-    "TW": "集市",
+    "TW": "露天市集",
     "NA": "The Souq",
-    "KR": null
+    "KR": "더 수크"
   },
   "ザ・トレジャー": {
     "JP": null,
@@ -2909,7 +3126,7 @@
     "CN": "闪耀小号",
     "TW": "閃耀小號",
     "NA": "Shiny Trumpet",
-    "KR": null
+    "KR": "샤이니 트럼펫"
   },
   "シャクニの骰子": {
     "JP": null,
@@ -2938,6 +3155,13 @@
     "TW": "山魯亞爾王之閨",
     "NA": "King Shahryār's Bedchamber",
     "KR": "샤흐리야르 왕의 침소"
+  },
+  "シャークチェス・チョコ": {
+    "JP": null,
+    "CN": "国际鲨棋巧克力",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "シュガー・バケーション": {
     "JP": null,
@@ -3000,7 +3224,7 @@
     "CN": "大鼻子情圣",
     "TW": "風流劍客",
     "NA": "Cyrano de Bergerac",
-    "KR": null
+    "KR": "시라노 드 베르주라크"
   },
   "シルバーバレット": {
     "JP": null,
@@ -3028,14 +3252,14 @@
     "CN": "慎二坦克出击！",
     "TW": "慎二坦克出擊！",
     "NA": "Shinji Tank, Attack!",
-    "KR": null
+    "KR": "신지 탱크 출격!"
   },
   "シークレット・ミッション": {
     "JP": null,
     "CN": "秘密任务",
     "TW": "秘密任務",
     "NA": "Secret Mission",
-    "KR": null
+    "KR": "시크릿 미션"
   },
   "シーサイド・ラグジュアリー": {
     "JP": null,
@@ -3196,7 +3420,7 @@
     "CN": "甜蜜之花",
     "TW": "甜蜜之花",
     "NA": "Sweet Flower",
-    "KR": null
+    "KR": "스위트 플라워"
   },
   "スイート・ブーケ・アヴァロン": {
     "JP": null,
@@ -3225,6 +3449,13 @@
     "TW": "嘔心瀝血",
     "NA": "Sweat Blood",
     "KR": "스웨트・블러드"
+  },
+  "スカイドーム": {
+    "JP": null,
+    "CN": "天空球",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "スケープゴート": {
     "JP": null,
@@ -3310,6 +3541,20 @@
     "NA": "Strawberry Thunder Crunch",
     "KR": "스트로베리 선더 크런치 초콜릿"
   },
+  "ストーミー・ナイト": {
+    "JP": null,
+    "CN": "风暴之夜",
+    "TW": "風暴之夜",
+    "NA": "Stormy Night",
+    "KR": null
+  },
+  "スノー・ハート": {
+    "JP": null,
+    "CN": "白雪之心",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "スノー・パイレーツ": {
     "JP": null,
     "CN": "雪盗",
@@ -3359,11 +3604,18 @@
     "NA": "Space Diorama Chocolate",
     "KR": "스페이스 디오라마 초콜릿"
   },
+  "スペース・ミストレス": {
+    "JP": null,
+    "CN": "太空女主人",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "スマイル・ナイト": {
     "JP": null,
     "CN": "微笑骑士",
     "TW": "微笑騎士",
-    "NA": "Smile Knight",
+    "NA": "Smiling Knight",
     "KR": "스마일 나이트"
   },
   "スマホ変形機能付き小為朝": {
@@ -3376,9 +3628,9 @@
   "スムース・セーリング": {
     "JP": null,
     "CN": "一帆风顺",
-    "TW": "順遂的航海",
+    "TW": "一帆風順",
     "NA": "Smooth Sailing",
-    "KR": null
+    "KR": "스무드 세일링"
   },
   "スリーピング・エリザ": {
     "JP": null,
@@ -3530,9 +3782,9 @@
   "タタールの槍": {
     "JP": null,
     "CN": "鞑靼之枪",
-    "TW": "韃靼人的槍",
+    "TW": "韃靼之槍",
     "NA": "Tatars' Lance",
-    "KR": null
+    "KR": "타타르의 창"
   },
   "ダイブ・トゥ・ブルー": {
     "JP": null,
@@ -3554,6 +3806,13 @@
     "TW": "爹地讀信直播",
     "NA": "Daddy's Letter Show",
     "KR": "대디 레터 라이브"
+  },
+  "ダブル・スイート": {
+    "JP": null,
+    "CN": "双重甜蜜",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ダマスク鋼の短剣": {
     "JP": null,
@@ -3632,6 +3891,13 @@
     "NA": "Chocolate Cupcakes",
     "KR": "초코 컵케이크"
   },
+  "チョコチップメロンパン": {
+    "JP": null,
+    "CN": "巧克力豆蜜瓜面包",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "チョコミントクールバレット": {
     "JP": null,
     "CN": "薄荷巧克力清凉子弹",
@@ -3651,6 +3917,13 @@
     "CN": "巧克力×63",
     "TW": "巧克力×63",
     "NA": "Chocolate×63",
+    "KR": null
+  },
+  "チョコレートの花園": {
+    "JP": null,
+    "CN": "巧克力花园",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "チョコレートケーキ・バニーホワイト": {
@@ -3712,9 +3985,9 @@
   "チョコ・ラフティング": {
     "JP": null,
     "CN": "巧克力泛舟",
-    "TW": "巧克力漂流",
-    "NA": "Choco Rafting",
-    "KR": null
+    "TW": "巧克力泛舟",
+    "NA": "Chocolate Rafting",
+    "KR": "초코 래프팅"
   },
   "チョコ式ミニゴーレム": {
     "JP": null,
@@ -3768,9 +4041,9 @@
   "デイ・オフ・マスター": {
     "JP": null,
     "CN": "御主之日",
-    "TW": "御主的一日",
-    "NA": "Day of Master",
-    "KR": null
+    "TW": "御主之日",
+    "NA": "Master's Day Off",
+    "KR": "데이 오프 마스터"
   },
   "デザート・メイデン": {
     "JP": null,
@@ -3783,8 +4056,8 @@
     "JP": null,
     "CN": "出发活动写真馆",
     "TW": "出發活動寫真館",
-    "NA": "Let's Go to a Motion Picture Studio",
-    "KR": null
+    "NA": "Let's Go to the Movies",
+    "KR": "출발 활동사진관"
   },
   "デビルズフードケーキ": {
     "JP": null,
@@ -3799,6 +4072,13 @@
     "TW": "試聽帶 你的銀河",
     "NA": "Demo Tape: Your Galaxy",
     "KR": "데모테이프・당신의 은하"
+  },
+  "デュアル・バーニング": {
+    "JP": null,
+    "CN": "双重燎灼",
+    "TW": null,
+    "NA": "Dual Burning",
+    "KR": null
   },
   "デュランダル・レプリカ": {
     "JP": null,
@@ -3877,6 +4157,20 @@
     "NA": "Tri-Star Belt (Handmade)",
     "KR": "트라이스타 벨트(수제)"
   },
+  "トライ・ザ・パンチ": {
+    "JP": null,
+    "CN": "Try the Punch",
+    "TW": "Try the Punch",
+    "NA": "Try the Punch",
+    "KR": null
+  },
+  "トラジェクトリー・オブ・フェイト": {
+    "JP": null,
+    "CN": "命运轨迹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "トラベリング大サーカス！": {
     "JP": null,
     "CN": "旅行大马戏团！",
@@ -3887,16 +4181,16 @@
   "トリシューラチョコ": {
     "JP": null,
     "CN": "特里修拉巧克力",
-    "TW": "三叉戟巧克力",
-    "NA": "Trishula Choco",
-    "KR": null
+    "TW": "特里修拉巧克力",
+    "NA": "Trishula Chocolate",
+    "KR": "트리슐라 초코"
   },
   "トリックマスター": {
     "JP": null,
     "CN": "技巧大师",
-    "TW": "搗蛋鬼",
+    "TW": "技巧大師",
     "NA": "Trickmaster",
-    "KR": null
+    "KR": "트릭 마스터"
   },
   "トリック・オア・トリート": {
     "JP": null,
@@ -3917,6 +4211,13 @@
     "CN": "特里同礼品卡",
     "TW": "特里頓禮品卡",
     "NA": "Triton Gift Card",
+    "KR": "트리톤 기프트 카드"
+  },
+  "トリニティ・メタトロンチョコ": {
+    "JP": null,
+    "CN": "三位一体·梅塔特隆巧克力",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "トレジャー・オブ・カリビアン": {
@@ -4001,13 +4302,20 @@
     "CN": "舞龙",
     "TW": "舞龍",
     "NA": "Dragon Dance",
-    "KR": null
+    "KR": "드래곤 댄스"
   },
   "ドラゴン・トレッキング": {
     "JP": null,
     "CN": "龙之山地徒步",
     "TW": "龍的登山遠足",
     "NA": "Dragon Trekking",
+    "KR": null
+  },
+  "ドラバス～10th記念ライブ～": {
+    "JP": null,
+    "CN": "DRBUS～10th纪念演唱会～",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "ドリーム・クローゼット": {
@@ -4084,8 +4392,8 @@
     "JP": null,
     "CN": "努诺斯合体巧克力",
     "TW": "努諾斯合體巧克力",
-    "NA": "Combined-Nunnos Choco",
-    "KR": null
+    "NA": "Choconunnos (Combined)",
+    "KR": "눈노스 합체 초코"
   },
   "ネクタール・ボンボン": {
     "JP": null,
@@ -4248,6 +4556,13 @@
     "NA": "Hello, Arctic!",
     "KR": "헬로! 아크틱"
   },
+  "ハンティング": {
+    "JP": null,
+    "CN": "狩猎",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ハンド・イン・ハンド": {
     "JP": null,
     "CN": "手牵着手",
@@ -4331,6 +4646,13 @@
     "TW": "情人節女巫們",
     "NA": "Valentine Witches",
     "KR": "발렌타인 위치즈"
+  },
+  "バレンタイン・ランチ": {
+    "JP": null,
+    "CN": "情人节午餐",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "バーニング・ライヴシート": {
     "JP": null,
@@ -4518,8 +4840,8 @@
     "JP": null,
     "CN": "巨大考拉巧克力",
     "TW": "巨大無尾熊巧克力",
-    "NA": "Big Koala Choco",
-    "KR": null
+    "NA": "Big Koala Chocolate",
+    "KR": "빅 코알라 초코"
   },
   "ビフォー・パーティー": {
     "JP": null,
@@ -4549,6 +4871,13 @@
     "NA": "Beautiful Dreamer",
     "KR": "뷰티풀 드리머"
   },
+  "ビヨンド・ザ・フラッド": {
+    "JP": null,
+    "CN": "洪水之上",
+    "TW": "洪水之上",
+    "NA": "Beyond the Flood",
+    "KR": null
+  },
   "ビルドアッパーマルタ": {
     "JP": null,
     "CN": "修行锻炼玛尔达",
@@ -4566,9 +4895,9 @@
   "ビーマのスペシャルフルコース": {
     "JP": null,
     "CN": "怖军的特制全席",
-    "TW": "怖軍的特別全套套餐",
-    "NA": "Bhima's Special Full Course Meal",
-    "KR": null
+    "TW": "怖軍的特製全席",
+    "NA": "Bhīma's Special Feast",
+    "KR": "비마의 스페셜 풀 코스"
   },
   "ビー・シェルヴド": {
     "JP": null,
@@ -4626,6 +4955,20 @@
     "NA": "Pil Gaugamela",
     "KR": "필 가우가멜라"
   },
+  "ファイナルハロウィン・スペシャルチョコ": {
+    "JP": null,
+    "CN": "万圣节终章特制巧克力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファイブ・ラウンズ": {
+    "JP": null,
+    "CN": "圆桌五人",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ファイヤーフラワー": {
     "JP": null,
     "CN": "火焰之花",
@@ -4650,9 +4993,9 @@
   "ファンからの差し入れ": {
     "JP": null,
     "CN": "粉丝的慰问礼",
-    "TW": "粉絲送來的慰勞品",
-    "NA": "Refreshments from a Fan",
-    "KR": null
+    "TW": "粉絲送的慰勞品",
+    "NA": "Gift from a Fan",
+    "KR": "팬에게 받은 선물"
   },
   "ファンタズムロッド・麗華": {
     "JP": null,
@@ -4667,6 +5010,13 @@
     "TW": "魅影之夜",
     "NA": "Phantom Night",
     "KR": "팬텀 나이트"
+  },
+  "ファーストミッション当日": {
+    "JP": null,
+    "CN": "第一次任务当天",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ファースト・カリグラフィー": {
     "JP": null,
@@ -4717,6 +5067,13 @@
     "NA": "Filler Flowers",
     "KR": "필러 플라워"
   },
+  "フェアリー・ファーム": {
+    "JP": null,
+    "CN": "妖精农场",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "フォウくんマペット": {
     "JP": null,
     "CN": "芙芙手套玩偶",
@@ -4744,6 +5101,13 @@
     "TW": "為了你的信件",
     "NA": "For Your Letters",
     "KR": "포 유어 레터즈"
+  },
+  "フフ……栄光と勝利の月桂冠": {
+    "JP": null,
+    "CN": "呵呵……荣光与胜利的月桂冠",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "フライ・オフ": {
     "JP": null,
@@ -4839,9 +5203,9 @@
   "ブライト・ブルー": {
     "JP": null,
     "CN": "明亮蔚蓝",
-    "TW": "明亮之藍",
+    "TW": "明亮蔚藍",
     "NA": "Bright Blue",
-    "KR": null
+    "KR": "브라이트 블루"
   },
   "ブラザー・スペシャル": {
     "JP": null,
@@ -4874,16 +5238,16 @@
   "ブリリアント・クイーンハート": {
     "JP": null,
     "CN": "闪耀的女王之心",
-    "TW": "光輝燦爛的女王之心",
-    "NA": "Brilliant Queenheart",
-    "KR": null
+    "TW": "閃耀的女王之心",
+    "NA": "Brilliant Queen's Heart",
+    "KR": "브릴리언트・퀸 하트"
   },
   "ブルースカイ・バニラカクテル": {
     "JP": null,
     "CN": "蓝天香草鸡尾酒",
-    "TW": "青空香子蘭雞尾酒",
+    "TW": "藍天香草雞尾酒",
     "NA": "Blue Sky Vanilla Cocktail",
-    "KR": null
+    "KR": "블루스카이・바닐라 칵테일"
   },
   "ブルースカイ・ヴァニラＭｔ．": {
     "JP": null,
@@ -4951,9 +5315,9 @@
   "プリエ・ギャラクシー": {
     "JP": null,
     "CN": "祈愿银河系",
-    "TW": "祈願的銀河",
-    "NA": "Prier Galaxy",
-    "KR": null
+    "TW": "祈願銀河系",
+    "NA": "Prière Galaxy",
+    "KR": "프리에 갤럭시"
   },
   "プリズマ☆イリヤ 雪下の誓い": {
     "JP": null,
@@ -4993,7 +5357,7 @@
   "プレザント・ストリート": {
     "JP": null,
     "CN": "礼物街市",
-    "TW": null,
+    "TW": "愉快街道",
     "NA": "Pleasant Street",
     "KR": null
   },
@@ -5017,6 +5381,13 @@
     "TW": "獻給我的御主的禮物",
     "NA": "Present for My Master",
     "KR": "프레젠트 포 마이 마스터"
+  },
+  "プレゼント・フォー・ユー": {
+    "JP": null,
+    "CN": "为你挑选的礼物",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "プレミアチョコケーキ": {
     "JP": null,
@@ -5049,9 +5420,9 @@
   "プールサイド・メイド": {
     "JP": null,
     "CN": "泳池边的女仆",
-    "TW": "池邊女僕",
+    "TW": "泳池邊的女僕",
     "NA": "Poolside Maid",
-    "KR": null
+    "KR": "풀 사이드 메이드"
   },
   "ヘカテの錫杖": {
     "JP": null,
@@ -5101,6 +5472,13 @@
     "TW": "幻影戰馬的鬃毛",
     "NA": "Bayard's Mane",
     "KR": "베이어드의 갈기"
+  },
+  "ベジチャウミン": {
+    "JP": null,
+    "CN": "素杂菜炒面",
+    "TW": "素什錦炒麵",
+    "NA": "Veggie Chow Mein",
+    "KR": null
   },
   "ベスティア・デル・ソル": {
     "JP": null,
@@ -5354,12 +5732,19 @@
     "NA": "Learning with Manga! FGO",
     "KR": "만화로 알아보는! FGO"
   },
+  "マーズ・シューティング": {
+    "JP": null,
+    "CN": "火星射击",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ミスター・レッドガジェット": {
     "JP": null,
     "CN": "红色电子设备先生",
-    "TW": "紅色管家先生",
-    "NA": "Mr. Red Gadget",
-    "KR": null
+    "TW": "紅色電子設備先生",
+    "NA": "Mister Red Gadget",
+    "KR": "미스터・레드 가젯"
   },
   "ミステリー・トレジャー": {
     "JP": null,
@@ -5415,7 +5800,7 @@
     "CN": "银河",
     "TW": "銀河",
     "NA": "Milky Way",
-    "KR": null
+    "KR": "밀키 웨이"
   },
   "ミートウォーズ": {
     "JP": null,
@@ -5448,9 +5833,9 @@
   "ムーン・ボゥ": {
     "JP": null,
     "CN": "月虹",
-    "TW": "月之虹",
+    "TW": "月虹",
     "NA": "Moon Bow",
-    "KR": null
+    "KR": "문 보우"
   },
   "ムーン・マーガレット": {
     "JP": null,
@@ -5568,8 +5953,8 @@
     "JP": null,
     "CN": "摩根尼亚物语",
     "TW": "摩根尼亞物語",
-    "NA": "Tales of Morgania",
-    "KR": null
+    "NA": "Tale of Morgania",
+    "KR": "모르가니아 이야기"
   },
   "モンブラン・オ・ショコラ": {
     "JP": null,
@@ -5588,9 +5973,9 @@
   "モーダカ・ポータブル": {
     "JP": null,
     "CN": "便携莫达克",
-    "TW": "攜帶式甜蒸餃",
+    "TW": "便攜式莫達克",
     "NA": "Portable Modak",
-    "KR": null
+    "KR": "모닥 포터블"
   },
   "モーニング・グローリー": {
     "JP": null,
@@ -5647,6 +6032,13 @@
     "TW": "奮筆疾書",
     "NA": "Writer's High",
     "KR": "라이팅 하이"
+  },
+  "ライト・オブ・ナイト": {
+    "JP": null,
+    "CN": "夜骑之灯",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ライブラリ・アイスクリーム": {
     "JP": null,
@@ -5799,7 +6191,7 @@
     "JP": null,
     "CN": "环复星雨",
     "TW": "反覆星雨",
-    "NA": "Ref-rain",
+    "NA": "Ref-Rain",
     "KR": "리프・레인"
   },
   "リボン付清姫": {
@@ -5917,9 +6309,9 @@
   "レポートチェック": {
     "JP": null,
     "CN": "检查报告",
-    "TW": "報告審查",
-    "NA": "Report Check",
-    "KR": null
+    "TW": "檢查報告",
+    "NA": "Checking Reports",
+    "KR": "리포트 체크"
   },
   "ロイヤル・アイシング": {
     "JP": null,
@@ -5931,9 +6323,9 @@
   "ロコモコＵＤＫ": {
     "JP": null,
     "CN": "夏威夷汉堡肉盖饭ＵＤＫ",
-    "TW": "漢堡肉蓋飯UDK",
+    "TW": "夏威夷漢堡飯UDK",
     "NA": "Loco Moco UDK",
-    "KR": null
+    "KR": "로코모코 UDK"
   },
   "ロマニ・アーキマン伯爵の歓待": {
     "JP": null,
@@ -5974,7 +6366,7 @@
     "JP": null,
     "CN": "旺吉娜头盔",
     "TW": "旺吉娜頭盔",
-    "NA": "Wandjina-met",
+    "NA": "Wandjina Helmet",
     "KR": "완지나멧"
   },
   "ワンダフル・ライフ": {
@@ -6032,6 +6424,13 @@
     "TW": "勝利玫瑰",
     "NA": "Victory Rose",
     "KR": "빅토리 로즈"
+  },
+  "ヴィジター": {
+    "JP": null,
+    "CN": "访问者",
+    "TW": "來訪者",
+    "NA": "Visitor",
+    "KR": "비지터"
   },
   "ヴィランズ・スウィート・バー": {
     "JP": null,
@@ -6106,9 +6505,9 @@
   "一盃の酒とお塩チョコ": {
     "JP": null,
     "CN": "一盅酒与海盐巧克力",
-    "TW": "一杯酒與鹽巧克力",
-    "NA": "A Bowlful of Sake and Some Salted Choco",
-    "KR": null
+    "TW": "一盞酒與海鹽巧克力",
+    "NA": "A Cup of Sake and Salted Chocolates",
+    "KR": "한 잔의 술과 소금 초코"
   },
   "一緒に、ひなたぼっこ": {
     "JP": null,
@@ -6166,12 +6565,19 @@
     "NA": "Thunderous Applause",
     "KR": "우레와 같은 갈채"
   },
+  "三井の晩鐘": {
+    "JP": null,
+    "CN": "三井的晚钟",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "三咲の学び舎": {
     "JP": null,
     "CN": "三咲的校舍",
     "TW": "三咲的校舍",
-    "NA": "Schoolhouse in Misaki",
-    "KR": null
+    "NA": "School in Misaki",
+    "KR": "미사키의 배움터"
   },
   "三昧真火": {
     "JP": null,
@@ -6212,8 +6618,8 @@
     "JP": null,
     "CN": "三头狮子、三个影子的女儿们",
     "TW": "三頭獅子，三重影子的女兒們",
-    "NA": "Three lions, three shadow daughters",
-    "KR": null
+    "NA": "Three Lions, Three Shadowed Maidens",
+    "KR": "세 마리의 사자, 세 그림자의 딸들"
   },
   "不器用な歓び": {
     "JP": null,
@@ -6253,9 +6659,9 @@
   "不死ならざる者": {
     "JP": null,
     "CN": "未至不死之人",
-    "TW": "未能成就不死者",
-    "NA": "The One Who Failed to Attain Immortality",
-    "KR": null
+    "TW": "未至不死之人",
+    "NA": "One Who Failed To Achieve Immortality",
+    "KR": "불사가 아닌 자"
   },
   "不死鳥は大地に": {
     "JP": null,
@@ -6330,9 +6736,9 @@
   "乾いた拳": {
     "JP": null,
     "CN": "枯涸之拳",
-    "TW": "枯渴之拳",
+    "TW": "枯涸之拳",
     "NA": "Parched Fist",
-    "KR": null
+    "KR": "메마른 주먹"
   },
   "乾坤圏": {
     "JP": null,
@@ -6345,8 +6751,8 @@
     "JP": null,
     "CN": "二天一流之女",
     "TW": "二天一流之女",
-    "NA": "Woman of Niten Ichiryu",
-    "KR": null
+    "NA": "Woman of the Niten Ichiryu",
+    "KR": "이천일류의 여자"
   },
   "二神三脚": {
     "JP": null,
@@ -6368,6 +6774,13 @@
     "TW": "五大元素使",
     "NA": "Average One",
     "KR": "5대원소술사"
+  },
+  "五宝月団子": {
+    "JP": null,
+    "CN": "五宝月团子",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "五月の風": {
     "JP": null,
@@ -6404,6 +6817,13 @@
     "NA": "AC Lightning Cookies",
     "KR": "교류식 라이트닝 쿠키"
   },
+  "京乱怒濤": {
+    "JP": null,
+    "CN": "京乱怒涛",
+    "TW": null,
+    "NA": "Capital Maelstrom",
+    "KR": null
+  },
   "京極": {
     "JP": null,
     "CN": "京极",
@@ -6414,9 +6834,9 @@
   "人形師の休息": {
     "JP": null,
     "CN": "人偶师的休息",
-    "TW": "人偶師的休憩",
+    "TW": "人偶師的休息",
     "NA": "Puppeteer's Respite",
-    "KR": null
+    "KR": "인형사의 휴식"
   },
   "人間への道程": {
     "JP": null,
@@ -6449,16 +6869,16 @@
   "今は甘き辺獄の美味": {
     "JP": null,
     "CN": "此刻为甜美灵薄狱之美味",
-    "TW": "如今乃甜蜜邊獄之美味",
-    "NA": "A Sweet Limbo Flavour",
-    "KR": null
+    "TW": "此刻乃甜蜜靈薄獄之美味",
+    "NA": "Limbo's Sweet Delights",
+    "KR": "지금은 달콤한 변옥의 맛"
   },
   "仏像（たくさん）": {
     "JP": null,
     "CN": "佛像（很多）",
     "TW": "佛像（很多）",
-    "NA": "Buddha Statues (A Lot of Them)",
-    "KR": null
+    "NA": "(A lot of) Buddha Statues",
+    "KR": "불상(잔뜩)"
   },
   "代償魔術": {
     "JP": null,
@@ -6561,9 +6981,9 @@
   "偉大なるわし様が選んだ最高の帯": {
     "JP": null,
     "CN": "伟大的本老爷挑选的最顶级之带",
-    "TW": "偉大的大爺我甄選的至高的腰帶",
-    "NA": "The Most Expensive Belt Chosen by the Great Me",
-    "KR": null
+    "TW": "偉大的大爺我挑選的最頂級腰帶",
+    "NA": "The Finest of Belts, Selected by Yours Truly",
+    "KR": "위대한 이 몸께서 선택한 최고의 띠"
   },
   "偶の一興": {
     "JP": null,
@@ -6575,9 +6995,9 @@
   "偽りの誓約": {
     "JP": null,
     "CN": "虚伪的誓约",
-    "TW": "虛假的誓約",
+    "TW": "虛偽的誓約",
     "NA": "Geis of Falsehoods",
-    "KR": null
+    "KR": "거짓된 서약"
   },
   "偽臣の書": {
     "JP": null,
@@ -6600,6 +7020,13 @@
     "NA": "Elegant Heavens, Generous Earth",
     "KR": "우아한 하늘, 관대한 땅"
   },
+  "優駿": {
+    "JP": null,
+    "CN": "良驹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "先制": {
     "JP": null,
     "CN": "先制",
@@ -6617,7 +7044,7 @@
   "光の祭典": {
     "JP": null,
     "CN": "光之祭典",
-    "TW": null,
+    "TW": "光之祭典",
     "NA": "Festival of Light",
     "KR": null
   },
@@ -6764,9 +7191,9 @@
   "凡俗の刃": {
     "JP": null,
     "CN": "凡俗之刃",
-    "TW": "凡庸之刃",
-    "NA": "Blade of Mediocrity",
-    "KR": null
+    "TW": "凡俗之刃",
+    "NA": "Ordinary Blade",
+    "KR": "범속의 칼날"
   },
   "出発進行！": {
     "JP": null,
@@ -6816,6 +7243,13 @@
     "TW": "剎那的幸福之地",
     "NA": "Moment of Bliss",
     "KR": "찰나의 절경"
+  },
+  "刻の終わり": {
+    "JP": null,
+    "CN": "时间的终点",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "刻まれていたもの": {
     "JP": null,
@@ -6954,8 +7388,8 @@
     "JP": null,
     "CN": "十四之石",
     "TW": "十四之石",
-    "NA": "Jewel of Fourteen",
-    "KR": null
+    "NA": "Fourteen Stones",
+    "KR": "14의 돌"
   },
   "十文字槍": {
     "JP": null,
@@ -6976,7 +7410,7 @@
     "CN": "作为毕业的证明",
     "TW": "作為畢業的證明",
     "NA": "Proof of Graduation",
-    "KR": null
+    "KR": "졸업의 증표로"
   },
   "南の島のフェスティバル": {
     "JP": null,
@@ -7031,7 +7465,7 @@
     "JP": null,
     "CN": "被继承的灵魂",
     "TW": "被繼承的靈魂",
-    "NA": "The Soul Passed Down",
+    "NA": "The Inherited Spirit",
     "KR": "계승되는 혼"
   },
   "叛逆せよ": {
@@ -7075,6 +7509,13 @@
     "TW": "同調",
     "NA": "Synchronization",
     "KR": "동조"
+  },
+  "名も無き兵士": {
+    "JP": null,
+    "CN": "无名士兵",
+    "TW": "無名的士兵",
+    "NA": "The Nameless Soldier",
+    "KR": null
   },
   "名も知れぬ記念銀貨": {
     "JP": null,
@@ -7125,6 +7566,13 @@
     "NA": "The Illusory Confessional",
     "KR": "미혹의 고해소"
   },
+  "呼延灼アイランドチョコ": {
+    "JP": null,
+    "CN": "呼延灼爱之乐园巧克力",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "和菓子風チョコ＋手紙": {
     "JP": null,
     "CN": "和果子风巧克力＋信",
@@ -7135,9 +7583,9 @@
   "咲初めに鶴": {
     "JP": null,
     "CN": "初绽花中鹤",
-    "TW": "鶴賞花初綻",
-    "NA": "Crane Beginning to Blossom",
-    "KR": null
+    "TW": "初綻花中鶴",
+    "NA": "First Bloom with Crane",
+    "KR": "꽃피기 시작하는 학"
   },
   "唸る仔犬": {
     "JP": null,
@@ -7149,9 +7597,9 @@
   "喝采の焔": {
     "JP": null,
     "CN": "喝彩之焰",
-    "TW": "喝彩之焰",
+    "TW": "喝采之焰",
     "NA": "Flames of Applause",
-    "KR": null
+    "KR": "갈채의 불꽃"
   },
   "嘆きの杭園": {
     "JP": null,
@@ -7163,9 +7611,9 @@
   "嘲りの断頭台": {
     "JP": null,
     "CN": "嘲讽的断头台",
-    "TW": "譏嘲的斷頭台",
-    "NA": "Guillotine of Ridicule",
-    "KR": null
+    "TW": "嘲諷的斷頭臺",
+    "NA": "Guillotine Ricanante",
+    "KR": "조소의 단두대"
   },
   "回帰": {
     "JP": null,
@@ -7184,9 +7632,9 @@
   "図書館の鍵と羅針盤": {
     "JP": null,
     "CN": "图书馆的钥匙与罗盘",
-    "TW": "圖書館鑰匙與羅盤",
-    "NA": "Compass and a Library Key",
-    "KR": null
+    "TW": "圖書館的鑰匙與羅盤",
+    "NA": "Library Key and Compass",
+    "KR": "도서관의 열쇠와 나침반"
   },
   "固有時制御": {
     "JP": null,
@@ -7215,6 +7663,13 @@
     "TW": "曾經的輝煌",
     "NA": "Glory of Past Days",
     "KR": "지난날의 영광"
+  },
+  "地に満ちよ": {
+    "JP": null,
+    "CN": "遍满大地",
+    "TW": "遍滿大地",
+    "NA": "Fill the Earth",
+    "KR": null
   },
   "地の底の信仰": {
     "JP": null,
@@ -7251,6 +7706,13 @@
     "NA": "The Law of Obstruction",
     "KR": "언계의 이치"
   },
+  "境界ネコ帽子": {
+    "JP": null,
+    "CN": "境界猫帽子",
+    "TW": "境界貓帽子",
+    "NA": "Boundary Cat Hat",
+    "KR": null
+  },
   "墓守の宝": {
     "JP": null,
     "CN": "守墓人之宝",
@@ -7278,6 +7740,13 @@
     "TW": "夏天與冰淇淋與Viy",
     "NA": "Summer, Ice Cream, and Viy",
     "KR": "여름과 아이스크림과 비이"
+  },
+  "夏の名残に、祈りを編む": {
+    "JP": null,
+    "CN": "在夏天的余韵里，编织祈愿",
+    "TW": "在夏天的餘韻裡，編織祈願",
+    "NA": "A Prayer Woven in Summer's Afterglow",
+    "KR": null
   },
   "夏の堕落セット": {
     "JP": null,
@@ -7331,9 +7800,9 @@
   "夕焼け空に私はぐるぐる": {
     "JP": null,
     "CN": "在晚霞之下我转圈圈",
-    "TW": "在晚霞的天空下我骨碌骨碌地轉",
+    "TW": "在晚霞之下我轉圈圈",
     "NA": "I was Spinning Around During the Afterglow Sky",
-    "KR": null
+    "KR": "석양의 하늘에 나는 빙글빙글"
   },
   "夜の帳に灯を": {
     "JP": null,
@@ -7345,9 +7814,9 @@
   "夜を見届ける者達": {
     "JP": null,
     "CN": "见证黑夜之人",
-    "TW": "夜的見證者們",
-    "NA": "Eyewitnesses of the Holy Night",
-    "KR": null
+    "TW": "見證黑夜之人",
+    "NA": "Those Who Watch Over the Night",
+    "KR": "밤을 지켜보는 자들"
   },
   "夜明け前": {
     "JP": null,
@@ -7446,6 +7915,20 @@
     "TW": "大海蛇",
     "NA": "Sea Serpent",
     "KR": "큰 바다뱀"
+  },
+  "大陸の絹織物": {
+    "JP": null,
+    "CN": "大陆的丝绢",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "大陸の風": {
+    "JP": null,
+    "CN": "大陆的风",
+    "TW": null,
+    "NA": "Mainland Breeze",
+    "KR": null
   },
   "大黒天からの贈り物（胃腸薬）": {
     "JP": null,
@@ -7548,9 +8031,9 @@
   "天性の捕食者": {
     "JP": null,
     "CN": "天生的捕食者",
-    "TW": "天性的捕食者",
+    "TW": "天生的捕食者",
     "NA": "Natural Predator",
-    "KR": null
+    "KR": "천성의 포식자"
   },
   "天狗なりきりセット": {
     "JP": null,
@@ -7625,7 +8108,7 @@
   "奏演の輪舞曲": {
     "JP": null,
     "CN": "奏演的圆舞曲",
-    "TW": null,
+    "TW": "奏演的圓舞曲",
     "NA": "Concert of Rondo",
     "KR": null
   },
@@ -7642,6 +8125,13 @@
     "TW": "奮勉的彈藥",
     "NA": "Gunpowder Cache",
     "KR": "분려의 장약"
+  },
+  "女神に捧ぐ花": {
+    "JP": null,
+    "CN": "献给女神的花",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "女神のきらめき": {
     "JP": null,
@@ -7661,8 +8151,8 @@
     "JP": null,
     "CN": "女神的御签",
     "TW": "女神之御籤",
-    "NA": "Goddesses' Fortune Slip",
-    "KR": null
+    "NA": "Goddesses' Fortune",
+    "KR": "여신의 운세 뽑기"
   },
   "好機": {
     "JP": null,
@@ -7671,12 +8161,19 @@
     "NA": "Opportunity",
     "KR": "호기"
   },
+  "妖精イリヤチョコ（4/7スケール）": {
+    "JP": null,
+    "CN": "妖精伊莉雅巧克力（4/7比例）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "妖精國お正月興行": {
     "JP": null,
     "CN": "妖精国新年演出",
-    "TW": "妖精國的正月公演",
-    "NA": "Faerie Kingdom's New Year Show",
-    "KR": null
+    "TW": "妖精國新年演出",
+    "NA": "Faerie Britain New Year's Ritual",
+    "KR": "요정국 정월 흥행"
   },
   "妖精國の夏やすみ": {
     "JP": null,
@@ -7808,7 +8305,7 @@
     "JP": null,
     "CN": "直至比富士更为遥远之地",
     "TW": "直到比富士還要更遙遠的地方",
-    "NA": "Still a Long Way Until Mt. Fuji",
+    "NA": "Further than Mount Fuji",
     "KR": "후지보다도 더 멀리까지"
   },
   "富士越龍図": {
@@ -7843,7 +8340,7 @@
     "JP": null,
     "CN": "引导之红线",
     "TW": "引導之紅線",
-    "NA": "Red Thread of Guidance",
+    "NA": "Guiding Red Thread",
     "KR": "인도하는 붉은 실"
   },
   "小人の仕立て屋さん": {
@@ -7958,19 +8455,26 @@
     "NA": "Evocation Festival/Part 12",
     "KR": null
   },
+  "巡霊の祝祭／拾肆": {
+    "JP": null,
+    "CN": "巡灵的祝祭／拾肆",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "巡霊の祝祭／捌": {
     "JP": null,
     "CN": "巡灵的祝祭／捌",
     "TW": "巡靈的祝祭／捌",
-    "NA": "Evocation Festival: Part 8",
-    "KR": null
+    "NA": "Pilgrimage Festival/Eight",
+    "KR": "순령의 축제/팔"
   },
   "巡霊の祝祭／漆": {
     "JP": null,
     "CN": "巡灵的祝祭／柒",
     "TW": "巡靈的祝祭／柒",
-    "NA": "Evocation Festival: Part 7",
-    "KR": null
+    "NA": "Pilgrimage Festival/Seven",
+    "KR": "순령의 축제/칠"
   },
   "巡霊の祝祭／玖": {
     "JP": null,
@@ -7990,15 +8494,15 @@
     "JP": null,
     "CN": "巡灵的祝祭／陆",
     "TW": "巡靈的祝祭／陸",
-    "NA": "Evocation Festival: Part 6",
+    "NA": "Pilgrimage Festival/Six",
     "KR": "순령의 축제/육"
   },
   "巨獣来航": {
     "JP": null,
     "CN": "巨兽来航",
     "TW": "巨獸來航",
-    "NA": "Arrival of the Large Beasts",
-    "KR": null
+    "NA": "Arrival of the Colossus",
+    "KR": "거수내항"
   },
   "巫覡八石跳": {
     "JP": null,
@@ -8045,7 +8549,7 @@
   "幸せな花嫁へ": {
     "JP": null,
     "CN": "献给幸福的新娘",
-    "TW": null,
+    "TW": "獻給幸福的新娘",
     "NA": "Blessed Bride",
     "KR": null
   },
@@ -8080,9 +8584,9 @@
   "幻想種の食べ歩き": {
     "JP": null,
     "CN": "幻想种的美食之旅",
-    "TW": "幻想種的美食尋訪",
-    "NA": "A Phantasmal's Eating Tour",
-    "KR": null
+    "TW": "幻想種的美食之旅",
+    "NA": "Phantasmal's Food Crawl",
+    "KR": "환상종의 맛집 순례"
   },
   "幽冥娘娘": {
     "JP": null,
@@ -8105,6 +8609,13 @@
     "NA": "Guardians of the Garden",
     "KR": "정원의 수호자"
   },
+  "弓兵の頂に立つもの": {
+    "JP": null,
+    "CN": "立于弓兵之巅者",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "弓術談義": {
     "JP": null,
     "CN": "弓术探讨",
@@ -8116,8 +8627,8 @@
     "JP": null,
     "CN": "弧悦同舟",
     "TW": "弧悅同舟",
-    "NA": "Being in the Same Boat",
-    "KR": null
+    "NA": "Enemies in the Same Boat",
+    "KR": "호열동주"
   },
   "弾丸と銃": {
     "JP": null,
@@ -8165,8 +8676,8 @@
     "JP": null,
     "CN": "彼方的时光",
     "TW": "彼方的時光",
-    "NA": "Daily Life at the Beyond",
-    "KR": null
+    "NA": "Faraway Days",
+    "KR": "저편의 나날"
   },
   "彼方の荒野": {
     "JP": null,
@@ -8308,10 +8819,17 @@
     "NA": "Burning Tale of Love",
     "KR": "연담화염행"
   },
+  "恐るべき教団マニュアル": {
+    "JP": null,
+    "CN": "令人畏惧的教团手册",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "悠久のトロイア": {
     "JP": null,
     "CN": "悠久的特洛伊",
-    "TW": null,
+    "TW": "悠久的特洛伊",
     "NA": "Everlasting Troy",
     "KR": null
   },
@@ -8342,6 +8860,13 @@
     "TW": "夙願的繼承",
     "NA": "Inheritance of a Long-Cherished Dream",
     "KR": "비원의 계승"
+  },
+  "惨禍の萌芽": {
+    "JP": null,
+    "CN": "惨祸的萌芽",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "想い、三世にわたり": {
     "JP": null,
@@ -8473,8 +8998,8 @@
     "JP": null,
     "CN": "我珍爱的时光",
     "TW": "我珍愛的時光",
-    "NA": "My Dearest Days",
-    "KR": null
+    "NA": "My Beloved Days",
+    "KR": "나의 사랑스러운 나날"
   },
   "我が毒杯、我が仮面": {
     "JP": null,
@@ -8482,6 +9007,13 @@
     "TW": "吾之毒杯，吾之面具",
     "NA": "My Poisoned Chalice, My Mask",
     "KR": "나의 독배, 나의 가면"
+  },
+  "我に来たれ、貴き君よ": {
+    "JP": null,
+    "CN": "到我这边来吧，尊贵的阁下",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "我らが征くは星の大海": {
     "JP": null,
@@ -8532,6 +9064,13 @@
     "NA": "Between Battlefields",
     "KR": null
   },
+  "戦場の中へ": {
+    "JP": null,
+    "CN": "往战场之中",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "戦士の仮面": {
     "JP": null,
     "CN": "战士的面具",
@@ -8545,6 +9084,20 @@
     "TW": "戰神的軍帶",
     "NA": "Military Sash of the God of War",
     "KR": "전신의 허리띠"
+  },
+  "戯れの蕾": {
+    "JP": null,
+    "CN": "嬉戏之蕾",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "所長のお気に入り": {
+    "JP": null,
+    "CN": "所长严选",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "手に入れること能わず": {
     "JP": null,
@@ -8591,9 +9144,9 @@
   "手作り友チョコ": {
     "JP": null,
     "CN": "手工友情巧克力",
-    "TW": "手工製作的友情巧克力",
-    "NA": "Handmade Friendship Choco",
-    "KR": null
+    "TW": "手工製作友情巧克力",
+    "NA": "Handmade Friendship Chocolate",
+    "KR": "수제 우정 초코"
   },
   "手作り愛情チョコ": {
     "JP": null,
@@ -8607,7 +9160,7 @@
     "CN": "手稿之翼",
     "TW": "手稿之翼",
     "NA": "Wings of Manuscript",
-    "KR": null
+    "KR": "수고의 날개"
   },
   "打ち上げオーダー！": {
     "JP": null,
@@ -8893,8 +9446,8 @@
     "JP": null,
     "CN": "旗鼓相当",
     "TW": "旗鼓相當",
-    "NA": "Well-Matched",
-    "KR": null
+    "NA": "An Even Match",
+    "KR": "기고상당"
   },
   "日輪しるこ": {
     "JP": null,
@@ -8969,16 +9522,16 @@
   "星剣のエピタフ": {
     "JP": null,
     "CN": "星剑的墓志铭",
-    "TW": "星劍艾比塔夫",
+    "TW": "星劍的墓誌銘",
     "NA": "Epitaph of the Star Sword",
-    "KR": null
+    "KR": "성검 에피타프"
   },
   "星月巡り": {
     "JP": null,
     "CN": "星月巡游",
     "TW": "星月巡遊",
     "NA": "Pilgrimage on The Starry Night",
-    "KR": null
+    "KR": "별이 빛나는 밤의 순회"
   },
   "春うらら": {
     "JP": null,
@@ -9004,9 +9557,9 @@
   "春に逢う": {
     "JP": null,
     "CN": "春日相逢",
-    "TW": "與春相遇",
-    "NA": "An Encounter in Spring",
-    "KR": null
+    "TW": "春日相逢",
+    "NA": "Meeting in Spring",
+    "KR": "봄에 만나다"
   },
   "春の中へ": {
     "JP": null,
@@ -9015,12 +9568,26 @@
     "NA": "Into the Spring",
     "KR": null
   },
+  "春の園へ": {
+    "JP": null,
+    "CN": "前往春日之园",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "春の琴線": {
     "JP": null,
     "CN": "春之琴弦",
     "TW": "春之琴弦",
     "NA": "Playing the Spring Strings",
     "KR": "봄의 금선"
+  },
+  "春の西風": {
+    "JP": null,
+    "CN": "春日的西风",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "春を見る": {
     "JP": null,
@@ -9099,6 +9666,13 @@
     "NA": "Salmon of Knowledge",
     "KR": "지혜의 물고기"
   },
+  "暗殺者の頂に立つもの": {
+    "JP": null,
+    "CN": "立于暗杀者之巅者",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "暗澹": {
     "JP": null,
     "CN": "暗澹",
@@ -9167,7 +9741,7 @@
     "CN": "最深的灯火",
     "TW": "最深處的燈火",
     "NA": "The Deepest Lamp",
-    "KR": null
+    "KR": "최심부의 등불"
   },
   "最速の証明": {
     "JP": null,
@@ -9182,6 +9756,13 @@
     "TW": "最棒的胡蘿蔔",
     "NA": "The Best Carrots",
     "KR": "최고의 당근"
+  },
+  "月とラブリュス": {
+    "JP": null,
+    "CN": "月与拉布吕斯",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "月に吼える": {
     "JP": null,
@@ -9223,14 +9804,14 @@
     "CN": "月球移居申请",
     "TW": "月球移居申請",
     "NA": "Registration for Relocating to the Moon",
-    "KR": null
+    "KR": "달로 전입 신고"
   },
   "月より団子": {
     "JP": null,
     "CN": "舍月求实",
-    "TW": "捨月求糰",
-    "NA": "Dango Over Moon",
-    "KR": null
+    "TW": "捨月求實",
+    "NA": "Dumplings over the Moon",
+    "KR": "달보다 경단"
   },
   "月下の四匹": {
     "JP": null,
@@ -9286,6 +9867,13 @@
     "CN": "月海原学园之王",
     "TW": "月海原學園之王",
     "NA": "King of Tsukimihara Academy",
+    "KR": "츠쿠미하라 학원의 왕"
+  },
+  "月海原生徒会の会計": {
+    "JP": null,
+    "CN": "月海原学生会的会计",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "月輪九曜": {
@@ -9313,8 +9901,8 @@
     "JP": null,
     "CN": "朝饷一膳",
     "TW": "朝餉一膳",
-    "NA": "Breakfast",
-    "KR": null
+    "NA": "Morning Meal",
+    "KR": "아침상 한차림"
   },
   "木剣": {
     "JP": null,
@@ -9337,11 +9925,25 @@
     "NA": "Cotton Scarf",
     "KR": "무명 목도리"
   },
+  "未だ見ぬ勝利": {
+    "JP": null,
+    "CN": "尚未得见的胜利",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "本日のスフレパンケーキ（限定）": {
     "JP": null,
     "CN": "今日舒芙蕾烤薄饼（限定）",
     "TW": "今天的舒芙蕾鬆餅（限定）",
     "NA": "Today's Soufflé Pancakes (Limited Edition)",
+    "KR": null
+  },
+  "本日の紅茶": {
+    "JP": null,
+    "CN": "今天的红茶",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "枕元の邪竜": {
@@ -9362,8 +9964,8 @@
     "JP": null,
     "CN": "枯山水巧克力",
     "TW": "枯山水巧克力",
-    "NA": "Japanese Rock Garden Chocolate",
-    "KR": null
+    "NA": "Zen Garden Chocolate",
+    "KR": "고산수 초콜릿"
   },
   "柔らかな慈愛": {
     "JP": null,
@@ -9386,12 +9988,26 @@
     "NA": "Sakura's Special Bento",
     "KR": "사쿠라의 특제 도시락"
   },
+  "桜色の風景": {
+    "JP": null,
+    "CN": "樱色的风景",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "桜花爛漫": {
     "JP": null,
     "CN": "樱花烂漫",
     "TW": "櫻花爛漫",
     "NA": "Glorious Cherry Blossoms",
     "KR": "앵화난만"
+  },
+  "梳り櫛": {
+    "JP": null,
+    "CN": "梳发栉",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "森なりし聖": {
     "JP": null,
@@ -9431,9 +10047,9 @@
   "概念礼装EXPカード：おかしな双子": {
     "JP": null,
     "CN": "概念礼装经验卡：奇趣双子",
-    "TW": "概念禮裝EXP卡：奇異雙子",
+    "TW": "概念禮裝EXP卡：奇趣雙子",
     "NA": "CE EXP Card: Strange Twins",
-    "KR": null
+    "KR": "개념예장 EXP 카드: 이상한 쌍둥이"
   },
   "概念礼装EXPカード：おき太": {
     "JP": null,
@@ -9445,16 +10061,16 @@
   "概念礼装EXPカード：おせちもいいんですけど": {
     "JP": null,
     "CN": "概念礼装经验卡：御节料理虽好",
-    "TW": "概念禮裝EXP卡：當年菜倒也不錯就是了",
-    "NA": "CE EXP Card: Osechi is Fine too",
-    "KR": null
+    "TW": "概念禮裝EXP卡：御節料理雖好",
+    "NA": "CE EXP Card: New Year's Food is Nice and All, But...",
+    "KR": "개념예장 EXP 카드: 명절 음식도 좋지만요"
   },
   "概念礼装EXPカード：お喋り探偵ロビン": {
     "JP": null,
     "CN": "概念礼装经验卡：饶舌侦探知更鸟",
-    "TW": "概念禮裝EXP卡：多話的知更鳥偵探",
-    "NA": "CE EXP Card: Chatty Detective Robin",
-    "KR": null
+    "TW": "概念禮裝EXP卡：多話的偵探羅賓",
+    "NA": "CE EXP Card: The Talkative Detective Robin",
+    "KR": "개념예장 EXP 카드: 수다쟁이 탐정 로빈"
   },
   "概念礼装EXPカード：ぐだぐだまじんさん": {
     "JP": null,
@@ -9498,12 +10114,26 @@
     "NA": "CE EXP Card: First Curry",
     "KR": "개념예장 EXP 카드: 처음으로 맛본 카레"
   },
+  "概念礼装EXPカード：もぐもぐ彦斎": {
+    "JP": null,
+    "CN": "概念礼装EXP卡：啊呜啊呜彦斋",
+    "TW": null,
+    "NA": "CE EXP Card: Munching Gensai",
+    "KR": null
+  },
   "概念礼装EXPカード：ようこそ邪馬台国！": {
     "JP": null,
     "CN": "概念礼装经验卡：欢迎来到邪马台国！",
     "TW": "概念禮裝EXP卡：歡迎來到邪馬臺國！",
     "NA": "CE EXP Card: Welcome to Yamataikoku!",
     "KR": "개념예장 EXP 카드: 어서오세요 야마타이국!"
+  },
+  "概念礼装EXPカード：わたしの小さなウマ": {
+    "JP": null,
+    "CN": "概念礼装EXP卡：我的小马",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "概念礼装EXPカード：カドゥケウス": {
     "JP": null,
@@ -9523,7 +10153,7 @@
     "JP": null,
     "CN": "概念礼装经验卡：Nice甲斐",
     "TW": "概念禮裝EXP卡：Nice甲斐",
-    "NA": "CE EXP Card: Nice Gai",
+    "NA": "CE EXP Card: Nice-Gai",
     "KR": "개념예장 EXP 카드: 나이스 카이"
   },
   "概念礼装EXPカード：ノッブ": {
@@ -9546,6 +10176,13 @@
     "TW": "概念禮裝EXP卡：魔法紅寶石",
     "NA": "CE EXP Card: Magical Ruby",
     "KR": "개념예장 EXP 카드: 매지컬 루비"
+  },
+  "概念礼装EXPカード：ロックにキメてこうぜ！": {
+    "JP": null,
+    "CN": "概念礼装EXP卡：来场像样的摇滚吧！",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "概念礼装EXPカード：ロデオ": {
     "JP": null,
@@ -9588,6 +10225,13 @@
     "TW": "概念禮裝EXP卡：宇宙犬",
     "NA": "CE EXP Card: Dogs in Space",
     "KR": "개념예장 EXP 카드: 우주견"
+  },
+  "概念礼装EXPカード：死に損ねの赤狼": {
+    "JP": null,
+    "CN": "概念礼装EXP卡：死不了的赤狼",
+    "TW": null,
+    "NA": "CE EXP Card: The Would-Be Dead Red Wolf",
+    "KR": null
   },
   "概念礼装EXPカード：毘沙門天ぞ是にあり！": {
     "JP": null,
@@ -9677,7 +10321,7 @@
     "JP": null,
     "CN": "概念礼装经验卡：交给杂贺吧",
     "TW": "概念禮裝EXP卡：交給雜賀吧",
-    "NA": "CE EXP Card: Leave It to Saika",
+    "NA": "CE EXP Card: Leave it to Saika",
     "KR": "개념예장 EXP 카드: 사이카에게 맡겨주시길"
   },
   "概念礼装EXPカード：ＢＢショット！": {
@@ -9697,7 +10341,7 @@
   "槍兵の頂に立つもの": {
     "JP": null,
     "CN": "立于枪兵之巅者",
-    "TW": null,
+    "TW": "立於槍兵之巔者",
     "NA": "The One Who Stands at the Summit of Lancers",
     "KR": null
   },
@@ -9761,7 +10405,7 @@
     "JP": null,
     "CN": "武田的骄傲",
     "TW": "武田的驕傲",
-    "NA": "Pride of Takeda",
+    "NA": "Takeda's Pride",
     "KR": "타케다의 긍지"
   },
   "歪曲の魔眼": {
@@ -9780,7 +10424,7 @@
   },
   "死、死、死": {
     "JP": null,
-    "CN": "死、死、死",
+    "CN": "Death, death, death",
     "TW": "死、死、死",
     "NA": "Death, Death, Death",
     "KR": null
@@ -9798,6 +10442,13 @@
     "TW": "死之藝術",
     "NA": "Art of Death",
     "KR": "죽음의 예술"
+  },
+  "死因に非ず": {
+    "JP": null,
+    "CN": "非此死因",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "死毒の石廟": {
     "JP": null,
@@ -9860,7 +10511,7 @@
     "CN": "母源心脏",
     "TW": "母親般的心臟",
     "NA": "Motherly Heart",
-    "KR": null
+    "KR": "어머니의 심장"
   },
   "母の思い出": {
     "JP": null,
@@ -9879,9 +10530,16 @@
   "毘天が一つ太刀": {
     "JP": null,
     "CN": "毗天一太刀",
-    "TW": "毗天之太刀",
-    "NA": "Bishamonten Becoming One with the Sword",
+    "TW": "毗天一太刀",
+    "NA": "Biten's One and Only",
     "KR": "비천의 한 자루 칼"
+  },
+  "毛皮の肩掛け": {
+    "JP": null,
+    "CN": "毛皮披肩",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "水の如く花の如く": {
     "JP": null,
@@ -9932,12 +10590,19 @@
     "NA": "Eternal Spirit of Vengeance",
     "KR": "영겁의 복수귀"
   },
+  "汐彩・リフレイン": {
+    "JP": null,
+    "CN": "汐彩·Refrain",
+    "TW": "汐彩・Refrain",
+    "NA": "Sea-colored Refrain",
+    "KR": null
+  },
   "法悦の浄土": {
     "JP": null,
     "CN": "法悦的净土",
-    "TW": "法悅淨土",
+    "TW": "法悅的淨土",
     "NA": "Paradise of Ecstasy",
-    "KR": null
+    "KR": "법열의 정토"
   },
   "泡影－Phantasma－モードレッド写真集": {
     "JP": null,
@@ -9995,6 +10660,13 @@
     "NA": "The Shooting Star Cheerleader",
     "KR": "유성의 치어걸"
   },
+  "流転の剣聖": {
+    "JP": null,
+    "CN": "流转的剑圣",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "海へ": {
     "JP": null,
     "CN": "去往大海",
@@ -10012,16 +10684,16 @@
   "海を繋ぐ櫻の夢": {
     "JP": null,
     "CN": "连结大海的樱之梦",
-    "TW": "連接著海的櫻之夢",
+    "TW": "連結大海的櫻之夢",
     "NA": "Sea-Preserving Cherry Blossom-Filled Dream",
-    "KR": null
+    "KR": "바다를 잇는 벚꽃의 꿈"
   },
   "海底宴席": {
     "JP": null,
     "CN": "海底宴席",
     "TW": "海底宴席",
-    "NA": "Undersea Banquet",
-    "KR": null
+    "NA": "Underwater Feast",
+    "KR": "해저연석"
   },
   "海神の三叉矛": {
     "JP": null,
@@ -10033,8 +10705,8 @@
   "海道流星群": {
     "JP": null,
     "CN": "海道流星雨",
-    "TW": "海道流星群",
-    "NA": "Seaway Meteor Shower",
+    "TW": "海道流星雨",
+    "NA": "Highway Meteor Shower",
     "KR": "해도유성군"
   },
   "消えざる炎": {
@@ -10100,19 +10772,26 @@
     "NA": "Freshly Brewed Coffee",
     "KR": "갓 끓인 커피"
   },
+  "渚と青春の幻影": {
+    "JP": null,
+    "CN": "海滨与青春的幻影",
+    "TW": "海濱與青春的幻影",
+    "NA": "The Illusion of Youth by the Shore",
+    "KR": null
+  },
   "温泉球争": {
     "JP": null,
-    "CN": "温泉球争夺战",
+    "CN": "Hot Spring Ball War",
     "TW": "溫泉球爭",
-    "NA": "Hot Springs Table Tennis",
-    "KR": null
+    "NA": "Hot Springs Ball Games",
+    "KR": "온천구쟁"
   },
   "湊の一夜": {
     "JP": null,
     "CN": "港湾一夜",
-    "TW": "水畔的一夜",
-    "NA": "One Night at the Port",
-    "KR": null
+    "TW": "港灣一夜",
+    "NA": "A Night at the Port",
+    "KR": "항구 마을의 어느 밤"
   },
   "湖の乙女": {
     "JP": null,
@@ -10321,8 +11000,8 @@
     "JP": null,
     "CN": "牛王大神使",
     "TW": "牛王大神使",
-    "NA": "Ox-King's Huge Divine Messenger",
-    "KR": null
+    "NA": "Ox-King's Great Divine Messenger",
+    "KR": "우왕대신사"
   },
   "牧場のチョコ": {
     "JP": null,
@@ -10348,7 +11027,7 @@
   "狂戦士の頂に立つもの": {
     "JP": null,
     "CN": "立于狂战士之巅者",
-    "TW": null,
+    "TW": "立於狂戰士之巔者",
     "NA": "The One Who Stands at the Summit of Berserkers",
     "KR": null
   },
@@ -10363,7 +11042,7 @@
     "JP": null,
     "CN": "瞄准，举枪，射击",
     "TW": "瞄準，舉槍，射擊",
-    "NA": "Ready, Aim, Fire",
+    "NA": "Aim, Ready, Shoot",
     "KR": "겨누고, 자세 잡고, 쏘다"
   },
   "狩人の夢": {
@@ -10407,6 +11086,13 @@
     "TW": "玉髓巧克力",
     "NA": "Chalcedony Chocolate",
     "KR": "옥수 초콜릿"
+  },
+  "王に還る偉業": {
+    "JP": null,
+    "CN": "归还于王的伟业",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "王の剣、勇者の剣": {
     "JP": null,
@@ -10453,9 +11139,9 @@
   "王妃の首飾り": {
     "JP": null,
     "CN": "王后的项链",
-    "TW": "王妃的項鍊",
-    "NA": "The Queen's Necklace",
-    "KR": null
+    "TW": "王后的項鍊",
+    "NA": "Queen's Necklace",
+    "KR": "왕비의 목걸이"
   },
   "王家の白馬": {
     "JP": null,
@@ -10503,8 +11189,8 @@
     "JP": null,
     "CN": "于环太平洋地带",
     "TW": "於環太平洋地帶",
-    "NA": "Towards the Pacific Belt",
-    "KR": null
+    "NA": "In the Pacific Rim Region",
+    "KR": "환태평양 지대에서"
   },
   "瓦礫の聖堂": {
     "JP": null,
@@ -10531,15 +11217,22 @@
     "JP": null,
     "CN": "甲斐之赤",
     "TW": "甲斐之赤",
-    "NA": "Crimson Kai",
-    "KR": null
+    "NA": "Kai Crimson",
+    "KR": "카이의 붉은빛"
   },
   "男の意地": {
     "JP": null,
     "CN": "男儿的志气",
-    "TW": "男人的意志",
-    "NA": "A Man's Will",
+    "TW": "男兒的志氣",
+    "NA": "A Man's Willpower",
     "KR": "남자의 고집"
+  },
+  "異星の神": {
+    "JP": null,
+    "CN": "异星之神",
+    "TW": "異星之神",
+    "NA": "Foreign God",
+    "KR": null
   },
   "異界の果実": {
     "JP": null,
@@ -10629,8 +11322,8 @@
     "JP": null,
     "CN": "白刀大小",
     "TW": "白刀大小",
-    "NA": "Hakuto Daishou",
-    "KR": null
+    "NA": "Pair of White Swords",
+    "KR": "하쿠토다이쇼"
   },
   "白竜": {
     "JP": null,
@@ -10646,12 +11339,26 @@
     "NA": "Blank Subscription List",
     "KR": "백지 권화장(벤케이 사인 첨부)"
   },
+  "白紙の経典（奇の章）": {
+    "JP": null,
+    "CN": "白纸经典（奇之章）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "白薔薇の姫": {
     "JP": null,
     "CN": "白蔷薇姬",
     "TW": "白薔薇姬",
     "NA": "Princess of the White Rose",
     "KR": "백장미 공주"
+  },
+  "百の輝き": {
+    "JP": null,
+    "CN": "百种光辉",
+    "TW": "百種光輝",
+    "NA": "A Hundred Sparkles",
+    "KR": null
   },
   "百人蔵書": {
     "JP": null,
@@ -10707,7 +11414,7 @@
     "CN": "盈月之仪",
     "TW": "盈月之儀",
     "NA": "Waxing Moon Ritual",
-    "KR": null
+    "KR": "영월 의식"
   },
   "盛夏の思い出": {
     "JP": null,
@@ -10800,12 +11507,19 @@
     "NA": "Slumbering City",
     "KR": "계속 잠자는 마을"
   },
+  "眠れる森の戦士": {
+    "JP": null,
+    "CN": "沉眠的森之战士",
+    "TW": "沉眠的森之戰士",
+    "NA": "Sleeping Warrior",
+    "KR": null
+  },
   "眺望絶佳、神韻縹渺": {
     "JP": null,
     "CN": "景色绝佳，神韵缥缈",
-    "TW": "眺望絕景，神韻縹緲",
+    "TW": "景色絕佳，神韻縹緲",
     "NA": "Scenic Beauty, Transcendent Work of Art",
-    "KR": null
+    "KR": "조망절가, 신운표묘"
   },
   "眼鏡": {
     "JP": null,
@@ -10846,7 +11560,7 @@
     "JP": null,
     "CN": "沙盘的残映",
     "TW": "沙盤的殘映",
-    "NA": "Afterimage of a Sand Table",
+    "NA": "Remnants on the Sand Board",
     "KR": "사반의 잔영"
   },
   "破壊": {
@@ -10862,6 +11576,13 @@
     "TW": "立於碧空之下",
     "NA": "Standing beneath the Azure Sky",
     "KR": "창공에 서다"
+  },
+  "磨崖碑文": {
+    "JP": null,
+    "CN": "摩崖碑文",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "社交界の華": {
     "JP": null,
@@ -10894,7 +11615,7 @@
   "神が乗る象": {
     "JP": null,
     "CN": "神所乘骑之象",
-    "TW": null,
+    "TW": "神所乘騎之象",
     "NA": "Elephant Riding God",
     "KR": null
   },
@@ -10950,7 +11671,7 @@
   "神秘の解体": {
     "JP": null,
     "CN": "神秘的解体",
-    "TW": null,
+    "TW": "神秘的解體",
     "NA": "Dismantling of Mystery",
     "KR": null
   },
@@ -10958,8 +11679,8 @@
     "JP": null,
     "CN": "神谕锁链",
     "TW": "神諭之鎖",
-    "NA": "Chain of the Divine Oracle",
-    "KR": null
+    "NA": "Divine Oracle's Chains",
+    "KR": "신탁의 쇠사슬"
   },
   "神造兵装": {
     "JP": null,
@@ -11007,8 +11728,8 @@
     "JP": null,
     "CN": "秘传员工餐",
     "TW": "秘傳員工餐",
-    "NA": "Secret Makanai Meshi",
-    "KR": null
+    "NA": "Secret Staff Meal Recipe",
+    "KR": "비전의 직원식"
   },
   "秘剣・雉子返し": {
     "JP": null,
@@ -11076,9 +11797,9 @@
   "空白の男": {
     "JP": null,
     "CN": "空白的男人",
-    "TW": "空白之男",
+    "TW": "空白的男人",
     "NA": "The Blank Man",
-    "KR": null
+    "KR": "공백의 남자"
   },
   "竜と竜の剣士": {
     "JP": null,
@@ -11180,21 +11901,21 @@
   },
   "简中版8周年纪念": {
     "JP": null,
-    "CN": "简体中文版8周年纪念",
+    "CN": "Simplified Chinese Version 8th Anniversary",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "简中版9周年纪念": {
     "JP": null,
-    "CN": "简体中文版9周年纪念",
+    "CN": "Simplified Chinese Version 9th Anniversary",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "简中版FES2024纪念": {
     "JP": null,
-    "CN": "简体中文版FES2024纪念",
+    "CN": "Simplified Chinese Version FES2024 Commemoration",
     "TW": null,
     "NA": null,
     "KR": null
@@ -11227,6 +11948,13 @@
     "NA": "The Promised Time",
     "KR": "약속의 시간"
   },
+  "約束の未来へ": {
+    "JP": null,
+    "CN": "向着约定的未来",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "紅白のチョコ": {
     "JP": null,
     "CN": "红白巧克力",
@@ -11255,6 +11983,13 @@
     "NA": "Junmai Daiginjou Ibuki",
     "KR": "준마이 다이긴조 이부키"
   },
+  "素敵な贈り物（サメ）": {
+    "JP": null,
+    "CN": "很棒的礼物（鲨鱼）",
+    "TW": "很棒的禮物（鯊魚）",
+    "NA": "A Wonderful (Shark) Gift",
+    "KR": null
+  },
   "素晴らしき飼葉桶": {
     "JP": null,
     "CN": "美妙的饲料桶",
@@ -11273,8 +12008,8 @@
     "JP": null,
     "CN": "紫烟的追忆",
     "TW": "紫煙的追憶",
-    "NA": "Recollections from the Tobacco Smoke",
-    "KR": null
+    "NA": "Recollections of Smoke",
+    "KR": "담배 연기의 추상"
   },
   "紫玉の笛": {
     "JP": null,
@@ -11322,8 +12057,8 @@
     "JP": null,
     "CN": "机关素体（无貌）",
     "TW": "機關素體（無貌）",
-    "NA": "Mechanical Figurine (Faceless)",
-    "KR": null
+    "NA": "Karakuri Base (Faceless)",
+    "KR": "꼭두각시 소체(얼굴 없음)"
   },
   "絵巻チョコレート": {
     "JP": null,
@@ -11357,8 +12092,8 @@
     "JP": null,
     "CN": "绯毛的燎原",
     "TW": "緋毛的燎原",
-    "NA": "Burning Prairie of Scarlet Fur",
-    "KR": null
+    "NA": "Fiery Manes",
+    "KR": "비모의 요원"
   },
   "緋色の研究": {
     "JP": null,
@@ -11405,6 +12140,13 @@
   "繁中版8週年紀念": {
     "JP": null,
     "CN": "繁中版8週年紀念",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "繁中版9週年紀念": {
+    "JP": null,
+    "CN": "繁中版9週年紀念",
     "TW": null,
     "NA": null,
     "KR": null
@@ -11486,6 +12228,13 @@
     "NA": "Forest of Eclosion",
     "KR": "우화의 숲"
   },
+  "翠嶺の息吹": {
+    "JP": null,
+    "CN": "翠岭风息",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "翡翠の髪状": {
     "JP": null,
     "CN": "翡翠发丝",
@@ -11510,9 +12259,9 @@
   "聖しこの青": {
     "JP": null,
     "CN": "这圣洁之蓝",
-    "TW": "神聖之藍",
-    "NA": "Holy Blue",
-    "KR": null
+    "TW": "這聖潔之藍",
+    "NA": "Silent Night, Holy Blue",
+    "KR": "고요한 밤, 푸르른 밤"
   },
   "聖なる夜に祝福を": {
     "JP": null,
@@ -11699,9 +12448,9 @@
   "般若湯ボンボン": {
     "JP": null,
     "CN": "般若汤心巧克力",
-    "TW": "般若湯胖胖糖",
-    "NA": "Alcoholic Bonbon",
-    "KR": null
+    "TW": "般若湯心巧克力",
+    "NA": "Hannyatou Bonbons",
+    "KR": "반야탕 봉봉"
   },
   "芙蓉に舞う": {
     "JP": null,
@@ -11741,16 +12490,23 @@
   "花の魁": {
     "JP": null,
     "CN": "花之魁",
-    "TW": "花之魁首",
-    "NA": "Herald of Flowers",
-    "KR": null
+    "TW": "花之魁",
+    "NA": "Herald of Spring",
+    "KR": "가장 먼저 피는 꽃"
   },
   "花より団子": {
     "JP": null,
     "CN": "舍华求实",
-    "TW": "舍華求實",
+    "TW": "捨華求實",
     "NA": "Dumplings Over Flowers",
     "KR": "금강산도 식후경"
+  },
+  "花咲かじいさんの縁側": {
+    "JP": null,
+    "CN": "开花爷爷的檐下",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "花咲ける雪に尊し": {
     "JP": null,
@@ -11766,12 +12522,33 @@
     "NA": "Girl Amidst the Flowers",
     "KR": "화원의 소녀"
   },
+  "花散るとき": {
+    "JP": null,
+    "CN": "花落之时",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "花霞": {
+    "JP": null,
+    "CN": "Floral Haze",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "若返りの霊薬": {
     "JP": null,
     "CN": "返老还童的灵药",
     "TW": "返老還童的靈藥",
     "NA": "Potion of Youth",
     "KR": "회춘의 영약"
+  },
+  "苦い記憶": {
+    "JP": null,
+    "CN": "苦涩的记忆",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "英雄の武装": {
     "JP": null,
@@ -12114,294 +12891,294 @@
     "CN": "英灵博装：阿斯克勒庇俄斯",
     "TW": "英靈博裝：阿斯克勒庇俄斯",
     "NA": "Exhibition Attire: Asclepius",
-    "KR": null
+    "KR": "영령박장 : 아스클레피오스"
   },
   "英霊博装：アストルフォ": {
     "JP": null,
     "CN": "英灵博装：阿斯托尔福",
     "TW": "英靈博裝：阿斯托爾福",
     "NA": "Exhibition Attire: Astolfo",
-    "KR": null
+    "KR": "영령박장 : 아스톨포"
   },
   "英霊博装：アビゲイル・ウィリアムズ": {
     "JP": null,
     "CN": "英灵博装：阿比盖尔·威廉姆斯",
-    "TW": "英靈博裝：阿比蓋爾・威廉斯",
+    "TW": "英靈博裝：艾比蓋兒．威廉斯",
     "NA": "Exhibition Attire: Abigail Williams",
-    "KR": null
+    "KR": "영령박장 : 애비게일 윌리엄스"
   },
   "英霊博装：アントニオ・サリエリ": {
     "JP": null,
     "CN": "英灵博装：安东尼奥·萨列里",
     "TW": "英靈博裝：安東尼奧．薩里耶利",
     "NA": "Exhibition Attire: Antonio Salieri",
-    "KR": null
+    "KR": "영령박장 : 안토니오 살리에리"
   },
   "英霊博装：アンドロメダ": {
     "JP": null,
     "CN": "英灵博装：安德洛墨达",
     "TW": "英靈博裝：安朵美達",
     "NA": "Exhibition Attire: Andromeda",
-    "KR": null
+    "KR": "영령박장 : 안드로메다"
   },
   "英霊博装：イアソン": {
     "JP": null,
     "CN": "英灵博装：伊阿宋",
     "TW": "英靈博裝：伊阿宋",
     "NA": "Exhibition Attire: Jason",
-    "KR": null
+    "KR": "영령박장 : 이아손"
   },
   "英霊博装：オベロン": {
     "JP": null,
     "CN": "英灵博装：奥伯龙",
     "TW": "英靈博裝：奧伯隆",
     "NA": "Exhibition Attire: Oberon",
-    "KR": null
+    "KR": "영령박장 : 오베론"
   },
   "英霊博装：カーマ": {
     "JP": null,
     "CN": "英灵博装：迦摩",
     "TW": "英靈博裝：迦摩",
     "NA": "Exhibition Attire: Kama",
-    "KR": null
+    "KR": "영령박장 : 카마"
   },
   "英霊博装：クー・フーリン": {
     "JP": null,
     "CN": "英灵博装：库·丘林",
-    "TW": "英靈博裝：庫・夫林",
+    "TW": "英靈博裝：庫．夫林",
     "NA": "Exhibition Attire: Cú Chulainn",
-    "KR": null
+    "KR": "영령박장 : 쿠 훌린"
   },
   "英霊博装：ノクナレア・ヤラアーンドゥ": {
     "JP": null,
     "CN": "英灵博装：诺克娜蕾·雅兰杜",
-    "TW": "英靈博裝：諾克娜蕾雅・雅蘭杜",
+    "TW": "英靈博裝：諾克娜蕾雅．雅蘭杜",
     "NA": "Exhibition Attire: Cnoc na Riabh Yaraan-doo",
-    "KR": null
+    "KR": "영령박장 : 노크나레아・야라안두"
   },
   "英霊博装：ブリトマート": {
     "JP": null,
     "CN": "英灵博装：布里托玛特",
     "TW": "英靈博裝：布里托瑪特",
     "NA": "Exhibition Attire: Britomart",
-    "KR": null
+    "KR": "영령박장 : 브리토마트"
   },
   "英霊博装：ブーディカ": {
     "JP": null,
     "CN": "英灵博装：布狄卡",
     "TW": "英靈博裝：布狄卡",
     "NA": "Exhibition Attire: Boudica",
-    "KR": null
+    "KR": "영령박장 : 부디카"
   },
   "英霊博装：プトレマイオス": {
     "JP": null,
     "CN": "英灵博装：托勒密",
     "TW": "英靈博裝：托勒密",
     "NA": "Exhibition Attire: Ptolemaîos",
-    "KR": null
+    "KR": "영령박장 : 프톨레마이오스"
   },
   "英霊博装：ヘファイスティオン": {
     "JP": null,
     "CN": "英灵博装：赫费斯提翁",
     "TW": "英靈博裝：赫費斯提翁",
     "NA": "Exhibition Attire: Hephaistíon",
-    "KR": null
+    "KR": "영령박장 : 헤파이스티온"
   },
   "英霊博装：ベディヴィエール": {
     "JP": null,
     "CN": "英灵博装：贝德维尔",
     "TW": "英靈博裝：貝德維爾",
     "NA": "Exhibition Attire: Bedivere",
-    "KR": null
+    "KR": "영령박장 : 베디비어"
   },
   "英霊博装：マリー・アントワネット": {
     "JP": null,
     "CN": "英灵博装：玛丽·安托瓦内特",
     "TW": "英靈博裝：瑪莉．安東尼",
     "NA": "Exhibition Attire: Marie Antoinette",
-    "KR": null
+    "KR": "영령박장 : 마리 앙투아네트"
   },
   "英霊博装：メリュジーヌ": {
     "JP": null,
     "CN": "英灵博装：梅柳齐娜",
     "TW": "英靈博裝：美露莘",
     "NA": "Exhibition Attire: Mélusine",
-    "KR": null
+    "KR": "영령박장 : 멜뤼진"
   },
   "英霊博装：ラーヴァ／ティアマト": {
     "JP": null,
     "CN": "英灵博装：幼体／提亚马特",
-    "TW": "英靈博裝：幼體／提亞馬特",
+    "TW": "英靈博裝：幼體／迪亞馬特",
     "NA": "Exhibition Attire: Larva/Tiamat",
-    "KR": null
+    "KR": "영령박장 : 라바/티아마트"
   },
   "英霊博装：佐々木小次郎": {
     "JP": null,
     "CN": "英灵博装：佐佐木小次郎",
     "TW": "英靈博裝：佐佐木小次郎",
     "NA": "Exhibition Attire: Sasaki Kojirou",
-    "KR": null
+    "KR": "영령박장 : 사사키 코지로"
   },
   "英霊博装：出雲阿国": {
     "JP": null,
     "CN": "英灵博装：出云阿国",
     "TW": "英靈博裝：出雲阿國",
     "NA": "Exhibition Attire: Izumo-no-Okuni",
-    "KR": null
+    "KR": "영령박장 : 이즈모노 오쿠니"
   },
   "英霊博装：千利休": {
     "JP": null,
     "CN": "英灵博装：千利休",
     "TW": "英靈博裝：千利休",
     "NA": "Exhibition Attire: Sen-no-Rikyu",
-    "KR": null
+    "KR": "영령박장 : 센노 리큐"
   },
   "英霊博装：坂本龍馬": {
     "JP": null,
     "CN": "英灵博装：坂本龙马",
     "TW": "英靈博裝：坂本龍馬",
     "NA": "Exhibition Attire: Sakamoto Ryouma",
-    "KR": null
+    "KR": "영령박장 : 사카모토 료마"
   },
   "英霊博装：坂田金時": {
     "JP": null,
     "CN": "英灵博装：坂田金时",
     "TW": "英靈博裝：坂田金時",
     "NA": "Exhibition Attire: Sakata Kintoki",
-    "KR": null
+    "KR": "영령박장 : 사카타 킨토키"
   },
   "英霊博装：天草四郎": {
     "JP": null,
     "CN": "英灵博装：天草四郎",
     "TW": "英靈博裝：天草四郎",
     "NA": "Exhibition Attire: Amakusa Shirou",
-    "KR": null
+    "KR": "영령박장 : 아마쿠사 시로"
   },
   "英霊博装：妖精騎士トリスタン": {
     "JP": null,
     "CN": "英灵博装：妖精骑士崔斯坦",
     "TW": "英靈博裝：妖精騎士崔斯坦",
     "NA": "Exhibition Attire: Tam Lin Tristan",
-    "KR": null
+    "KR": "영령박장 : 요정기사 트리스탄"
   },
   "英霊博装：巌窟王　モンテ・クリスト": {
     "JP": null,
     "CN": "英灵博装：岩窟王　基督山",
     "TW": "英靈博裝：巖窟王　基督山",
     "NA": "Exhibition Attire: The Count of Monte Cristo",
-    "KR": null
+    "KR": "영령박장 : 암굴왕 몽테크리스토"
   },
   "英霊博装：新免武蔵守藤原玄信": {
     "JP": null,
     "CN": "英灵博装：新免武藏守藤原玄信",
     "TW": "英靈博裝：新免武藏守藤原玄信",
     "NA": "Exhibition Attire: Miyamoto Musashi",
-    "KR": null
+    "KR": "영령박장 : 신멘 무사시노카미 후지와라노 하루노부"
   },
   "英霊博装：森長可": {
     "JP": null,
     "CN": "英灵博装：森长可",
     "TW": "英靈博裝：森長可",
     "NA": "Exhibition Attire: Mori Nagayoshi",
-    "KR": null
+    "KR": "영령박장 : 모리 나가요시"
   },
   "英霊博装：武田信玄": {
     "JP": null,
     "CN": "英灵博装：武田信玄",
     "TW": "英靈博裝：武田信玄",
     "NA": "Exhibition Attire: Takeda Shingen",
-    "KR": null
+    "KR": "영령박장 : 타케다 신겐"
   },
   "英霊博装：永倉新八": {
     "JP": null,
     "CN": "英灵博装：永仓新八",
     "TW": "英靈博裝：永倉新八",
     "NA": "Exhibition Attire: Nagakura Shinpachi",
-    "KR": null
+    "KR": "영령박장 : 나가쿠라 신파치"
   },
   "英霊博装：清少納言": {
     "JP": null,
     "CN": "英灵博装：清少纳言",
     "TW": "英靈博裝：清少納言",
     "NA": "Exhibition Attire: Sei Shounagon",
-    "KR": null
+    "KR": "영령박장 : 세이 쇼나곤"
   },
   "英霊博装：源頼光": {
     "JP": null,
     "CN": "英灵博装：源赖光",
     "TW": "英靈博裝：源賴光",
     "NA": "Exhibition Attire: Minamoto-no-Raikou",
-    "KR": null
+    "KR": "영령박장 : 미나모토노 라이코"
   },
   "英霊博装：燕青": {
     "JP": null,
     "CN": "英灵博装：燕青",
     "TW": "英靈博裝：燕青",
     "NA": "Exhibition Attire: Yan Qing",
-    "KR": null
+    "KR": "영령박장 : 연청"
   },
   "英霊博装：由井正雪": {
     "JP": null,
     "CN": "英灵博装：由井正雪",
     "TW": "英靈博裝：由井正雪",
     "NA": "Exhibition Attire: Yui Shousetsu",
-    "KR": null
+    "KR": "영령박장 : 유이 쇼세츠"
   },
   "英霊博装：織田信長": {
     "JP": null,
     "CN": "英灵博装：织田信长",
     "TW": "英靈博裝：織田信長",
     "NA": "Exhibition Attire: Oda Nobunaga",
-    "KR": null
+    "KR": "영령박장 : 오다 노부나가"
   },
   "英霊博装：耀星のハサン": {
     "JP": null,
     "CN": "英灵博装：耀星哈桑",
-    "TW": "英靈博裝：耀星哈桑",
+    "TW": "英靈博裝：耀星的哈桑",
     "NA": "Exhibition Attire: Hassan of the Shining Star",
-    "KR": null
+    "KR": "영령박장 : 요성의 하산"
   },
   "英霊博装：葛飾北斎": {
     "JP": null,
     "CN": "英灵博装：葛饰北斋",
     "TW": "英靈博裝：葛飾北齋",
     "NA": "Exhibition Attire: Katsushika Hokusai",
-    "KR": null
+    "KR": "영령박장 : 카츠시카 호쿠사이"
   },
   "英霊博装：謎のヒロインX": {
     "JP": null,
     "CN": "英灵博装：谜之女主角X",
     "TW": "英靈博裝：謎之女主角X",
     "NA": "Exhibition Attire: Mysterious Heroine X",
-    "KR": null
+    "KR": "영령박장 : 수수께끼의 히로인 X"
   },
   "英霊博装：雨の魔女トネリコ": {
     "JP": null,
     "CN": "英灵博装：雨之魔女梣",
-    "TW": "英靈博裝：雨之魔女梣",
+    "TW": "英靈博裝：雨之魔女托內莉可",
     "NA": "Exhibition Attire: Aesc the Rain Witch",
-    "KR": null
+    "KR": "영령박장 : 비의 마녀 토네리코"
   },
   "英霊博装：風魔小太郎": {
     "JP": null,
     "CN": "英灵博装：风魔小太郎",
     "TW": "英靈博裝：風魔小太郎",
     "NA": "Exhibition Attire: Fuuma \"Evil-wind\" Kotarou",
-    "KR": null
+    "KR": "영령박장 : 후마 코타로"
   },
   "英霊博装：高杉晋作": {
     "JP": null,
     "CN": "英灵博装：高杉晋作",
     "TW": "英靈博裝：高杉晉作",
     "NA": "Exhibition Attire: Takasugi Shinsaku",
-    "KR": null
+    "KR": "영령박장 : 타카스기 신사쿠"
   },
   "英霊博装：ＵＤＫ－バーゲスト": {
     "JP": null,
     "CN": "英灵博装：ＵＤＫ－巴格斯特",
-    "TW": "英靈博裝：UDK－巴格斯特",
+    "TW": "英靈博裝：ＵＤＫ−巴格斯特",
     "NA": "Exhibition Attire: UDK-Barghest",
-    "KR": null
+    "KR": "영령박장 : UDK-바게스트"
   },
   "英霊夢装：アナスタシア＆ヴィイ": {
     "JP": null,
@@ -13190,8 +13967,50 @@
   "英霊星行：“山の翁”": {
     "JP": null,
     "CN": "英灵星行：“山中老人”",
-    "TW": null,
+    "TW": "英靈星行：“山中老人”",
     "NA": "Heroic Spirit Stellar Journey: “Old Man of the Mountain”",
+    "KR": null
+  },
+  "英霊星行：アステリオス": {
+    "JP": null,
+    "CN": "英灵星行：阿斯忒里俄斯",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：アストライア": {
+    "JP": null,
+    "CN": "英灵星行：阿斯特赖亚",
+    "TW": "英靈星行：阿斯特蕾亞",
+    "NA": "Heroic Spirit Stellar Journey: Astraea",
+    "KR": null
+  },
+  "英霊星行：アナスタシア": {
+    "JP": null,
+    "CN": "英灵星行：阿纳斯塔西娅",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：アビゲイル・ウィリアムズ": {
+    "JP": null,
+    "CN": "英灵星行：阿比盖尔·威廉姆斯",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：アルジュナ": {
+    "JP": null,
+    "CN": "英灵星行：阿周那",
+    "TW": "英靈星行：阿周那",
+    "NA": "Heroic Spirit Stellar Journey: Arjuna",
+    "KR": null
+  },
+  "英霊星行：アルテラ": {
+    "JP": null,
+    "CN": "英灵星行：阿蒂拉",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Altera",
     "KR": null
   },
   "英霊星行：アルトリア・キャスター": {
@@ -13201,6 +14020,13 @@
     "NA": "Heroic Spirit Stellar Journey: Altria Caster",
     "KR": null
   },
+  "英霊星行：アルトリア・ペンドラゴン": {
+    "JP": null,
+    "CN": "英灵星行：阿尔托莉雅·潘德拉贡",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Artoria Pendragon",
+    "KR": null
+  },
   "英霊星行：アントニオ・サリエリ": {
     "JP": null,
     "CN": "英灵星行：安东尼奥·萨列里",
@@ -13208,88 +14034,270 @@
     "NA": "Heroic Spirit Stellar Journey: Antonio Salieri",
     "KR": null
   },
+  "英霊星行：アンドロメダ": {
+    "JP": null,
+    "CN": "英灵星行：安德洛墨达",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：イシュタル": {
+    "JP": null,
+    "CN": "英灵星行：伊什塔尔",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：イリヤスフィール": {
+    "JP": null,
+    "CN": "英灵星行：伊莉雅丝菲尔",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：エウリュアレ": {
+    "JP": null,
+    "CN": "英灵星行：尤瑞艾莉",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：エレシュキガル": {
+    "JP": null,
+    "CN": "英灵星行：埃列什基伽勒",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "英霊星行：オベロン": {
     "JP": null,
     "CN": "英灵星行：奥伯龙",
-    "TW": null,
+    "TW": "英靈星行：奧伯龍",
     "NA": "Heroic Spirit Stellar Journey: Oberon",
     "KR": null
   },
   "英霊星行：カーマ": {
     "JP": null,
     "CN": "英灵星行：迦摩",
-    "TW": null,
+    "TW": "英靈星行：迦摩",
     "NA": "Heroic Spirit Stellar Journey: Kama",
     "KR": null
   },
   "英霊星行：カーミラ＆メディア": {
     "JP": null,
     "CN": "英灵星行：卡米拉＆美狄亚",
-    "TW": null,
+    "TW": "英靈星行：卡蜜拉＆美狄亞",
     "NA": "Heroic Spirit Stellar Journey: Carmilla & Medea",
+    "KR": null
+  },
+  "英霊星行：ククルカン": {
+    "JP": null,
+    "CN": "英灵星行：库库尔坎",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Kukulcan",
+    "KR": null
+  },
+  "英霊星行：クリームヒルト": {
+    "JP": null,
+    "CN": "英灵星行：克里姆希尔德",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：グレイ": {
+    "JP": null,
+    "CN": "英灵星行：格蕾",
+    "TW": "英靈星行：格蕾",
+    "NA": "Heroic Spirit Stellar Journey: Gray",
+    "KR": null
+  },
+  "英霊星行：ケツァル・コアトル": {
+    "JP": null,
+    "CN": "英灵星行：魁札尔·科亚特尔",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Quetzalcoatl",
+    "KR": null
+  },
+  "英霊星行：コロンブス": {
+    "JP": null,
+    "CN": "英灵星行：哥伦布",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Columbus",
+    "KR": null
+  },
+  "英霊星行：シャルロット・コルデー": {
+    "JP": null,
+    "CN": "英灵星行：夏绿蒂·科黛",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：シャーロック・ホームズ": {
+    "JP": null,
+    "CN": "英灵星行：夏洛克·福尔摩斯",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：ジェームズ・モリアーティ": {
+    "JP": null,
+    "CN": "英灵星行：詹姆斯·莫里亚蒂",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊星行：ジャンヌ・ダルク": {
     "JP": null,
     "CN": "英灵星行：贞德",
-    "TW": null,
+    "TW": "英靈星行：貞德",
     "NA": "Heroic Spirit Stellar Journey: Jeanne d'Arc (Alter)",
+    "KR": null
+  },
+  "英霊星行：ジークフリート": {
+    "JP": null,
+    "CN": "英灵星行：齐格飞",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：ダンテ・アリギエーリ": {
+    "JP": null,
+    "CN": "英灵星行：但丁·阿利吉耶里",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊星行：テスカトリポカ": {
     "JP": null,
     "CN": "英灵星行：特斯卡特利波卡",
-    "TW": null,
+    "TW": "英靈星行：特斯卡特利波卡",
     "NA": "Heroic Spirit Stellar Journey: Tezcatlipoca",
     "KR": null
   },
   "英霊星行：テノチティトラン": {
     "JP": null,
     "CN": "英灵星行：特诺奇蒂特兰",
-    "TW": null,
+    "TW": "英靈星行：特諾奇蒂特蘭",
     "NA": "Heroic Spirit Stellar Journey: Tenochtitlan",
+    "KR": null
+  },
+  "英霊星行：テュフォン・エフェメロス": {
+    "JP": null,
+    "CN": "英灵星行：堤丰·厄斐墨洛斯",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Typhon Ephemeros",
     "KR": null
   },
   "英霊星行：ドゥルガー": {
     "JP": null,
     "CN": "英灵星行：杜尔伽",
-    "TW": null,
+    "TW": "英靈星行：杜爾迦",
     "NA": "Heroic Spirit Stellar Journey: Durga",
+    "KR": null
+  },
+  "英霊星行：ドブルイニャ・ニキチッチ": {
+    "JP": null,
+    "CN": "英灵星行：多布雷尼亚·尼基季奇",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：ナイチンゲール": {
+    "JP": null,
+    "CN": "英灵星行：南丁格尔",
+    "TW": "英靈星行：南丁格爾",
+    "NA": "Heroic Spirit Stellar Journey: Florence Nightingale",
     "KR": null
   },
   "英霊星行：ニトクリス": {
     "JP": null,
     "CN": "英灵星行：尼托克丽丝",
-    "TW": null,
+    "TW": "英靈星行：尼托克里絲",
     "NA": "Heroic Spirit Stellar Journey: Nitocris",
+    "KR": null
+  },
+  "英霊星行：ハベトロット": {
+    "JP": null,
+    "CN": "英灵星行：哈贝特洛特",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊星行：バーソロミュー＆ティーチ": {
     "JP": null,
     "CN": "英灵星行：巴沙洛缪＆蒂奇",
-    "TW": null,
+    "TW": "英靈星行：巴索羅繆＆蒂奇",
     "NA": "Heroic Spirit Stellar Journey: Bartholomew Roberts & Edward Teach",
+    "KR": null
+  },
+  "英霊星行：バーヴァン・シー": {
+    "JP": null,
+    "CN": "英灵星行：芭万·希",
+    "TW": "英靈星行：芭班．希",
+    "NA": "Heroic Spirit Stellar Journey: Baobhan Sith",
+    "KR": null
+  },
+  "英霊星行：パーシヴァル": {
+    "JP": null,
+    "CN": "英灵星行：珀西瓦尔",
+    "TW": "英靈星行：帕西瓦爾",
+    "NA": "Heroic Spirit Stellar Journey: Percival",
+    "KR": null
+  },
+  "英霊星行：ビショーネ": {
+    "JP": null,
+    "CN": "英灵星行：比肖内",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：フランケンシュタイン": {
+    "JP": null,
+    "CN": "英灵星行：弗兰肯斯坦",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Frankenstein",
+    "KR": null
+  },
+  "英霊星行：ブラダマンテ": {
+    "JP": null,
+    "CN": "英灵星行：布拉达曼特",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：ブリトマート": {
+    "JP": null,
+    "CN": "英灵星行：布里托玛特",
+    "TW": "英靈星行：布里托瑪特",
+    "NA": "Heroic Spirit Stellar Journey: Britomart",
     "KR": null
   },
   "英霊星行：ヘクトール": {
     "JP": null,
     "CN": "英灵星行：赫克托耳",
-    "TW": null,
+    "TW": "英靈星行：赫克特",
     "NA": "Heroic Spirit Stellar Journey: Hector",
     "KR": null
   },
   "英霊星行：ヘラクレス": {
     "JP": null,
     "CN": "英灵星行：赫拉克勒斯",
-    "TW": null,
+    "TW": "英靈星行：赫拉克勒斯",
     "NA": "Heroic Spirit Stellar Journey: Heracles",
     "KR": null
   },
   "英霊星行：ボイジャー": {
     "JP": null,
     "CN": "英灵星行：旅行者",
-    "TW": null,
+    "TW": "英靈星行：航海家",
     "NA": "Heroic Spirit Stellar Journey: Voyager",
+    "KR": null
+  },
+  "英霊星行：ポール・バニヤン": {
+    "JP": null,
+    "CN": "英灵星行：保罗·班扬",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Paul Bunyan",
     "KR": null
   },
   "英霊星行：マシュ・キリエライト": {
@@ -13302,29 +14310,99 @@
   "英霊星行：マンドリカルド": {
     "JP": null,
     "CN": "英灵星行：曼迪卡尔多",
-    "TW": null,
+    "TW": "英靈星行：曼迪卡爾多",
     "NA": "Heroic Spirit Stellar Journey: Mandricardo",
     "KR": null
   },
   "英霊星行：マーリン": {
     "JP": null,
     "CN": "英灵星行：梅林",
-    "TW": null,
+    "TW": "英靈星行：梅林",
     "NA": "Heroic Spirit Stellar Journey: Merlin",
+    "KR": null
+  },
+  "英霊星行：ミス・クレーン": {
+    "JP": null,
+    "CN": "英灵星行：克莱恩小姐",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：メリュジーヌ": {
+    "JP": null,
+    "CN": "英灵星行：梅柳齐娜",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Mélusine",
+    "KR": null
+  },
+  "英霊星行：モードレッド": {
+    "JP": null,
+    "CN": "英灵星行：莫德雷德",
+    "TW": "英靈星行：莫德雷德",
+    "NA": "Heroic Spirit Stellar Journey: Mordred",
+    "KR": null
+  },
+  "英霊星行：ヤマトタケル": {
+    "JP": null,
+    "CN": "英灵星行：大和武尊",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Yamato Takeru",
+    "KR": null
+  },
+  "英霊星行：ランスロット": {
+    "JP": null,
+    "CN": "英灵星行：兰斯洛特",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Lancelot",
+    "KR": null
+  },
+  "英霊星行：ラーマ": {
+    "JP": null,
+    "CN": "英灵星行：罗摩",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Rama",
     "KR": null
   },
   "英霊星行：ラーヴァ／ティアマト": {
     "JP": null,
     "CN": "英灵星行：幼体／提亚马特",
-    "TW": null,
+    "TW": "英靈星行：幼體／提亞瑪特",
     "NA": "Heroic Spirit Stellar Journey: Larva/Tiamat",
+    "KR": null
+  },
+  "英霊星行：リリス": {
+    "JP": null,
+    "CN": "英灵星行：莉莉丝",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：レオナルド・ダ・ヴィンチ": {
+    "JP": null,
+    "CN": "英灵星行：莱昂纳多·达·芬奇",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Leonardo da Vinci",
     "KR": null
   },
   "英霊星行：レディ・アヴァロン": {
     "JP": null,
     "CN": "英灵星行：阿瓦隆女士",
-    "TW": null,
+    "TW": "英靈星行：阿瓦隆女士",
     "NA": "Heroic Spirit Stellar Journey: Lady Avalon",
+    "KR": null
+  },
+  "英霊星行：ロウヒ": {
+    "JP": null,
+    "CN": "英灵星行：娄希",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：ロクスタ": {
+    "JP": null,
+    "CN": "英灵星行：洛库斯塔",
+    "TW": "英靈星行：洛庫斯塔",
+    "NA": "Heroic Spirit Stellar Journey: Locusta",
     "KR": null
   },
   "英霊星行：ロムルス＝クィリヌス": {
@@ -13337,105 +14415,224 @@
   "英霊星行：ヴァン・ゴッホ": {
     "JP": null,
     "CN": "英灵星行：梵高",
-    "TW": null,
+    "TW": "英靈星行：梵谷",
     "NA": "Heroic Spirit Stellar Journey: Van Gogh",
+    "KR": null
+  },
+  "英霊星行：ヴリトラ": {
+    "JP": null,
+    "CN": "英灵星行：弗栗多",
+    "TW": "英靈星行：弗栗多",
+    "NA": "Heroic Spirit Stellar Journey: Vritra",
     "KR": null
   },
   "英霊星行：刑部姫": {
     "JP": null,
     "CN": "英灵星行：刑部姬",
-    "TW": null,
+    "TW": "英靈星行：刑部姬",
     "NA": "Heroic Spirit Stellar Journey: Osakabehime",
     "KR": null
   },
   "英霊星行：加藤段蔵＆果心居士": {
     "JP": null,
     "CN": "英灵星行：加藤段藏＆果心居士",
-    "TW": null,
+    "TW": "英靈星行：加藤段藏＆果心居士",
     "NA": "Heroic Spirit Stellar Journey: Katou \"Black Kite\" Danzo ＆ Kashin Koji",
+    "KR": null
+  },
+  "英霊星行：千利休": {
+    "JP": null,
+    "CN": "英灵星行：千利休",
+    "TW": "英靈星行：千利休",
+    "NA": "Heroic Spirit Stellar Journey: Sen-no-Rikyu",
+    "KR": null
+  },
+  "英霊星行：卑弥呼": {
+    "JP": null,
+    "CN": "英灵星行：卑弥呼",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：土方歳三": {
+    "JP": null,
+    "CN": "英灵星行：土方岁三",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊星行：太公望": {
     "JP": null,
     "CN": "英灵星行：太公望",
-    "TW": null,
+    "TW": "英靈星行：太公望",
     "NA": "Heroic Spirit Stellar Journey: Taigong Wang",
     "KR": null
   },
   "英霊星行：太歳星君": {
     "JP": null,
     "CN": "英灵星行：太岁星君",
-    "TW": null,
+    "TW": "英靈星行：太歲星君",
     "NA": "Heroic Spirit Stellar Journey: Taisui Xingjun",
+    "KR": null
+  },
+  "英霊星行：女教皇ヨハンナ": {
+    "JP": null,
+    "CN": "英灵星行：女教皇若安",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊星行：子ギル": {
     "JP": null,
     "CN": "英灵星行：幼吉尔",
-    "TW": null,
+    "TW": "英靈星行：子吉爾",
     "NA": "Heroic Spirit Stellar Journey: Gilgamesh (Child)",
+    "KR": null
+  },
+  "英霊星行：宇津見エリセ": {
+    "JP": null,
+    "CN": "英灵星行：宇津见绘里濑",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Utsumi Erice",
+    "KR": null
+  },
+  "英霊星行：宮本武蔵": {
+    "JP": null,
+    "CN": "英灵星行：宫本武藏",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：岡田以蔵": {
+    "JP": null,
+    "CN": "英灵星行：冈田以藏",
+    "TW": "英靈星行：岡田以藏",
+    "NA": "Heroic Spirit Stellar Journey: Okada Izo",
     "KR": null
   },
   "英霊星行：巌窟王　モンテ・クリスト": {
     "JP": null,
     "CN": "英灵星行：岩窟王　基督山",
-    "TW": null,
+    "TW": "英靈星行：巖窟王・基督山",
     "NA": "Heroic Spirit Stellar Journey: The Count of Monte Cristo",
     "KR": null
   },
   "英霊星行：曲亭馬琴": {
     "JP": null,
     "CN": "英灵星行：曲亭马琴",
-    "TW": null,
+    "TW": "英靈星行：曲亭馬琴",
     "NA": "Heroic Spirit Stellar Journey: Kyokutei Bakin",
+    "KR": null
+  },
+  "英霊星行：柳生但馬守宗矩": {
+    "JP": null,
+    "CN": "英灵星行：柳生但马守宗矩",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：森長可": {
+    "JP": null,
+    "CN": "英灵星行：森长可",
+    "TW": "英靈星行：森長可",
+    "NA": "Heroic Spirit Stellar Journey: Mori Nagayoshi",
     "KR": null
   },
   "英霊星行：玄奘三蔵": {
     "JP": null,
     "CN": "英灵星行：玄奘三藏",
-    "TW": null,
+    "TW": "英靈星行：玄奘三藏",
     "NA": "Heroic Spirit Stellar Journey: Xuanzang Sanzang",
     "KR": null
   },
   "英霊星行：紅閻魔": {
     "JP": null,
     "CN": "英灵星行：红阎魔",
-    "TW": null,
+    "TW": "英靈星行：紅閻魔",
     "NA": "Heroic Spirit Stellar Journey: Beni-Enma",
+    "KR": null
+  },
+  "英霊星行：茨木童子": {
+    "JP": null,
+    "CN": "英灵星行：茨木童子",
+    "TW": "英靈星行：茨木童子",
+    "NA": "Heroic Spirit Stellar Journey: Ibaraki-Douji",
     "KR": null
   },
   "英霊星行：葛飾北斎": {
     "JP": null,
     "CN": "英灵星行：葛饰北斋",
-    "TW": null,
+    "TW": "英靈星行：葛飾北齋",
     "NA": "Heroic Spirit Stellar Journey: Katsushika Hokusai",
+    "KR": null
+  },
+  "英霊星行：蘆屋道満": {
+    "JP": null,
+    "CN": "英灵星行：芦屋道满",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Ashiya Douman",
     "KR": null
   },
   "英霊星行：蘭陵王": {
     "JP": null,
     "CN": "英灵星行：兰陵王",
-    "TW": null,
+    "TW": "英靈星行：蘭陵王",
     "NA": "Heroic Spirit Stellar Journey: Prince of Lan Ling",
+    "KR": null
+  },
+  "英霊星行：謎のヒロインX": {
+    "JP": null,
+    "CN": "英灵星行：谜之女主角X",
+    "TW": null,
+    "NA": "Heroic Spirit Stellar Journey: Mysterious Heroine X",
+    "KR": null
+  },
+  "英霊星行：赤兎馬": {
+    "JP": null,
+    "CN": "英灵星行：赤兔马",
+    "TW": "英靈星行：赤兔馬",
+    "NA": "Heroic Spirit Stellar Journey: Red Hare",
+    "KR": null
+  },
+  "英霊星行：近藤勇": {
+    "JP": null,
+    "CN": "英灵星行：近藤勇",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊星行：酒呑童子": {
+    "JP": null,
+    "CN": "英灵星行：酒吞童子",
+    "TW": "英靈星行：酒吞童子",
+    "NA": "Heroic Spirit Stellar Journey: Shuten-Douji",
+    "KR": null
+  },
+  "英霊星行：鈴鹿御前": {
+    "JP": null,
+    "CN": "英灵星行：铃鹿御前",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊星行：闇のコヤンスカヤ": {
     "JP": null,
     "CN": "英灵星行：暗之高扬斯卡娅",
-    "TW": null,
+    "TW": "英靈星行：暗之高揚斯卡婭",
     "NA": "Heroic Spirit Stellar Journey: Koyanskaya of Dark",
     "KR": null
   },
   "英霊星行：風魔小太郎＆耀星のハサン": {
     "JP": null,
     "CN": "英灵星行：风魔小太郎＆耀星哈桑",
-    "TW": null,
+    "TW": "英靈星行：風魔小太郎＆耀星哈桑",
     "NA": "Heroic Spirit Stellar Journey: Fuuma \"Evil-wind\" Kotarou ＆ Hassan of the Shining Star",
     "KR": null
   },
   "英霊星行：高杉晋作": {
     "JP": null,
     "CN": "英灵星行：高杉晋作",
-    "TW": null,
+    "TW": "英靈星行：高杉晉作",
     "NA": "Heroic Spirit Stellar Journey: Takasugi Shinsaku",
     "KR": null
   },
@@ -13444,6 +14641,153 @@
     "CN": "英灵星行：ＵＤＫ－巴格斯特",
     "TW": "英靈星行：UDK－巴格斯特",
     "NA": "Heroic Spirit Stellar Journey: UDK-Barghest",
+    "KR": null
+  },
+  "英霊極点：アルトリア・ペンドラゴン": {
+    "JP": null,
+    "CN": "英灵极点：阿尔托莉雅·潘德拉贡",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：オリオン": {
+    "JP": null,
+    "CN": "英灵极点：俄里翁",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：カーマ": {
+    "JP": null,
+    "CN": "英灵极点：迦摩",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：ギルガメッシュ": {
+    "JP": null,
+    "CN": "英灵极点：吉尔伽美什",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：シグルド": {
+    "JP": null,
+    "CN": "英灵极点：齐格鲁德",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：ジャンヌ・ダルク": {
+    "JP": null,
+    "CN": "英灵极点：贞德",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：スカサハ＝スカディ": {
+    "JP": null,
+    "CN": "英灵极点：斯卡哈·斯卡蒂",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：スペース・イシュタル": {
+    "JP": null,
+    "CN": "英灵极点：太空伊什塔尔",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：ネモ": {
+    "JP": null,
+    "CN": "英灵极点：尼莫",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：マシュ・キリエライト": {
+    "JP": null,
+    "CN": "英灵极点：玛修·基列莱特",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：メリュジーヌ": {
+    "JP": null,
+    "CN": "英灵极点：梅柳齐娜",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：モルガン": {
+    "JP": null,
+    "CN": "英灵极点：摩根",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：レオナルド・ダ・ヴィンチ": {
+    "JP": null,
+    "CN": "英灵极点：莱昂纳多·达·芬奇",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：レディ・アヴァロン": {
+    "JP": null,
+    "CN": "英灵极点：阿瓦隆女士",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：ロムルス＝クィリヌス": {
+    "JP": null,
+    "CN": "英灵极点：罗穆路斯·奎里努斯",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：坂田金時": {
+    "JP": null,
+    "CN": "英灵极点：坂田金时",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：巴御前": {
+    "JP": null,
+    "CN": "英灵极点：巴御前",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：燕青": {
+    "JP": null,
+    "CN": "英灵极点：燕青",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：蘆屋道満": {
+    "JP": null,
+    "CN": "英灵极点：芦屋道满",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：闇のコヤンスカヤ": {
+    "JP": null,
+    "CN": "英灵极点：暗之高扬斯卡娅",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "英霊極点：ＢＢ": {
+    "JP": null,
+    "CN": "英灵极点：BB",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "英霊正装：アステリオス": {
@@ -13757,28 +15101,28 @@
   "英霊祝装：アキレウス": {
     "JP": null,
     "CN": "英灵祝装：阿喀琉斯",
-    "TW": null,
+    "TW": "英靈祝裝：阿基里斯",
     "NA": "Heroic Spirit Celebratory Attire: Achilles",
     "KR": null
   },
   "英霊祝装：アショカ王": {
     "JP": null,
     "CN": "英灵祝装：阿育王",
-    "TW": null,
+    "TW": "英靈祝裝：阿育王",
     "NA": "Heroic Spirit Celebratory Attire: King Ashoka",
     "KR": null
   },
   "英霊祝装：アスクレピオス": {
     "JP": null,
     "CN": "英灵祝装：阿斯克勒庇俄斯",
-    "TW": null,
+    "TW": "英靈祝裝：阿斯克勒庇俄斯",
     "NA": "Heroic Spirit Celebratory Attire: Asclepius",
     "KR": null
   },
   "英霊祝装：アナスタシア": {
     "JP": null,
     "CN": "英灵祝装：阿纳斯塔西娅",
-    "TW": null,
+    "TW": "英靈祝裝：安娜斯塔西婭",
     "NA": "Heroic Spirit Celebratory Attire: Anastasia",
     "KR": null
   },
@@ -13792,14 +15136,14 @@
   "英霊祝装：アマデウス": {
     "JP": null,
     "CN": "英灵祝装：阿马德乌斯",
-    "TW": null,
+    "TW": "英靈祝裝：阿瑪迪斯",
     "NA": "Heroic Spirit Celebratory Attire: Wolfgang Amadeus Mozart",
     "KR": null
   },
   "英霊祝装：アルジュナ": {
     "JP": null,
     "CN": "英灵祝装：阿周那",
-    "TW": null,
+    "TW": "英靈祝裝：阿周那",
     "NA": "Heroic Spirit Celebratory Attire: Arjuna",
     "KR": null
   },
@@ -13820,21 +15164,21 @@
   "英霊祝装：アーキタイプ：アース": {
     "JP": null,
     "CN": "英灵祝装：Archetype：Earth",
-    "TW": null,
+    "TW": "英靈祝裝：Archetype：Earth",
     "NA": "Heroic Spirit Celebratory Attire: Archetype:Earth",
     "KR": null
   },
   "英霊祝装：アーラシュ": {
     "JP": null,
     "CN": "英灵祝装：阿拉什",
-    "TW": null,
+    "TW": "英靈祝裝：阿拉什",
     "NA": "Heroic Spirit Celebratory Attire: Arash",
     "KR": null
   },
   "英霊祝装：インドラ": {
     "JP": null,
     "CN": "英灵祝装：因陀罗",
-    "TW": null,
+    "TW": "英靈祝裝：因陀羅",
     "NA": "Heroic Spirit Celebratory Attire: Indra",
     "KR": null
   },
@@ -13848,21 +15192,21 @@
   "英霊祝装：エウリュアレ": {
     "JP": null,
     "CN": "英灵祝装：尤瑞艾莉",
-    "TW": null,
+    "TW": "英靈祝裝：尤瑞艾莉",
     "NA": "Heroic Spirit Celebratory Attire: Euryale",
     "KR": null
   },
   "英霊祝装：エミヤ": {
     "JP": null,
     "CN": "英灵祝装：卫宫",
-    "TW": null,
+    "TW": "英靈祝裝：Emiya",
     "NA": "Heroic Spirit Celebratory Attire: Emiya",
     "KR": null
   },
   "英霊祝装：エルキドゥ": {
     "JP": null,
     "CN": "英灵祝装：恩奇都",
-    "TW": null,
+    "TW": "英靈祝裝：恩奇都",
     "NA": "Heroic Spirit Celebratory Attire: Enkidu",
     "KR": null
   },
@@ -13876,70 +15220,70 @@
   "英霊祝装：オベロン": {
     "JP": null,
     "CN": "英灵祝装：奥伯龙",
-    "TW": null,
+    "TW": "英靈祝裝：奧伯龍",
     "NA": "Heroic Spirit Celebratory Attire: Oberon",
     "KR": null
   },
   "英霊祝装：カイニス": {
     "JP": null,
     "CN": "英灵祝装：凯妮斯",
-    "TW": null,
+    "TW": "英靈祝裝：凱妮斯",
     "NA": "Heroic Spirit Celebratory Attire: Caenis",
     "KR": null
   },
   "英霊祝装：カラミティ・ジェーン": {
     "JP": null,
     "CN": "英灵祝装：灾星简",
-    "TW": null,
+    "TW": "英靈祝裝：災星簡",
     "NA": "Heroic Spirit Celebratory Attire: Calamity Jane",
     "KR": null
   },
   "英霊祝装：カルナ": {
     "JP": null,
     "CN": "英灵祝装：迦尔纳",
-    "TW": null,
+    "TW": "英靈祝裝：迦爾納",
     "NA": "Heroic Spirit Celebratory Attire: Karna",
     "KR": null
   },
   "英霊祝装：カーマ": {
     "JP": null,
     "CN": "英灵祝装：迦摩",
-    "TW": null,
+    "TW": "英靈祝裝：迦摩",
     "NA": "Heroic Spirit Celebratory Attire: Kama",
     "KR": null
   },
   "英霊祝装：カーリー": {
     "JP": null,
     "CN": "英灵祝装：迦梨",
-    "TW": null,
+    "TW": "英靈祝裝：迦梨",
     "NA": "Heroic Spirit Celebratory Attire: Kali",
     "KR": null
   },
   "英霊祝装：ガウェイン": {
     "JP": null,
     "CN": "英灵祝装：高文",
-    "TW": null,
+    "TW": "英靈祝裝：高文",
     "NA": "Heroic Spirit Celebratory Attire: Gawain",
     "KR": null
   },
   "英霊祝装：ガレス": {
     "JP": null,
     "CN": "英灵祝装：加雷斯",
-    "TW": null,
+    "TW": "英靈祝裝：加雷斯",
     "NA": "Heroic Spirit Celebratory Attire: Gareth",
     "KR": null
   },
   "英霊祝装：ククルカン": {
     "JP": null,
     "CN": "英灵祝装：库库尔坎",
-    "TW": null,
+    "TW": "英靈祝裝：庫庫爾坎",
     "NA": "Heroic Spirit Celebratory Attire: Kukulcan",
     "KR": null
   },
   "英霊祝装：クロエ": {
     "JP": null,
     "CN": "英灵祝装：克洛伊",
-    "TW": null,
+    "TW": "英靈祝裝：克洛伊",
     "NA": "Heroic Spirit Celebratory Attire: Chloe",
     "KR": null
   },
@@ -13953,21 +15297,21 @@
   "英霊祝装：コロンブス": {
     "JP": null,
     "CN": "英灵祝装：哥伦布",
-    "TW": null,
+    "TW": "英靈祝裝：哥倫布",
     "NA": "Heroic Spirit Celebratory Attire: Christopher Columbus",
     "KR": null
   },
   "英霊祝装：サンソン": {
     "JP": null,
     "CN": "英灵祝装：桑松",
-    "TW": null,
+    "TW": "英靈祝裝：桑松",
     "NA": "Heroic Spirit Celebratory Attire: Charles-Henri Sanson",
     "KR": null
   },
   "英霊祝装：シバの女王": {
     "JP": null,
     "CN": "英灵祝装：示巴女王",
-    "TW": null,
+    "TW": "英靈祝裝：示巴女王",
     "NA": "Heroic Spirit Celebratory Attire: Queen of Sheba",
     "KR": null
   },
@@ -13988,14 +15332,14 @@
   "英霊祝装：ジャガーマン": {
     "JP": null,
     "CN": "英灵祝装：豹人",
-    "TW": null,
+    "TW": "英靈祝裝：豹人",
     "NA": "Heroic Spirit Celebratory Attire: Jaguar Warrior",
     "KR": null
   },
   "英霊祝装：ジャック・ザ・リッパー": {
     "JP": null,
     "CN": "英灵祝装：开膛手杰克",
-    "TW": null,
+    "TW": "英靈祝裝：開膛手傑克",
     "NA": "Heroic Spirit Celebratory Attire: Jack the Ripper",
     "KR": null
   },
@@ -14009,35 +15353,35 @@
   "英霊祝装：スカサハ": {
     "JP": null,
     "CN": "英灵祝装：斯卡哈",
-    "TW": null,
+    "TW": "英靈祝裝：斯卡薩哈",
     "NA": "Heroic Spirit Celebratory Attire: Scátach",
     "KR": null
   },
   "英霊祝装：ステンノ": {
     "JP": null,
     "CN": "英灵祝装：斯忒诺",
-    "TW": null,
+    "TW": "英靈祝裝：斯忒諾",
     "NA": "Heroic Spirit Celebratory Attire: Stheno",
     "KR": null
   },
   "英霊祝装：スーパーバニヤン": {
     "JP": null,
     "CN": "英灵祝装：超级班扬",
-    "TW": null,
+    "TW": "英靈祝裝：超級班揚",
     "NA": "Heroic Spirit Celebratory Attire: Super Bunyan",
     "KR": null
   },
   "英霊祝装：セタンタ": {
     "JP": null,
     "CN": "英灵祝装：瑟坦特",
-    "TW": null,
+    "TW": "英靈祝裝：瑟坦特",
     "NA": "Heroic Spirit Celebratory Attire: Setanta",
     "KR": null
   },
   "英霊祝装：ゼノビア": {
     "JP": null,
     "CN": "英灵祝装：芝诺比阿",
-    "TW": null,
+    "TW": "英靈祝裝：潔諾比亞",
     "NA": "Heroic Spirit Celebratory Attire: Zenobia",
     "KR": null
   },
@@ -14051,21 +15395,21 @@
   "英霊祝装：ツタンカーメン": {
     "JP": null,
     "CN": "英灵祝装：图坦卡蒙",
-    "TW": null,
+    "TW": "英靈祝裝：圖坦卡門",
     "NA": "Heroic Spirit Celebratory Attire: Tutankhamun",
     "KR": null
   },
   "英霊祝装：テスカトリポカ": {
     "JP": null,
     "CN": "英灵祝装：特斯卡特利波卡",
-    "TW": null,
+    "TW": "英靈祝裝：特斯卡特利波卡",
     "NA": "Heroic Spirit Celebratory Attire: Tezcatlipoca",
     "KR": null
   },
   "英霊祝装：テノチティトラン": {
     "JP": null,
     "CN": "英灵祝装：特诺奇蒂特兰",
-    "TW": null,
+    "TW": "英靈祝裝：特諾奇蒂特蘭",
     "NA": "Heroic Spirit Celebratory Attire: Tenochtitlan",
     "KR": null
   },
@@ -14079,7 +15423,7 @@
   "英霊祝装：ナポレオン": {
     "JP": null,
     "CN": "英灵祝装：拿破仑",
-    "TW": null,
+    "TW": "英靈祝裝：拿破崙",
     "NA": "Heroic Spirit Celebratory Attire: Napoleon",
     "KR": null
   },
@@ -14093,42 +15437,42 @@
   "英霊祝装：ニトクリス": {
     "JP": null,
     "CN": "英灵祝装：尼托克丽丝",
-    "TW": null,
+    "TW": "英靈祝裝：尼托克里絲",
     "NA": "Heroic Spirit Celebratory Attire: Nitocris",
     "KR": null
   },
   "英霊祝装：ハベトロット": {
     "JP": null,
     "CN": "英灵祝装：哈贝特洛特",
-    "TW": null,
+    "TW": "英靈祝裝：哈貝特洛特",
     "NA": "Heroic Spirit Celebratory Attire: Habetrot",
     "KR": null
   },
   "英霊祝装：バーゲスト": {
     "JP": null,
     "CN": "英灵祝装：巴格斯特",
-    "TW": null,
+    "TW": "英靈祝裝：巴格斯特",
     "NA": "Heroic Spirit Celebratory Attire: Barghest",
     "KR": null
   },
   "英霊祝装：バーヴァン・シー": {
     "JP": null,
     "CN": "英灵祝装：芭万·希",
-    "TW": null,
+    "TW": "英靈祝裝：芭班．希",
     "NA": "Heroic Spirit Celebratory Attire: Baobhan Sith",
     "KR": null
   },
   "英霊祝装：パーシヴァル": {
     "JP": null,
     "CN": "英灵祝装：珀西瓦尔",
-    "TW": null,
+    "TW": "英靈祝裝：帕西瓦爾",
     "NA": "Heroic Spirit Celebratory Attire: Percival",
     "KR": null
   },
   "英霊祝装：ビショーネ": {
     "JP": null,
     "CN": "英灵祝装：比肖内",
-    "TW": null,
+    "TW": "英靈祝裝：比修內",
     "NA": "Heroic Spirit Celebratory Attire: Biscione",
     "KR": null
   },
@@ -14142,28 +15486,28 @@
   "英霊祝装：フランケンシュタイン": {
     "JP": null,
     "CN": "英灵祝装：弗兰肯斯坦",
-    "TW": null,
+    "TW": "英靈祝裝：弗蘭肯斯坦",
     "NA": "Heroic Spirit Celebratory Attire: Frankenstein",
     "KR": null
   },
   "英霊祝装：ブラダマンテ": {
     "JP": null,
     "CN": "英灵祝装：布拉达曼特",
-    "TW": null,
+    "TW": "英靈祝裝：布拉達曼特",
     "NA": "Heroic Spirit Celebratory Attire: Bradamante",
     "KR": null
   },
   "英霊祝装：ベディヴィエール": {
     "JP": null,
     "CN": "英灵祝装：贝德维尔",
-    "TW": null,
+    "TW": "英靈祝裝：貝德維爾",
     "NA": "Heroic Spirit Celebratory Attire: Bedivere",
     "KR": null
   },
   "英霊祝装：ペンテシレイア": {
     "JP": null,
     "CN": "英灵祝装：彭忒西勒亚",
-    "TW": null,
+    "TW": "英靈祝裝：彭忒西勒亞",
     "NA": "Heroic Spirit Celebratory Attire: Penthesilea",
     "KR": null
   },
@@ -14184,42 +15528,42 @@
   "英霊祝装：マンドリカルド": {
     "JP": null,
     "CN": "英灵祝装：曼迪卡尔多",
-    "TW": null,
+    "TW": "英靈祝裝：曼迪卡爾多",
     "NA": "Heroic Spirit Celebratory Attire: Mandricardo",
     "KR": null
   },
   "英霊祝装：マーリン": {
     "JP": null,
     "CN": "英灵祝装：梅林",
-    "TW": null,
+    "TW": "英靈祝裝：梅林",
     "NA": "Heroic Spirit Celebratory Attire: Merlin",
     "KR": null
   },
   "英霊祝装：ミス・クレーン": {
     "JP": null,
     "CN": "英灵祝装：克莱恩小姐",
-    "TW": null,
+    "TW": "英靈祝裝：克蘭小姐",
     "NA": "Heroic Spirit Celebratory Attire: Miss Crane",
     "KR": null
   },
   "英霊祝装：メドゥーサ": {
     "JP": null,
     "CN": "英灵祝装：美杜莎",
-    "TW": null,
+    "TW": "英靈祝裝：美杜莎",
     "NA": "Heroic Spirit Celebratory Attire: Medusa",
     "KR": null
   },
   "英霊祝装：メリュジーヌ": {
     "JP": null,
     "CN": "英灵祝装：梅柳齐娜",
-    "TW": null,
+    "TW": "英靈祝裝：美露莘",
     "NA": "Heroic Spirit Celebratory Attire: Mélusine",
     "KR": null
   },
   "英霊祝装：リリス": {
     "JP": null,
     "CN": "英灵祝装：莉莉丝",
-    "TW": null,
+    "TW": "英靈祝裝：莉莉絲",
     "NA": "Heroic Spirit Celebratory Attire: Lilith",
     "KR": null
   },
@@ -14233,315 +15577,315 @@
   "英霊祝装：ロウヒ": {
     "JP": null,
     "CN": "英灵祝装：娄希",
-    "TW": null,
+    "TW": "英靈祝裝：婁希",
     "NA": "Heroic Spirit Celebratory Attire: Louhi",
     "KR": null
   },
   "英霊祝装：ワンジナ": {
     "JP": null,
     "CN": "英灵祝装：旺吉娜",
-    "TW": null,
+    "TW": "英靈祝裝：旺吉娜",
     "NA": "Heroic Spirit Celebratory Attire: Wandjina",
     "KR": null
   },
   "英霊祝装：ヴラド三世": {
     "JP": null,
     "CN": "英灵祝装：弗拉德三世",
-    "TW": null,
+    "TW": "英靈祝裝：弗拉德三世",
     "NA": "Heroic Spirit Celebratory Attire: Vlad III",
     "KR": null
   },
   "英霊祝装：ヴリトラ": {
     "JP": null,
     "CN": "英灵祝装：弗栗多",
-    "TW": null,
+    "TW": "英靈祝裝：弗栗多",
     "NA": "Heroic Spirit Celebratory Attire: Vritra",
     "KR": null
   },
   "英霊祝装：伊吹童子": {
     "JP": null,
     "CN": "英灵祝装：伊吹童子",
-    "TW": null,
+    "TW": "英靈祝裝：伊吹童子",
     "NA": "Heroic Spirit Celebratory Attire: Ibuki-Douji",
     "KR": null
   },
   "英霊祝装：加藤段蔵": {
     "JP": null,
     "CN": "英灵祝装：加藤段藏",
-    "TW": null,
+    "TW": "英靈祝裝：加藤段藏",
     "NA": "Heroic Spirit Celebratory Attire: Katou \"Black Kite\" Danzo",
     "KR": null
   },
   "英霊祝装：司馬懿": {
     "JP": null,
     "CN": "英灵祝装：司马懿",
-    "TW": null,
+    "TW": "英靈祝裝：司馬懿",
     "NA": "Heroic Spirit Celebratory Attire: Sima Yi",
     "KR": null
   },
   "英霊祝装：呼延灼": {
     "JP": null,
     "CN": "英灵祝装：呼延灼",
-    "TW": null,
+    "TW": "英靈祝裝：呼延灼",
     "NA": "Heroic Spirit Celebratory Attire: Huyan Zhuo",
     "KR": null
   },
   "英霊祝装：土方歳三": {
     "JP": null,
     "CN": "英灵祝装：土方岁三",
-    "TW": null,
+    "TW": "英靈祝裝：土方歲三",
     "NA": "Heroic Spirit Celebratory Attire: Hijikata Toshizo",
     "KR": null
   },
   "英霊祝装：太公望": {
     "JP": null,
     "CN": "英灵祝装：太公望",
-    "TW": null,
+    "TW": "英靈祝裝：太公望",
     "NA": "Heroic Spirit Celebratory Attire: Taigong Wang",
     "KR": null
   },
   "英霊祝装：女教皇ヨハンナ": {
     "JP": null,
     "CN": "英灵祝装：女教皇若安",
-    "TW": null,
+    "TW": "英靈祝裝：女教皇瓊安",
     "NA": "Heroic Spirit Celebratory Attire: Pope Johanna",
     "KR": null
   },
   "英霊祝装：始皇帝": {
     "JP": null,
     "CN": "英灵祝装：始皇帝",
-    "TW": null,
+    "TW": "英靈祝裝：始皇帝",
     "NA": "Heroic Spirit Celebratory Attire: Qin Shi Huang",
     "KR": null
   },
   "英霊祝装：宇津見エリセ": {
     "JP": null,
     "CN": "英灵祝装：宇津见绘里濑",
-    "TW": null,
+    "TW": "英靈祝裝：宇津見繪里世",
     "NA": "Heroic Spirit Celebratory Attire: Utsumi Erice",
     "KR": null
   },
   "英霊祝装：宮本伊織": {
     "JP": null,
     "CN": "英灵祝装：宫本伊织",
-    "TW": null,
+    "TW": "英靈祝裝：宮本伊織",
     "NA": "Heroic Spirit Celebratory Attire: Miyamoto Iori",
     "KR": null
   },
   "英霊祝装：小野小町": {
     "JP": null,
     "CN": "英灵祝装：小野小町",
-    "TW": null,
+    "TW": "英靈祝裝：小野小町",
     "NA": "Heroic Spirit Celebratory Attire: Ono no Komachi",
     "KR": null
   },
   "英霊祝装：山南敬助": {
     "JP": null,
     "CN": "英灵祝装：山南敬助",
-    "TW": null,
+    "TW": "英靈祝裝：山南敬助",
     "NA": "Heroic Spirit Celebratory Attire: Yamanami Keisuke",
     "KR": null
   },
   "英霊祝装：張角": {
     "JP": null,
     "CN": "英灵祝装：张角",
-    "TW": null,
+    "TW": "英靈祝裝：張角",
     "NA": "Heroic Spirit Celebratory Attire: Zhang Yue",
     "KR": null
   },
   "英霊祝装：徐福": {
     "JP": null,
     "CN": "英灵祝装：徐福",
-    "TW": null,
+    "TW": "英靈祝裝：徐福",
     "NA": "Heroic Spirit Celebratory Attire: Xu Fu",
     "KR": null
   },
   "英霊祝装：徴姉妹": {
     "JP": null,
     "CN": "英灵祝装：征氏姐妹",
-    "TW": null,
+    "TW": "英靈祝裝：徵氏姐妹",
     "NA": "Heroic Spirit Celebratory Attire: Hai Bà Trưng",
     "KR": null
   },
   "英霊祝装：斎藤一": {
     "JP": null,
     "CN": "英灵祝装：斋藤一",
-    "TW": null,
+    "TW": "英靈祝裝：齋藤一",
     "NA": "Heroic Spirit Celebratory Attire: Saito Hajime",
     "KR": null
   },
   "英霊祝装：望月千代女": {
     "JP": null,
     "CN": "英灵祝装：望月千代女",
-    "TW": null,
+    "TW": "英靈祝裝：望月千代女",
     "NA": "Heroic Spirit Celebratory Attire: Mochizuki Chiyome",
     "KR": null
   },
   "英霊祝装：杉谷善住坊": {
     "JP": null,
     "CN": "英灵祝装：杉谷善住坊",
-    "TW": null,
+    "TW": "英靈祝裝：杉谷善住坊",
     "NA": "Heroic Spirit Celebratory Attire: Sugitani Zenjubou",
     "KR": null
   },
   "英霊祝装：果心居士": {
     "JP": null,
     "CN": "英灵祝装：果心居士",
-    "TW": null,
+    "TW": "英靈祝裝：果心居士",
     "NA": "Heroic Spirit Celebratory Attire: Kashin Koji",
     "KR": null
   },
   "英霊祝装：武則天": {
     "JP": null,
     "CN": "英灵祝装：武则天",
-    "TW": null,
+    "TW": "英靈祝裝：武則天",
     "NA": "Heroic Spirit Celebratory Attire: Wu Zetian",
     "KR": null
   },
   "英霊祝装：永倉新八": {
     "JP": null,
     "CN": "英灵祝装：永仓新八",
-    "TW": null,
+    "TW": "英靈祝裝：永倉新八",
     "NA": "Heroic Spirit Celebratory Attire: Nagakura Shinpachi",
     "KR": null
   },
   "英霊祝装：沖田総司": {
     "JP": null,
     "CN": "英灵祝装：冲田总司",
-    "TW": null,
+    "TW": "英靈祝裝：沖田總司",
     "NA": "Heroic Spirit Celebratory Attire: Okita Souji",
     "KR": null
   },
   "英霊祝装：清姫": {
     "JP": null,
     "CN": "英灵祝装：清姬",
-    "TW": null,
+    "TW": "英靈祝裝：清姬",
     "NA": "Heroic Spirit Celebratory Attire: Kiyohime",
     "KR": null
   },
   "英霊祝装：渡辺綱": {
     "JP": null,
     "CN": "英灵祝装：渡边纲",
-    "TW": null,
+    "TW": "英靈祝裝：渡邊綱",
     "NA": "Heroic Spirit Celebratory Attire: Watanabe-no-Tsuna",
     "KR": null
   },
   "英霊祝装：源為朝": {
     "JP": null,
     "CN": "英灵祝装：源为朝",
-    "TW": null,
+    "TW": "英靈祝裝：源為朝",
     "NA": "Heroic Spirit Celebratory Attire: Minamoto-no-Tametomo",
     "KR": null
   },
   "英霊祝装：牛若丸": {
     "JP": null,
     "CN": "英灵祝装：牛若丸",
-    "TW": null,
+    "TW": "英靈祝裝：牛若丸",
     "NA": "Heroic Spirit Celebratory Attire: Ushiwakamaru",
     "KR": null
   },
   "英霊祝装：百貌のハサン": {
     "JP": null,
     "CN": "英灵祝装：百貌哈桑",
-    "TW": null,
+    "TW": "英靈祝裝：百貌哈桑",
     "NA": "Heroic Spirit Celebratory Attire: Hassan of the Hundred Personas",
     "KR": null
   },
   "英霊祝装：蒼崎青子": {
     "JP": null,
     "CN": "英灵祝装：苍崎青子",
-    "TW": null,
+    "TW": "英靈祝裝：蒼崎青子",
     "NA": "Heroic Spirit Celebratory Attire: Aoko Aozaki",
     "KR": null
   },
   "英霊祝装：蘆屋道満": {
     "JP": null,
     "CN": "英灵祝装：芦屋道满",
-    "TW": null,
+    "TW": "英靈祝裝：蘆屋道滿",
     "NA": "Heroic Spirit Celebratory Attire: Ashiya Douman",
     "KR": null
   },
   "英霊祝装：蘭陵王": {
     "JP": null,
     "CN": "英灵祝装：兰陵王",
-    "TW": null,
+    "TW": "英靈祝裝：蘭陵王",
     "NA": "Heroic Spirit Celebratory Attire: Prince of Lan Ling",
     "KR": null
   },
   "英霊祝装：虞美人": {
     "JP": null,
     "CN": "英灵祝装：虞美人",
-    "TW": null,
+    "TW": "英靈祝裝：虞美人",
     "NA": "Heroic Spirit Celebratory Attire: Yu Mei-ren",
     "KR": null
   },
   "英霊祝装：謎のヒロインXX": {
     "JP": null,
     "CN": "英灵祝装：谜之女主角XX",
-    "TW": null,
+    "TW": "英靈祝裝：謎之女主角XX",
     "NA": "Heroic Spirit Celebratory Attire: Mysterious Heroine XX",
     "KR": null
   },
   "英霊祝装：赤兎馬": {
     "JP": null,
     "CN": "英灵祝装：赤兔马",
-    "TW": null,
+    "TW": "英靈祝裝：赤兔馬",
     "NA": "Heroic Spirit Celebratory Attire: Red Hare",
     "KR": null
   },
   "英霊祝装：鈴鹿御前": {
     "JP": null,
     "CN": "英灵祝装：铃鹿御前",
-    "TW": null,
+    "TW": "英靈祝裝：鈴鹿御前",
     "NA": "Heroic Spirit Celebratory Attire: Suzuka Gozen (Summer Vacation)",
     "KR": null
   },
   "英霊祝装：雑賀孫一": {
     "JP": null,
     "CN": "英灵祝装：杂贺孙一",
-    "TW": null,
+    "TW": "英靈祝裝：雜賀孫一",
     "NA": "Heroic Spirit Celebratory Attire: Saika Magoichi",
     "KR": null
   },
   "英霊祝装：項羽": {
     "JP": null,
     "CN": "英灵祝装：项羽",
-    "TW": null,
+    "TW": "英靈祝裝：項羽",
     "NA": "Heroic Spirit Celebratory Attire: Xiang Yu",
     "KR": null
   },
   "英霊祝装：駒姫": {
     "JP": null,
     "CN": "英灵祝装：驹姬",
-    "TW": null,
+    "TW": "英靈祝裝：駒姬",
     "NA": "Heroic Spirit Celebratory Attire: Komahime",
     "KR": null
   },
   "英霊祝装：高杉晋作": {
     "JP": null,
     "CN": "英灵祝装：高杉晋作",
-    "TW": null,
+    "TW": "英靈祝裝：高杉晉作",
     "NA": "Heroic Spirit Celebratory Attire: Takasugi Shinsaku",
     "KR": null
   },
   "英霊祝装：鬼一法眼": {
     "JP": null,
     "CN": "英灵祝装：鬼一法眼",
-    "TW": null,
+    "TW": "英靈祝裝：鬼一法眼",
     "NA": "Heroic Spirit Celebratory Attire: Kiichi Hougen",
     "KR": null
   },
   "英霊祝装：黄飛虎": {
     "JP": null,
     "CN": "英灵祝装：黄飞虎",
-    "TW": null,
+    "TW": "英靈祝裝：黃飛虎",
     "NA": "Heroic Spirit Celebratory Attire: Huang Feihu",
     "KR": null
   },
   "英霊祝装：黒姫": {
     "JP": null,
     "CN": "英灵祝装：黑姬",
-    "TW": null,
+    "TW": "英靈祝裝：黑姬",
     "NA": "Heroic Spirit Celebratory Attire: Kurohime",
     "KR": null
   },
@@ -15347,8 +16691,8 @@
     "JP": null,
     "CN": "萍水相逢",
     "TW": "萍水相逢",
-    "NA": "Met by Chance",
-    "KR": null
+    "NA": "A Chance Encounter",
+    "KR": "평수상봉"
   },
   "落陽のピアス": {
     "JP": null,
@@ -15476,6 +16820,13 @@
     "NA": "Treasury of the Guardian Serpent",
     "KR": "사수의 보고"
   },
+  "蛍の夜に": {
+    "JP": null,
+    "CN": "于萤火之夜",
+    "TW": null,
+    "NA": "On a Night of Fireflies",
+    "KR": null
+  },
   "蛮崇の偽神像": {
     "JP": null,
     "CN": "蛮崇的伪神像",
@@ -15539,12 +16890,19 @@
     "NA": "Chocolates of Betrayal ",
     "KR": "배신의 초콜릿들"
   },
+  "裏庭の厨房": {
+    "JP": null,
+    "CN": "后院的厨房",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "西部の破戒僧": {
     "JP": null,
     "CN": "西部破戒僧",
     "TW": "西部酒肉和尚",
     "NA": "Depraved Monk of the West",
-    "KR": null
+    "KR": "서부의 파계승"
   },
   "見上げた空…": {
     "JP": null,
@@ -15593,7 +16951,7 @@
     "CN": "老爹的料理",
     "TW": "老爹的料理",
     "NA": "Father's Cooking",
-    "KR": null
+    "KR": "아버지의 요리"
   },
   "託されたもの": {
     "JP": null,
@@ -15601,6 +16959,13 @@
     "TW": "受託之物",
     "NA": "What She's Held in Trust",
     "KR": "기탁받은 것"
+  },
+  "記憶の大図書館": {
+    "JP": null,
+    "CN": "记忆的大图书馆",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "証": {
     "JP": null,
@@ -15644,6 +17009,13 @@
     "NA": "The Legendary Shot",
     "KR": "이야기되는 한 발의 화살"
   },
+  "誠の旗": {
+    "JP": null,
+    "CN": "诚之旗",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "誠の蛍火": {
     "JP": null,
     "CN": "诚之萤火",
@@ -15670,7 +17042,7 @@
     "CN": "谁杀死了知更鸟",
     "TW": "誰殺死了知更鳥",
     "NA": "Who Killed Cock Robin",
-    "KR": null
+    "KR": "누가 울새를 죽였는가"
   },
   "論理的な悪性": {
     "JP": null,
@@ -15717,9 +17089,9 @@
   "護りの勾玉": {
     "JP": null,
     "CN": "守护的勾玉",
-    "TW": "守護之勾玉",
+    "TW": "守護的勾玉",
     "NA": "Protective Magatama",
-    "KR": null
+    "KR": "수호의 곡옥"
   },
   "護法の末路": {
     "JP": null,
@@ -15755,6 +17127,13 @@
     "TW": "貧者一燈",
     "NA": "Light of the Deprived",
     "KR": "빈자의 등불 하나"
+  },
+  "貴方への祈り": {
+    "JP": null,
+    "CN": "献与你的祈祷",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "貴石の魔弾": {
     "JP": null,
@@ -15838,7 +17217,7 @@
     "CN": "足洗邸中闲暇片刻",
     "TW": "足洗邸中的閒暇片刻",
     "NA": "An Extra Moment at the Foot-Washing Mansion",
-    "KR": null
+    "KR": "아시아라이 저택의 쉬어가는 한때"
   },
   "路傍の夢": {
     "JP": null,
@@ -15882,6 +17261,13 @@
     "NA": "Dazzling Radiance",
     "KR": "눈부시게 빛나는"
   },
+  "輝く石のように": {
+    "JP": null,
+    "CN": "如辉耀之石",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "返礼の品": {
     "JP": null,
     "CN": "回赠之礼",
@@ -15892,9 +17278,9 @@
   "逃避の始まり": {
     "JP": null,
     "CN": "逃避的开端",
-    "TW": "逃避的起點",
+    "TW": "逃避的開端",
     "NA": "The Beginning of an Escape",
-    "KR": null
+    "KR": "도피의 시작"
   },
   "逆堕つ泥雨": {
     "JP": null,
@@ -15931,12 +17317,26 @@
     "NA": "Douman's Talisman",
     "KR": "도만의 부적"
   },
+  "遠い星の私へ": {
+    "JP": null,
+    "CN": "致遥远星球上的我",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "遮那王流離譚": {
     "JP": null,
     "CN": "遮那王流离谭",
     "TW": "遮那王流離譚",
     "NA": "The Wandering Tales of Shana-oh",
     "KR": "자나왕 유랑담"
+  },
+  "選ばれし者": {
+    "JP": null,
+    "CN": "受遴选者",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "選定のモップ": {
     "JP": null,
@@ -16034,7 +17434,7 @@
     "CN": "矿石科的君主",
     "TW": "礦石科的君主",
     "NA": "Lord of the Department of Mineralogy",
-    "KR": null
+    "KR": "광석과의 군주"
   },
   "銀花の白き姫": {
     "JP": null,
@@ -16060,9 +17460,9 @@
   "銃と蛍とチョコレート": {
     "JP": null,
     "CN": "铳与萤与巧克力",
-    "TW": "銃與螢與巧克力",
-    "NA": "Rifle and Firefly Chocolate",
-    "KR": null
+    "TW": "槍與螢與巧克力",
+    "NA": "Rifle, Fireflies, and Chocolate",
+    "KR": "총과 반딧불과 초콜릿"
   },
   "銃を拝見": {
     "JP": null,
@@ -16132,7 +17532,7 @@
     "CN": "开拓之鬼",
     "TW": "開拓之鬼",
     "NA": "Pioneering Onis",
-    "KR": null
+    "KR": "개척의 오니"
   },
   "閑話休怠": {
     "JP": null,
@@ -16256,7 +17656,7 @@
   "雷神の舞": {
     "JP": null,
     "CN": "雷神之舞",
-    "TW": null,
+    "TW": "雷神之舞",
     "NA": "Dance of the Thunder God",
     "KR": null
   },
@@ -16326,9 +17726,9 @@
   "霧の情景": {
     "JP": null,
     "CN": "雾中情景",
-    "TW": "霧之情景",
-    "NA": "Foggy Scene",
-    "KR": null
+    "TW": "霧中情景",
+    "NA": "Misty Scene",
+    "KR": "안개의 정경"
   },
   "霧夜の倫敦": {
     "JP": null,
@@ -16336,6 +17736,13 @@
     "TW": "霧夜倫敦",
     "NA": "A Misty Night in London",
     "KR": "안개 낀 밤의 런던"
+  },
+  "青い帯留め": {
+    "JP": null,
+    "CN": "蓝色的带扣",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "青い鳥のようなマウス": {
     "JP": null,
@@ -16428,6 +17835,13 @@
     "NA": "May the Stars Align",
     "KR": "소원이여, 별을 이어라"
   },
+  "願い事": {
+    "JP": null,
+    "CN": "愿望",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "願望の器": {
     "JP": null,
     "CN": "愿望之容器",
@@ -16469,6 +17883,13 @@
     "TW": "斬首兔女郎2016",
     "NA": "Decapitating Bunny 2018",
     "KR": "참수 버니 2018"
+  },
+  "騎兵の頂に立つもの": {
+    "JP": null,
+    "CN": "立于骑兵之巅者",
+    "TW": "立於騎兵之巔者",
+    "NA": "The One Who Stands at the Summit of Riders",
+    "KR": null
   },
   "騎士として": {
     "JP": null,
@@ -16582,6 +18003,13 @@
     "NA": "Gaze Upon Dún Scáith",
     "KR": "마경에 임하여"
   },
+  "魔女の憩い場": {
+    "JP": null,
+    "CN": "魔女歇息之处",
+    "TW": "魔女歇息之處",
+    "NA": "A Witch's Relaxation Spot",
+    "KR": null
+  },
   "魔導書": {
     "JP": null,
     "CN": "魔导书",
@@ -16614,7 +18042,14 @@
     "JP": null,
     "CN": "魔术修养",
     "TW": "魔術修養",
-    "NA": "Etiquette of Thaumaturgy",
+    "NA": "Dabbling in Magecraft",
+    "KR": "마술의 소양"
+  },
+  "魔術師の頂に立つもの": {
+    "JP": null,
+    "CN": "立于魔术师之巅者",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "魔術師殺しの武器": {
@@ -16637,6 +18072,13 @@
     "TW": "魔導元帥",
     "NA": "Great Marshal of Magic",
     "KR": "마도원수"
+  },
+  "鶴とココアと雛ぬいと": {
+    "JP": null,
+    "CN": "鹤与可可与雏玩偶与",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "鶴とショコラと温もりと": {
     "JP": null,
@@ -16680,6 +18122,13 @@
     "NA": "Yellow Turban",
     "KR": "황건"
   },
+  "黄巾の庭師": {
+    "JP": null,
+    "CN": "黄巾园丁",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "黄昏の王聖": {
     "JP": null,
     "CN": "黄昏的王圣",
@@ -16690,9 +18139,9 @@
   "黄昏の風に吹かれて": {
     "JP": null,
     "CN": "在黄昏之风的吹拂下",
-    "TW": "吹著黃昏的風",
+    "TW": "在黃昏之風的吹拂下",
     "NA": "Blowin' in the Twilight Wind",
-    "KR": null
+    "KR": "황혼의 바람을 맞으며"
   },
   "黄泉より出づる讐い": {
     "JP": null,
@@ -16764,12 +18213,19 @@
     "NA": "The Golden Tree's Lineage",
     "KR": "황금수의 계보"
   },
+  "黎明": {
+    "JP": null,
+    "CN": "Dawn",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "黒き刃": {
     "JP": null,
     "CN": "黑刃",
     "TW": "黑刃",
-    "NA": "Black Blades",
-    "KR": null
+    "NA": "Black Blade",
+    "KR": "검은 칼"
   },
   "黒き勾玉": {
     "JP": null,
@@ -16796,15 +18252,15 @@
     "JP": null,
     "CN": "黑脂的暗沼",
     "TW": "黑脂的暗沼",
-    "NA": "Dark Marsh of Black Grease",
-    "KR": null
+    "NA": "Slimy Black Bog",
+    "KR": "흑지의 암소"
   },
   "黒鎧面頬": {
     "JP": null,
     "CN": "黑铠面甲",
-    "TW": "黑鎧面具",
-    "NA": "Black Armor's Visor",
-    "KR": null
+    "TW": "黑鎧面甲",
+    "NA": "Black Armor Visor",
+    "KR": "검은 갑옷 가면"
   },
   "黒騎士くん": {
     "JP": null,
@@ -16858,23 +18314,23 @@
   "ＢＦＦロックチョコ": {
     "JP": null,
     "CN": "ＢＦＦ岩石巧克力",
-    "TW": "BFF岩塊巧克力",
-    "NA": "BFF Choco Rocks",
-    "KR": null
+    "TW": "BFF岩石巧克力",
+    "NA": "BFF Rock Chocolates",
+    "KR": "BFF 록 초코"
   },
   "ＢＲＤ": {
     "JP": null,
     "CN": "BRD",
     "TW": "BRD",
     "NA": "BRD",
-    "KR": null
+    "KR": "BRD"
   },
   "ＮＦＦから愛をこめて": {
     "JP": null,
     "CN": "来自ＮＦＦ的爱",
-    "TW": "來自NFF所傾注的愛意",
+    "TW": "來自NFF的愛",
     "NA": "From NFF with Love",
-    "KR": null
+    "KR": "NFF에서 사랑을 담아"
   },
   "ＮＦＦエクストラ": {
     "JP": null,
@@ -16931,1461 +18387,5 @@
     "TW": "～崔斯坦精選集～",
     "NA": "Tristan's Greatest Hits",
     "KR": "~베스트 오브 트리스탄~"
-  },
-  "あれ？　もしかして": {
-    "JP": null,
-    "CN": "哎呀？　难道说",
-    "TW": "哎呀？ 難道說",
-    "NA": "Woah, No Way",
-    "KR": null
-  },
-  "アズ・ア・ダッド": {
-    "JP": null,
-    "CN": "如父",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エンプレス・クエスト": {
-    "JP": null,
-    "CN": "女帝的探索",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サマー・インフェルノ": {
-    "JP": null,
-    "CN": "炼狱之夏",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サン・ボート": {
-    "JP": null,
-    "CN": "太阳小舟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ストーミー・ナイト": {
-    "JP": null,
-    "CN": "风暴之夜",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "トライ・ザ・パンチ": {
-    "JP": null,
-    "CN": "Try the Punch",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ベジチャウミン": {
-    "JP": null,
-    "CN": "素杂菜炒面",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "百の輝き": {
-    "JP": null,
-    "CN": "百种光辉",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "眠れる森の戦士": {
-    "JP": null,
-    "CN": "沉眠的森之战士",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "素敵な贈り物（サメ）": {
-    "JP": null,
-    "CN": "很棒的礼物（鲨鱼）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "境界ネコ帽子": {
-    "JP": null,
-    "CN": "境界猫帽子",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "夏の名残に、祈りを編む": {
-    "JP": null,
-    "CN": "在夏天的余韵里，编织祈愿",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "汐彩・リフレイン": {
-    "JP": null,
-    "CN": "汐彩·Refrain",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "渚と青春の幻影": {
-    "JP": null,
-    "CN": "海滨与青春的幻影",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アストライア": {
-    "JP": null,
-    "CN": "英灵星行：阿斯特赖亚",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アルジュナ": {
-    "JP": null,
-    "CN": "英灵星行：阿周那",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：グレイ": {
-    "JP": null,
-    "CN": "英灵星行：格蕾",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ナイチンゲール": {
-    "JP": null,
-    "CN": "英灵星行：南丁格尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：バーヴァン・シー": {
-    "JP": null,
-    "CN": "英灵星行：芭万·希",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：パーシヴァル": {
-    "JP": null,
-    "CN": "英灵星行：珀西瓦尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ブリトマート": {
-    "JP": null,
-    "CN": "英灵星行：布里托玛特",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：モードレッド": {
-    "JP": null,
-    "CN": "英灵星行：莫德雷德",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ロクスタ": {
-    "JP": null,
-    "CN": "英灵星行：洛库斯塔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ヴリトラ": {
-    "JP": null,
-    "CN": "英灵星行：弗栗多",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：千利休": {
-    "JP": null,
-    "CN": "英灵星行：千利休",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：岡田以蔵": {
-    "JP": null,
-    "CN": "英灵星行：冈田以藏",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：森長可": {
-    "JP": null,
-    "CN": "英灵星行：森长可",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：茨木童子": {
-    "JP": null,
-    "CN": "英灵星行：茨木童子",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：赤兎馬": {
-    "JP": null,
-    "CN": "英灵星行：赤兔马",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：酒呑童子": {
-    "JP": null,
-    "CN": "英灵星行：酒吞童子",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "異星の神": {
-    "JP": null,
-    "CN": "异星之神",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クイーンズ・ボヤージュ": {
-    "JP": null,
-    "CN": "女王的出航",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ビヨンド・ザ・フラッド": {
-    "JP": null,
-    "CN": "洪水之上",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "地に満ちよ": {
-    "JP": null,
-    "CN": "遍满大地",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "魔女の憩い場": {
-    "JP": null,
-    "CN": "魔女歇息之处",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "騎兵の頂に立つもの": {
-    "JP": null,
-    "CN": "立于骑兵之巅者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アルテラ": {
-    "JP": null,
-    "CN": "英灵星行：阿蒂拉",
-    "TW": null,
-    "NA": "Heroic Spirit Stellar Journey: Altera",
-    "KR": null
-  },
-  "英霊星行：アルトリア・ペンドラゴン": {
-    "JP": null,
-    "CN": "英灵星行：阿尔托莉雅·潘德拉贡",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ククルカン": {
-    "JP": null,
-    "CN": "英灵星行：库库尔坎",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ケツァル・コアトル": {
-    "JP": null,
-    "CN": "英灵星行：魁札尔·科亚特尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：コロンブス": {
-    "JP": null,
-    "CN": "英灵星行：哥伦布",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：テュフォン・エフェメロス": {
-    "JP": null,
-    "CN": "英灵星行：堤丰·厄斐墨洛斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：フランケンシュタイン": {
-    "JP": null,
-    "CN": "英灵星行：弗兰肯斯坦",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ポール・バニヤン": {
-    "JP": null,
-    "CN": "英灵星行：保罗·班扬",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：メリュジーヌ": {
-    "JP": null,
-    "CN": "英灵星行：梅柳齐娜",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ヤマトタケル": {
-    "JP": null,
-    "CN": "英灵星行：大和武尊",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ランスロット": {
-    "JP": null,
-    "CN": "英灵星行：兰斯洛特",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ラーマ": {
-    "JP": null,
-    "CN": "英灵星行：罗摩",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：レオナルド・ダ・ヴィンチ": {
-    "JP": null,
-    "CN": "英灵星行：莱昂纳多·达·芬奇",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：宇津見エリセ": {
-    "JP": null,
-    "CN": "英灵星行：宇津见绘里濑",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：蘆屋道満": {
-    "JP": null,
-    "CN": "英灵星行：芦屋道满",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：謎のヒロインX": {
-    "JP": null,
-    "CN": "英灵星行：谜之女主角X",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "からくり義肢": {
-    "JP": null,
-    "CN": "机关义肢",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ぐだぐだ新選組": {
-    "JP": null,
-    "CN": "唠唠叨叨新选组",
-    "TW": null,
-    "NA": "Gudaguda Shinsegumi",
-    "KR": null
-  },
-  "ただの握り飯": {
-    "JP": null,
-    "CN": "只不过是饭团",
-    "TW": null,
-    "NA": "Just Your Everyday Rice Ball",
-    "KR": null
-  },
-  "デュアル・バーニング": {
-    "JP": null,
-    "CN": "双重燎灼",
-    "TW": null,
-    "NA": "Dual Burning",
-    "KR": null
-  },
-  "京乱怒濤": {
-    "JP": null,
-    "CN": "京乱怒涛",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "大陸の風": {
-    "JP": null,
-    "CN": "大陆的风",
-    "TW": null,
-    "NA": "Mainland Breeze",
-    "KR": null
-  },
-  "概念礼装EXPカード：もぐもぐ彦斎": {
-    "JP": null,
-    "CN": "概念礼装EXP卡：啊呜啊呜彦斋",
-    "TW": null,
-    "NA": "CE EXP Card: Munching Gensai",
-    "KR": null
-  },
-  "概念礼装EXPカード：死に損ねの赤狼": {
-    "JP": null,
-    "CN": "概念礼装EXP卡：死不了的赤狼",
-    "TW": null,
-    "NA": "CE EXP Card: The Would-Be Dead Red Wolf",
-    "KR": null
-  },
-  "蛍の夜に": {
-    "JP": null,
-    "CN": "于萤火之夜",
-    "TW": null,
-    "NA": "On a Night of Fireflies",
-    "KR": null
-  },
-  "誠の旗": {
-    "JP": null,
-    "CN": "诚之旗",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ハンティング": {
-    "JP": null,
-    "CN": "狩猎",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "戦場の中へ": {
-    "JP": null,
-    "CN": "往战场之中",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "花散るとき": {
-    "JP": null,
-    "CN": "花落之时",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "暗殺者の頂に立つもの": {
-    "JP": null,
-    "CN": "立于暗杀者之巅者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アンダー・スラム": {
-    "JP": null,
-    "CN": "地下贫民窟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カ星を救いし槍": {
-    "JP": null,
-    "CN": "拯救瓜星之枪",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スペース・ミストレス": {
-    "JP": null,
-    "CN": "太空女主人",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "マーズ・シューティング": {
-    "JP": null,
-    "CN": "火星射击",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "遠い星の私へ": {
-    "JP": null,
-    "CN": "致遥远星球上的我",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "恐るべき教団マニュアル": {
-    "JP": null,
-    "CN": "令人畏惧的教团手册",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アステリオス": {
-    "JP": null,
-    "CN": "英灵星行：阿斯忒里俄斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アナスタシア": {
-    "JP": null,
-    "CN": "英灵星行：阿纳斯塔西娅",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：エウリュアレ": {
-    "JP": null,
-    "CN": "英灵星行：尤瑞艾莉",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：シャルロット・コルデー": {
-    "JP": null,
-    "CN": "英灵星行：夏绿蒂·科黛",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：シャーロック・ホームズ": {
-    "JP": null,
-    "CN": "英灵星行：夏洛克·福尔摩斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ジェームズ・モリアーティ": {
-    "JP": null,
-    "CN": "英灵星行：詹姆斯·莫里亚蒂",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ドブルイニャ・ニキチッチ": {
-    "JP": null,
-    "CN": "英灵星行：多布雷尼亚·尼基季奇",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ビショーネ": {
-    "JP": null,
-    "CN": "英灵星行：比肖内",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ブラダマンテ": {
-    "JP": null,
-    "CN": "英灵星行：布拉达曼特",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ロウヒ": {
-    "JP": null,
-    "CN": "英灵星行：娄希",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：土方歳三": {
-    "JP": null,
-    "CN": "英灵星行：土方岁三",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：女教皇ヨハンナ": {
-    "JP": null,
-    "CN": "英灵星行：女教皇若安",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：近藤勇": {
-    "JP": null,
-    "CN": "英灵星行：近藤勇",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：鈴鹿御前": {
-    "JP": null,
-    "CN": "英灵星行：铃鹿御前",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "巡霊の祝祭／拾肆": {
-    "JP": null,
-    "CN": "巡灵的祝祭／拾肆",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "弓兵の頂に立つもの": {
-    "JP": null,
-    "CN": "立于弓兵之巅者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "8th Anniversary": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アビゲイル・ウィリアムズ": {
-    "JP": null,
-    "CN": "英灵星行：阿比盖尔·威廉姆斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：アンドロメダ": {
-    "JP": null,
-    "CN": "英灵星行：安德洛墨达",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：イシュタル": {
-    "JP": null,
-    "CN": "英灵星行：伊什塔尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：イリヤスフィール": {
-    "JP": null,
-    "CN": "英灵星行：伊莉雅丝菲尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：エレシュキガル": {
-    "JP": null,
-    "CN": "英灵星行：埃列什基伽勒",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：クリームヒルト": {
-    "JP": null,
-    "CN": "英灵星行：克里姆希尔德",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ジークフリート": {
-    "JP": null,
-    "CN": "英灵星行：齐格飞",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ダンテ・アリギエーリ": {
-    "JP": null,
-    "CN": "英灵星行：但丁·阿利吉耶里",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ハベトロット": {
-    "JP": null,
-    "CN": "英灵星行：哈贝特洛特",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：ミス・クレーン": {
-    "JP": null,
-    "CN": "英灵星行：克莱恩小姐",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：リリス": {
-    "JP": null,
-    "CN": "英灵星行：莉莉丝",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：卑弥呼": {
-    "JP": null,
-    "CN": "英灵星行：卑弥呼",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：宮本武蔵": {
-    "JP": null,
-    "CN": "英灵星行：宫本武藏",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊星行：柳生但馬守宗矩": {
-    "JP": null,
-    "CN": "英灵星行：柳生但马守宗矩",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアの者": {
-    "JP": null,
-    "CN": "迦勒底之人",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "王に還る偉業": {
-    "JP": null,
-    "CN": "归还于王的伟业",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "魔術師の頂に立つもの": {
-    "JP": null,
-    "CN": "立于魔术师之巅者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：アルトリア・ペンドラゴン": {
-    "JP": null,
-    "CN": "英灵极点：阿尔托莉雅·潘德拉贡",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：オリオン": {
-    "JP": null,
-    "CN": "英灵极点：俄里翁",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：カーマ": {
-    "JP": null,
-    "CN": "英灵极点：迦摩",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：ギルガメッシュ": {
-    "JP": null,
-    "CN": "英灵极点：吉尔伽美什",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：シグルド": {
-    "JP": null,
-    "CN": "英灵极点：齐格鲁德",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：ジャンヌ・ダルク": {
-    "JP": null,
-    "CN": "英灵极点：贞德",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：スカサハ＝スカディ": {
-    "JP": null,
-    "CN": "英灵极点：斯卡哈·斯卡蒂",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：スペース・イシュタル": {
-    "JP": null,
-    "CN": "英灵极点：太空伊什塔尔",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：ネモ": {
-    "JP": null,
-    "CN": "英灵极点：尼莫",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：マシュ・キリエライト": {
-    "JP": null,
-    "CN": "英灵极点：玛修·基列莱特",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：メリュジーヌ": {
-    "JP": null,
-    "CN": "英灵极点：梅柳齐娜",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：モルガン": {
-    "JP": null,
-    "CN": "英灵极点：摩根",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：レオナルド・ダ・ヴィンチ": {
-    "JP": null,
-    "CN": "英灵极点：莱昂纳多·达·芬奇",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：レディ・アヴァロン": {
-    "JP": null,
-    "CN": "英灵极点：阿瓦隆女士",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：ロムルス＝クィリヌス": {
-    "JP": null,
-    "CN": "英灵极点：罗穆路斯·奎里努斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：坂田金時": {
-    "JP": null,
-    "CN": "英灵极点：坂田金时",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：巴御前": {
-    "JP": null,
-    "CN": "英灵极点：巴御前",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：燕青": {
-    "JP": null,
-    "CN": "英灵极点：燕青",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：蘆屋道満": {
-    "JP": null,
-    "CN": "英灵极点：芦屋道满",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：闇のコヤンスカヤ": {
-    "JP": null,
-    "CN": "英灵极点：暗之高扬斯卡娅",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "英霊極点：ＢＢ": {
-    "JP": null,
-    "CN": "英灵极点：BB",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "約束の未来へ": {
-    "JP": null,
-    "CN": "向着约定的未来",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アトラスの守り": {
-    "JP": null,
-    "CN": "阿特拉斯的护佑",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファーストミッション当日": {
-    "JP": null,
-    "CN": "第一次任务当天",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ヴィジター": {
-    "JP": null,
-    "CN": "访问者",
-    "TW": "來訪者",
-    "NA": "Visitor",
-    "KR": "비지터"
-  },
-  "優駿": {
-    "JP": null,
-    "CN": "良驹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "刻の終わり": {
-    "JP": null,
-    "CN": "时间的终点",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "概念礼装EXPカード：わたしの小さなウマ": {
-    "JP": null,
-    "CN": "概念礼装EXP卡：我的小马",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "願い事": {
-    "JP": null,
-    "CN": "愿望",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "黎明": {
-    "JP": null,
-    "CN": "黎明",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サテライトステーション26": {
-    "JP": null,
-    "CN": "卫星基站26",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "三井の晩鐘": {
-    "JP": null,
-    "CN": "三井的晚钟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "女神に捧ぐ花": {
-    "JP": null,
-    "CN": "献给女神的花",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "戯れの蕾": {
-    "JP": null,
-    "CN": "嬉戏之蕾",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "春の西風": {
-    "JP": null,
-    "CN": "春日的西风",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "桜色の風景": {
-    "JP": null,
-    "CN": "樱色的风景",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "梳り櫛": {
-    "JP": null,
-    "CN": "梳发栉",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "黄巾の庭師": {
-    "JP": null,
-    "CN": "黄巾园丁",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "名も無き兵士": {
-    "JP": null,
-    "CN": "无名士兵",
-    "TW": "無名的士兵",
-    "NA": "The Nameless Soldier",
-    "KR": null
-  },
-  "Breaching": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Studio Legale G": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ごく普通のカレー": {
-    "JP": null,
-    "CN": "再普通不过的咖喱",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "なだめの香り": {
-    "JP": null,
-    "CN": "抚慰之香",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "にゃんにゃんチョコ（仮）": {
-    "JP": null,
-    "CN": "喵喵巧克力（暂定）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アップルリップ・アイランド": {
-    "JP": null,
-    "CN": "Applelip AILand",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アナザースペース・アナザーディメンジョン": {
-    "JP": null,
-    "CN": "异空间·异次元",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アンブロシア結晶": {
-    "JP": null,
-    "CN": "仙馔结晶",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "イノセント・ダーク": {
-    "JP": null,
-    "CN": "纯洁之暗",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア・ホームスイートホーム": {
-    "JP": null,
-    "CN": "迦勒底甜蜜归宿",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "キングエリザチョコ": {
-    "JP": null,
-    "CN": "王者伊丽莎巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "グランドセイバーチョコ": {
-    "JP": null,
-    "CN": "Grand Saber巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "グランド・ギャザリング": {
-    "JP": null,
-    "CN": "冠位酒会",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サイン・オブ・スプリング": {
-    "JP": null,
-    "CN": "春日讯号",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "シャークチェス・チョコ": {
-    "JP": null,
-    "CN": "国际鲨棋巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スカイドーム": {
-    "JP": null,
-    "CN": "天空球",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スノー・ハート": {
-    "JP": null,
-    "CN": "白雪之心",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ダブル・スイート": {
-    "JP": null,
-    "CN": "双重甜蜜",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "チョコチップメロンパン": {
-    "JP": null,
-    "CN": "巧克力豆蜜瓜面包",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "チョコレートの花園": {
-    "JP": null,
-    "CN": "巧克力花园",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "トラジェクトリー・オブ・フェイト": {
-    "JP": null,
-    "CN": "命运轨迹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "トリニティ・メタトロンチョコ": {
-    "JP": null,
-    "CN": "三位一体·梅塔特隆巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ドラバス～10th記念ライブ～": {
-    "JP": null,
-    "CN": "DRBUS～10th纪念演唱会～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バレンタイン・ランチ": {
-    "JP": null,
-    "CN": "情人节午餐",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイナルハロウィン・スペシャルチョコ": {
-    "JP": null,
-    "CN": "万圣节终章特制巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイブ・ラウンズ": {
-    "JP": null,
-    "CN": "圆桌五人",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フェアリー・ファーム": {
-    "JP": null,
-    "CN": "妖精农场",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フフ……栄光と勝利の月桂冠": {
-    "JP": null,
-    "CN": "呵呵……荣光与胜利的月桂冠",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "プレゼント・フォー・ユー": {
-    "JP": null,
-    "CN": "为你挑选的礼物",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ライト・オブ・ナイト": {
-    "JP": null,
-    "CN": "夜骑之灯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "五宝月団子": {
-    "JP": null,
-    "CN": "五宝月团子",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "呼延灼アイランドチョコ": {
-    "JP": null,
-    "CN": "呼延灼爱之乐园巧克力",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "大陸の絹織物": {
-    "JP": null,
-    "CN": "大陆的丝绢",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "妖精イリヤチョコ（4/7スケール）": {
-    "JP": null,
-    "CN": "妖精伊莉雅巧克力（4/7比例）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "我に来たれ、貴き君よ": {
-    "JP": null,
-    "CN": "到我这边来吧，尊贵的阁下",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "所長のお気に入り": {
-    "JP": null,
-    "CN": "所长严选",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "本日の紅茶": {
-    "JP": null,
-    "CN": "今天的红茶",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "毛皮の肩掛け": {
-    "JP": null,
-    "CN": "毛皮披肩",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "磨崖碑文": {
-    "JP": null,
-    "CN": "摩崖碑文",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "翠嶺の息吹": {
-    "JP": null,
-    "CN": "翠岭风息",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "花咲かじいさんの縁側": {
-    "JP": null,
-    "CN": "开花爷爷的檐下",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "記憶の大図書館": {
-    "JP": null,
-    "CN": "记忆的大图书馆",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "青い帯留め": {
-    "JP": null,
-    "CN": "蓝色的带扣",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "鶴とココアと雛ぬいと": {
-    "JP": null,
-    "CN": "鹤与可可与雏玩偶与",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "春の園へ": {
-    "JP": null,
-    "CN": "前往春日之园",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "月海原生徒会の会計": {
-    "JP": null,
-    "CN": "月海原学生会的会计",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "裏庭の厨房": {
-    "JP": null,
-    "CN": "后院的厨房",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "選ばれし者": {
-    "JP": null,
-    "CN": "受遴选者",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "もてなしの流儀": {
-    "JP": null,
-    "CN": "款待的定式",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アライアンス": {
-    "JP": null,
-    "CN": "同盟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "月とラブリュス": {
-    "JP": null,
-    "CN": "月与拉布吕斯",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "概念礼装EXPカード：ロックにキメてこうぜ！": {
-    "JP": null,
-    "CN": "概念礼装EXP卡：来场像样的摇滚吧！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "白紙の経典（奇の章）": {
-    "JP": null,
-    "CN": "白纸经典（奇之章）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "花霞": {
-    "JP": null,
-    "CN": "花霞",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "輝く石のように": {
-    "JP": null,
-    "CN": "如辉耀之石",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "死因に非ず": {
-    "JP": null,
-    "CN": "非此死因",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "繁中版9週年紀念": {
-    "JP": null,
-    "CN": "9th Anniversary of the Traditional Chinese Version",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "惨禍の萌芽": {
-    "JP": null,
-    "CN": "惨祸的萌芽",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "未だ見ぬ勝利": {
-    "JP": null,
-    "CN": "尚未得见的胜利",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "流転の剣聖": {
-    "JP": null,
-    "CN": "流转的剑圣",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "苦い記憶": {
-    "JP": null,
-    "CN": "苦涩的记忆",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "貴方への祈り": {
-    "JP": null,
-    "CN": "献与你的祈祷",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

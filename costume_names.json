@@ -48,6 +48,13 @@
     "NA": "Awesome Dapper Suit",
     "KR": "허벌나게 멋진 슈트"
   },
+  "お忍びサングラス": {
+    "JP": null,
+    "CN": "简易灵衣：隐身的太阳眼镜",
+    "TW": "隱藏墨鏡",
+    "NA": "Incognito Glasses",
+    "KR": null
+  },
   "それってとってもマハトマね☆": {
     "JP": null,
     "CN": "那真是非常伟大灵魂呢☆",
@@ -114,9 +121,9 @@
   "イノセントフラワー": {
     "JP": null,
     "CN": "纯真之花",
-    "TW": "無瑕之花",
+    "TW": "純真之花",
     "NA": "Innocent Flower",
-    "KR": null
+    "KR": "이노센트 플라워"
   },
   "イプシロン": {
     "JP": null,
@@ -170,16 +177,16 @@
   "オープン・サマー": {
     "JP": null,
     "CN": "开放夏日",
-    "TW": "開啟夏日",
+    "TW": "開放夏日",
     "NA": "Open Summer",
-    "KR": null
+    "KR": "오픈 서머"
   },
   "カルナ・夏コーデ": {
     "JP": null,
     "CN": "迦尔纳·夏日搭配",
-    "TW": "迦爾納・夏日著裝",
+    "TW": "迦爾納．夏日搭配",
     "NA": "Karna's Summer Outfit",
-    "KR": null
+    "KR": "카르나 여름 코디"
   },
   "グラスレス（第一再臨）": {
     "JP": null,
@@ -258,12 +265,19 @@
     "NA": "Stylish Top Rim",
     "KR": "스타일리시 탑 림"
   },
+  "ストレンジドレス": {
+    "JP": null,
+    "CN": "奇异裙装",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "スマイリー・サマーウェア": {
     "JP": null,
     "CN": "微笑夏装",
     "TW": "微笑夏裝",
     "NA": "Smiley Summer Wear",
-    "KR": null
+    "KR": "스마일리 서머 웨어"
   },
   "スーパー・クールビズ": {
     "JP": null,
@@ -297,8 +311,8 @@
     "JP": null,
     "CN": "变装戏服",
     "TW": "變裝戲服",
-    "NA": "Disguise Costume",
-    "KR": null
+    "NA": "Disguise",
+    "KR": "디스가이즈 코스튬"
   },
   "デビルカレン": {
     "JP": null,
@@ -327,6 +341,13 @@
     "TW": "特拉特拉烏基的守衛",
     "NA": "Tlatlauhqui's Guard",
     "KR": "틀라틀라우키의 파수꾼"
+  },
+  "トロピカル・ルーンサマー": {
+    "JP": null,
+    "CN": "热带卢恩夏日",
+    "TW": "熱帶盧恩夏日",
+    "NA": "Tropical Rune Summer",
+    "KR": null
   },
   "ニンキガル": {
     "JP": null,
@@ -382,6 +403,13 @@
     "CN": "缪瑞恩",
     "TW": "姆莉安",
     "NA": "Murian",
+    "KR": "무리안"
+  },
+  "メイク無し（第一再臨）": {
+    "JP": null,
+    "CN": "素颜（第一再临）",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "メガネあり（第三再臨）": {
@@ -401,9 +429,9 @@
   "メガネオフモード": {
     "JP": null,
     "CN": "无眼镜模式",
-    "TW": "眼鏡摘除模式",
+    "TW": "無眼鏡模式",
     "NA": "Glasses-Off Mode",
-    "KR": null
+    "KR": "안경 오프 모드"
   },
   "メガネ霊衣：Camelot & Coモデルフレーム": {
     "JP": null,
@@ -538,6 +566,13 @@
     "NA": "Red Saber",
     "KR": "레드 세이버"
   },
+  "ワイルド・ガンマン": {
+    "JP": null,
+    "CN": "野性枪手",
+    "TW": "野性槍手",
+    "NA": "Wild Gunman",
+    "KR": null
+  },
   "ワンジナ・アイ": {
     "JP": null,
     "CN": "旺吉娜之眼",
@@ -555,7 +590,7 @@
   "ヴリトラ・トリシラス": {
     "JP": null,
     "CN": "弗栗多·三头者",
-    "TW": null,
+    "TW": "弗栗多·三頭者",
     "NA": "Vritra Trishira",
     "KR": null
   },
@@ -570,8 +605,8 @@
     "JP": null,
     "CN": "乙姬清姬",
     "TW": "乙姬清姬",
-    "NA": "Kiyohime the Otohime",
-    "KR": null
+    "NA": "Otohime Kiyohime",
+    "KR": "오토히메 키요히메"
   },
   "修練着（現代Ver.）": {
     "JP": null,
@@ -593,6 +628,13 @@
     "TW": "穿刺兔女郎",
     "NA": "Piercing Bunny",
     "KR": "꿰뚫는 버니"
+  },
+  "地球大統領": {
+    "JP": null,
+    "CN": "地球大统领",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "夏の御曹司": {
     "JP": null,
@@ -620,7 +662,7 @@
     "CN": "夏日骑士装束",
     "TW": "夏日騎士裝束",
     "NA": "Summer Knight Outfit",
-    "KR": null
+    "KR": "여름의 기사 복장"
   },
   "夏休み満喫用忍び装束": {
     "JP": null,
@@ -795,7 +837,7 @@
     "CN": "诀别的气球灯",
     "TW": "決別的氣球燈",
     "NA": "Balloon Light of Parting",
-    "KR": null
+    "KR": "결별의 벌룬 라이트"
   },
   "浅葱の羽織袴": {
     "JP": null,
@@ -803,6 +845,13 @@
     "TW": "淺蔥色羽織袴",
     "NA": "Teal Haori and Hakama",
     "KR": "옥색의 하오리 하카마"
+  },
+  "渚のヘラヘラ男": {
+    "JP": null,
+    "CN": "海边的轻浮男",
+    "TW": "海邊的輕浮男",
+    "NA": "The Grinning Man of the Beach",
+    "KR": null
   },
   "漆黒の騎士王ver新宿1999": {
     "JP": null,
@@ -846,6 +895,13 @@
     "NA": "Student Council President Arjuna (Glasses)",
     "KR": "학생회장 아르주나(안경)"
   },
+  "白の虎徹": {
+    "JP": null,
+    "CN": "白之虎彻",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "盛夏の紳士": {
     "JP": null,
     "CN": "盛夏的绅士",
@@ -859,6 +915,20 @@
     "TW": "笑容 glory day",
     "NA": "Smiling Glory Day",
     "KR": "웃는 얼굴 glory day"
+  },
+  "笠無し彦斎": {
+    "JP": null,
+    "CN": "无笠彦斋",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "簡易霊衣：お忍びサングラス": {
+    "JP": null,
+    "CN": "简易灵衣：隐身的太阳眼镜",
+    "TW": "簡易靈衣：隱藏墨鏡",
+    "NA": null,
+    "KR": null
   },
   "簡易霊衣：アイギス（第三再臨）": {
     "JP": null,
@@ -898,9 +968,9 @@
   "簡易霊衣：イノセントフラワー": {
     "JP": null,
     "CN": "简易灵衣：纯真之花",
-    "TW": "簡易靈衣：無瑕之花",
+    "TW": "簡易靈衣：純真之花",
     "NA": null,
-    "KR": null
+    "KR": "간이영의: 이노센트 플라워"
   },
   "簡易霊衣：イプシロン": {
     "JP": null,
@@ -912,9 +982,9 @@
   "簡易霊衣：オープン・サマー": {
     "JP": null,
     "CN": "简易灵衣：开放夏日",
-    "TW": "簡易靈衣：開啟夏日",
+    "TW": "簡易靈衣：開放夏日",
     "NA": null,
-    "KR": null
+    "KR": "간이영의: 오픈 서머"
   },
   "簡易霊衣：グラスレス（第一再臨）": {
     "JP": null,
@@ -944,6 +1014,13 @@
     "NA": "Simple Spiritron Dress: Jaguar Warrior",
     "KR": "간이영의: 재규어맨"
   },
+  "簡易霊衣：ストレンジドレス": {
+    "JP": null,
+    "CN": "简易灵衣：奇异裙装",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "簡易霊衣：テクニカ・マスカラ": {
     "JP": null,
     "CN": "正派假面",
@@ -970,6 +1047,13 @@
     "CN": "简易灵衣：缪瑞恩",
     "TW": "簡易靈衣：姆莉安",
     "NA": null,
+    "KR": "간이영의: 무리안"
+  },
+  "簡易霊衣：メイク無し（第一再臨）": {
+    "JP": null,
+    "CN": "简易灵衣：素颜（第一再临）",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "簡易霊衣：メガネあり（第三再臨）": {
@@ -989,9 +1073,9 @@
   "簡易霊衣：メガネオフモード": {
     "JP": null,
     "CN": "简易灵衣：无眼镜模式",
-    "TW": "簡易靈衣：眼鏡摘除模式",
+    "TW": "簡易靈衣：無眼鏡模式",
     "NA": null,
-    "KR": null
+    "KR": "간이영의: 안경 오프 모드"
   },
   "簡易霊衣：ルーダ・マスカラ": {
     "JP": null,
@@ -1010,7 +1094,7 @@
   "簡易霊衣：ヴリトラ・トリシラス": {
     "JP": null,
     "CN": "简易灵衣：弗栗多·三头者",
-    "TW": null,
+    "TW": "簡易靈衣：弗栗多·三頭者",
     "NA": null,
     "KR": null
   },
@@ -1020,6 +1104,13 @@
     "TW": "簡易靈衣：冬之女王",
     "NA": "Simple Spiritron Dress: The Winter Queen",
     "KR": "간이영의: 겨울의 여왕"
+  },
+  "簡易霊衣：地球大統領": {
+    "JP": null,
+    "CN": "简易灵衣：地球总统",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "簡易霊衣：大蛇神の分け御霊": {
     "JP": null,
@@ -1082,7 +1173,7 @@
     "CN": "简易灵衣：诀别的气球灯",
     "TW": "簡易靈衣：訣別的氣球燈",
     "NA": null,
-    "KR": null
+    "KR": "간이영의: 결별의 벌룬 라이트"
   },
   "簡易霊衣：浅葱の羽織袴": {
     "JP": null,
@@ -1097,6 +1188,20 @@
     "TW": "簡易靈衣：煉獄Alter",
     "NA": "Simple Spiritron Dress: Rengoku Alter",
     "KR": "간이영의: 연옥 얼터"
+  },
+  "簡易霊衣：白の虎徹": {
+    "JP": null,
+    "CN": "简易灵衣：白之虎彻",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "簡易霊衣：笠無し彦斎": {
+    "JP": null,
+    "CN": "简易灵衣：无笠彦斋",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "簡易霊衣：荒ぶる真夏の女神": {
     "JP": null,
@@ -1279,110 +1384,5 @@
     "TW": "NFF兔女郎",
     "NA": "NFF Bunny",
     "KR": "NFF 버니"
-  },
-  "トロピカル・ルーンサマー": {
-    "JP": null,
-    "CN": "热带卢恩夏日",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ワイルド・ガンマン": {
-    "JP": null,
-    "CN": "野性枪手",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "渚のヘラヘラ男": {
-    "JP": null,
-    "CN": "海边的轻浮男",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "お忍びサングラス": {
-    "JP": null,
-    "CN": "简易灵衣：隐身的太阳眼镜",
-    "TW": "隱藏墨鏡",
-    "NA": "Incognito Glasses",
-    "KR": null
-  },
-  "簡易霊衣：お忍びサングラス": {
-    "JP": null,
-    "CN": "简易灵衣：隐身的太阳眼镜",
-    "TW": "簡易靈衣：隱藏墨鏡",
-    "NA": null,
-    "KR": null
-  },
-  "白の虎徹": {
-    "JP": null,
-    "CN": "白之虎彻",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "笠無し彦斎": {
-    "JP": null,
-    "CN": "无笠彦斋",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "簡易霊衣：白の虎徹": {
-    "JP": null,
-    "CN": "简易灵衣：白之虎彻",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "簡易霊衣：笠無し彦斎": {
-    "JP": null,
-    "CN": "简易灵衣：无笠彦斋",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "メイク無し（第一再臨）": {
-    "JP": null,
-    "CN": "素颜（第一再临）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "簡易霊衣：メイク無し（第一再臨）": {
-    "JP": null,
-    "CN": "简易灵衣：素颜（第一再临）",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "地球大統領": {
-    "JP": null,
-    "CN": "地球大统领",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "簡易霊衣：地球大統領": {
-    "JP": null,
-    "CN": "简易灵衣：地球总统",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ストレンジドレス": {
-    "JP": null,
-    "CN": "奇异裙装",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "簡易霊衣：ストレンジドレス": {
-    "JP": null,
-    "CN": "简易灵衣：奇异裙装",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

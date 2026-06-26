@@ -132,6 +132,13 @@
     "NA": "New Year's 2027 Guaranteed Summon (By Gender x By 3 Knights, 4 Knights, By NP Type and Effect)",
     "KR": null
   },
+  "2026年お正月福袋召喚(男女別×クラス別)": {
+    "JP": null,
+    "CN": "2026年新年福袋召唤(男女区别×职阶区别)",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "2100万DL記念ピックアップ召喚": {
     "JP": null,
     "CN": "2100万下载纪念推荐召唤",
@@ -226,6 +233,27 @@
   "3100万DL記念 レディ･アヴァロンピックアップ召喚": {
     "JP": null,
     "CN": "3100万下载纪念 阿瓦隆女士推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "3200万DL記念 モルガンピックアップ召喚": {
+    "JP": null,
+    "CN": "3200万下载纪念 摩根推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "3300万DL記念 メタトロン･ジャンヌピックアップ召喚": {
+    "JP": null,
+    "CN": "3300万下载纪念 梅塔特隆·贞德推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "3400万DL記念ピックアップ召喚": {
+    "JP": null,
+    "CN": "3400万下载纪念推荐召唤",
     "TW": null,
     "NA": null,
     "KR": null
@@ -443,6 +471,27 @@
   "CBC2025 彼の名はダンテ ～ホテル･デノヴォのコンシェルジュ～ ダンテ･アリギエーリピックアップ召喚": {
     "JP": null,
     "CN": "CBC2026 其名为但丁 ～德诺沃酒店的礼宾司～ 但丁·阿利吉耶里推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026 ピックアップ召喚": {
+    "JP": null,
+    "CN": "CBC2026 推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026 マイ･カインド･オブ･アブダクション ジャック･ド･モレー(セイバー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "CBC2026 我喜欢的诱拐 雅克·德·莫莱(Saber)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026 マイ･カインド･オブ･アブダクション ピックアップ2召喚": {
+    "JP": null,
+    "CN": "CBC2026 我喜欢的诱拐推荐召唤2",
     "TW": null,
     "NA": null,
     "KR": null
@@ -678,6 +727,48 @@
     "NA": "Fate/Grand Order 3rd Anniversary Guaranteed Summon",
     "KR": null
   },
+  "Fate/Grand Order「Road to 終章」第10回配信記念 リリスピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/Grand Order「Road to 终章」第10次发布纪念 莉莉丝推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/Grand Order「Road to 終章」第5回配信記念 モルガンピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/Grand Order「Road to 终章」第5次发布纪念 摩根推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/Grand Order「Road to 終章」第6回配信記念 テスカトリポカピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/Grand Order「Road to 终章」第6次发布纪念 特斯卡特利波卡推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/Grand Order「Road to 終章」第7回配信記念 メドゥーサ(セイバー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/Grand Order「Road to 终章」第7次发布纪念 美杜莎(Saber)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/Grand Order「Road to 終章」第8回配信記念 巌窟王 モンテ･クリストピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/Grand Order「Road to 终章」第8次发布纪念 岩窟王 基督山推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/Grand Order「Road to 終章」第9回配信記念 ＢＢドバイピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/Grand Order「Road to 终章」第9次发布纪念 BB迪拜推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Fate/Requiemコラボレーションイベントピックアップ召喚": {
     "JP": null,
     "CN": "Fate/Requiem联动活动推荐召唤",
@@ -706,6 +797,55 @@
     "NA": "Fate/Samurai Remnant×Fate/Grand Order Collaboration Event Ushi Gozen  Pickup Summon",
     "KR": null
   },
+  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベント ジョン･ラックランドピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake × Fate/Grand Order联动活动 无地王约翰推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベント フランソワ･プレラーティ(フランチェスカ･プレラーティ)ピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake × Fate/Grand Order联动活动 弗朗索瓦·普勒拉蒂(弗兰切斯卡·普勒拉蒂)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベント 女教皇ヨハンナピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake × Fate/Grand Order联动活动 女教皇若安推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベントピックアップ2召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake × Fate/Grand Order联动活动推荐召唤2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベントピックアップ5召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake × Fate/Grand Order联动活动推荐召唤5",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベントピックアップ6召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake × Fate/Grand Order联动活动推荐召唤6",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Fate/strange Fake×Fate/Grand Orderコラボレーションイベント開幕直前ピックアップ召喚": {
+    "JP": null,
+    "CN": "Fate/strange Fake×Fate/Grand Order联动活动开幕前夕推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "TVアニメ「Fate/Apocrypha」Blu-ray Disc Box&Original Soundtrackリリース記念ピックアップ召喚": {
     "JP": null,
     "CN": "TV动画「Fate/Apocrypha」霜降特别纪念推荐召唤",
@@ -725,6 +865,13 @@
     "CN": "TV动画「Fate/Grand Order -绝对魔兽战线巴比伦尼亚-」放映纪念推荐召唤",
     "TW": null,
     "NA": "TV Anime \"Fate/Grand Order -Absolute Demonic Front Babylonia-\" Broadcast Commemorative Pickup Summon ",
+    "KR": null
+  },
+  "TVアニメ「Fate/strange Fake」放送記念 ピックアップ召喚": {
+    "JP": null,
+    "CN": "TV动画「Fate/strange Fake」播放纪念 推荐召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "TVスペシャルアニメ「Fate/strange Fake -Whispers of Dawn-」放送記念 ピックアップ召喚": {
@@ -760,6 +907,20 @@
     "CN": "小寒纪念呼延灼推荐召唤",
     "TW": null,
     "NA": "\"FGO Chaldea Satellite Station 2023-2024\" Commemorative Event Huyan Zhou Pickup Summon",
+    "KR": null
+  },
+  "「FGO カルデア･サテライトステーション 2026」開催記念キャンペーン インドラピックアップ召喚": {
+    "JP": null,
+    "CN": "「FGO 迦勒底卫星基站 2026」举办纪念 因陀罗推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「FGO カルデア･サテライトステーション 2026」開催記念キャンペーン ダンテ･アリギエーリピックアップ召喚": {
+    "JP": null,
+    "CN": "「FGO 迦勒底卫星基站 2026」举办纪念 但丁·阿利吉耶里推荐召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "「Fate/EXTELLA LINK」発売記念ピックアップ召喚": {
@@ -1000,6 +1161,13 @@
     "NA": "\"Ordeal Call\" Pre-Release Pickup Summon",
     "KR": null
   },
+  "「カルデアン･フロラリア」開幕直前ピックアップ召喚": {
+    "JP": null,
+    "CN": "「迦勒底·花神节」开幕前夕推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「マンガで分かる！Fate/Grand Order」2巻発売記念キャンペーンピックアップ召喚": {
     "JP": null,
     "CN": "「从漫画了解！Fate/Grand Order」上线纪念活动推荐召唤",
@@ -1035,9 +1203,30 @@
     "NA": "\"Main Interlude: Non-Primate Biosphere Tunguska Sanctuary\" Release Commemorative Pickup Summon",
     "KR": null
   },
+  "「冠位戴冠戦：Archer」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Archer」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Assassin」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Assassin」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「冠位戴冠戦：Berserker」ピックアップ召喚": {
     "JP": null,
     "CN": "「冠位戴冠战：Berserker」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Caster」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Caster」推荐召唤",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1056,9 +1245,37 @@
     "NA": null,
     "KR": null
   },
+  "「冠位戴冠戦：Lancer」＆「冠位戴冠戦：Extra」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Rider」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Rider」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Rider」＆「冠位戴冠戦：Assassin」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「冠位戴冠戦：Saber」ピックアップ召喚": {
     "JP": null,
     "CN": "「冠位戴冠战：Saber」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Saber」＆「冠位戴冠戦：Berserker」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」推荐召唤",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1122,6 +1339,13 @@
   "「巡霊の祝祭 第11弾」ピックアップ召喚": {
     "JP": null,
     "CN": "「巡灵的祝祭 第11弹」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「巡霊の祝祭 第14弾」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「巡灵的祝祭 第14弹」推荐召唤",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1196,6 +1420,13 @@
     "NA": null,
     "KR": null
   },
+  "「新章」開幕直前キャンペーン 第1弾ピックアップ召喚": {
+    "JP": null,
+    "CN": "「新章」开幕前夕纪念活动 第1弹推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「春の新米マスター応援キャンペーン2023！」ピックアップ召喚": {
     "JP": null,
     "CN": "「春之新人御主应援纪念活动2024！」推荐召唤",
@@ -1213,6 +1444,20 @@
   "「春の新米マスター応援キャンペーン2025！」 モルガンピックアップ召喚": {
     "JP": null,
     "CN": "「春之新人御主应援纪念活动2026！」摩根推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「春の新米マスター応援キャンペーン2026！」ピックアップ召喚": {
+    "JP": null,
+    "CN": "「春之新人御主应援纪念活动2026！」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「春の終わりに君を待つ」開幕直前ピックアップ召喚": {
+    "JP": null,
+    "CN": "「于春日的尾声等待你」开幕前夕推荐召唤",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1245,6 +1490,13 @@
     "NA": "\"Swimsuit Event 2026\" Participation Requirement Clear Support Campaign: Part 2 Pickup Summon",
     "KR": null
   },
+  "「第2部 终章」开幕！ サーヴァント全騎ピックアップ召喚": {
+    "JP": null,
+    "CN": "「第2部 终章」开幕！ 从者全骑推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「落涙の翼」開幕直前キャンペーンピックアップ召喚": {
     "JP": null,
     "CN": "「落泪之翼」开幕前夕纪念活动推荐召唤",
@@ -1257,6 +1509,20 @@
     "CN": "「虚数大海战」开幕前夕推荐召唤",
     "TW": null,
     "NA": "\"Great Void Sea Battle\" Pre-Release Campaign Pickup Summon",
+    "KR": null
+  },
+  "「郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第2弾ピックアップ召喚": {
+    "JP": null,
+    "CN": "「乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第3弾ピックアップ召喚": {
+    "JP": null,
+    "CN": "「乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第3弹推荐召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "【リリース3000日突破記念特別】ピックアップ召喚": {
@@ -1273,6 +1539,13 @@
     "NA": "[Sunday Only] Merlin Pickup Summon",
     "KR": null
   },
+  "【日替り】「OVER THE SAME SKY-AUGUST-」ピックアップ召喚": {
+    "JP": null,
+    "CN": "【每日替换】「OVER THE SAME SKY-AUGUST-」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "【日替り】「OVER THE SAME SKY-JULY-」ピックアップ召喚": {
     "JP": null,
     "CN": "【每日替换】「OVER THE SAME SKY-JULY-」推荐召唤",
@@ -1283,6 +1556,27 @@
   "【日替り】「OVER THE SAME SKY-JUNE-」ピックアップ召喚": {
     "JP": null,
     "CN": "【每日替换】「OVER THE SAME SKY-JUNE-」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【日替り】「OVER THE SAME SKY-NOVEMBER-」ピックアップ召喚": {
+    "JP": null,
+    "CN": "【每日替换】「OVER THE SAME SKY-NOVEMBER-」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【日替り】「OVER THE SAME SKY-OCTOBER-」ピックアップ召喚": {
+    "JP": null,
+    "CN": "【每日替换】「OVER THE SAME SKY-OCTOBER-」推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【日替り】「OVER THE SAME SKY-SEPTEMBER-」ピックアップ召喚": {
+    "JP": null,
+    "CN": "【每日替换】「OVER THE SAME SKY-SEPTEMBER-」推荐召唤",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1453,6 +1747,34 @@
     "CN": "唠唠叨叨帝都圣杯奇谭推荐召唤",
     "TW": null,
     "NA": "GUDAGUDA Legend of the Imperial Capital Grail Pickup Summon",
+    "KR": null
+  },
+  "ぐだぐだ新選組･ジ･エンド 河上彦斎ピックアップ召喚": {
+    "JP": null,
+    "CN": "唠唠叨叨新选组·THE·END 河上彦斋推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ぐだぐだ新選組･ジ･エンド 近藤勇ピックアップ召喚": {
+    "JP": null,
+    "CN": "唠唠叨叨新选组·THE·END 近藤勇推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ぐだぐだ新選組･ジ･エンドピックアップ2召喚": {
+    "JP": null,
+    "CN": "唠唠叨叨新选组·THE·END推荐召唤2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ぐだぐだ新選組･ジ･エンドピックアップ4召喚": {
+    "JP": null,
+    "CN": "唠唠叨叨新选组·THE·END推荐召唤4",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "ぐだぐだ新邪馬台国 千利休ピックアップ召喚": {
@@ -1889,6 +2211,41 @@
     "NA": "Chaldea Boys Collection 2023 Pickup Summon",
     "KR": null
   },
+  "カルデアン･フロラリア エレシュキガル(ランサー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·花神节 埃列什基伽勒(Lancer)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデアン･フロラリア カズラドロップピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·花神节 Kazuradrop推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデアン･フロラリア 花咲翁ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·花神节 花咲翁推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデアン･フロラリア 葛飾北斎(フォーリナー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·花神节 葛饰北斋(Foreigner)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデアン･フロラリア 項羽ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·花神节 项羽推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "カルデア妖精騎士杯 ブリトマートピックアップ召喚": {
     "JP": null,
     "CN": "迦勒底妖精骑士杯 布里托玛特推荐召唤",
@@ -1950,6 +2307,41 @@
     "CN": "迦勒底·夏日冒险！开幕前夕推荐召唤",
     "TW": null,
     "NA": "Chaldea Summer Adventure! Pre-Release Pickup Summon",
+    "KR": null
+  },
+  "カルデア･Ｕ－サマーアイランド テスカトリポカピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿 特斯卡特利波卡推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデア･Ｕ－サマーアイランド パッションリップ(セイバー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿 Passionlip(Saber)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデア･Ｕ－サマーアイランド ラーヴァ／ティアマト(アーチャー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿 幼体／提亚马特(Archer)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデア･Ｕ－サマーアイランド 救世主トネリコ(雨の魔女トネリコ)ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿 救世主梣(雨之魔女梣)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデア･Ｕ－サマーアイランド 玉兎ピックアップ召喚": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿 玉兔推荐召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "カルナ・アルジュナピックアップ召喚": {
@@ -2064,6 +2456,13 @@
     "NA": "Servant Summer Festival Pickup 3 Summon",
     "KR": null
   },
+  "サーヴァント全騎ピックアップ召喚": {
+    "JP": null,
+    "CN": "从者全骑推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "サーヴァント強化クエスト 第13弾ピックアップ召喚": {
     "JP": null,
     "CN": "从者强化任务 第13弹推荐召唤",
@@ -2147,6 +2546,13 @@
     "TW": null,
     "NA": "Scathach Pickup Summon",
     "KR": null
+  },
+  "ストーリー召喚": {
+    "JP": null,
+    "CN": "剧情召唤",
+    "TW": "劇情召喚",
+    "NA": "Story Summon",
+    "KR": "스토리 소환"
   },
   "スペース･ファンタズムーン アナザー･クリスマス ファンタズムーンピックアップ召喚": {
     "JP": null,
@@ -2393,6 +2799,13 @@
     "NA": "New Year's 2027 Pickup Summon",
     "KR": null
   },
+  "ニューイヤー2026ピックアップ召喚": {
+    "JP": null,
+    "CN": "新年2026推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ニューイヤーピックアップ召喚": {
     "JP": null,
     "CN": "新年推荐召唤",
@@ -2589,11 +3002,74 @@
     "NA": null,
     "KR": null
   },
+  "バレンタイン2026 デメテルピックアップ召喚": {
+    "JP": null,
+    "CN": "情人节2026 得墨忒耳推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バレンタイン2026ピックアップ2召喚": {
+    "JP": null,
+    "CN": "情人节2026推荐召唤2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バレンタイン2026開幕直前ピックアップ召喚": {
+    "JP": null,
+    "CN": "情人节2026开幕前夕推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "バレンタインピックアップ召喚": {
     "JP": null,
     "CN": "情人节推荐召唤",
     "TW": null,
     "NA": "Valentine's Pickup Summon",
+    "KR": null
+  },
+  "パスト･カルデア ウルズ(終末のアーチャー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "过去的迦勒底 乌尔德(终末的Archer)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "パスト･カルデア 終末のアーチャーピックアップ召喚": {
+    "JP": null,
+    "CN": "过去的迦勒底 终末的Archer推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "パスト･カルデアピックアップ2召喚": {
+    "JP": null,
+    "CN": "过去的迦勒底推荐召唤2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファイナル･ハロウィン2025 ★5(SSR)エリザベート･バートリーピックアップ召喚": {
+    "JP": null,
+    "CN": "最终·万圣节2025 ★5(SSR)伊丽莎白·巴托里推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファイナル･ハロウィン2025ピックアップ2召喚": {
+    "JP": null,
+    "CN": "最终·万圣节2025推荐召唤2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファイナル･ハロウィン2025ピックアップ3召喚": {
+    "JP": null,
+    "CN": "最终·万圣节2025推荐召唤3",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "フレンドポイント召喚": {
@@ -2939,6 +3415,13 @@
     "NA": "Summer! Ocean! Pioneering! FGO Summer 2018 Pickup Summon 2",
     "KR": null
   },
+  "夏予習版 雀のお宿の活動日誌ピックアップ召喚": {
+    "JP": null,
+    "CN": "夏预习版 雀之旅馆的活动日志推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "天草四郎ピックアップ召喚": {
     "JP": null,
     "CN": "天草四郎推荐召唤",
@@ -2953,6 +3436,20 @@
     "NA": "The Great Tale of Demons: Onigashima Pickup Summon",
     "KR": null
   },
+  "失われた創世(ヴァニッシュド･ビギニング) 未来からの方舟 ネモ／ノアピックアップ召喚": {
+    "JP": null,
+    "CN": "失落的创世 来自未来的方舟 尼莫／诺亚推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "失われた創世(ヴァニッシュド･ビギニング) 未来からの方舟ピックアップ2召喚": {
+    "JP": null,
+    "CN": "失落的创世 来自未来的方舟推荐召唤2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "妖精双六虫籠遊戯 まだ見ぬ完璧なあなたへ カズラドロップピックアップ召喚": {
     "JP": null,
     "CN": "妖精双六虫笼游戏 致尚未得见的完美的你 Kazuradrop推荐召唤",
@@ -2965,6 +3462,13 @@
     "CN": "妖精双六虫笼游戏 致尚未得见的完美的你 Meltryllis推荐召唤",
     "TW": null,
     "NA": "Fairie Sugoroku: Insect Cage Game - For a Yet Unseen Perfect You, Meltryllis Pickup Summon",
+    "KR": null
+  },
+  "岸波白野ピックアップフレンドポイント召喚": {
+    "JP": null,
+    "CN": "岸波白野推荐友情点召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "巌窟王 エドモン・ダンテスピックアップ召喚": {
@@ -3469,6 +3973,13 @@
     "CN": "复刻 历代下载纪念推荐召唤",
     "TW": null,
     "NA": "Revival: Past Download Milestones Commemorative Pickup Summon",
+    "KR": null
+  },
+  "復刻 水怪クライシスピックアップ召喚": {
+    "JP": null,
+    "CN": "复刻 水怪危机推荐召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "復刻 水着2018～2020ピックアップ召喚": {
@@ -4078,516 +4589,6 @@
     "CN": "BB主办☆名流夏日体验！ 谜之代行者C.I.E.L推荐召唤",
     "TW": null,
     "NA": "BB Presents☆Celeb Summer Experience! Mysterious Executor C.I.E.L. Pickup Summon",
-    "KR": null
-  },
-  "ストーリー召喚": {
-    "CN": "剧情召唤",
-    "TW": "劇情召喚",
-    "NA": "Story Summon",
-    "KR": "스토리 소환"
-  },
-  "【日替り】「OVER THE SAME SKY-AUGUST-」ピックアップ召喚": {
-    "JP": null,
-    "CN": "【每日替换】「OVER THE SAME SKY-AUGUST-」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア･Ｕ－サマーアイランド テスカトリポカピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 特斯卡特利波卡推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア･Ｕ－サマーアイランド パッションリップ(セイバー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 Passionlip(Saber)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア･Ｕ－サマーアイランド ラーヴァ／ティアマト(アーチャー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 幼体／提亚马特(Archer)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア･Ｕ－サマーアイランド 救世主トネリコ(雨の魔女トネリコ)ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 救世主梣(雨之魔女梣)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア･Ｕ－サマーアイランド 玉兎ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 玉兔推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3200万DL記念 モルガンピックアップ召喚": {
-    "JP": null,
-    "CN": "3200万下载纪念 摩根推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Rider」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Rider」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "失われた創世(ヴァニッシュド･ビギニング) 未来からの方舟 ネモ／ノアピックアップ召喚": {
-    "JP": null,
-    "CN": "失落的创世 来自未来的方舟 尼莫／诺亚推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "失われた創世(ヴァニッシュド･ビギニング) 未来からの方舟ピックアップ2召喚": {
-    "JP": null,
-    "CN": "失落的创世 来自未来的方舟推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Saber」＆「冠位戴冠戦：Berserker」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "【日替り】「OVER THE SAME SKY-SEPTEMBER-」ピックアップ召喚": {
-    "JP": null,
-    "CN": "【每日替换】「OVER THE SAME SKY-SEPTEMBER-」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ぐだぐだ新選組･ジ･エンド 河上彦斎ピックアップ召喚": {
-    "JP": null,
-    "CN": "唠唠叨叨新选组·THE·END 河上彦斋推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ぐだぐだ新選組･ジ･エンドピックアップ2召喚": {
-    "JP": null,
-    "CN": "唠唠叨叨新选组·THE·END推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ぐだぐだ新選組･ジ･エンド 近藤勇ピックアップ召喚": {
-    "JP": null,
-    "CN": "唠唠叨叨新选组·THE·END 近藤勇推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Assassin」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Assassin」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ぐだぐだ新選組･ジ･エンドピックアップ4召喚": {
-    "JP": null,
-    "CN": "唠唠叨叨新选组·THE·END推荐召唤4",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3300万DL記念 メタトロン･ジャンヌピックアップ召喚": {
-    "JP": null,
-    "CN": "3300万下载纪念 梅塔特隆·贞德推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイナル･ハロウィン2025 ★5(SSR)エリザベート･バートリーピックアップ召喚": {
-    "JP": null,
-    "CN": "最终·万圣节2025 ★5(SSR)伊丽莎白·巴托里推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「巡霊の祝祭 第14弾」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「巡灵的祝祭 第14弹」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "【日替り】「OVER THE SAME SKY-OCTOBER-」ピックアップ召喚": {
-    "JP": null,
-    "CN": "【每日替换】「OVER THE SAME SKY-OCTOBER-」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイナル･ハロウィン2025ピックアップ2召喚": {
-    "JP": null,
-    "CN": "最终·万圣节2025推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイナル･ハロウィン2025ピックアップ3召喚": {
-    "JP": null,
-    "CN": "最终·万圣节2025推荐召唤3",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order「Road to 終章」第5回配信記念 モルガンピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/Grand Order「Road to 终章」第5次发布纪念 摩根推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Archer」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Archer」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Lancer」＆「冠位戴冠戦：Extra」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order「Road to 終章」第6回配信記念 テスカトリポカピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/Grand Order「Road to 终章」第6次发布纪念 特斯卡特利波卡推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order「Road to 終章」第7回配信記念 メドゥーサ(セイバー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/Grand Order「Road to 终章」第7次发布纪念 美杜莎(Saber)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Rider」＆「冠位戴冠戦：Assassin」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order「Road to 終章」第8回配信記念 巌窟王 モンテ･クリストピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/Grand Order「Road to 终章」第8次发布纪念 岩窟王 基督山推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Caster」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Caster」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "【日替り】「OVER THE SAME SKY-NOVEMBER-」ピックアップ召喚": {
-    "JP": null,
-    "CN": "【每日替换】「OVER THE SAME SKY-NOVEMBER-」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order「Road to 終章」第9回配信記念 ＢＢドバイピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/Grand Order「Road to 终章」第9次发布纪念 BB迪拜推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order「Road to 終章」第10回配信記念 リリスピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/Grand Order「Road to 终章」第10次发布纪念 莉莉丝推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "岸波白野ピックアップフレンドポイント召喚": {
-    "JP": null,
-    "CN": "岸波白野推荐友情点召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "サーヴァント全騎ピックアップ召喚": {
-    "JP": null,
-    "CN": "从者全骑推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「第2部 终章」开幕！ サーヴァント全騎ピックアップ召喚": {
-    "JP": null,
-    "CN": "「第2部 终章」开幕！ 从者全骑推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "2026年お正月福袋召喚(男女別×クラス別)": {
-    "JP": null,
-    "CN": "2026年新年福袋召唤(男女区别×职阶区别)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "TVアニメ「Fate/strange Fake」放送記念 ピックアップ召喚": {
-    "JP": null,
-    "CN": "TV动画「Fate/strange Fake」播放纪念 推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ニューイヤー2026ピックアップ召喚": {
-    "JP": null,
-    "CN": "新年2026推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「カルデアン･フロラリア」開幕直前ピックアップ召喚": {
-    "JP": null,
-    "CN": "「迦勒底·花神节」开幕前夕推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「FGO カルデア･サテライトステーション 2026」開催記念キャンペーン ダンテ･アリギエーリピックアップ召喚": {
-    "JP": null,
-    "CN": "「FGO 迦勒底卫星基站 2026」举办纪念 但丁·阿利吉耶里推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアン･フロラリア 花咲翁ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·花神节 花咲翁推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアン･フロラリア エレシュキガル(ランサー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·花神节 埃列什基伽勒(Lancer)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアン･フロラリア 葛飾北斎(フォーリナー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·花神节 葛饰北斋(Foreigner)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアン･フロラリア カズラドロップピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·花神节 Kazuradrop推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアン･フロラリア 項羽ピックアップ召喚": {
-    "JP": null,
-    "CN": "迦勒底·花神节 项羽推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「FGO カルデア･サテライトステーション 2026」開催記念キャンペーン インドラピックアップ召喚": {
-    "JP": null,
-    "CN": "「FGO 迦勒底卫星基站 2026」举办纪念 因陀罗推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バレンタイン2026開幕直前ピックアップ召喚": {
-    "JP": null,
-    "CN": "情人节2026开幕前夕推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026 ピックアップ召喚": {
-    "JP": null,
-    "CN": "CBC2026 推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026 マイ･カインド･オブ･アブダクション ジャック･ド･モレー(セイバー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "CBC2026 我喜欢的诱拐 雅克·德·莫莱(Saber)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026 マイ･カインド･オブ･アブダクション ピックアップ2召喚": {
-    "JP": null,
-    "CN": "CBC2026 我喜欢的诱拐推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バレンタイン2026 デメテルピックアップ召喚": {
-    "JP": null,
-    "CN": "情人节2026 得墨忒耳推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バレンタイン2026ピックアップ2召喚": {
-    "JP": null,
-    "CN": "情人节2026推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "復刻 水怪クライシスピックアップ召喚": {
-    "JP": null,
-    "CN": "复刻 水怪危机推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「春の新米マスター応援キャンペーン2026！」ピックアップ召喚": {
-    "JP": null,
-    "CN": "「春之新人御主应援纪念活动2026！」推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3400万DL記念ピックアップ召喚": {
-    "JP": null,
-    "CN": "3400万下载纪念推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake×Fate/Grand Orderコラボレーションイベント開幕直前ピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake×Fate/Grand Order联动活动开幕前夕推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベント ジョン･ラックランドピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake × Fate/Grand Order联动活动 无地王约翰推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベント フランソワ･プレラーティ(フランチェスカ･プレラーティ)ピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake × Fate/Grand Order联动活动 弗朗索瓦·普勒拉蒂(弗兰切斯卡·普勒拉蒂)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベント 女教皇ヨハンナピックアップ召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake × Fate/Grand Order联动活动 女教皇若安推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベントピックアップ2召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake × Fate/Grand Order联动活动推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベントピックアップ5召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake × Fate/Grand Order联动活动推荐召唤5",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fake × Fate/Grand Orderコラボレーションイベントピックアップ6召喚": {
-    "JP": null,
-    "CN": "Fate/strange Fake × Fate/Grand Order联动活动推荐召唤6",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「新章」開幕直前キャンペーン 第1弾ピックアップ召喚": {
-    "JP": null,
-    "CN": "「新章」开幕前夕纪念活动 第1弹推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第2弾ピックアップ召喚": {
-    "JP": null,
-    "CN": "「乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第3弾ピックアップ召喚": {
-    "JP": null,
-    "CN": "「乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第3弹推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "パスト･カルデア ウルズ(終末のアーチャー)ピックアップ召喚": {
-    "JP": null,
-    "CN": "过去的迦勒底 乌尔德(终末的Archer)推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "パスト･カルデア 終末のアーチャーピックアップ召喚": {
-    "JP": null,
-    "CN": "过去的迦勒底 终末的Archer推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "パスト･カルデアピックアップ2召喚": {
-    "JP": null,
-    "CN": "过去的迦勒底推荐召唤2",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "夏予習版 雀のお宿の活動日誌ピックアップ召喚": {
-    "JP": null,
-    "CN": "夏预习版 雀之旅馆的活动日志推荐召唤",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「春の終わりに君を待つ」開幕直前ピックアップ召喚": {
-    "JP": null,
-    "CN": "「于春日的尾声等待你」开幕前夕推荐召唤",
-    "TW": null,
-    "NA": null,
     "KR": null
   }
 }

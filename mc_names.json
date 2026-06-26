@@ -34,6 +34,13 @@
     "NA": "Captain Chaldea",
     "KR": "캡틴 칼데아"
   },
+  "クラン・カラティン": {
+    "JP": null,
+    "CN": "二十八怪物",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "サマー・ストリート": {
     "JP": null,
     "CN": "夏日街头",
@@ -47,6 +54,13 @@
     "TW": "熱帶夏日",
     "NA": "Tropical Summer",
     "KR": "트로피컬 서머"
+  },
+  "ノーマル・カルデア制服": {
+    "JP": null,
+    "CN": "常规迦勒底制服",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ハロウィン・ロイヤリティ": {
     "JP": null,
@@ -67,7 +81,7 @@
     "CN": "白色圣诞节",
     "TW": "白色聖誕節",
     "NA": "White Christmas",
-    "KR": null
+    "KR": "화이트 크리스마스"
   },
   "ロイヤルブランド": {
     "JP": null,
@@ -81,7 +95,7 @@
     "CN": "三咲高中校服",
     "TW": "三咲高中校服",
     "NA": "Misaki High School Uniform",
-    "KR": null
+    "KR": "미사키고교 학생복"
   },
   "新春の装い": {
     "JP": null,
@@ -117,6 +131,13 @@
     "TW": "決戰用迦勒底制服",
     "NA": "Chaldea Uniform - Decisive Battle",
     "KR": "결전용 칼데아 제복"
+  },
+  "浅葱の隊服": {
+    "JP": null,
+    "CN": "浅葱的队服",
+    "TW": null,
+    "NA": "Light Blue Uniform",
+    "KR": null
   },
   "第五真説要素環境用カルデア制服": {
     "JP": null,
@@ -166,26 +187,5 @@
     "TW": "魔術禮裝．魔術協會制服",
     "NA": "Mystic Code: Mage's Association Uniform",
     "KR": "마술예장 마술협회 제복"
-  },
-  "浅葱の隊服": {
-    "JP": null,
-    "CN": "浅葱的队服",
-    "TW": null,
-    "NA": "Light Blue Uniform",
-    "KR": null
-  },
-  "ノーマル・カルデア制服": {
-    "JP": null,
-    "CN": "常规迦勒底制服",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クラン・カラティン": {
-    "JP": null,
-    "CN": "二十八怪物",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

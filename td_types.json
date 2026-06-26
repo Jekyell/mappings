@@ -34,6 +34,20 @@
     "NA": "Fortress",
     "KR": "성채보구"
   },
+  "対■■■■■■宝具": {
+    "JP": null,
+    "CN": "对■■■■■■宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "対キングエリザ宝具": {
+    "JP": null,
+    "CN": "对King Eliza宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "対人、対軍、対城宝具": {
     "JP": null,
     "CN": "对人·对军·对城宝具",
@@ -90,6 +104,13 @@
     "NA": "Anti-Personnel/Anti-Army",
     "KR": "대인보구/대군보구"
   },
+  "対人青春宝具": {
+    "JP": null,
+    "CN": "对人青春宝具",
+    "TW": "對人青春寶具",
+    "NA": null,
+    "KR": null
+  },
   "対人魔剣": {
     "JP": null,
     "CN": "对人魔剑",
@@ -100,9 +121,9 @@
   "対人／対ロボ宝具": {
     "JP": null,
     "CN": "对人／对机器人宝具",
-    "TW": "對人／對機甲寶具",
+    "TW": "對人／對機器人寶具",
     "NA": null,
-    "KR": null
+    "KR": "대인/대 로봇보구"
   },
   "対人／対国宝具": {
     "JP": null,
@@ -118,12 +139,19 @@
     "NA": "Anti-Personnel/Anti-Fortress",
     "KR": "대인/대성보구"
   },
+  "対人／対巨人宝具": {
+    "JP": null,
+    "CN": "对人/对巨人宝具",
+    "TW": "對人/對巨人寶具",
+    "NA": null,
+    "KR": null
+  },
   "対人／対星宝具": {
     "JP": null,
     "CN": "对人／对星宝具",
     "TW": "對人／對星寶具",
     "NA": "Anti-Personnel/Anti-Planet",
-    "KR": null
+    "KR": "대인/대성보구"
   },
   "対人／対軍宝具": {
     "JP": null,
@@ -137,7 +165,7 @@
     "CN": "对人／对军绝技",
     "TW": "對人／對軍絕技",
     "NA": "Anti-Personnel/Anti-Army",
-    "KR": null
+    "KR": "대인/대군절기"
   },
   "対人～対界宝具": {
     "JP": null,
@@ -165,7 +193,7 @@
     "CN": "对地形宝具",
     "TW": "對地形寶具",
     "NA": null,
-    "KR": null
+    "KR": "대지형보구"
   },
   "対城宝具": {
     "JP": null,
@@ -223,6 +251,13 @@
     "NA": "Anti-Planet",
     "KR": "대성보구"
   },
+  "対樹宝具": {
+    "JP": null,
+    "CN": "对树宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "対民宝具": {
     "JP": null,
     "CN": "对民宝具",
@@ -243,6 +278,13 @@
     "TW": "對海寶具",
     "NA": "Anti-Sea",
     "KR": "대해보구"
+  },
+  "対火星宝具": {
+    "JP": null,
+    "CN": "对火星宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "対物宝具": {
     "JP": null,
@@ -272,6 +314,13 @@
     "NA": "Anti-King (Self)",
     "KR": "대왕보구(자신)"
   },
+  "対理宝具": {
+    "JP": null,
+    "CN": "对理宝具",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "対界宝具": {
     "JP": null,
     "CN": "对界宝具",
@@ -289,7 +338,7 @@
   "対神敵宝具": {
     "JP": null,
     "CN": "对神敌宝具",
-    "TW": null,
+    "TW": "對神敵寶具",
     "NA": null,
     "KR": null
   },
@@ -298,7 +347,7 @@
     "CN": "对龙宝具",
     "TW": "對龍寶具",
     "NA": "Anti-Dragon",
-    "KR": null
+    "KR": "대룡보구"
   },
   "対粛正宝具": {
     "JP": null,
@@ -416,8 +465,8 @@
     "JP": null,
     "CN": "对都市／混沌宝具",
     "TW": "對都市／混沌寶具",
-    "NA": "Anti-City / Chaotic",
-    "KR": null
+    "NA": "Anti-City/Chaos",
+    "KR": "대 도시/혼돈보구"
   },
   "対陣宝具": {
     "JP": null,
@@ -486,7 +535,7 @@
     "JP": null,
     "CN": "结界／对军宝具",
     "TW": "結界／對軍寶具",
-    "NA": "Barrier/Anti-Army",
+    "NA": "Bounded Field/Anti-Army",
     "KR": "결계/대군보구"
   },
   "詩歌宝具": {
@@ -510,6 +559,13 @@
     "NA": "Maze",
     "KR": "미궁보구"
   },
+  "運命宝具（過去）": {
+    "JP": null,
+    "CN": "命运宝具（过去）",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "魔術宝具": {
     "JP": null,
     "CN": "魔术宝具",
@@ -530,61 +586,5 @@
     "TW": "？？？？",
     "NA": "????",
     "KR": "????"
-  },
-  "対人青春宝具": {
-    "JP": null,
-    "CN": "对人青春宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "対人／対巨人宝具": {
-    "JP": null,
-    "CN": "对人/对巨人宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "対■■■■■■宝具": {
-    "JP": null,
-    "CN": "对■■■■■■宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "対キングエリザ宝具": {
-    "JP": null,
-    "CN": "对王伊丽莎宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "対火星宝具": {
-    "JP": null,
-    "CN": "对火星宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "対樹宝具": {
-    "JP": null,
-    "CN": "对树宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "対理宝具": {
-    "JP": null,
-    "CN": "对理宝具",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "運命宝具（過去）": {
-    "JP": null,
-    "CN": "命运宝具（过去）",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

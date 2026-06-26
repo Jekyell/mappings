@@ -16,77 +16,77 @@
   "10周年礼装交換ショップ〔アサシン〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Assassin〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Assassin〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Assassin)",
     "KR": null
   },
   "10周年礼装交換ショップ〔アーチャー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Archer〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Archer〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Archer)",
     "KR": null
   },
   "10周年礼装交換ショップ〔エクストラⅠ〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Extra Ⅰ〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Extra Ⅰ〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Extra Ⅰ)",
     "KR": null
   },
   "10周年礼装交換ショップ〔エクストラⅡ〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Extra Ⅱ〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Extra Ⅱ〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Extra Ⅱ)",
     "KR": null
   },
   "10周年礼装交換ショップ〔キャスター〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Caster〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Caster〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Caster)",
     "KR": null
   },
   "10周年礼装交換ショップ〔セイバー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Saber〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Saber〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Saber)",
     "KR": null
   },
   "10周年礼装交換ショップ〔バーサーカー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Berserker〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Berserker〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Berserker)",
     "KR": null
   },
   "10周年礼装交換ショップ〔ライダー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Rider〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Rider〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Rider)",
     "KR": null
   },
   "10周年礼装交換ショップ〔ランサー〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔Lancer〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔Lancer〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (Lancer)",
     "KR": null
   },
   "10周年礼装交換ショップ〔全クラス〕": {
     "JP": null,
     "CN": "10周年礼装兑换商店〔全职阶〕",
-    "TW": null,
+    "TW": "10週年禮裝兌換商店〔全職階〕",
     "NA": "10th Anniversary Craft Essence Exchange Shop (All Class)",
     "KR": null
   },
   "10周年記念メモリアルクエスト": {
     "JP": null,
     "CN": "10周年纪念回忆关卡",
-    "TW": null,
+    "TW": "10週年紀念回憶任務",
     "NA": "10th Anniversary Memorial Quest",
     "KR": null
   },
@@ -227,8 +227,8 @@
     "JP": null,
     "CN": "2024年新年活动 抽签登录奖励",
     "TW": "2024年新年活動 抽籤登入獎勵",
-    "NA": "New Year's 2024 Campaign Omikuji Login Bonus",
-    "KR": null
+    "NA": "New Year's 2026 Campaign New Year's Fortune Login Bonus",
+    "KR": "가을 축제 캠페인 운세 뽑기 로그인 보너스"
   },
   "2025年お正月キャンペーン": {
     "JP": null,
@@ -241,6 +241,20 @@
     "JP": null,
     "CN": "2025年新年活动 抽签登录奖励",
     "TW": "2025年新年活動 抽籤登入獎勵",
+    "NA": null,
+    "KR": null
+  },
+  "2026年お正月キャンペーン": {
+    "JP": null,
+    "CN": "2026年新年活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "2026年お正月キャンペーン　おみくじログインボーナス": {
+    "JP": null,
+    "CN": "2026年新年活动 抽签登录奖励",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -310,9 +324,9 @@
   "3000万DL突破キャンペーン": {
     "JP": null,
     "CN": "3000万DL突破纪念活动",
-    "TW": "3000萬下載突破紀念活動",
+    "TW": "迦勒底小暑特別紀念活動",
     "NA": null,
-    "KR": null
+    "KR": "가정의 달 캠페인"
   },
   "300万DL突破キャンペーン": {
     "JP": null,
@@ -325,6 +339,27 @@
     "JP": null,
     "CN": "3100万下载突破纪念活动",
     "TW": "3100萬下載突破紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "3200万DL突破キャンペーン": {
+    "JP": null,
+    "CN": "3200万下载突破纪念活动",
+    "TW": "3200萬下載突破紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "3300万DL突破キャンペーン": {
+    "JP": null,
+    "CN": "3300万下载突破纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "3400万DL突破キャンペーン": {
+    "JP": null,
+    "CN": "3400万下载突破纪念活动",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -403,7 +438,7 @@
     "CN": "9周年礼装兑换商店",
     "TW": "9週年禮裝兌換商店",
     "NA": "9th Anniversary Craft Essence Exchange Shop",
-    "KR": null
+    "KR": "2026 봄의 축제 예장 교환 상점"
   },
   "AP消費1/4＆1/2キャンペーン": {
     "JP": null,
@@ -444,15 +479,15 @@
     "JP": null,
     "CN": "CBC2024",
     "TW": "CBC2024",
-    "NA": null,
-    "KR": null
+    "NA": "CBC 2026 Charlemagne's Chivalrous Montjoie! Opening Night Login Bonus",
+    "KR": "CBC 2025"
   },
   "CBC2024 \nシャルルマーニュのモンジョワ・騎士道！": {
     "JP": null,
     "CN": "CBC2025 \n查理曼的蒙茹瓦骑士道！",
-    "TW": "CBC2024\n查理曼的Montjoie騎士道！",
-    "NA": "CBC2024 Charlemagne's Montjoie Chivalrism!",
-    "KR": null
+    "TW": "CBC2025 \n查理曼的Montjoie．騎士道！",
+    "NA": "CBC 2026 Charlemagne's Chivalrous Montjoie!",
+    "KR": "CBC 2025 샤를마뉴의 몽주아 기사도!"
   },
   "CBC2025": {
     "JP": null,
@@ -472,6 +507,34 @@
     "JP": null,
     "CN": "CBC2026(迦勒底男性精选2026)",
     "TW": "CBC2025(迦勒底男性精選2025)",
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026": {
+    "JP": null,
+    "CN": "CBC2026",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026\nマイ・カインド・オブ・アブダクション": {
+    "JP": null,
+    "CN": "CBC2026\n我喜欢的诱拐",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026 マイ・カインド・オブ・アブダクション\n～ふたりのモレーと果てなき遺産～": {
+    "JP": null,
+    "CN": "CBC2026 我喜欢的诱拐\n～两位莫莱与无尽的遗产～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2026(カルデアボーイズコレクション2026)": {
+    "JP": null,
+    "CN": "CBC2026(迦勒底男性精选2026)",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -741,10 +804,17 @@
     "NA": null,
     "KR": null
   },
+  "Fate/Grand Order 春の新米マスター応援キャンペーン2026！": {
+    "JP": null,
+    "CN": "Fate/Grand Order 春之新人御主应援纪念活动2026！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "Fate/Grand Order ～10th Anniversary～": {
     "JP": null,
     "CN": "Fate/Grand Order ～10th Anniversary～",
-    "TW": null,
+    "TW": "Fate/Grand Order ～10th Anniversary～",
     "NA": null,
     "KR": null
   },
@@ -774,14 +844,14 @@
     "CN": "Fate/Grand Order ～8th Anniversary～",
     "TW": "Fate/Grand Order ～8th Anniversary～",
     "NA": "Fate/Grand Order - 8th Anniversary -",
-    "KR": "Fate/Grand Order ~7th Anniversary~"
+    "KR": "Fate/Grand Order ~8th Anniversary~"
   },
   "Fate/Grand Order ～9th Anniversary～": {
     "JP": null,
     "CN": "Fate/Grand Order ～9th Anniversary～",
     "TW": "Fate/Grand Order ～9th Anniversary～",
     "NA": null,
-    "KR": null
+    "KR": "2026 봄의 축제"
   },
   "Fate/Requiem×Fate/Grand Orderコラボレーションイベント開幕直前キャンペーン": {
     "JP": null,
@@ -796,6 +866,153 @@
     "TW": "「Fate/stay night」關聯從者的友情點獲得量2倍",
     "NA": "Certain Servants FP x2",
     "KR": "Fate/stay night 관련 서번트 획득 FP 2배"
+  },
+  "Fate/strange Fakeコラボイベント": {
+    "JP": null,
+    "CN": "Fate/strange Fake联动活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.1]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.1]通关应援活动",
+    "TW": "Final Order Project [Lostbelt No.1]通關應援活動",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.2]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.2]通关应援活动",
+    "TW": "Final Order Project [Lostbelt No.2]通關應援活動",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.3]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.3]通关应援活动",
+    "TW": "Final Order Project [Lostbelt No.3]通關應援活動",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.4]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.4]通关应援活动",
+    "TW": "Final Order Project [Lostbelt No.4]通關應援活動",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.5]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.5]通关应援活动",
+    "TW": "Final Order Project [Lostbelt No.5]通關應援活動",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.6]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.6]通关应援活动",
+    "TW": "Final Order Project [Lostbelt No.6]通關應援活動",
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Lostbelt No.7]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Lostbelt No.7]通关应援活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Ordeal Call Ⅰ]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Ordeal Call Ⅰ]通关应援活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Ordeal Call Ⅱ]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Ordeal Call Ⅱ]通关应援活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Ordeal Call Ⅲ]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Ordeal Call Ⅲ]通关应援活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project [Ordeal Call Ⅳ]クリア応援キャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project [Ordeal Call Ⅳ]通关应援活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～ 第1章～奏章Ⅳ編 ～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～ 第1章～奏章Ⅳ篇 ～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅰ編～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅰ篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅱ編～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅱ篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅲ編～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅲ篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅳ編～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅳ篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～第6章編～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～第6章篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～第7章編～": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～第7章篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』目前！ファイナルカウントダウンキャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』在即！最终倒计时纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Final Order Project 『第2部 終章』間近！ファイナルダッシュキャンペーン": {
+    "JP": null,
+    "CN": "Final Order Project 『第2部 终章』临近！最终冲刺纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "Road to 7 [Lostbelt No.1]": {
     "JP": null,
@@ -902,6 +1119,13 @@
     "NA": null,
     "KR": null
   },
+  "TVアニメ「Fate/strange Fake」放送記念キャンペーン": {
+    "JP": null,
+    "CN": "TV动画「Fate/strange Fake」特别纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "TVアニメ「ロード・エルメロイⅡ世の事件簿」\n放送記念キャンペーン！": {
     "JP": null,
     "CN": "TV动画 君主·埃尔梅罗Ⅱ世事件簿\n动画纪念活动",
@@ -1004,6 +1228,27 @@
     "JP": null,
     "CN": "「AnimeJapan 2016」参展纪念活动",
     "TW": "「AnimeJapan 2016」參展紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "「CBC2026(カルデアボーイズコレクション2026)」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「CBC2026」関連サーヴァント 獲得絆ポイント 20%UP": {
+    "JP": null,
+    "CN": "「CBC2026」关联从者获得牵绊点数提升20%",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「CBC2026」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
+    "JP": null,
+    "CN": "「CBC2026」关联从者强化『大成功＆极大成功』概率2倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -1154,6 +1399,13 @@
     "NA": null,
     "KR": null
   },
+  "「FGO カルデア･サテライトステーション 2023-2024」新潟会場開催記念キャンペーン": {
+    "JP": null,
+    "CN": "新春庆贺活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「FGO カルデア･サテライトステーション 2024-2025」大阪会場開催記念キャンペーン": {
     "JP": null,
     "CN": "2026新春庆贺活动",
@@ -1172,6 +1424,27 @@
     "JP": null,
     "CN": "2026新春庆贺活动",
     "TW": "「FGO 迦勒底衛星站 2024-2025」福島會場舉辦紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "「FGO カルデア･サテライトステーション 2026」山形会場開催記念キャンペーン": {
+    "JP": null,
+    "CN": "「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「FGO カルデア･サテライトステーション 2026」福井会場開催記念キャンペーン": {
+    "JP": null,
+    "CN": "「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「FGO カルデア･サテライトステーション 2026」長崎会場開催記念キャンペーン": {
+    "JP": null,
+    "CN": "「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -1259,6 +1532,13 @@
     "NA": null,
     "KR": null
   },
+  "「Fate Project 大晦日TVスペシャル2025」放送記念キャンペーン": {
+    "JP": null,
+    "CN": "「Fate Project 除夕TV特别篇2025」播放纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「Fate/Accel Zero Order」開幕直前7大キャンペーン": {
     "JP": null,
     "CN": "『Fate/Accel Zero Order』开幕前夕预热活动",
@@ -1285,7 +1565,7 @@
     "CN": "「Fate/EXTELLA LINK」特别纪念关卡",
     "TW": "「Fate/EXTELLA LINK」特別紀念任務",
     "NA": "\"Fate/EXTELLA LINK\" Acquisition Quest",
-    "KR": "「Fate/EXTELLA LINK」발매기념 퀘스트"
+    "KR": "「Fate/EXTELLA LINK」발매 기념 퀘스트"
   },
   "「Fate/EXTELLA」発売記念キャンペーン": {
     "JP": null,
@@ -1297,7 +1577,7 @@
   "「Fate/EXTRA Last Encore」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「Fate/EXTRA Last Encore」关联从者助战时获得友情点2倍！",
-    "TW": "「Fate/EXTRA Last Encore」關聯從者支援時獲得友情點2倍！",
+    "TW": "「Fate/EXTRA Last Encore」關聯從者支援時獲得友情點數2倍！",
     "NA": "Fate/EXTRA Last Encore Related Support Servants 2X FP!",
     "KR": "‘Fate/EXTRA Last Encore’ 관련 서번트 서포트 시 획득 FP 2배!"
   },
@@ -1430,7 +1710,7 @@
   "「Fate/Grand Order Fes. 2025 ～10th Anniversary～」カウントダウンキャンペーン": {
     "JP": null,
     "CN": "「Fate/Grand Order Fes. 2025 ～10th Anniversary～」倒计时纪念活动",
-    "TW": null,
+    "TW": "「Fate/Grand Order Fes. 2025 ～10th Anniversary～」倒數計時紀念活動",
     "NA": null,
     "KR": null
   },
@@ -1479,7 +1759,7 @@
   "「Fate/Grand Order Servant Art Chronicle -最終再臨展-」 開催記念特別ログインボーナス": {
     "JP": null,
     "CN": "「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励",
-    "TW": null,
+    "TW": "「Fate/Grand Order Servant Art Chronicle -最終再臨展-」 舉辦紀念特別登入獎勵",
     "NA": null,
     "KR": null
   },
@@ -1553,12 +1833,19 @@
     "NA": null,
     "KR": null
   },
+  "「Fate/hollow ataraxia REMASTERED」発売記念キャンペーン": {
+    "JP": null,
+    "CN": "「Fate/hollow ataraxia REMASTERED」特别纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「Fate/stay night REMASTERED」発売記念 PV": {
     "JP": null,
     "CN": "「Fate/stay night REMASTERED」发售纪念 PV",
     "TW": "「Fate/stay night REMASTERED」發售紀念 PV",
     "NA": "\"Fate/stay night REMASTERED\" Release Celebration PV",
-    "KR": null
+    "KR": "‘Fate/stay night REMASTERED’ 발매 기념 PV"
   },
   "「Fate/stay night REMASTERED」発売記念キャンペーン": {
     "JP": null,
@@ -1591,8 +1878,29 @@
   "「Fate/stay night」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「Fate/stay night」关联从者助战时 获得友情点2倍！",
-    "TW": "「Fate/stay night」關聯從者支援時 獲得友情點2倍！",
+    "TW": "「Fate/stay night」關聯從者支援時 獲得友情點數2倍！",
     "NA": "\"Fate/stay night\" Related Servants Gain x2 FP as Support!",
+    "KR": "‘Fate/stay night’ 관련 서번트 서포트 시 획득 FP 2배!"
+  },
+  "「Fate/strange Fake×Fate/Grand Orderコラボレーションイベント」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「Fate/strange Fakeコラボ」関連サーヴァント 獲得絆ポイント 20%UP": {
+    "JP": null,
+    "CN": "「Fate/strange Fake联动」关联从者获得牵绊点数提升20%",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「Fate/strange Fakeコラボ」関連サーヴァントサポート時 獲得FP2倍！": {
+    "JP": null,
+    "CN": "「Fate/strange Fake联动」关联从者助战时 友情点获得量2倍！",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "「Lostbelt No.1」関連サーヴァント 獲得経験値2倍！": {
@@ -1689,7 +1997,7 @@
   "「Lostbelt No.4」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「Lostbelt No.4」关联从者助战时获得友情点2倍！",
-    "TW": "「Lostbelt No.4」關聯從者支援時獲得友情點2倍！",
+    "TW": "「Lostbelt No.4」關聯從者支援時獲得友情點數2倍！",
     "NA": "\"Lostbelt No.4\" Related Support Servants 2X FP!",
     "KR": "‘Lostbelt No.4’ 관련 서번트 서포트 시 획득 FP 2배!"
   },
@@ -1710,7 +2018,7 @@
   "「Lostbelt No.5 アトランティス」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「Lostbelt No.5 亚特兰蒂斯」关联从者助战时获得友情点2倍！",
-    "TW": "「Lostbelt No.5 亞特蘭提斯」關聯從者支援時獲得友情點2倍！",
+    "TW": "「Lostbelt No.5 亞特蘭提斯」關聯從者支援時獲得友情點數2倍！",
     "NA": "\"Lostbelt No.5 Atlantis\" Related Servants Gain x2 FP as Support!",
     "KR": "‘Lostbelt No.5 아틀란티스’ 관련 서번트 서포트 시 획득 FP 2배!"
   },
@@ -1738,7 +2046,7 @@
   "「Lostbelt No.5 オリュンポス」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「Lostbelt No.5 奥林波斯」关联从者助战时获得友情点2倍！",
-    "TW": "「Lostbelt No.5 奧林帕斯」關聯從者支援時獲得友情點2倍！",
+    "TW": "「Lostbelt No.5 奧林帕斯」關聯從者支援時獲得友情點數2倍！",
     "NA": "\"Lostbelt No.5 Olympus\" Related Servants Gain x2 FP as Support!",
     "KR": "‘Lostbelt No.5 올림포스’ 관련 서번트 서포트 시 획득 FP 2배!"
   },
@@ -1782,14 +2090,14 @@
     "CN": "「Lostbelt No.5」关联从者获得经验值2倍！",
     "TW": "「Lostbelt No.5」特定從者 獲得經驗值2倍！",
     "NA": null,
-    "KR": null
+    "KR": "‘Lostbelt No.5’ 관련 서번트 획득 경험치 2배!"
   },
   "「Lostbelt No.5」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
     "JP": null,
     "CN": "「Lostbelt No.5」关联从者强化『大成功＆极大成功』2倍！",
     "TW": "「Lostbelt No.5」特定從者強化『大成功&極大成功』機率2倍！",
     "NA": null,
-    "KR": null
+    "KR": "‘Lostbelt No.5’ 관련 서번트 강화 “대성공&극대성공” 확률 2배!"
   },
   "「Lostbelt No.6 妖精円卓領域 アヴァロン･ル･フェ 星の生まれる刻」完結記念キャンペーン": {
     "JP": null,
@@ -1829,7 +2137,7 @@
   "「Lostbelt No.6」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「Lostbelt No.6」关联从者助战时获得友情点2倍！",
-    "TW": "「Lostbelt No.6」關聯從者支援時獲得友情點2倍！",
+    "TW": "「Lostbelt No.6」關聯從者支援時獲得友情點數2倍！",
     "NA": "\"Lostbelt No. 6\" Related Support Servants 2X FP!",
     "KR": "‘Lostbelt No.6’ 관련 서번트 서포트 시 획득 FP 2배!"
   },
@@ -1934,20 +2242,48 @@
   "「OVER THE SAME SKY」実施記念ログインボーナス＆プレゼント": {
     "JP": null,
     "CN": "「OVER THE SAME SKY」实施纪念登录奖励＆礼物",
-    "TW": null,
+    "TW": "「OVER THE SAME SKY」實施紀念登入獎勵＆禮物",
     "NA": null,
     "KR": null
   },
   "「OVER THE SAME SKY」特別概念礼装交換ショップ": {
     "JP": null,
     "CN": "「OVER THE SAME SKY」特别概念礼装交换商店",
-    "TW": null,
+    "TW": "「OVER THE SAME SKY」特別概念禮裝交換商店",
+    "NA": null,
+    "KR": null
+  },
+  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔AUGUST〕": {
+    "JP": null,
+    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔8月〕",
+    "TW": "「OVER THE SAME SKY」特別概念禮裝交換商店〔8月〕",
     "NA": null,
     "KR": null
   },
   "「OVER THE SAME SKY」特別概念礼装交換ショップ〔JULY〕": {
     "JP": null,
     "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔7月〕",
+    "TW": "「OVER THE SAME SKY」特別概念禮裝交換商店〔7月〕",
+    "NA": null,
+    "KR": null
+  },
+  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔NOVEMBER〕": {
+    "JP": null,
+    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔11月〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔OCTOBER〕": {
+    "JP": null,
+    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔10月〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔SEPTEMBER〕": {
+    "JP": null,
+    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔9月〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2015,6 +2351,34 @@
     "NA": null,
     "KR": null
   },
+  "「カルデアン・フロラリア」関連サーヴァント 獲得絆ポイント 20%UP": {
+    "JP": null,
+    "CN": "「迦勒底·花神节」关联从者获得牵绊点数提升20%",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「カルデアン・フロラリア」関連サーヴァントサポート時 獲得FP2倍！": {
+    "JP": null,
+    "CN": "「迦勒底·花神节」关联从者助战时 友情点获得量2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「カルデアン・フロラリア」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
+    "JP": null,
+    "CN": "「迦勒底·花神节」关联从者强化『大成功＆极大成功』2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「カルデアン･フロラリア あなたの花が咲く頃に」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「カルデア妖精騎士杯 ～二代目の凱旋～」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「迦勒底妖精骑士杯 ～第二代的凯旋～」开幕前夕纪念活动",
@@ -2078,6 +2442,13 @@
     "NA": null,
     "KR": null
   },
+  "「ハロウィン2025」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「万圣节2025」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「バトル･イン･ニューヨーク 2019」開催直前キャンペーン": {
     "JP": null,
     "CN": "「BATTLE IN NEWYORK 2020」开幕前夕纪念活动",
@@ -2117,6 +2488,20 @@
     "JP": null,
     "CN": "「情人节2026」关联从者强化『大成功＆极大成功』率2倍！",
     "TW": "「情人節2025」特定從者強化『大成功&極大成功』機率2倍！",
+    "NA": null,
+    "KR": null
+  },
+  "「バレンタイン2026」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「情人节2026」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「バレンタイン2026」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
+    "JP": null,
+    "CN": "「情人节2026」关联从者强化『大成功＆极大成功』概率2倍！",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2160,14 +2545,14 @@
     "CN": "「神秘屋的工匠们 」关联从者获得牵绊点数提升20%",
     "TW": "「破壞吧！ 神秘宅邸的工匠們」特定從者獲得羈絆點數提升20%",
     "NA": null,
-    "KR": null
+    "KR": "‘미스터리 하우스 크래프터즈’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「ミステリーハウス・クラフターズ」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
     "JP": null,
     "CN": "「神秘屋的工匠们 」关联从者强化『大成功＆极大成功』概率2倍！",
     "TW": "「破壞吧！ 神秘宅邸的工匠們」特定從者強化『大成功&極大成功』機率2倍",
     "NA": null,
-    "KR": null
+    "KR": "‘미스터리 하우스 크래프터즈’ 관련 서번트 강화 “대성공&극대성공” 확률 2배!"
   },
   "「メイン･インタールード 徳川廻天迷宮 大奥」リリース記念キャンペーン": {
     "JP": null,
@@ -2190,9 +2575,30 @@
     "NA": null,
     "KR": null
   },
+  "「冠位戴冠戦：Archer」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Archer」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Assassin」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Assassin」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「冠位戴冠戦：Berserker」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「冠位戴冠战：Berserker」开幕前夕纪念活动",
+    "TW": "「冠位戴冠戰：Berserker」開幕前夕紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Caster」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Caster」开幕前夕纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2200,14 +2606,42 @@
   "「冠位戴冠戦：Extra」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「冠位戴冠战：Extra」开幕前夕纪念活动",
-    "TW": null,
+    "TW": "「冠位戴冠戰：Extra」開幕前夕紀念活動",
     "NA": null,
     "KR": null
   },
   "「冠位戴冠戦：Lancer」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「冠位戴冠战：Lancer」开幕前夕纪念活动",
+    "TW": "「冠位戴冠戰：Lancer」開幕前夕紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Lancer」＆「冠位戴冠戦：Extra」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
     "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Rider」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Rider」开幕前夕纪念活动",
+    "TW": "「冠位戴冠戰：Rider」開幕前夕紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Rider」＆「冠位戴冠战：Assassin」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「冠位戴冠戦：Saber」＆「冠位戴冠戦：Berserker」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
+    "TW": "「冠位戴冠戰：Saber」＆「冠位戴冠戰：Berserker」Storm Pod消耗0！紀念活動",
     "NA": null,
     "KR": null
   },
@@ -2442,6 +2876,20 @@
     "NA": "\"Evocation Vestival Part 13\" Related Servants 2X EXP!",
     "KR": null
   },
+  "「巡霊の祝祭 第14弾」関連サーヴァント 獲得絆ポイント 20%UP＆威力50%UP": {
+    "JP": null,
+    "CN": "「巡灵的祝祭 第14弹」关联从者 获得牵绊点数提升20%＆威力提升50%",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「巡霊の祝祭 第14弾」関連サーヴァント 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "「巡灵的祝祭 第14弹」关联从者获得经验值2倍！",
+    "TW": "「巡靈的祝祭 第14彈」特定從者獲得經驗值2倍！",
+    "NA": "\"Evocation Vestival Part 14\" Related Servants 2X EXP!",
+    "KR": null
+  },
   "「巡霊の祝祭 第1～9弾」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「巡灵的祝祭 第1～9弹」关联从者 获得牵绊点数 提升20%",
@@ -2474,71 +2922,71 @@
     "JP": null,
     "CN": "「巡灵的祝祭 第4弹」关联从者 获得牵绊点数提升20%",
     "TW": "「巡靈的祝祭 第4彈」關聯從者 獲得羈絆點數提升20%",
-    "NA": "\"Evocation Festival Part 4\" Related Servants Bond Points UP 20%",
+    "NA": "\"Pilgrimage Festival: Part 4\" Related Servant Bond Points 20% Up",
     "KR": "‘순령의 축제 제4탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第4弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第4弹」关联从者 获得经验值2倍！",
     "TW": "「巡靈的祝祭 第4彈」關聯從者 獲得經驗值2倍！",
-    "NA": "\"Evocation Festival: Part 4\" Related Servants 2X EXP!",
+    "NA": "\"Pilgrimage Festival: Part 4\" Related Servants 2X EXP!",
     "KR": "‘순령의 축제 제4탄’ 관련 서번트 획득 경험치 2배!"
   },
   "「巡霊の祝祭 第5弾」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「巡灵的祝祭 第5弹」关联从者 获得牵绊点数提升20%",
     "TW": "「巡靈的祝祭 第5彈」關聯從者 獲得羈絆點數提升20%",
-    "NA": "\"Evocation Festival Part 5\" Related Servants Bond Points UP 20%",
+    "NA": "\"Pilgrimage Festival: Part 5\" Related Servant Bond Points 20% Up",
     "KR": "‘순령의 축제 제5탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第5弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第5弹」关联从者 获得经验值2倍！",
     "TW": "「巡靈的祝祭 第5彈」關聯從者 獲得經驗值2倍！",
-    "NA": "\"Evocation Festival: Part 5\" Related Servants 2X EXP!",
+    "NA": "\"Pilgrimage Festival: Part 5\" Related Servants 2X EXP!",
     "KR": "‘순령의 축제 제5탄’ 관련 서번트 획득 경험치 2배!"
   },
   "「巡霊の祝祭 第6弾」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「巡灵的祝祭 第6弹」关联从者 获得牵绊点数提升20%",
-    "TW": "「巡靈的祝祭 第6彈」特定從者獲得羈絆量提升20%",
-    "NA": "\"Evocation Festival Part 6\" Related Servants Bond Points UP 20%",
+    "TW": "「巡靈的祝祭 第6彈」關聯從者 獲得羈絆點數提升20%",
+    "NA": "\"Pilgrimage Festival: Part 6\" Related Servant Bond Points 20% Up",
     "KR": "‘순령의 축제 제6탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第6弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第6弹」关联从者 获得经验值2倍！",
-    "TW": "「巡靈的祝祭 第6彈」特定從者獲得經驗值2倍！",
-    "NA": "\"Evocation Festival: Part 6\" Related Servants 2X EXP!",
+    "TW": "「巡靈的祝祭 第6彈」關聯從者 獲得經驗值2倍！",
+    "NA": "\"Pilgrimage Festival: Part 6\" Related Servants 2X EXP!",
     "KR": "‘순령의 축제 제6탄’ 관련 서번트 획득 경험치 2배!"
   },
   "「巡霊の祝祭 第7弾」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「巡灵的祝祭 第7弹」关联从者 获得牵绊点数提升20%",
-    "TW": "「巡靈的祝祭 第6彈」特定從者獲得羈絆點提升20%",
-    "NA": "\"Evocation Festival: Part 7\" Related Servants Bond Points UP 20%",
-    "KR": null
+    "TW": "「巡靈的祝祭 第7彈」關聯從者 獲得羈絆點數提升20%",
+    "NA": "\"Pilgrimage Festival: Part 7\" Related Servants Bond Points 20% Up",
+    "KR": "‘순령의 축제 제7탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第7弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第7弹」关联从者 获得经验值2倍！",
-    "TW": "「巡靈的祝祭 第7彈」特定從者獲得經驗值2倍！",
-    "NA": "\"Evocation Festival: Part 7\" Related Servants 2X EXP!",
-    "KR": null
+    "TW": "「巡靈的祝祭 第7彈」關聯從者 獲得經驗值2倍！",
+    "NA": "\"Pilgrimage Festival: Part 7\" Related Servants 2X EXP!",
+    "KR": "‘순령의 축제 제7탄’ 관련 서번트 획득 경험치 2배!"
   },
   "「巡霊の祝祭 第8弾」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「巡灵的祝祭 第8弹」关联从者 获得牵绊点数提升20%",
-    "TW": "「巡靈的祝祭 第8彈」特定從者獲得羈絆點提升20%",
-    "NA": "\"Evocation Festival: Part 8\" Related Servants Bond Points UP 20%",
-    "KR": null
+    "TW": "「巡靈的祝祭 第8彈」關聯從者 獲得羈絆點數提升20%",
+    "NA": "\"Pilgrimage Festival: Part 8\" Related Servant Bond Points 20% Up",
+    "KR": "‘순령의 축제 제8탄’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「巡霊の祝祭 第8弾」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
     "CN": "「巡灵的祝祭 第8弹」关联从者 获得经验值2倍！",
-    "TW": "「巡靈的祝祭 第8彈」特定從者獲得經驗值2倍！",
-    "NA": "\"Evocation Festival: Part 8\" Related Servants 2X EXP!",
-    "KR": null
+    "TW": "「巡靈的祝祭 第8彈」關聯從者 獲得經驗值2倍！",
+    "NA": "\"Pilgrimage Festival: Part 8\" Related Servants 2X EXP!",
+    "KR": "‘순령의 축제 제8탄’ 관련 서번트 획득 경험치 2배!"
   },
   "「巡霊の祝祭」関連サーヴァント 獲得経験値2倍！": {
     "JP": null,
@@ -2547,10 +2995,52 @@
     "NA": "Pilgrimage Festival Related Servants 2X EXP!",
     "KR": "‘순령의 축제’ 관련 서번트 획득 경험치 2배!"
   },
+  "「幕末チャンバラ神話 ぐだぐだ新選組･ジ･エンド REVENGE OF MAKOTO」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「幕末剑斗神话 唠唠叨叨新选组·THE·END REVENGE OF MAKOTO」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「復刻:カルデアボーイズコレクション2016」期間限定概念礼装プレゼントキャンペーン": {
     "JP": null,
     "CN": "「复刻：迦勒底男性精选2017」限时概念礼装赠送活动",
     "TW": "「復刻：迦勒底男性精選2016」限時概念禮裝贈送活動",
+    "NA": null,
+    "KR": null
+  },
+  "「新章」開幕直前キャンペーン 第1弾": {
+    "JP": null,
+    "CN": "「新章」开幕前夕纪念活动 第1弹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「春の終わりに君を待つ」開幕直前キャンペーン": {
+    "JP": null,
+    "CN": "「于春日的尾声等待你」开幕前夕纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「春の終わりに君を待つ」関連サーヴァント 獲得絆ポイント 20%UP": {
+    "JP": null,
+    "CN": "\"Waiting for You at the End of Spring\" Related Servants Bond Points Gained 20% UP",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「春の終わりに君を待つ」関連サーヴァントサポート時 獲得FP2倍！": {
+    "JP": null,
+    "CN": "「Waiting for you at the end of spring」相关从者支援时 获得FP加倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「春の終わりに君を待つ」関連サーヴァント強化『大成功＆極大成功』率2倍！\t": {
+    "JP": null,
+    "CN": "「Waiting for You at the End of Spring」Related Servant Enhancement 『Great Success & Super Success』 Rate x2!",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2589,6 +3079,27 @@
     "NA": "\"Swimsuit Spirit Origin\" Servant Bond Points 30% Up",
     "KR": "‘수영복 영기’ 서번트 획득 인연 포인트 30% UP"
   },
+  "「浅葱の隊服」獲得EXP2倍": {
+    "JP": null,
+    "CN": "「浅葱的队服」获得经验值2倍",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「第2部 終章」限定サーヴァント 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "「第2部 终章」限定从者获得经验值2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「第2部 終章」限定概念礼装交換ショップ": {
+    "JP": null,
+    "CN": "「第2部 终章」限定概念礼装兑换商店",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "「聖杯戦線 ～白天の城、黒夜の城～」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「圣杯战线 ～白昼之城、黑夜之城～」开幕前夕纪念活动",
@@ -2599,7 +3110,7 @@
   "「落涙の翼」開幕直前キャンペーン": {
     "JP": null,
     "CN": "「落泪之翼」开幕前夕纪念活动",
-    "TW": null,
+    "TW": "「落淚之翼」開幕前夕紀念活動",
     "NA": null,
     "KR": null
   },
@@ -2648,23 +3159,23 @@
   "「踊るドラゴン・キャッスル！」関連サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "「舞动龙宫！」关联从者 获得牵绊点数提升20%",
-    "TW": "「舞動龍宮城！」特定從者獲得羈絆點數提升20%",
-    "NA": "\"Dancing Dragon Castle!\" Related Servants Bond Points UP 20%",
-    "KR": null
+    "TW": "「舞動龍宮！」關聯從者 獲得羈絆點數提升20%",
+    "NA": "\"The Dancing Dragon Castle!\" Related Servants Bond Points 20% Up",
+    "KR": "‘춤추는 드래곤 캐슬!’ 관련 서번트 획득 인연 포인트 20% UP"
   },
   "「踊るドラゴン・キャッスル！」関連サーヴァントサポート時 獲得FP2倍！": {
     "JP": null,
     "CN": "「舞动龙宫！」关联从者助战时 友情点获得量2倍！",
-    "TW": "「舞動龍宮城！」特定從者獲得友情點數提升2倍",
-    "NA": "\"Dancing Dragon Castle!\" Related Servants Gain x2 FP as Support!",
-    "KR": null
+    "TW": "「舞動龍宮！」關聯從者支援時 友情點數獲得量2倍！",
+    "NA": "\"The Dancing Dragon Castle!\" Related Servants Gain x2 FP as Support!",
+    "KR": "‘춤추는 드래곤 캐슬!’ 관련 서번트 서포트 시 획득 FP 2배!"
   },
   "「踊るドラゴン・キャッスル！」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
     "JP": null,
     "CN": "「舞动龙宫！」关联从者强化『大成功＆极大成功』2倍！",
-    "TW": "「舞動龍宮城！」特定從者強化『大成功&極大成功』機率2倍",
-    "NA": "\"Dancing Dragon Castle!\" Related Servants Enhancement Great & Super Success Rate x2!",
-    "KR": null
+    "TW": "「舞動龍宮！」關聯從者強化『大成功＆極大成功』2倍！",
+    "NA": "\"The Dancing Dragon Castle!\" Related Servants Super & Great Success Rate x2!",
+    "KR": "‘춤추는 드래곤 캐슬!’ 관련 서번트 강화 “대성공&극대성공” 확률 2배!"
   },
   "「踊るドラゴン･キャッスル！ ～深海の姫君とふたつの宝玉～」開幕直前キャンペーン": {
     "JP": null,
@@ -2677,6 +3188,27 @@
     "JP": null,
     "CN": "「魔法使之夜×Fate/Grand Order联动活动」开幕前夕纪念活动",
     "TW": "「魔法使之夜×Fate/Grand Order連動活動」開幕前夕紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "「？？？編 郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第2弾": {
+    "JP": null,
+    "CN": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「？？？編 郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第3弾": {
+    "JP": null,
+    "CN": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第3弹",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「？？？編 郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第4弾": {
+    "JP": null,
+    "CN": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第4弹",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -2720,14 +3252,14 @@
     "CN": "通通砸碎！ 神秘屋的工匠们",
     "TW": "破壞吧！ 神秘宅邸的工匠們",
     "NA": null,
-    "KR": null
+    "KR": "때려 부숴라! 미스터리 하우스 크래프터즈 "
   },
   "ぶち壊せ！ ミステリーハウス・クラフターズ \n～星の鉱員と日の出の翼～": {
     "JP": null,
     "CN": "通通砸碎！ 神秘屋的工匠们\n～星之矿工与日出之翼～",
     "TW": "破壞吧！ 神秘宅邸的工匠們 \n～星之礦工與日出之翼～",
     "NA": "Break Through! Mystery House Crafters — The Star Miner and the Wings of Sunrise",
-    "KR": null
+    "KR": "때려 부숴라! 미스터리 하우스 크래프터즈 "
   },
   "ぶっちぎり茶の湯バトル \nぐだぐだ新邪馬台国 地獄から帰ってきた男": {
     "JP": null,
@@ -2761,8 +3293,22 @@
     "JP": null,
     "CN": "Assassin职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Assassin職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Assassin Class Great & Super Success x2!",
+    "NA": "Assassin Class Super & Great Success Rate x2!",
     "KR": "어쌔신 클래스 강화 “대성공&극대성공” 확률 2배!"
+  },
+  "アサシンクラス 強化『大成功＆極大成功』率3倍！": {
+    "JP": null,
+    "CN": "Assassin职阶强化『大成功＆极大成功』概率3倍！",
+    "TW": "Assassin職階強化『大成功＆極大成功』機率3倍！",
+    "NA": "Assassin Class Super & Great Success Rate x3!",
+    "KR": "어쌔신 클래스 강화 “대성공&극대성공” 확률 3배!"
+  },
+  "アサシンクラス 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "Assassin职阶 获得经验值2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "アドバンスドクエスト 第10弾": {
     "JP": null,
@@ -2816,16 +3362,16 @@
   "アドバンスドクエスト 第17弾": {
     "JP": null,
     "CN": "进阶关卡 第17弹",
-    "TW": "進階關卡 第17彈",
+    "TW": "進階任務 第17彈",
     "NA": "Advanced Quest: Part 17",
-    "KR": "어드밴스드 퀘스트 17탄"
+    "KR": "어드밴스드 퀘스트 제17탄"
   },
   "アドバンスドクエスト 第18弾": {
     "JP": null,
     "CN": "进阶关卡 第18弹",
-    "TW": "進階關卡 第18彈",
+    "TW": "進階任務 第18彈",
     "NA": "Advanced Quest: Part 18",
-    "KR": "어드밴스드 퀘스트 18탄"
+    "KR": "어드밴스드 퀘스트 제18탄"
   },
   "アドバンスドクエスト 第1弾": {
     "JP": null,
@@ -2882,6 +3428,13 @@
     "TW": "進階任務 第9彈",
     "NA": "Advanced Quest: Part 9",
     "KR": "어드밴스드 퀘스트 제9탄"
+  },
+  "アフタータイム・バレンタイン2026 \n～お母さんチョコの謎～": {
+    "JP": null,
+    "CN": "Aftertime·情人节2026\n～母亲巧克力之谜～",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "アポクリファ放映&6章舞台化記念クエスト": {
     "JP": null,
@@ -2950,8 +3503,22 @@
     "JP": null,
     "CN": "Archer职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Archer職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Archer Class Servants Great & Super Success x2!",
+    "NA": "Archer Class Super & Great Success Rate x2!",
     "KR": "아처 클래스 강화 “대성공&극대성공” 확률 2배!"
+  },
+  "アーチャークラス 強化『大成功＆極大成功』率3倍！": {
+    "JP": null,
+    "CN": "Archer职阶强化『大成功＆极大成功』概率3倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アーチャークラス 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "Archer职阶 获得经验值2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "イベント限定サーヴァント 獲得経験値2倍！": {
     "JP": null,
@@ -2965,28 +3532,42 @@
     "CN": "活动限定从者强化『大成功＆极大成功』概率2倍！",
     "TW": "活動限定從者強化『大成功＆極大成功』機率2倍！",
     "NA": "Event-Only Servants Great & Super Success x2!",
-    "KR": null
+    "KR": "이벤트 특별 서번트 강화 “대성공&극대성공” 확률 2배!"
   },
   "インドラの大試練 \n～巡るブロークン・スカイ～": {
     "JP": null,
     "CN": "因陀罗的大试炼 \n～巡游破碎的天空～",
+    "TW": "因陀羅的大試煉 \n～巡遊破碎的天空～",
+    "NA": null,
+    "KR": null
+  },
+  "エイプリルフール": {
+    "JP": null,
+    "CN": "愚人节",
     "TW": null,
+    "NA": "April Fool's",
+    "KR": null
+  },
+  "エクストラクラス 強化『大成功＆極大成功』率3倍！": {
+    "JP": null,
+    "CN": "Extra职阶强化『大成功＆极大成功』概率3倍！",
+    "TW": "Extra職階強化『大成功＆極大成功』機率3倍！",
     "NA": null,
     "KR": null
   },
   "エクストラクラス 獲得経験値2倍！": {
     "JP": null,
     "CN": "Extra职阶 获得经验值2倍！",
-    "TW": null,
+    "TW": "Extra職階 獲得經驗值2倍！",
     "NA": null,
     "KR": null
   },
   "オルガマリークエスト_2": {
     "JP": null,
     "CN": "奥尔加玛丽关卡_2",
-    "TW": "奧爾嘉瑪麗关卡_2",
+    "TW": "奧爾嘉瑪麗任務_2",
     "NA": "Olga Marie Quest_2",
-    "KR": null
+    "KR": "올가마리 퀘스트_2"
   },
   "オルガマリークエスト_3": {
     "JP": null,
@@ -3103,9 +3684,9 @@
   "カルデアボーイズコレクション2023": {
     "JP": null,
     "CN": "迦勒底男性精选2024",
-    "TW": "迦勒底男性精選2023",
-    "NA": "Chaldea Boys Collection 2023",
-    "KR": null
+    "TW": "迦勒底男性精選2025",
+    "NA": "Chaldea Boys Collection 2025",
+    "KR": "칼데아 보이즈 컬렉션 2024"
   },
   "カルデアボーイズコレクション2024": {
     "JP": null,
@@ -3114,12 +3695,26 @@
     "NA": null,
     "KR": null
   },
+  "カルデアボーイズコレクション2025": {
+    "JP": null,
+    "CN": "迦勒底男性精选2025",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデアン・フロラリア\nあなたの花が咲く頃に": {
+    "JP": null,
+    "CN": "迦勒底·花神节\n你的鲜花盛放之时",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "カルデア・サマーアドベンチャー！\n～夢追う少年と夢見る少女～ アンケート復刻版": {
     "JP": null,
     "CN": "迦勒底·夏日冒险！\n～追梦少年与怀梦少女～ 复刻版",
-    "TW": "迦勒底·夏日冒險！ \n～追夢少年與懷夢少女～ 問卷復刻版",
-    "NA": "Survey Revival: Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams",
-    "KR": null
+    "TW": "迦勒底．夏日冒險！\n～追夢少年與懷夢少女～ 復刻版",
+    "NA": "Revival: Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams",
+    "KR": "칼데아 서머 어드벤처!\n~꿈을 좇는 소년과 꿈을 꾸는 소녀~ 앙케이트 복각판"
   },
   "カルデア・サマーアドベンチャー！ \n～夢追う少年と夢見る少女～": {
     "JP": null,
@@ -3127,6 +3722,20 @@
     "TW": "迦勒底．夏日冒險！ \n～追夢少年與懷夢少女～",
     "NA": "Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams",
     "KR": "칼데아 서머 어드벤처!\n~꿈을 좇는 소년과 꿈을 꾸는 소녀~"
+  },
+  "カルデア・Ｕ－サマーアイランド": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿",
+    "TW": "迦勒底・U－夏日島嶼",
+    "NA": null,
+    "KR": null
+  },
+  "カルデア・Ｕ－サマーアイランド \n～大統領は夏の夢を見るか？～": {
+    "JP": null,
+    "CN": "迦勒底·U－夏日岛屿 \n～总统会梦见夏天吗？～",
+    "TW": "迦勒底・U－夏日島嶼 \n～總統會夢見夏天嗎？～",
+    "NA": null,
+    "KR": null
   },
   "カルナ〔サンタ〕獲得経験値2倍！": {
     "JP": null,
@@ -3141,6 +3750,20 @@
     "TW": "Caster職階強化『大成功＆極大成功』機率2倍！",
     "NA": "Caster Class Great & Super Success x2!",
     "KR": "캐스터 클래스 강화 “대성공&극대성공” 확률 2배!"
+  },
+  "キャスタークラス 強化『大成功＆極大成功』率3倍！": {
+    "JP": null,
+    "CN": "Caster职阶强化『大成功＆极大成功』概率3倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "キャスタークラス 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "Caster职阶 获得经验值2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "クリスマス2018 ホーリー・サンバ・ナイト\n～雪降る遺跡と少女騎士～": {
     "JP": null,
@@ -3300,7 +3923,7 @@
     "JP": null,
     "CN": "Saber职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Saber職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Saber Class Servants Great & Super Success x2!",
+    "NA": "Saber Class Super & Great Success Rate x2!",
     "KR": "세이버 클래스 강화 “대성공&극대성공” 확률 2배!"
   },
   "セイバークラス 強化『大成功＆極大成功』率3倍！": {
@@ -3369,9 +3992,9 @@
   "ネモ〔サンタ〕 獲得経験値2倍！": {
     "JP": null,
     "CN": "尼莫〔圣诞〕获得经验值2倍！",
-    "TW": "尼莫(Santa)獲得經驗值2倍！",
+    "TW": "尼莫〔Santa〕獲得經驗值2倍！",
     "NA": "Nemo (Santa) 2X EXP!",
-    "KR": null
+    "KR": "네모[산타] 획득 경험치 2배!"
   },
   "ネロ祭": {
     "JP": null,
@@ -3450,6 +4073,13 @@
     "NA": "Battle in New York 2024 - Space Odysseus Versus Nikola Tesla",
     "KR": "배틀 인 뉴욕 2024\n~스페이스 오디세우스 대 니콜라 테슬라~"
   },
+  "バトル開始時にNP50%チャージ！": {
+    "JP": null,
+    "CN": "战斗开始时充能50%",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "バレンタイン2018 ～繁栄のチョコレート\nガーデンズ・オブ・バレンタイン～": {
     "JP": null,
     "CN": "情人节2019 ～繁荣的巧克力\n情人节庭园～",
@@ -3474,9 +4104,9 @@
   "バレンタイン2024\n～チョコレート・リバーのその先に～": {
     "JP": null,
     "CN": "情人节2025\n～前往巧克力之河的尽头～",
-    "TW": "情人節2024\n～在巧克力之河的彼端～",
-    "NA": "Valentine's 2024 - Beyond the Chocolate River",
-    "KR": null
+    "TW": "情人節2025\n～在巧克力之河的彼端～",
+    "NA": "Valentine's 2026 - Beyond the River of Chocolate",
+    "KR": "발렌타인 2025\n~초콜릿 리버, 그 너머로~"
   },
   "バーサーカークラス 強化『大成功＆極大成功』率2倍！": {
     "JP": null,
@@ -3503,15 +4133,15 @@
     "JP": null,
     "CN": "狂战士&Alterego职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Berserker&Alterego職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Berserker & Alter Ego Class Great & Super Success x2!",
+    "NA": "Berserker & Alter Ego Class Super & Great Success Rate x2!",
     "KR": "버서커&얼터에고 클래스 강화 “대성공&극대성공” 확률 2배!"
   },
   "パビリオンクエスト": {
     "JP": null,
     "CN": "博览关卡",
-    "TW": "展區關卡",
+    "TW": "展館任務",
     "NA": "Pavilion Quest",
-    "KR": null
+    "KR": "파빌리온 퀘스트"
   },
   "パールヴァティー体験クエスト": {
     "JP": null,
@@ -3519,6 +4149,27 @@
     "TW": "帕爾瓦蒂體驗任務",
     "NA": "Pārvatī Trial Quest",
     "KR": "파르바티 체험 퀘스트"
+  },
+  "ヒッポリュテ 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "希波吕忒 获得经验值2倍！",
+    "TW": null,
+    "NA": "Hippolyte 2X EXP!",
+    "KR": null
+  },
+  "ファイナル・ハロウィン2025": {
+    "JP": null,
+    "CN": "最终·万圣节2025",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ファイナル・ハロウィン2025\n～パンプキンプラネットに輝く歌姫～": {
+    "JP": null,
+    "CN": "最终·万圣节2025\n～南瓜行星上闪耀的歌姬～",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "フォーリナークラス 強化『大成功＆極大成功』率2倍！": {
     "JP": null,
@@ -3532,6 +4183,13 @@
     "CN": "首次通关自由关卡＆亚种特异点的主线关卡AP消耗减半",
     "TW": "首次通關自由關卡＆亞種特異點的主線關卡AP消耗減半",
     "NA": null,
+    "KR": null
+  },
+  "フローラ 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "芙萝拉获得经验值2倍！",
+    "TW": null,
+    "NA": "Flora 2X EXP!",
     "KR": null
   },
   "ブリュンヒルデ体験クエスト": {
@@ -3761,9 +4419,9 @@
   "ヤマトタケル体験クエスト": {
     "JP": null,
     "CN": "大和武尊体验关卡",
-    "TW": "日本武尊體驗關卡",
+    "TW": "大和武尊體驗任務",
     "NA": "Yamato Takeru Trial Quest",
-    "KR": null
+    "KR": "야마토타케루 체험 퀘스트"
   },
   "ヤラアーンドゥ 獲得経験値2倍！": {
     "JP": null,
@@ -3783,8 +4441,22 @@
     "JP": null,
     "CN": "Rider职阶强化『大成功＆极大成功』概率2倍！",
     "TW": "Rider職階強化『大成功＆極大成功』機率2倍！",
-    "NA": "Rider Class Great & Super Success x2!",
+    "NA": "Rider Class Super & Great Success Rate x2!",
     "KR": "라이더 클래스 강화 “대성공&극대성공” 확률 2배!"
+  },
+  "ライダークラス 強化『大成功＆極大成功』率3倍！": {
+    "JP": null,
+    "CN": "Rider职阶强化『大成功＆极大成功』概率3倍！",
+    "TW": "Rider職階強化『大成功＆極大成功』機率3倍！",
+    "NA": "Rider Class Super & Great Success Rate x3!",
+    "KR": "라이더 클래스 강화 “대성공&극대성공” 확률 3배!"
+  },
+  "ライダークラス 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "Rider职阶获得经验值2倍！",
+    "TW": "Rider職階獲得經驗值2倍！",
+    "NA": null,
+    "KR": null
   },
   "ランサークラス 強化『大成功＆極大成功』率2倍！": {
     "JP": null,
@@ -3796,14 +4468,14 @@
   "ランサークラス 強化『大成功＆極大成功』率3倍！": {
     "JP": null,
     "CN": "Lancer职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": null,
+    "TW": "Lancer職階強化『大成功＆極大成功』機率3倍！",
     "NA": null,
     "KR": null
   },
   "ランサークラス 獲得経験値2倍！": {
     "JP": null,
     "CN": "Lancer职阶获得经验值2倍！",
-    "TW": null,
+    "TW": "Lancer職階獲得經驗值2倍！",
     "NA": null,
     "KR": null
   },
@@ -3972,8 +4644,8 @@
     "JP": null,
     "CN": "开服3000日突破纪念活动",
     "TW": "迦勒底立秋特別紀念活動",
-    "NA": "3000 Days Anniversary Campaign",
-    "KR": null
+    "NA": "3000 Days Anniversary Celebration Campaign",
+    "KR": "한국 서비스 3000일 돌파 캠페인"
   },
   "リリース300日突破キャンペーン": {
     "JP": null,
@@ -4020,6 +4692,27 @@
   "リリース3600日突破キャンペーン": {
     "JP": null,
     "CN": "上线3600日纪念活动",
+    "TW": "上線3600日紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "リリース3700日突破キャンペーン": {
+    "JP": null,
+    "CN": "上线3700日纪念活动",
+    "TW": "上線3700日紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "リリース3800日突破キャンペーン": {
+    "JP": null,
+    "CN": "上线3800日纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "リリース3900日突破キャンペーン": {
+    "JP": null,
+    "CN": "上线3900日纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4092,7 +4785,7 @@
     "CN": "莱昂纳多·达·芬奇(Ruler)获得经验值2倍！",
     "TW": "李奧納多．達．文西(Ruler)獲得經驗值2倍！",
     "NA": "Leonardo da Vinci (Ruler) 2X EXP!",
-    "KR": null
+    "KR": "레오나르도 다 빈치(룰러) 획득 경험치 2배!"
   },
   "レディ・ライネスの事件簿": {
     "JP": null,
@@ -4119,7 +4812,7 @@
     "JP": null,
     "CN": "旺吉娜·世界之旅！\n～与大精灵的环游世界～",
     "TW": "旺吉娜・世界之旅！\n～與大精靈的環遊世界～",
-    "NA": "Wandjina World Tour!\n- Globe-Trotting with the Great Spirit",
+    "NA": "The Great Spirit's World Tour!\nAround the World with the Esteemed Spirit",
     "KR": "완지나 월드 투어!\n~대정령과 함께하는 세계 일주~"
   },
   "ヴァン・ゴッホ〔マイナー〕 獲得経験値2倍！": {
@@ -4127,7 +4820,7 @@
     "CN": "梵高〔矿工〕 获得经验值2倍！",
     "TW": "梵谷〔礦工〕獲得經驗值2倍！",
     "NA": "Van Gogh (Miner) 2X EXP!",
-    "KR": null
+    "KR": "반 고흐[마이너] 획득 경험치 2배!"
   },
   "九紋竜エリザ 獲得経験値2倍！": {
     "JP": null,
@@ -4190,7 +4883,7 @@
     "CN": "兑换的★4(SR)从者 获得经验值2倍！",
     "TW": "兌換的★4(SR)從者 獲得經驗值2倍！",
     "NA": "Exchanged ★4 (SR) Servant 2X EXP!",
-    "KR": "교환한 ★4(SS) 서번트 획득 경험치 2배!"
+    "KR": "교환한 ★4(SR) 서번트 획득 경험치 2배!"
   },
   "交換した★5(SSR)サーヴァント 獲得経験値2倍！": {
     "JP": null,
@@ -4234,11 +4927,39 @@
     "NA": "Koyanskaya of Light Trial Quest",
     "KR": "빛의 코얀스카야 체험 퀘스트"
   },
+  "全「冠位戴冠戦」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "全「冠位戴冠战」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "冠位戴冠戦：Archer": {
+    "JP": null,
+    "CN": "冠位戴冠战：Archer",
+    "TW": "冠位戴冠戰：Archer",
+    "NA": "Grand Duel: Archer",
+    "KR": null
+  },
+  "冠位戴冠戦：Assassin": {
+    "JP": null,
+    "CN": "冠位戴冠战：Assassin",
+    "TW": "冠位戴冠戰：Assassin",
+    "NA": "Grand Duel: Assassin",
+    "KR": null
+  },
   "冠位戴冠戦：Berserker": {
     "JP": null,
     "CN": "冠位戴冠战：Berserker",
     "TW": "冠位戴冠戰：Berserker",
     "NA": "Grand Duel: Berserker",
+    "KR": null
+  },
+  "冠位戴冠戦：Caster": {
+    "JP": null,
+    "CN": "冠位戴冠战：Caster",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "冠位戴冠戦：Extra": {
@@ -4253,6 +4974,13 @@
     "CN": "冠位戴冠战：Lancer",
     "TW": "冠位戴冠戰：Lancer",
     "NA": "Grand Duel: Lancer",
+    "KR": null
+  },
+  "冠位戴冠戦：Rider": {
+    "JP": null,
+    "CN": "冠位戴冠战：Rider",
+    "TW": "冠位戴冠戰：Rider",
+    "NA": "Grand Duel: Rider",
     "KR": null
   },
   "冠位戴冠戦：Saber": {
@@ -4272,23 +5000,23 @@
   "初回クリアまで 消費AP 50%DOWN": {
     "JP": null,
     "CN": "自由关卡首次通关前AP消耗1/2",
-    "TW": "首次通關前AP消耗1/2",
+    "TW": "自由任務首次通關前AP消耗1/2",
     "NA": "AP Cost 1/2 Until First Clear",
     "KR": "최초 클리어까지 소비 AP 50% DOWN"
   },
   "初回クリアまで 消費AP0！": {
     "JP": null,
     "CN": "首次通关前消耗AP为0！",
-    "TW": "首次通關前 消耗AP為0！",
-    "NA": "0 AP Cost Until First Clear!",
-    "KR": null
+    "TW": "首次通關前消耗AP為0！",
+    "NA": "AP Cost 0 until first clear!",
+    "KR": "최초 클리어까지 소비 AP 0!"
   },
   "初回クリアまで 消費ストーム・ポッド0！": {
     "JP": null,
     "CN": "首次通关前消耗风暴罐为0！",
-    "TW": "首次通關前 Storm Pod消耗為0！",
-    "NA": "0 Storm Pods Cost Until First Clear!",
-    "KR": null
+    "TW": "首次通關前消耗風暴罐為0！",
+    "NA": "Storm Pod Cost 0 until first clear!",
+    "KR": "최초 클리어까지 소비 스톰 포드 0!"
   },
   "初回クリアまで消費AP 50%DOWN": {
     "JP": null,
@@ -4296,6 +5024,20 @@
     "TW": "自由任務首次通關前AP消耗1/2",
     "NA": "AP Cost 1/2 Until First Clear",
     "KR": "강화 시 대성공&극대성공 확률 2배!"
+  },
+  "剽滅十字前線 アンティオキア": {
+    "JP": null,
+    "CN": "剽灭十字前线 安条克",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "剽滅十字前線 アンティオキア / 偽典共鳴幻想 スノーフィールド": {
+    "JP": null,
+    "CN": "剽灭十字前线 安条克 / 伪典共鸣幻想 雪原市",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "劇場版「Fate/Grand Order -神聖円卓領域キャメロット- Wandering; Agateram」公開記念キャンペーン": {
     "JP": null,
@@ -4339,6 +5081,20 @@
     "NA": "Senji Muramasa Trial Quest",
     "KR": "센지 무라마사 체험 퀘스트"
   },
+  "原田左之助獲得経験値2倍！": {
+    "JP": null,
+    "CN": "原田左之助获得经验值2倍！",
+    "TW": null,
+    "NA": "Harada Sanosuke 2X EXP!",
+    "KR": null
+  },
+  "呼延灼（バーサーカー）獲得経験値2倍！": {
+    "JP": null,
+    "CN": "呼延灼（Berserker）获得经验值2倍！",
+    "TW": "呼延灼（Berserker）獲得經驗值2倍！",
+    "NA": null,
+    "KR": null
+  },
   "坂本龍馬獲得経験値2倍！": {
     "JP": null,
     "CN": "坂本龙马获得经验值2倍！",
@@ -4374,6 +5130,13 @@
     "NA": "Summer! Ocean! Pioneering! FGO Summer 2018 Chaldea Heat Odyssey\n- Civilization of Evolution -",
     "KR": "여름이다! 바다다! 개척이다! FGO 2018 Summer\n칼데아 히트오디세이 ~진화의 시빌라이제이션~"
   },
+  "夏予習版:雀のお宿の活動日誌～閻魔亭繁盛記～": {
+    "JP": null,
+    "CN": "夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "大晦日TVスペシャル記念概念礼装獲得クエスト": {
     "JP": null,
     "CN": "特别篇动画公布",
@@ -4395,19 +5158,33 @@
     "NA": "The Great Tale of Demons: Onigashima",
     "KR": "텐마오토기조시 오니가시마"
   },
+  "太歳星君 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "太岁星君获得经验值2倍！",
+    "TW": "太歲星君獲得經驗值2倍！",
+    "NA": "Taisui Xingjun 2X EXP!",
+    "KR": "태세성군 획득 경험치 2배!"
+  },
+  "失われた創世": {
+    "JP": null,
+    "CN": "失落的创世",
+    "TW": "失落的創世",
+    "NA": null,
+    "KR": null
+  },
   "妖精双六虫籠遊戯": {
     "JP": null,
     "CN": "妖精双六虫笼游戏",
     "TW": "妖精雙六蟲籠遊戲",
     "NA": null,
-    "KR": null
+    "KR": "요정 스고로쿠 충롱유희 \n아직 보지 못한 완벽한 당신에게"
   },
   "妖精双六虫籠遊戯 \nまだ見ぬ完璧なあなたへ": {
     "JP": null,
     "CN": "妖精双六虫笼游戏 \n致尚未得见的完美的你",
     "TW": "妖精雙六蟲籠遊戲 \n致尚未謀面完美的你",
     "NA": "Faerie Sugoroku: Insect Cage Game\nFor a Yet Unseen Perfect You",
-    "KR": null
+    "KR": "요정 스고로쿠 충롱유희 \n아직 보지 못한 완벽한 당신에게"
   },
   "宇津見エリセ経験値獲得量2倍": {
     "JP": null,
@@ -4428,7 +5205,7 @@
     "CN": "宫本伊织获得经验值2倍！",
     "TW": "宮本伊織獲得經驗值2倍！",
     "NA": "Miyamoto Iori 2X EXP!",
-    "KR": null
+    "KR": "미야모토 이오리 획득 경험치 2배!"
   },
   "宮本武蔵体験クエスト": {
     "JP": null,
@@ -4469,6 +5246,13 @@
     "JP": null,
     "CN": "巡灵的祝祭 第13弹",
     "TW": "巡靈的祝祭 第13彈",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭 第14弾": {
+    "JP": null,
+    "CN": "巡灵的祝祭 第14弹",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -4532,6 +5316,13 @@
     "JP": null,
     "CN": "巡灵的祝祭 第9弹",
     "TW": "巡靈的祝祭 第9彈",
+    "NA": null,
+    "KR": null
+  },
+  "幕末チャンバラ神話 ぐだぐだ新選組・ジ・エンド \nREVENGE OF MAKOTO": {
+    "JP": null,
+    "CN": "幕末剑斗神话 唠唠叨叨新选组·THE·END \nREVENGE OF MAKOTO",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -4720,9 +5511,9 @@
   "強化『大成功&極大成功』率4倍！": {
     "JP": null,
     "CN": "强化『大成功＆极大成功』4倍！",
-    "TW": "強化『大成功&極大成功』機率4倍！",
+    "TW": "強化『大成功＆極大成功』4倍！",
     "NA": "Great & Super Success Rate x4",
-    "KR": "강화 시 대성공&극대성공 확률 4배!"
+    "KR": "강화 “대성공&극대성공” 확률 4배!"
   },
   "強化『大成功&極大成功』率5倍！": {
     "JP": null,
@@ -4755,7 +5546,7 @@
   "強化『大成功＆極大成功』率3倍！": {
     "JP": null,
     "CN": "强化『大成功＆极大成功』3倍！",
-    "TW": "強化『大成功&極大成功』機率3倍！",
+    "TW": "強化『大成功＆極大成功』3倍！",
     "NA": "Great & Super Success x3!",
     "KR": "강화 “대성공&극대성공” 확률 3배!"
   },
@@ -4983,6 +5774,20 @@
     "NA": "Revival: The Glorious Path to Santa Claus - The Sealed Christmas Present - Lite",
     "KR": "복각: 영광의 산타클로스 로드 ~봉인된 크리스마스 선물~ 라이트판"
   },
+  "復刻:水怪クライシス ライト版": {
+    "JP": null,
+    "CN": "复刻:水怪危机 轻量版",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "復刻:水怪クライシス 無垢なる者たちの浮島 ライト版": {
+    "JP": null,
+    "CN": "复刻:水怪危机 无垢者们的浮岛 轻量版",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "復刻:浅上藤乃体験クエスト": {
     "JP": null,
     "CN": "复刻:浅上藤乃体验关卡",
@@ -5023,6 +5828,13 @@
     "CN": "复刻:鬼哭醉梦魔京 罗生门 短程版",
     "TW": "復刻：鬼哭醉夢魔京 羅生門 短程版",
     "NA": "Revival: The Demonic Capital Rashomon Short",
+    "KR": null
+  },
+  "復刻リチャード1世体験クエスト": {
+    "JP": null,
+    "CN": "复刻理查一世体验关卡",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "復刻版:Apocrypha/Inheritance of Glory -Triumphal-": {
@@ -5067,6 +5879,13 @@
     "NA": "Revival: Magical Girl Cruise - Prisma Codes - Re-install",
     "KR": "복각판: 마법소녀기행 ~프리즈마 코즈~\n-Re-install-"
   },
+  "復刻魔術礼装クエスト・ウィンターカジュアル＆ロード・ログレス体験クエスト": {
+    "JP": null,
+    "CN": "复刻魔术礼装关卡・冬日便装＆领主洛格雷斯体验关卡",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "復刻：チョコレート・レディの空騒ぎ\n-Valentine 2016-  拡大版": {
     "JP": null,
     "CN": "复刻：巧克力小姐的大惊小怪\n\n-Valentine 2017-  扩大版",
@@ -5107,7 +5926,7 @@
     "CN": "性別选择",
     "TW": "性別選擇",
     "NA": "Gender Selection",
-    "KR": null
+    "KR": "성별 선택"
   },
   "愛の伝道師アムールちゃんのサン・バレン\nティーノ！ ～カルデア・ビター・バレンタイン2021～": {
     "JP": null,
@@ -5129,6 +5948,62 @@
     "TW": "救援！ Amazones.com\n～CEO Crisis2021～",
     "NA": "Save Amazones.com! - CEO Crisis 2022",
     "KR": "구하라! 아마조네스 닷컴\n~CEO 크라이시스 2022~"
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Archer」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Assassin」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Berserker」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Caster」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Extra」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Lancer」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Rider」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "新章開放条件クリア応援「冠位戴冠戦：Saber」ストーム･ポッド消費0！キャンペーン": {
+    "JP": null,
+    "CN": "新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "新米マスター応援キャンペーン": {
     "JP": null,
@@ -5186,6 +6061,20 @@
     "NA": null,
     "KR": null
   },
+  "期間限定 初回クリアまで 消費AP0！": {
+    "JP": null,
+    "CN": "期间限定 首次通关前消耗AP为0！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "期間限定 消費AP0！": {
+    "JP": null,
+    "CN": "期间限定 消耗AP0！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "期間限定 消費AP1！": {
     "JP": null,
     "CN": "限时 消耗AP1！",
@@ -5200,6 +6089,13 @@
     "NA": "For a limited time, 7 \"Fate/stay night\" Servants' ATK Strength increase by 50% for all quests!",
     "KR": "이벤트 기간 중 ‘Fate/stay night’ 서번트 7기는 모든 퀘스트에서 공격력 50% UP!"
   },
+  "期間限定で「アフタータイムのはじまり」をクリアしているとタイトル画面をタップ時に特殊な演出を再生！": {
+    "JP": null,
+    "CN": "期间限定「Aftertime的开始」通关后点击标题画面即可播放特殊演出！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "期間限定で「ストーム・ポッド」で獲得できる星光の砂を2倍に増量！": {
     "JP": null,
     "CN": "期间限定「风暴罐」获得的星光之砂增加至2倍！",
@@ -5207,19 +6103,26 @@
     "NA": null,
     "KR": null
   },
+  "期間限定でフレンドポイント召喚の「無料10回召喚」の回数を2回に増加！": {
+    "JP": null,
+    "CN": "期间限定友情点召唤的「免费召唤10次」的次数增加至2次！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "期間限定で交換した★4(SR)サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
     "JP": null,
     "CN": "兑换的★4(SR)从者限时在所有关卡攻击威力提升50%！",
     "TW": "兌換的★4(SR)從者限時在所有任務攻擊威力提升50%！",
-    "NA": "50% ATK Strength Up on the Exchanged ★4 (SR) Servant for a Limited Time!",
-    "KR": null
+    "NA": "For a limited time, exchanged ★4 (SR) Servant's ATK Strength increase by 50% for all quests!",
+    "KR": "이벤트 기간 중 교환한 ★4(SR) 서번트는 모든 퀘스트에서 공격 위력 50% UP!"
   },
   "期間限定で交換した★5(SSR)サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
     "JP": null,
     "CN": "限时兑换的★5(SSR)从者在所有关卡中攻击威力提升50%！",
-    "TW": "期間限定交換的★5(SSR)從者在所有關卡的攻擊威力提升50%！",
+    "TW": "限時兌換的★5(SSR)從者在所有任務中攻擊威力提升50%！",
     "NA": "50% ATK Strength Up on the Exchanged ★5 (SSR) Servant for a Limited Time!",
-    "KR": null
+    "KR": "특별 이벤트로 교환한 ★5(SSR) 서번트는 모든 퀘스트에서 공격 위력 50% UP!"
   },
   "期間限定で攻撃威力アップ！": {
     "JP": null,
@@ -5256,6 +6159,13 @@
     "NA": null,
     "KR": null
   },
+  "期間限定で第14弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
+    "JP": null,
+    "CN": "期间限定第14弹可召唤的活动限定从者在所有关卡的攻击威力提升50%！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "期間限定で第1弾～第9弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
     "JP": null,
     "CN": "第1弹～第9弹可召唤活动限定从者限时在所有关卡中攻击威力提升50%！",
@@ -5266,9 +6176,9 @@
   "期間限定で第8弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
     "JP": "巡霊の祝祭 第8弾",
     "CN": "限时第8弹可召唤活动限定从者在所有关卡中攻击威力提升50%！",
-    "TW": "巡靈的祝祭 第8彈中可召喚的活動限定從者在所有關卡的攻擊威力提升50%！",
-    "NA": "50% ATK Strength Up on the \"Evocation Festival: Part 8\" Servants for a Limited Time!",
-    "KR": null
+    "TW": "限時第8彈可召喚活動限定從者在所有任務中攻擊威力提升50%！",
+    "NA": "For a limited time, summonable event limited Servants' ATK Strength increase by 50% for all quests!",
+    "KR": "순령의 축제 제8탄에서 소환 가능하게 된 이벤트 서번트는 기간 동안 모든 퀘스트에서 공격 위력 50% UP!"
   },
   "栄光のサンタクロース・ロード\n～封じられたクリスマスプレゼント～": {
     "JP": null,
@@ -5308,14 +6218,14 @@
   "消費AP 50%DOWN": {
     "JP": null,
     "CN": "AP消耗 减半",
-    "TW": "消耗AP降低50%",
+    "TW": "消耗AP減半",
     "NA": "AP Cost 1/2",
     "KR": "소비 AP 50% DOWN"
   },
   "消費AP 66%DOWN": {
     "JP": null,
     "CN": "AP消耗 降低66%",
-    "TW": "消耗AP降低66%",
+    "TW": "AP消耗 降低66%",
     "NA": "AP Cost 1/3",
     "KR": "소비 AP 66% DOWN"
   },
@@ -5336,16 +6246,16 @@
   "激走！川中島24時 ぐだぐだ超五稜郭\n殺しのサインはM51": {
     "JP": null,
     "CN": "疾驰！川中岛24小时 唠唠叨叨超五棱郭\n杀人讯号是M51",
-    "TW": "激走！川中島24時 嘮嘮叨叨超五稜郭\n殺人信號是M51",
-    "NA": "Full Speed Ahead! Kawanakajima in 24 Hours: GUDAGUDA Super Goryokaku\n- The Killer Sign is M51",
+    "TW": "疾馳！川中島24小時 嘮嘮叨叨超五稜郭\n殺人信號是M51",
+    "NA": "Full Speed Ahead! Kawanakajima 24 Hours GUDAGUDA Super Goryoukaku: Deadlier Than M51",
     "KR": "질주! 카와나카지마 24시 구다구다 슈퍼 고료카쿠\n살인의 사인은 M51"
   },
   "特定サーヴァント 獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "特定从者获得牵绊点提升20%",
     "TW": "特定從者獲得羈絆點數提升20%",
-    "NA": "Certain Servants Bond Points UP 20%",
-    "KR": null
+    "NA": "Certain Servants Bond Points 20% Up",
+    "KR": "특정 서번트 획득 인연 포인트 20% UP"
   },
   "特定サーヴァント『大成功＆極大成功』２倍！": {
     "JP": null,
@@ -5455,8 +6365,15 @@
   "獲得絆ポイント 20%UP": {
     "JP": null,
     "CN": "获得牵绊点数提升20%",
-    "TW": "獲得羈絆點數 提升20%",
+    "TW": "獲得羈絆點數提升20%",
     "NA": "Bond Points UP 20%UP",
+    "KR": "획득 인연 포인트 20% UP"
+  },
+  "獲得経験値2倍！": {
+    "JP": null,
+    "CN": "获得经验值2倍！",
+    "TW": "獲得經驗值2倍！",
+    "NA": "2X EXP!",
     "KR": null
   },
   "白紙化地球以外のクエストでも「ストーム・ポッド」を使用可能": {
@@ -5470,8 +6387,8 @@
     "JP": null,
     "CN": "盈月剑风帖",
     "TW": "盈月劍風帖",
-    "NA": "Waxing Moon Clashing Swords Chronicles",
-    "KR": null
+    "NA": "Waxing Moon Chronicles",
+    "KR": "영월검풍첩"
   },
   "神秘の国のＯＮＩＬＡＮＤ!! \n～鬼の王とカムイの黄金～": {
     "JP": null,
@@ -5536,12 +6453,26 @@
     "NA": "The Tale of Setsubun: Oni Pagoda Festival",
     "KR": null
   },
+  "終わりのエリザベート 獲得経験値2倍！": {
+    "JP": null,
+    "CN": "终结之伊丽莎白获得经验值2倍！",
+    "TW": null,
+    "NA": "Elisabeth of the End 2X EXP!",
+    "KR": null
+  },
   "終局特異点 冠位時間神殿 ソロモン": {
     "JP": null,
     "CN": "终局特异点 冠位时间神殿 所罗门",
     "TW": "終局特異點 冠位時間神殿 所羅門",
     "NA": "Final Singularity: The Grand Temple of Time: Solomon",
     "KR": "종국특이점 관위시간신전 솔로몬"
+  },
+  "終章_序／終局特異点より": {
+    "JP": null,
+    "CN": "终章_序／来自终局特异点",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "絆獲得量アップ": {
     "JP": null,
@@ -5637,9 +6568,9 @@
   "螺旋証明世界 リリムハーロット\n～喝采なき薔薇～ アンケート復刻版": {
     "JP": null,
     "CN": "螺旋证明世界 Lilim Harlot\n～无人喝彩的蔷薇～ 复刻版",
-    "TW": "螺旋證明世界 莉莉姆哈洛特\n～無人喝彩的薔薇～ 問卷復刻版",
-    "NA": "Survey Revival: Spiral Testimonial World, Lilim Harlot\n- Roses without Applause",
-    "KR": null
+    "TW": "螺旋證明世界 Lilim Harlot\n～無人喝彩的薔薇～ 復刻版",
+    "NA": "Revival: Spiral Proof World, Lilim Harlot - A Rose Without Ovation",
+    "KR": "나선증명세계 릴림 할롯\n~갈채 없는 장미~ 앙케이트 복각판"
   },
   "見参！ ラスベガス御前試合\n～水着剣豪七色勝負！": {
     "JP": null,
@@ -5686,9 +6617,9 @@
   "踊るドラゴン・キャッスル！ \n～深海の姫君とふたつの宝玉～": {
     "JP": null,
     "CN": "舞动龙宫！ \n～深海公主与两枚宝玉～",
-    "TW": "舞動龍宮城！ \n～深海公主與兩顆寶玉～",
-    "NA": "Dancing Dragon Castle!\n- The Twin Jewels and the Deep Sea Princess",
-    "KR": null
+    "TW": "舞動龍宮！ \n～深海的公主與兩個寶玉～",
+    "NA": "The Dancing Dragon Castle! The Princess in the Deep Sea and The Two Gems",
+    "KR": "춤추는 드래곤 캐슬!\n~심해의 공주와 두 개의 보옥~"
   },
   "輝け！ グレイルライブ！！\n～鶴のアイドル恩返し～": {
     "JP": null,
@@ -5735,9 +6666,9 @@
   "雪原のメリー・クリスマス2023\n～7days / 8years Snow Carol～": {
     "JP": null,
     "CN": "雪原的圣诞快乐2024\n～7days / 8years Snow Carol～",
-    "TW": "雪原的聖誕快樂2023\n～7days / 8years Snow Carol～",
-    "NA": "Merry Christmas in the Snowy Fields 2023\n- 7 Days / 8 Years Snow Carol",
-    "KR": null
+    "TW": "雪原的聖誕快樂2025\n～7days / 8years Snow Carol～",
+    "NA": "Merry Christmas in the Snowy Field 2025\n- 7 Days/8 Years Snow Carol",
+    "KR": "설원의 메리 크리스마스 2025\n~7days / 8years Snow Carol~"
   },
   "霊衣開放チケット": {
     "JP": null,
@@ -5750,8 +6681,8 @@
     "JP": null,
     "CN": "静希草十郎获得经验值2倍！",
     "TW": "靜希草十郎獲得經驗值2倍！",
-    "NA": "Shizuki Soujuurou 2X EXP!",
-    "KR": null
+    "NA": "Sizuki Soujyuro 2X EXP!",
+    "KR": "시즈키 소쥬로 획득 경험치 2배!"
   },
   "風雲からくりイリヤ城\n～果心居士のささやかな野望～": {
     "JP": null,
@@ -5777,9 +6708,9 @@
   "魔法使いの夜アフターナイト／隈乃温泉殺人事件\n～駒鳥は見た！ 魔法使いは二度死ぬ～": {
     "JP": null,
     "CN": "魔法使之夜 After Night／隈乃温泉杀人事件\n～知更鸟目击！ 魔法使两度死亡～",
-    "TW": "魔法使之夜 After Night／隈乃溫泉殺人事件\n～知更鳥見到了！ 魔法使死了兩次～",
-    "NA": "Witch on the Holy Night/After Night: Kumano Hot Springs Killer Case - Robin Witnessed It! The Magician Dies Once More",
-    "KR": null
+    "TW": "魔法使之夜 After Night／隈乃溫泉殺人事件\n～知更鳥目擊！ 魔法使兩度死亡～",
+    "NA": "After Witch on the Holy Night/Murder at the Kumano Hot Springs\n- The Robin Saw It! Magicians Only Live Twice",
+    "KR": "마법사의 밤 애프터 나이트/쿠마노 온천 살인사건\n~울새는 보았다! 마법사는 두 번 죽는다~"
   },
   "魔法少女紀行 ～プリズマ・コーズ～": {
     "JP": null,
@@ -5793,7 +6724,7 @@
     "CN": "魔术礼装关卡·冬日便装&理查一世体验关卡",
     "TW": "魔術禮裝任務・冬日便裝&理查Ⅰ世體驗任務",
     "NA": null,
-    "KR": null
+    "KR": "마술예장 퀘스트・윈터 캐주얼&리처드 1세 체험 퀘스트"
   },
   "魔術礼装クエスト・新春の装い": {
     "JP": null,
@@ -5812,9 +6743,9 @@
   "ＢＢプレゼンツ☆セレブサマー・\nエクスペリエンス！ ～逆襲のドバイ～": {
     "JP": null,
     "CN": "ＢＢ主办☆名流夏日体验！\n～逆袭的迪拜～",
-    "TW": "BB出品☆名流夏日體驗！\n～反擊的杜拜～",
+    "TW": "ＢＢ主辦☆名流夏日體驗！\n～逆襲的杜拜～",
     "NA": "BB Presents☆Celeb Summer Experience!\nDubai's Counterattack",
-    "KR": null
+    "KR": "BB프레젠츠☆셀럽 서머 익스피리언스! ~역습의 두바이~"
   },
   "ｲﾍﾞﾝﾄﾎﾞｰﾅｽｻｰｳﾞｧﾝﾄ強化『大成功＆極大成功』2倍！": {
     "JP": null,
@@ -5836,1076 +6767,5 @@
     "TW": "活動加成從者友情點獲得量2倍",
     "NA": "Event Bonus Servant 2X FP",
     "KR": "이벤트 대상 서번트 획득 FP 2배!"
-  },
-  "エクストラクラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Extra职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア・Ｕ－サマーアイランド": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア・Ｕ－サマーアイランド \n～大統領は夏の夢を見るか？～": {
-    "JP": null,
-    "CN": "迦勒底·U－夏日岛屿 \n～总统会梦见夏天吗？～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "呼延灼（バーサーカー）獲得経験値2倍！": {
-    "JP": null,
-    "CN": "呼延灼（Berserker）获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔AUGUST〕": {
-    "JP": null,
-    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔8月〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3200万DL突破キャンペーン": {
-    "JP": null,
-    "CN": "3200万下载突破纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ライダークラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Rider职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": "Rider職階強化『大成功＆極大成功』機率3倍！",
-    "NA": "Rider Class Super & Great Success Rate x3!",
-    "KR": "라이더 클래스 강화 “대성공&극대성공” 확률 3배!"
-  },
-  "ライダークラス 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "Rider职阶获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "失われた創世": {
-    "JP": null,
-    "CN": "失落的创世",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.1]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.1]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.2]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.2]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.3]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.3]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.4]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.4]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Rider」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Rider」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冠位戴冠戦：Rider": {
-    "JP": null,
-    "CN": "冠位戴冠战：Rider",
-    "TW": "冠位戴冠戰：Rider",
-    "NA": "Grand Duel: Rider",
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.5]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.5]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.6]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.6]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "リリース3700日突破キャンペーン": {
-    "JP": null,
-    "CN": "上线3700日纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Saber」＆「冠位戴冠戦：Berserker」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「幕末チャンバラ神話 ぐだぐだ新選組･ジ･エンド REVENGE OF MAKOTO」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「幕末剑斗神话 唠唠叨叨新选组·THE·END REVENGE OF MAKOTO」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔SEPTEMBER〕": {
-    "JP": null,
-    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔9月〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Lostbelt No.7]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Lostbelt No.7]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "原田左之助獲得経験値2倍！": {
-    "JP": null,
-    "CN": "原田左之助获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "幕末チャンバラ神話 ぐだぐだ新選組・ジ・エンド \nREVENGE OF MAKOTO": {
-    "JP": null,
-    "CN": "幕末剑斗神话 唠唠叨叨新选组·THE·END \nREVENGE OF MAKOTO",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「浅葱の隊服」獲得EXP2倍": {
-    "JP": null,
-    "CN": "「浅葱的队服」获得经验值2倍",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "復刻：ほぼ週間 サンタオルタさん ライト版": {
-    "JP": null,
-    "CN": "复刻：大约一周 圣诞Alter小姐 轻量版",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "惑う鳴鳳荘の考察": {
-    "JP": null,
-    "CN": "困惑的鸣凤庄考察",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "復刻：監獄塔に復讐鬼は哭く": {
-    "JP": null,
-    "CN": "复刻：复仇鬼在监狱塔哭泣",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "監獄塔に復讐鬼は哭く": {
-    "JP": null,
-    "CN": "于监狱塔中哭泣的复仇鬼",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "死想顕現界域 トラオム": {
-    "JP": null,
-    "CN": "死想显现界域 特劳姆",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "小野小町古今抄 ～雪消月のキラキラ蓮華～": {
-    "JP": null,
-    "CN": "小野小町古今抄 ～雪消月之闪耀莲华～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バトル・イン・ニューヨーク 2019": {
-    "JP": null,
-    "CN": "2019纽约之战",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "連続活劇神話 ミシシッピ・ミササイザーズ": {
-    "JP": null,
-    "CN": "连续活剧神话 密西西比·密西西比剧团",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "二代目はオルタちゃん ～2016クリスマス～": {
-    "JP": null,
-    "CN": "二代目是Alter酱 ～2016圣诞节～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "失われた創世 未来からの方舟": {
-    "JP": null,
-    "CN": "失落的创世 来自未来的方舟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "非霊長生存圏 ツングースカ・サンクチュアリ": {
-    "JP": null,
-    "CN": "非灵长类生存圈 通古斯·圣域",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "15人の理知的なメガネたち": {
-    "JP": null,
-    "CN": "15位知性的眼镜们",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "落涙の翼": {
-    "JP": null,
-    "CN": "落泪之翼",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "いざ鎌倉にさよならを ～Little Big Tengu～": {
-    "JP": null,
-    "CN": "告别镰仓 ～Little Big Tengu～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "奏章Ⅲ 新霊長後継戦 アーキタイプ・インセプション": {
-    "JP": null,
-    "CN": "奏章Ⅲ 新灵长继业战 原型创世",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バトル・イン・ニューヨーク 2018": {
-    "JP": null,
-    "CN": "2018纽约之战",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "聖杯戦線 ～白天の城、黒夜の城～": {
-    "JP": null,
-    "CN": "圣杯战线 ～白昼之城、黑夜之城～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデア妖精騎士杯 ～二代目の凱旋～": {
-    "JP": null,
-    "CN": "迦勒底妖精骑士杯 ～二代的凯旋～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ぐだぐだ明治維新": {
-    "JP": null,
-    "CN": "咕哒咕哒明治维新",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "星の三蔵ちゃん、天竺に行く": {
-    "JP": null,
-    "CN": "星之三藏亲，前往天竺",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Ordeal Call Ⅰ]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Ordeal Call Ⅰ]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「Fate/hollow ataraxia REMASTERED」発売記念キャンペーン": {
-    "JP": null,
-    "CN": "「Fate/hollow ataraxia REMASTERED」特别纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アサシンクラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Assassin职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": "Assassin職階強化『大成功＆極大成功』機率3倍！",
-    "NA": "Assassin Class Super & Great Success Rate x3!",
-    "KR": "어쌔신 클래스 강화 “대성공&극대성공” 확률 3배!"
-  },
-  "アサシンクラス 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "Assassin职阶 获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Ordeal Call Ⅱ]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Ordeal Call Ⅱ]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Assassin」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Assassin」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3300万DL突破キャンペーン": {
-    "JP": null,
-    "CN": "3300万下载突破纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Ordeal Call Ⅲ]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Ordeal Call Ⅲ]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冠位戴冠戦：Assassin": {
-    "JP": null,
-    "CN": "冠位戴冠战：Assassin",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「ハロウィン2025」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「万圣节2025」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイナル・ハロウィン2025": {
-    "JP": null,
-    "CN": "最终·万圣节2025",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ファイナル・ハロウィン2025\n～パンプキンプラネットに輝く歌姫～": {
-    "JP": null,
-    "CN": "最终·万圣节2025\n～南瓜行星上闪耀的歌姬～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project [Ordeal Call Ⅳ]クリア応援キャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project [Ordeal Call Ⅳ]通关应援活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "終わりのエリザベート 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "终结之伊丽莎白获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バトル開始時にNP50%チャージ！": {
-    "JP": null,
-    "CN": "战斗开始时充能50%",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔OCTOBER〕": {
-    "JP": null,
-    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔10月〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「巡霊の祝祭 第14弾」関連サーヴァント 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "「巡灵的祝祭 第14弹」关联从者获得经验值2倍！",
-    "TW": "「巡靈的祝祭 第14彈」特定從者獲得經驗值2倍！",
-    "NA": "\"Evocation Vestival Part 14\" Related Servants 2X EXP!",
-    "KR": null
-  },
-  "「巡霊の祝祭 第14弾」関連サーヴァント 獲得絆ポイント 20%UP＆威力50%UP": {
-    "JP": null,
-    "CN": "「巡灵的祝祭 第14弹」关联从者 获得牵绊点数提升20%＆威力提升50%",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "期間限定で第14弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！": {
-    "JP": null,
-    "CN": "期间限定第14弹可召唤的活动限定从者在所有关卡的攻击威力提升50%！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』目前！ファイナルカウントダウンキャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』在即！最终倒计时纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』間近！ファイナルダッシュキャンペーン": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』临近！最终冲刺纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "巡霊の祝祭 第14弾": {
-    "JP": null,
-    "CN": "巡灵的祝祭 第14弹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アーチャークラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Archer职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アーチャークラス 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "Archer职阶 获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～第6章編～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～第6章篇～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Archer」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Archer」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Lancer」＆「冠位戴冠戦：Extra」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～第7章編～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～第7章篇～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冠位戴冠戦：Archer": {
-    "JP": null,
-    "CN": "冠位戴冠战：Archer",
-    "TW": "冠位戴冠戰：Archer",
-    "NA": "Grand Duel: Archer",
-    "KR": null
-  },
-  "期間限定 初回クリアまで 消費AP0！": {
-    "JP": null,
-    "CN": "期间限定 首次通关前消耗AP为0！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "期間限定 消費AP0！": {
-    "JP": null,
-    "CN": "期间限定 消耗AP0！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅰ編～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅰ篇～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Rider」＆「冠位戴冠战：Assassin」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "キャスタークラス 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "Caster职阶 获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「OVER THE SAME SKY」特別概念礼装交換ショップ〔NOVEMBER〕": {
-    "JP": null,
-    "CN": "「OVER THE SAME SKY」特别概念礼装交换商店〔11月〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "キャスタークラス 強化『大成功＆極大成功』率3倍！": {
-    "JP": null,
-    "CN": "Caster职阶强化『大成功＆极大成功』概率3倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅱ編～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅱ篇～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「冠位戴冠戦：Caster」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「冠位戴冠战：Caster」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "終章_序／終局特異点より": {
-    "JP": null,
-    "CN": "终章_序／来自终局特异点",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅲ編～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅲ篇～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「第2部 終章」限定サーヴァント 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "「第2部 终章」限定从者获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冠位戴冠戦：Caster": {
-    "JP": null,
-    "CN": "冠位戴冠战：Caster",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～奏章Ⅳ編～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～奏章Ⅳ篇～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「第2部 終章」限定概念礼装交換ショップ": {
-    "JP": null,
-    "CN": "「第2部 终章」限定概念礼装兑换商店",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "獲得経験値2倍！": {
-    "JP": null,
-    "CN": "获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "全「冠位戴冠戦」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "全「冠位戴冠战」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Final Order Project 『第2部 終章』まであと少し！第2部ふり返りキャンペーン ～ 第1章～奏章Ⅳ編 ～": {
-    "JP": null,
-    "CN": "Final Order Project 『第2部 终章』将至！第2部回顾纪念活动 ～ 第1章～奏章Ⅳ篇 ～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "リリース3800日突破キャンペーン": {
-    "JP": null,
-    "CN": "上线3800日纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "復刻魔術礼装クエスト・ウィンターカジュアル＆ロード・ログレス体験クエスト": {
-    "JP": null,
-    "CN": "复刻魔术礼装关卡・冬日便装＆领主洛格雷斯体验关卡",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "2026年お正月キャンペーン　おみくじログインボーナス": {
-    "JP": null,
-    "CN": "2026年新年活动 抽签登录奖励",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "復刻リチャード1世体験クエスト": {
-    "JP": null,
-    "CN": "复刻理查一世体验关卡",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "2026年お正月キャンペーン": {
-    "JP": null,
-    "CN": "2026年新年活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "TVアニメ「Fate/strange Fake」放送記念キャンペーン": {
-    "JP": null,
-    "CN": "TV动画「Fate/strange Fake」特别纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「Fate Project 大晦日TVスペシャル2025」放送記念キャンペーン": {
-    "JP": null,
-    "CN": "「Fate Project 除夕TV特别篇2025」播放纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "期間限定でフレンドポイント召喚の「無料10回召喚」の回数を2回に増加！": {
-    "JP": null,
-    "CN": "期间限定友情点召唤的「免费召唤10次」的次数增加至2次！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「カルデアン・フロラリア」関連サーヴァントサポート時 獲得FP2倍！": {
-    "JP": null,
-    "CN": "「迦勒底·花神节」关联从者助战时 友情点获得量2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「カルデアン・フロラリア」関連サーヴァント 獲得絆ポイント 20%UP": {
-    "JP": null,
-    "CN": "「迦勒底·花神节」关联从者获得牵绊点数提升20%",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「カルデアン・フロラリア」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
-    "JP": null,
-    "CN": "「迦勒底·花神节」关联从者强化『大成功＆极大成功』2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「カルデアン･フロラリア あなたの花が咲く頃に」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「FGO カルデア･サテライトステーション 2023-2024」新潟会場開催記念キャンペーン": {
-    "JP": null,
-    "CN": "新春庆贺活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「FGO カルデア･サテライトステーション 2026」福井会場開催記念キャンペーン": {
-    "JP": null,
-    "CN": "「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "フローラ 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "芙萝拉获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアン・フロラリア\nあなたの花が咲く頃に": {
-    "JP": null,
-    "CN": "迦勒底·花神节\n你的鲜花盛放之时",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「バレンタイン2026」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
-    "JP": null,
-    "CN": "「情人节2026」关联从者强化『大成功＆极大成功』概率2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「FGO カルデア･サテライトステーション 2026」長崎会場開催記念キャンペーン": {
-    "JP": null,
-    "CN": "「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「バレンタイン2026」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「情人节2026」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アフタータイム・バレンタイン2026 \n～お母さんチョコの謎～": {
-    "JP": null,
-    "CN": "Aftertime·情人节2026\n～母亲巧克力之谜～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「CBC2026」関連サーヴァント 獲得絆ポイント 20%UP": {
-    "JP": null,
-    "CN": "「CBC2026」关联从者获得牵绊点数提升20%",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「CBC2026」関連サーヴァント強化『大成功＆極大成功』率2倍！": {
-    "JP": null,
-    "CN": "「CBC2026」关联从者强化『大成功＆极大成功』概率2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "カルデアボーイズコレクション2025": {
-    "JP": null,
-    "CN": "迦勒底男性精选2025",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026 マイ・カインド・オブ・アブダクション\n～ふたりのモレーと果てなき遺産～": {
-    "JP": null,
-    "CN": "CBC2026 我喜欢的诱拐\n～两位莫莱与无尽的遗产～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026": {
-    "JP": null,
-    "CN": "CBC2026",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026\nマイ・カインド・オブ・アブダクション": {
-    "JP": null,
-    "CN": "CBC2026\n我喜欢的诱拐",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "CBC2026(カルデアボーイズコレクション2026)": {
-    "JP": null,
-    "CN": "CBC2026(迦勒底男性精选2026)",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「CBC2026(カルデアボーイズコレクション2026)」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「FGO カルデア･サテライトステーション 2026」山形会場開催記念キャンペーン": {
-    "JP": null,
-    "CN": "「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Berserker」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Lancer」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "復刻:水怪クライシス 無垢なる者たちの浮島 ライト版": {
-    "JP": null,
-    "CN": "复刻:水怪危机 无垢者们的浮岛 轻量版",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "太歳星君 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "太岁星君获得经验值2倍！",
-    "TW": "太歲星君獲得經驗值2倍！",
-    "NA": "Taisui Xingjun 2X EXP!",
-    "KR": "태세성군 획득 경험치 2배!"
-  },
-  "復刻:水怪クライシス ライト版": {
-    "JP": null,
-    "CN": "复刻:水怪危机 轻量版",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/Grand Order 春の新米マスター応援キャンペーン2026！": {
-    "JP": null,
-    "CN": "Fate/Grand Order 春之新人御主应援纪念活动2026！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エイプリルフール": {
-    "JP": null,
-    "CN": "愚人节",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "リリース3900日突破キャンペーン": {
-    "JP": null,
-    "CN": "上线3900日纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Saber」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "3400万DL突破キャンペーン": {
-    "JP": null,
-    "CN": "3400万下载突破纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Extra」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「Fate/strange Fakeコラボ」関連サーヴァントサポート時 獲得FP2倍！": {
-    "JP": null,
-    "CN": "「Fate/strange Fake联动」关联从者助战时 友情点获得量2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「Fate/strange Fakeコラボ」関連サーヴァント 獲得絆ポイント 20%UP": {
-    "JP": null,
-    "CN": "「Fate/strange Fake联动」关联从者获得牵绊点数提升20%",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「Fate/strange Fake×Fate/Grand Orderコラボレーションイベント」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Archer」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ヒッポリュテ 獲得経験値2倍！": {
-    "JP": null,
-    "CN": "希波吕忒 获得经验值2倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "剽滅十字前線 アンティオキア": {
-    "JP": null,
-    "CN": "剽灭十字前线 安条克",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "Fate/strange Fakeコラボイベント": {
-    "JP": null,
-    "CN": "Fate/strange Fake联动活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "剽滅十字前線 アンティオキア / 偽典共鳴幻想 スノーフィールド": {
-    "JP": null,
-    "CN": "剽灭十字前线 安条克 / 伪典共鸣幻想 雪原市",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Rider」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「新章」開幕直前キャンペーン 第1弾": {
-    "JP": null,
-    "CN": "「新章」开幕前夕纪念活动 第1弹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Assassin」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「？？？編 郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第2弾": {
-    "JP": null,
-    "CN": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "新章開放条件クリア応援「冠位戴冠戦：Caster」ストーム･ポッド消費0！キャンペーン": {
-    "JP": null,
-    "CN": "新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "期間限定で「アフタータイムのはじまり」をクリアしているとタイトル画面をタップ時に特殊な演出を再生！": {
-    "JP": null,
-    "CN": "期间限定「Aftertime的开始」通关后点击标题画面即可播放特殊演出！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "夏予習版:雀のお宿の活動日誌～閻魔亭繁盛記～": {
-    "JP": null,
-    "CN": "夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「？？？編 郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第3弾": {
-    "JP": null,
-    "CN": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第3弹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「？？？編 郷愁永巡刻盤 パスト･カルデア」開幕直前キャンペーン 第4弾": {
-    "JP": null,
-    "CN": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第4弹",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「春の終わりに君を待つ」関連サーヴァント 獲得絆ポイント 20%UP": {
-    "JP": null,
-    "CN": "「Waiting for You at the End of Spring」相关Servant获得羁绊点数 20%UP",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「春の終わりに君を待つ」関連サーヴァントサポート時 獲得FP2倍！": {
-    "JP": null,
-    "CN": "「Waiting for you at the end of spring」相关从者支援时 获得FP加倍！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「春の終わりに君を待つ」関連サーヴァント強化『大成功＆極大成功』率2倍！\t": {
-    "JP": null,
-    "CN": "\"Waiting for you at the end of spring\" related Servant Enhancement \"Great Success & Super Success\" rate doubled!",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "「春の終わりに君を待つ」開幕直前キャンペーン": {
-    "JP": null,
-    "CN": "「于春日的尾声等待你」开幕前夕纪念活动",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

@@ -80,8 +80,15 @@
     "JP": null,
     "CN": "于是纺线引向极点",
     "TW": "於是紡線引向極點",
-    "NA": null,
+    "NA": "Ariadne Apolyto Hades",
     "KR": "그리하여 실은 극점으로 이끈다"
+  },
+  "かくて、約束された勝利の剣": {
+    "JP": null,
+    "CN": "由此，展现誓约胜利之剑",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "かちわり": {
     "JP": null,
@@ -228,7 +235,7 @@
     "CN": "Earthlight Starbow",
     "TW": "Earthlight Starbow",
     "NA": "Earthlight Starbow",
-    "KR": null
+    "KR": "어스라이트・스타보우"
   },
   "インスタントデス": {
     "JP": null,
@@ -454,6 +461,13 @@
     "NA": "Thrust Charge",
     "KR": "트러스트 차지"
   },
+  "ノアの方舟": {
+    "JP": null,
+    "CN": "诺亚方舟",
+    "TW": "諾亞方舟",
+    "NA": null,
+    "KR": null
+  },
   "バイティングチャージ": {
     "JP": null,
     "CN": "噬咬冲锋",
@@ -591,7 +605,7 @@
     "JP": null,
     "CN": "旺吉娜之怒",
     "TW": "旺吉娜之怒",
-    "NA": "Wandjina's Wrath",
+    "NA": "Wandjina Mamaragan Seven Stars",
     "KR": "완지나의 분노"
   },
   "一より生まれし百王子": {
@@ -642,6 +656,13 @@
     "TW": "三千世界",
     "NA": "Three Line Formation",
     "KR": "삼천세계"
+  },
+  "不完全・鮮血惑星": {
+    "JP": null,
+    "CN": "不完全·鲜血行星",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "不帯剣の誓い": {
     "JP": null,
@@ -773,7 +794,7 @@
     "JP": null,
     "CN": "以二弹击之",
     "TW": "以二彈擊之",
-    "NA": null,
+    "NA": "Two Shots Fired",
     "KR": "두 발로 쏘아 드리리다"
   },
   "五つの石": {
@@ -881,6 +902,13 @@
     "NA": "Imitation God Force",
     "KR": "위・군신오병"
   },
+  "傲慢覆す怒り": {
+    "JP": null,
+    "CN": "颠覆傲慢的愤怒",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "僥倖の拘引網": {
     "JP": null,
     "CN": "侥幸的拘捕网",
@@ -894,6 +922,13 @@
     "TW": "儀式魔術",
     "NA": "Ceremonial Spell",
     "KR": "의식 마술"
+  },
+  "儚き夏よ、青春のきらめきに還れ": {
+    "JP": null,
+    "CN": "幻夏啊，必归青春之辉",
+    "TW": "幻夏啊・必歸青春之輝",
+    "NA": null,
+    "KR": null
   },
   "優雅に歌え、かの聖誕を": {
     "JP": null,
@@ -930,6 +965,13 @@
     "NA": "Ramesseum Tentyris",
     "KR": "광휘의 대복합신전"
   },
+  "全て咲き誇る精彩の花園": {
+    "JP": null,
+    "CN": "万花盛放的辉彩花园",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "全力攻撃": {
     "JP": null,
     "CN": "全力攻击",
@@ -964,6 +1006,20 @@
     "TW": "六韜三略．魔王尊大羽扇",
     "NA": "Secrets and Strategies, Great Demon's War Fan",
     "KR": "육도삼략・마왕존대우선"
+  },
+  "再創世の試練": {
+    "JP": null,
+    "CN": "再创世的试炼",
+    "TW": "再創世的試煉",
+    "NA": null,
+    "KR": null
+  },
+  "冥きに微睡む常世の花園": {
+    "JP": null,
+    "CN": "浅眠幽冥的常世花园",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "冥府の業火": {
     "JP": null,
@@ -1066,9 +1122,9 @@
   "創始閃光紊らば混沌": {
     "JP": null,
     "CN": "创始闪光紊乱即混沌",
-    "TW": "創始閃光若紊亂即混沌",
+    "TW": "創始閃光紊亂即混沌",
     "NA": null,
-    "KR": null
+    "KR": "창시섬광, 어지러워지면 혼돈"
   },
   "力屠る祝福の剣": {
     "JP": null,
@@ -1143,9 +1199,9 @@
   "原理血戒・断頭台": {
     "JP": null,
     "CN": "原理血戒·断头台",
-    "TW": "原理血戒・斷頭台",
+    "TW": "原理血戒．斷頭台",
     "NA": null,
-    "KR": null
+    "KR": "원리혈계・단두대"
   },
   "双神賛歌": {
     "JP": null,
@@ -1160,6 +1216,13 @@
     "TW": "雙腕．零次集束",
     "NA": "Twin Arm - Big Crunch",
     "KR": "쌍완 영차집속"
+  },
+  "反転憲章・境目のない世界": {
+    "JP": null,
+    "CN": "反转宪章·无界的世界",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "口寄せ・伊吹大明神縁起": {
     "JP": null,
@@ -1299,7 +1362,7 @@
     "CN": "四分五裂吧，大地母亲",
     "TW": "四分五裂吧，大地母親",
     "NA": null,
-    "KR": null
+    "KR": "네 갈래로 갈라져라, 어머니 대지여"
   },
   "在りし世のドーセット沿岸": {
     "JP": null,
@@ -1374,9 +1437,9 @@
   "夕暮にて絶息、黄昏にて電鋸": {
     "JP": null,
     "CN": "于日暮气绝，予黄昏电锯",
-    "TW": "夕陽中的氣絕，黃昏中的電鋸",
+    "TW": "於日暮氣絕，於黃昏電鋸",
     "NA": null,
-    "KR": null
+    "KR": "저녁놀에 절명, 황혼에 체인소"
   },
   "多元重奏飽和砲撃": {
     "JP": null,
@@ -1390,7 +1453,7 @@
     "CN": "夜间露天咖啡座",
     "TW": "夜晚露天咖啡座",
     "NA": null,
-    "KR": null
+    "KR": "밤의 카페테라스"
   },
   "夜狼死九・黄金疾走": {
     "JP": null,
@@ -1461,6 +1524,13 @@
     "TW": "大鎮壓",
     "NA": "Great Subjugation",
     "KR": "대진압"
+  },
+  "大降臨連環馬猛襲撃": {
+    "JP": null,
+    "CN": "大降临连环马猛袭击",
+    "TW": "大降臨連環馬猛襲擊",
+    "NA": null,
+    "KR": null
   },
   "天上引き裂きし煌々の船": {
     "JP": null,
@@ -1581,6 +1651,13 @@
     "NA": "Eye of the Euryale",
     "KR": "여신의 시선"
   },
+  "女神はここに溶け消え、故に人の愚行を言祝ぐ": {
+    "JP": null,
+    "CN": "女神于此消融，故为人之愚行献上祝词",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "妄想幻像": {
     "JP": null,
     "CN": "妄想幻像",
@@ -1643,6 +1720,13 @@
     "TW": "守護之劍",
     "NA": "Sword of Protection",
     "KR": "수호의 검"
+  },
+  "完全なる血の惑星へ": {
+    "JP": null,
+    "CN": "向着完全的血之行星",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "宵闇翳る月御珠": {
     "JP": null,
@@ -1795,8 +1879,8 @@
     "JP": null,
     "CN": "照耀常夜的引导之星",
     "TW": "照耀常夜的引導之星",
-    "NA": null,
-    "KR": null
+    "NA": "Starlit Marmalade",
+    "KR": "상야를 비추는 길잡이별"
   },
   "幻想の鉄処女": {
     "JP": null,
@@ -1815,9 +1899,9 @@
   "座■不明　悪霊■し": {
     "JP": null,
     "CN": "坐■不明　恶灵击■",
-    "TW": "座■不明　惡靈■手",
-    "NA": "Coordi■■■■s Unknown - Evil Spirit Kil■■■g",
-    "KR": null
+    "TW": "座■不明　惡靈擊■",
+    "NA": "Unknown ■■, Evil Spirit ■■er",
+    "KR": "좌■불명 악령■해"
   },
   "弁財天五弦琵琶": {
     "JP": null,
@@ -1850,9 +1934,9 @@
   "彼の海にて眠る鯨竜": {
     "JP": null,
     "CN": "沉睡于那片海中的鲸龙",
-    "TW": "眠於那片海中的鯨龍",
-    "NA": null,
-    "KR": null
+    "TW": "沉睡於那片海中的鯨龍",
+    "NA": "Aethiopia Cetus",
+    "KR": "그 바다에 잠든 고래룡"
   },
   "彼方とおちる夢の瞳": {
     "JP": null,
@@ -1990,9 +2074,9 @@
   "悲劇流転・黒華葬列": {
     "JP": null,
     "CN": "悲剧流转·黑华葬列",
-    "TW": "悲劇流轉・黑花葬列",
-    "NA": null,
-    "KR": null
+    "TW": "悲劇流轉．黑華葬列",
+    "NA": "Vae Victis",
+    "KR": "비극유전・흑화장렬"
   },
   "愚神礼讃・一条戻橋": {
     "JP": null,
@@ -2007,6 +2091,13 @@
     "TW": "將愛，於聖夜遞送給孩子們",
     "NA": "Yucatán Regalo de Navidad",
     "KR": "사랑, 성야에 아이들에게 전해져라"
+  },
+  "愛が受難を招くとも": {
+    "JP": null,
+    "CN": "纵使爱会教人经受苦难",
+    "TW": "縱使愛會教人經受苦難",
+    "NA": null,
+    "KR": null
   },
   "愛しき夏の恋逢瀬": {
     "JP": null,
@@ -2071,6 +2162,13 @@
     "NA": "Móralltach",
     "KR": "분노의 파도"
   },
+  "我が叫びに応じよ、海騎士たちよ": {
+    "JP": null,
+    "CN": "回应我的呼唤吧，海骑士们",
+    "TW": "回應我的呼喚吧，海騎士們",
+    "NA": null,
+    "KR": null
+  },
   "我が心を喰らえ、月の光": {
     "JP": null,
     "CN": "吞噬吾心吧，月光",
@@ -2123,9 +2221,9 @@
   "我は担う、聖夜祭の鸚鵡貝": {
     "JP": null,
     "CN": "吾将承担，平安夜的鹦鹉螺",
-    "TW": "吾將承擔，聖夜節的鸚鵡螺",
-    "NA": null,
-    "KR": null
+    "TW": "吾將承載，平安夜的鸚鵡螺",
+    "NA": "Holy Run, Nautilus",
+    "KR": "나는 짊어진다, 성야제의 앵무조개"
   },
   "我らの腕はすべてを拓き、宙へ": {
     "JP": null,
@@ -2141,6 +2239,13 @@
     "NA": "Dǎ Shén Biān",
     "KR": "타신편"
   },
+  "抜刀・神威": {
+    "JP": null,
+    "CN": "拔刀·神威",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "抱き融す黄金劇場": {
     "JP": null,
     "CN": "拥抱融解的黄金剧场",
@@ -2153,7 +2258,7 @@
     "CN": "不断扩张的世界",
     "TW": "擴張的世界",
     "NA": null,
-    "KR": null
+    "KR": "넓어져 가는 세계"
   },
   "挽き潰す": {
     "JP": null,
@@ -2225,6 +2330,13 @@
     "NA": "Sword of Conviction",
     "KR": "단죄의 검"
   },
+  "斯くも永き巡礼の旅路": {
+    "JP": null,
+    "CN": "如此漫长的巡礼之途",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "新天地探索航": {
     "JP": null,
     "CN": "新天地探索航行",
@@ -2239,12 +2351,26 @@
     "NA": "Wu Er Da",
     "KR": "무이타"
   },
+  "日輪が穿つ星河の朔月": {
+    "JP": null,
+    "CN": "贯穿日轮的星河朔月",
+    "TW": "貫穿日輪的星河朔月",
+    "NA": null,
+    "KR": null
+  },
   "日輪よ、死に随え": {
     "JP": null,
     "CN": "日轮啊，顺从死亡",
     "TW": "日輪啊，順從死亡",
     "NA": "Vasavi Shakti",
     "KR": "일륜이여, 죽음에 복종하여라"
+  },
+  "旧き過去を紡ぐ糸": {
+    "JP": null,
+    "CN": "纺织古旧过去之丝",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "早撃ち": {
     "JP": null,
@@ -2263,9 +2389,9 @@
   "星よ、輝きの道を征け": {
     "JP": null,
     "CN": "星啊，赴蹈辉途",
-    "TW": "星啊，往赴輝途",
-    "NA": null,
-    "KR": null
+    "TW": "星啊，赴蹈輝途",
+    "NA": "Paradis Château d'If",
+    "KR": "별이여, 빛나는 길을 나아가라"
   },
   "星天を照らせ地の朔月": {
     "JP": null,
@@ -2334,7 +2460,7 @@
     "JP": null,
     "CN": "月所未知，久远之光",
     "TW": "月所未知，久遠之光",
-    "NA": null,
+    "NA": "Pharos Tis Alexandrias",
     "KR": "달은 모르는, 영원한 빛"
   },
   "月女神の愛矢恋矢": {
@@ -2372,6 +2498,13 @@
     "NA": null,
     "KR": null
   },
+  "末那識・十六夜残花": {
+    "JP": null,
+    "CN": "末那识·十六夜残花",
+    "TW": "末那識．十六夜殘花",
+    "NA": null,
+    "KR": null
+  },
   "来たれよ酷吏殭屍団": {
     "JP": null,
     "CN": "到来吧酷吏僵尸团",
@@ -2385,6 +2518,13 @@
     "TW": "枕草子．春曙抄",
     "NA": "Emotional Engine, Full Drive",
     "KR": "마쿠라노소시・춘서초"
+  },
+  "枯れ木に花を咲かせましょう": {
+    "JP": null,
+    "CN": "让枯朽之木再绽鲜花吧",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "極寒突風": {
     "JP": null,
@@ -2403,7 +2543,7 @@
   "死がふたりを分断つまで": {
     "JP": null,
     "CN": "直至死亡拆散两人",
-    "TW": "直到死亡將我們分開",
+    "TW": "直至死亡將我倆分離",
     "NA": "Brynhild Romantia",
     "KR": "죽음이 두 사람을 갈라놓을 때까지"
   },
@@ -2434,6 +2574,13 @@
     "TW": "死告天使",
     "NA": "Azrael",
     "KR": "죽음을 고하는 천사"
+  },
+  "死損ね一文字": {
+    "JP": null,
+    "CN": "死不了的一文字",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "死溢るる魔境への門": {
     "JP": null,
@@ -2487,8 +2634,8 @@
   "毘天八相・不知火": {
     "JP": null,
     "CN": "毗天八相·不知火",
-    "TW": "毗天八相・不知火",
-    "NA": null,
+    "TW": "毗天八相．不知火",
+    "NA": "Biten's Eight Aspects, Shiranui",
     "KR": "비천팔상・시라누이"
   },
   "毘天八相車懸りの陣": {
@@ -2547,6 +2694,20 @@
     "NA": null,
     "KR": null
   },
+  "汝、星を刈る血刃": {
+    "JP": null,
+    "CN": "汝乃收割星辰之血刃",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "汝、星を鋤く豊穣": {
+    "JP": null,
+    "CN": "汝乃躬耕星辰之丰饶",
+    "TW": null,
+    "NA": "Thou Art the Harvest that Reaps the Stars",
+    "KR": null
+  },
   "法阿育・転輪聖王": {
     "JP": null,
     "CN": "法阿育·转轮圣王",
@@ -2585,9 +2746,9 @@
   "海境闢く満干珠": {
     "JP": null,
     "CN": "开辟海境的满干珠",
-    "TW": "開闢海境的滿干珠",
-    "NA": null,
-    "KR": null
+    "TW": "開闢海境的滿乾珠",
+    "NA": "Sea-Parting Tidal Pearls",
+    "KR": "바다의 경계를 여는 만간주"
   },
   "混元一陣": {
     "JP": null,
@@ -2669,9 +2830,9 @@
   "烈士徇名・不惜身命": {
     "JP": null,
     "CN": "烈士徇名·不惜身命",
-    "TW": "烈士徇名·不惜身命",
-    "NA": null,
-    "KR": null
+    "TW": "烈士徇名．不惜身命",
+    "NA": "Selfless Liberator, Unsparing Devotion",
+    "KR": "열사순명・불석신명"
   },
   "無元の剣製": {
     "JP": null,
@@ -2698,8 +2859,8 @@
     "JP": null,
     "CN": "无想驱体",
     "TW": "無想軀體",
-    "NA": null,
-    "KR": null
+    "NA": "Zabaniya",
+    "KR": "무상구체"
   },
   "無敗の紫靫草": {
     "JP": null,
@@ -2817,8 +2978,8 @@
     "JP": null,
     "CN": "牛王反转·迅雷风烈",
     "TW": "牛王反轉．迅雷風烈",
-    "NA": null,
-    "KR": null
+    "NA": "Ox-King Inverted - Thundering Tempest",
+    "KR": "우왕반전・신뢰풍렬"
   },
   "牛王招雷・天網恢々": {
     "JP": null,
@@ -2887,8 +3048,8 @@
     "JP": null,
     "CN": "狮子咆哮，吟咏那飒飒之炼狱吧",
     "TW": "咆吼吧獅子，吟唱那颯颯燃燒的煉獄吧",
-    "NA": null,
-    "KR": null
+    "NA": "Utopie Purgatoire",
+    "KR": "사자후여 노래하라, 쾌풍의 연옥을"
   },
   "王の号砲": {
     "JP": null,
@@ -2901,7 +3062,7 @@
     "JP": null,
     "CN": "王之书库",
     "TW": "王之書庫",
-    "NA": null,
+    "NA": "Bibliothēkē Basileiou",
     "KR": "왕의 서고"
   },
   "王の財宝": {
@@ -3093,6 +3254,13 @@
     "NA": "On Arorikya Sowaka",
     "KR": "진언・성관세음보살"
   },
+  "眼球伝承・慈育白珠": {
+    "JP": null,
+    "CN": "眼球传承·慈育白珠",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "石兵八陣": {
     "JP": null,
     "CN": "石兵八阵",
@@ -3194,7 +3362,7 @@
   "神の雷": {
     "JP": null,
     "CN": "神之雷",
-    "TW": null,
+    "TW": "神之雷",
     "NA": null,
     "KR": null
   },
@@ -3272,15 +3440,15 @@
     "JP": null,
     "CN": "秘剑·比翼闪耀",
     "TW": "秘劍．比翼閃耀",
-    "NA": null,
-    "KR": null
+    "NA": "Hidden Sword, Soaring Brilliance",
+    "KR": "비검・비익섬요"
   },
   "秩序に死を、遍く世界に混沌を": {
     "JP": null,
     "CN": "赐秩序以死亡，授普世以混沌",
-    "TW": "於秩序以死，於普世以混沌",
-    "NA": null,
-    "KR": null
+    "TW": "予秩序以死，予普世以混沌",
+    "NA": "Rébellion au Monde",
+    "KR": "질서에 죽음을, 온 세계에 혼돈을"
   },
   "穢れを漱げ、青く美しきナイル": {
     "JP": null,
@@ -3356,15 +3524,15 @@
     "JP": null,
     "CN": "童话怪物，月之油",
     "TW": "童話怪物，月之油",
-    "NA": null,
-    "KR": null
+    "NA": "Great Three, Flat Snark",
+    "KR": "동화의 괴물, 달의 기름"
   },
   "童話の怪物、薔薇の猟犬": {
     "JP": null,
     "CN": "童话怪物，蔷薇猎犬",
     "TW": "童話怪物，薔薇獵犬",
-    "NA": null,
-    "KR": null
+    "NA": "Great Three, Wandersnatch",
+    "KR": "동화의 괴물, 장미의 사냥개"
   },
   "第一の太陽": {
     "JP": null,
@@ -3376,9 +3544,9 @@
   "第七聖典・断罪死": {
     "JP": null,
     "CN": "第七圣典·断罪死",
-    "TW": "第七聖典・斷罪死",
+    "TW": "第七聖典．斷罪死",
     "NA": null,
-    "KR": null
+    "KR": "제7성전・단죄사"
   },
   "第六天魔王波旬～夏盛～": {
     "JP": null,
@@ -3420,7 +3588,7 @@
     "CN": "闪烁于终局宇宙的兽冠",
     "TW": "閃耀於終局宇宙的獸冠",
     "NA": null,
-    "KR": null
+    "KR": "종국우주에 번뜩이는 짐승의 관"
   },
   "終局的犯罪": {
     "JP": null,
@@ -3435,6 +3603,13 @@
     "TW": "終末幻想．少女降臨",
     "NA": "Ragnarök Lífþrasir",
     "KR": "종말환상・소녀강림"
+  },
+  "終焉の三つ首怪獣、再び来る": {
+    "JP": null,
+    "CN": "终焉的三首怪兽，再临",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "終焉の大木馬": {
     "JP": null,
@@ -3489,8 +3664,8 @@
     "JP": null,
     "CN": "绝技·八岐怒涛",
     "TW": "絕技．八岐怒濤",
-    "NA": null,
-    "KR": null
+    "NA": "Special Technique, Eight-Current Raging Storm",
+    "KR": "절기・팔기노도"
   },
   "縛鎖全断・過重湖光": {
     "JP": null,
@@ -3504,7 +3679,7 @@
     "CN": "逐渐缩小的世界",
     "TW": "收縮的世界",
     "NA": null,
-    "KR": null
+    "KR": "줄어들어 가는 세계"
   },
   "羅刹を穿つ不滅": {
     "JP": null,
@@ -3726,7 +3901,7 @@
   "虚空廻天す竜の杯": {
     "JP": null,
     "CN": "虚空回天的龙之杯",
-    "TW": null,
+    "TW": "虛空回天的龍之杯",
     "NA": null,
     "KR": null
   },
@@ -3750,6 +3925,13 @@
     "TW": "蝕毒之氣息",
     "NA": "Poisoned Breath",
     "KR": "식독의 숨결"
+  },
+  "螺湮城は存在せず、故に世の狂気に果ては無し": {
+    "JP": null,
+    "CN": "螺湮城并不存在，故世间疯狂永无止境",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "螺湮城教本": {
     "JP": null,
@@ -3803,9 +3985,9 @@
   "観測せよ、主なき月の柩": {
     "JP": null,
     "CN": "观测吧，没有主人的月之棺",
-    "TW": "去觀測吧，無人主宰的月之棺",
+    "TW": "觀測吧，沒有主人的月之棺",
     "NA": null,
-    "KR": null
+    "KR": "관측하라, 주인 없는 달의 관"
   },
   "解体聖母": {
     "JP": null,
@@ -3817,9 +3999,9 @@
   "記録せよ、読み手なき月の柩": {
     "JP": null,
     "CN": "记录吧，没有读者的月之棺",
-    "TW": "去記錄吧，無人閱讀的月之棺",
+    "TW": "紀錄吧，沒有讀者的月之棺",
     "NA": null,
-    "KR": null
+    "KR": "기록하라, 읽는 이 없는 달의 관"
   },
   "訣別の時きたれり、其は、世界を手放すもの": {
     "JP": null,
@@ -3862,6 +4044,13 @@
     "TW": "誘導射擊",
     "NA": "Luring Shot",
     "KR": "꾀어 쏘기"
+  },
+  "誠の旗": {
+    "JP": null,
+    "CN": "诚之旗",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "誰かの為の物語": {
     "JP": null,
@@ -4034,9 +4223,9 @@
   "逆行銀河・赤方偏移": {
     "JP": null,
     "CN": "逆行银河·红移",
-    "TW": "逆行銀河・赤方偏移",
-    "NA": null,
-    "KR": null
+    "TW": "逆行銀河．紅移",
+    "NA": "Unfinished Blue",
+    "KR": "역행은하・적방편이"
   },
   "這い廻る悪徳": {
     "JP": null,
@@ -4120,7 +4309,7 @@
     "CN": "重装甲决战都市",
     "TW": "重裝甲決戰都市",
     "NA": null,
-    "KR": null
+    "KR": "중장갑 결전도시"
   },
   "重起動心臓都市": {
     "JP": null,
@@ -4146,8 +4335,8 @@
   "銃神・八咫烏": {
     "JP": null,
     "CN": "铳神·八咫乌",
-    "TW": "銃神・八咫烏",
-    "NA": null,
+    "TW": "槍神．八咫烏",
+    "NA": "God of Firearms, Yatagarasu",
     "KR": "총신・야타가라스"
   },
   "鋼鉄天空魔嬢": {
@@ -4227,6 +4416,13 @@
     "NA": "Excalibur Viviane",
     "KR": "햇살이 반짝이는 승리의 검"
   },
+  "陽炎剣・鶴憩水恋歌": {
+    "JP": null,
+    "CN": "阳炎剑·鹤憩水恋歌",
+    "TW": "陽炎劍．鶴憩水戀歌",
+    "NA": null,
+    "KR": null
+  },
   "雪夏、麗しきは霧氷の滴": {
     "JP": null,
     "CN": "雪夏，绚丽的雾凇之滴",
@@ -4301,7 +4497,7 @@
     "JP": null,
     "CN": "风林火山",
     "TW": "風林火山",
-    "NA": null,
+    "NA": "Furinkazan",
     "KR": "풍림화산"
   },
   "風神の子、此処に在り": {
@@ -4359,6 +4555,13 @@
     "TW": "高貴的海盜準男爵之咆哮",
     "NA": "Black Dirty Barti Howling",
     "KR": "고귀한 해적 준남작의 포효"
+  },
+  "魁・一番星！！": {
+    "JP": null,
+    "CN": "魁·一番星！！",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "魔よ、悉く天地を塞げ": {
     "JP": null,
@@ -4490,7 +4693,7 @@
     "JP": null,
     "CN": "龙飞剑",
     "TW": "龍飛劍",
-    "NA": null,
+    "NA": "Ryuhiken",
     "KR": "용비검"
   },
   "１３日の金曜日": {
@@ -4526,7 +4729,7 @@
     "CN": "G.G.G.",
     "TW": "G.G.G.",
     "NA": null,
-    "KR": null
+    "KR": "G.G.G."
   },
   "Ｉテクスチャ": {
     "JP": null,
@@ -4569,208 +4772,5 @@
     "TW": "W．F．D",
     "NA": "World Faith Domination",
     "KR": "Ｗ·F·D"
-  },
-  "大降臨連環馬猛襲撃": {
-    "JP": null,
-    "CN": "大降临连环马猛袭击",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "愛が受難を招くとも": {
-    "JP": null,
-    "CN": "纵使爱会教人经受苦难",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "我が叫びに応じよ、海騎士たちよ": {
-    "JP": null,
-    "CN": "回应我的呼唤吧，海骑士们",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "日輪が穿つ星河の朔月": {
-    "JP": null,
-    "CN": "贯穿日轮的星河朔月",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "末那識・十六夜残花": {
-    "JP": null,
-    "CN": "末那识·十六夜残花",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "儚き夏よ、青春のきらめきに還れ": {
-    "JP": null,
-    "CN": "幻夏啊，必归青春之辉",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "陽炎剣・鶴憩水恋歌": {
-    "JP": null,
-    "CN": "阳炎剑·鹤憩水恋歌",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ノアの方舟": {
-    "JP": null,
-    "CN": "诺亚方舟",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "再創世の試練": {
-    "JP": null,
-    "CN": "再创世的试炼",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "抜刀・神威": {
-    "JP": null,
-    "CN": "拔刀·神威",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "死損ね一文字": {
-    "JP": null,
-    "CN": "死不了的一文字",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "魁・一番星！！": {
-    "JP": null,
-    "CN": "魁·一番星！！",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "誠の旗": {
-    "JP": null,
-    "CN": "诚之旗",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "不完全・鮮血惑星": {
-    "JP": null,
-    "CN": "不完全·鲜血行星",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "完全なる血の惑星へ": {
-    "JP": null,
-    "CN": "向着完全的血之行星",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "終焉の三つ首怪獣、再び来る": {
-    "JP": null,
-    "CN": "终焉的三首怪兽，再临",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "かくて、約束された勝利の剣": {
-    "JP": null,
-    "CN": "由此，展现誓约胜利之剑",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "全て咲き誇る精彩の花園": {
-    "JP": null,
-    "CN": "万花盛放的辉彩花园",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "枯れ木に花を咲かせましょう": {
-    "JP": null,
-    "CN": "让枯朽之木再绽鲜花吧",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "眼球伝承・慈育白珠": {
-    "JP": null,
-    "CN": "眼球传承·慈育白珠",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冥きに微睡む常世の花園": {
-    "JP": null,
-    "CN": "浅眠幽冥的常世花园",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "斯くも永き巡礼の旅路": {
-    "JP": null,
-    "CN": "如此漫长的巡礼之途",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "汝、星を刈る血刃": {
-    "JP": null,
-    "CN": "汝乃收割星辰之血刃",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "汝、星を鋤く豊穣": {
-    "JP": null,
-    "CN": "汝乃躬耕星辰之丰饶",
-    "TW": null,
-    "NA": "Thou Art the Harvest that Reaps the Stars",
-    "KR": null
-  },
-  "傲慢覆す怒り": {
-    "JP": null,
-    "CN": "颠覆傲慢的愤怒",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "螺湮城は存在せず、故に世の狂気に果ては無し": {
-    "JP": null,
-    "CN": "螺湮城并不存在，故世间疯狂永无止境",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "女神はここに溶け消え、故に人の愚行を言祝ぐ": {
-    "JP": null,
-    "CN": "女神于此消融，故为人之愚行献上祝词",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "反転憲章・境目のない世界": {
-    "JP": null,
-    "CN": "反转宪章·无界的世界",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "旧き過去を紡ぐ糸": {
-    "JP": null,
-    "CN": "纺织古旧过去之丝",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

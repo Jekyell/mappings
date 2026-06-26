@@ -131,21 +131,21 @@
     "CondParamType1": {
       "JP": "{target}クラスのクラススコアサイン解放数(最大{maxCount}個)に応じて効果アップ",
       "CN": "根据{target}职阶分值星座解放数(最大{maxCount}个)提升效果",
-      "TW": null,
+      "TW": "根據{target}職階刻痕星痕解放數(最大{maxCount}個)提升效果",
       "NA": "Increases based on the number (Max {maxCount}) of unlocked {target} Class Score Signs",
       "KR": null
     },
     "CondParamType2": {
       "JP": "{target}クラスのサーヴァントの絆レベル合計(最大{maxCount})に応じて効果アップ",
       "CN": "根据{target}职阶从者的羁绊等级总和(最大{maxCount})提升效果",
-      "TW": null,
+      "TW": "根據{target}職階從者的羈絆等級總和(最大{maxCount})提升效果",
       "NA": "Increases based on the total bond levels (Max {maxCount}) of {target} servants",
       "KR": null
     },
     "CondParamType0": {
       "JP": "{target}クラスのTYPE{type}(最大{maxCount})に応じて効果アップ",
       "CN": "根据{target}职阶的TYPE{type}(最大{maxCount})提升效果",
-      "TW": null,
+      "TW": "根據{target}職階的TYPE{type}(最大{maxCount})提升效果",
       "NA": "Increases based on the TYPE{type} (Max {maxCount} counts) of {target} class",
       "KR": null
     }
@@ -289,16 +289,16 @@
     "１ターン後にコマンドカードをどのタイプに変化させるか選択してください": {
       "JP": null,
       "CN": "请选择1回合后指令卡将变为哪一种类型",
-      "TW": "請選擇1回合後要變更指令卡的類型",
-      "NA": "Select which command card type to change after 1 turn",
-      "KR": null
+      "TW": "請選擇1回合後指令卡將變為哪一種類型",
+      "NA": "Please select which type to change your Command Card to after 1 turn.",
+      "KR": "1턴 후에 커맨드 카드를 어느 타입으로 변화시킬지 선택해 주세요"
     },
     "どの効果を得るか選択してください": {
       "JP": null,
       "CN": "请选择要获得什么效果",
-      "TW": "請選擇要獲得的效果",
+      "TW": "請選擇要獲得什麼效果",
       "NA": "Choose which effect you want",
-      "KR": null
+      "KR": "어느 효과를 얻을지 선택해 주세요"
     },
     "Artsアップ": {
       "JP": null,
@@ -365,57 +365,120 @@
     },
     "Quickアップ": {
       "JP": null,
-      "CN": "Quick提升",
+      "CN": "迅提升",
       "TW": "Quick提升",
       "NA": "Quick Up",
-      "KR": "퀵 UP"
+      "KR": "퀵 업"
     },
     "Busterアップ": {
       "JP": null,
-      "CN": "Buster提升",
+      "CN": "力提升",
       "TW": "Buster提升",
       "NA": "Buster Up",
-      "KR": "버스터 UP"
+      "KR": "버스터 업"
     },
     "天国化(Arts強化)": {
       "JP": null,
-      "CN": "天国化(Arts强化)",
+      "CN": "天堂化(技强化)",
       "TW": "天國化(Arts強化)",
       "NA": null,
       "KR": null
     },
     "地獄化(Buster強化)": {
       "JP": null,
-      "CN": "地狱化(Buster强化)",
+      "CN": "地狱化(力强化)",
       "TW": "地獄化(Buster強化)",
       "NA": null,
       "KR": null
     },
     "どのガッツ効果を得るか選択してください": {
       "JP": null,
-      "CN": "请选择想要获得哪一种毅力效果",
+      "CN": "请选择要获得哪种毅力效果",
       "TW": "請選擇要獲得哪一種毅力效果",
       "NA": null,
       "KR": null
     },
     "ガッツなし": {
       "JP": null,
-      "CN": "无毅力",
+      "CN": "不付与毅力",
       "TW": "無毅力",
       "NA": null,
       "KR": null
     },
     "ガッツ50%回復": {
       "JP": null,
-      "CN": "毅力50%回复",
+      "CN": "毅力回复50%",
       "TW": "毅力50%回復",
       "NA": null,
       "KR": null
     },
     "ガッツ1回復": {
       "JP": null,
-      "CN": "毅力1回复",
+      "CN": "毅力回复1",
       "TW": "毅力1回復",
+      "NA": null,
+      "KR": null
+    },
+    "宝具タイプを選択してください": {
+      "JP": null,
+      "CN": "请选择宝具类型",
+      "TW": "請選擇寶具類型",
+      "NA": null,
+      "KR": null
+    },
+    "月下(全体タイプ)": {
+      "JP": null,
+      "CN": "月下(全体类型)",
+      "TW": "月下(全體類型)",
+      "NA": null,
+      "KR": null
+    },
+    "日輪(単体タイプ)": {
+      "JP": null,
+      "CN": "日轮(单体类型)",
+      "TW": "日輪(單體類型)",
+      "NA": null,
+      "KR": null
+    },
+    "変身させる状態を選択してください": {
+      "JP": null,
+      "CN": "请选择要变身的状态",
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "通常状態": {
+      "JP": null,
+      "CN": "通常状态",
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "〔冥界の花園〕状態": {
+      "JP": null,
+      "CN": "〔冥界的花园〕状态",
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "霊基を入れ替えるか選択してください": {
+      "JP": null,
+      "CN": "请选择是否替换灵基",
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "入れ替えない": {
+      "JP": null,
+      "CN": "不替换",
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "入れ替える": {
+      "JP": null,
+      "CN": "替换",
+      "TW": null,
       "NA": null,
       "KR": null
     }
@@ -440,6 +503,36 @@
       "CN": "请选择[servantName]要变更的宝具类型",
       "TW": "請選擇[servantName]要變更的寶具類型",
       "NA": "Choose the NP type to change for [servantName]",
+      "KR": null
+    }
+  },
+  "condBranchSkillInfo": {
+    "Branch": {
+      "JP": "ブランチ{0}",
+      "CN": "分支{0}",
+      "TW": "分支{0}",
+      "NA": "Branch {0}",
+      "KR": null
+    },
+    "isSelfTarget.0": {
+      "JP": "スキル対象が自身以外の時",
+      "CN": "技能对象为自身以外时",
+      "TW": "技能對象為自身以外時",
+      "NA": "When targeting NOT self",
+      "KR": null
+    },
+    "isSelfTarget.1": {
+      "JP": "スキル対象が自身の時",
+      "CN": "技能对象为自身时",
+      "TW": "技能對象為自身時",
+      "NA": "When targeting self",
+      "KR": null
+    },
+    "individuality": {
+      "JP": "スキルターゲットの特性:",
+      "CN": "技能对象持有特性：",
+      "TW": "技能對象持有特性：",
+      "NA": "Skill target has trait:",
       "KR": null
     }
   },
@@ -788,22 +881,22 @@
       "JP": null,
       "CN": "由井正雪",
       "TW": "由井正雪",
-      "NA": null,
-      "KR": null
+      "NA": "Yui Shousetsu",
+      "KR": "유이 쇼세츠"
     },
     "地右衛門": {
       "JP": null,
       "CN": "地右卫门",
       "TW": "地右衛門",
-      "NA": null,
-      "KR": null
+      "NA": "Chiemon",
+      "KR": "치에몬"
     },
     "岸波白野": {
       "JP": null,
       "CN": "岸波白野",
       "TW": "岸波白野",
       "NA": "Kishinami Hakuno",
-      "KR": null
+      "KR": "키시나미 하쿠노"
     },
     "白鷺リンゼ": {
       "JP": null,
@@ -840,198 +933,168 @@
       "CN": "草莓芭菲",
       "TW": "草莓百匯",
       "NA": "Strawberry Parfait",
-      "KR": null
+      "KR": "딸기 파르페"
     },
     "メロンパフェ": {
       "JP": null,
       "CN": "蜜瓜芭菲",
-      "TW": "哈密瓜百匯",
+      "TW": "哈蜜瓜百匯",
       "NA": "Melon Parfait",
-      "KR": null
+      "KR": "멜론 파르페"
     },
     "チョコレートパフェ": {
       "JP": null,
       "CN": "巧克力芭菲",
       "TW": "巧克力百匯",
       "NA": "Chocolate Parfait",
-      "KR": null
+      "KR": "초콜릿 파르페"
     },
     "ミルクセーキパフェ": {
       "JP": null,
       "CN": "奶昔芭菲",
       "TW": "奶昔百匯",
       "NA": "Milkshake Parfait",
-      "KR": null
+      "KR": "밀크셰이크 파르페"
     },
     "カステラパフェ": {
       "JP": null,
       "CN": "长崎蛋糕芭菲",
       "TW": "長崎蛋糕百匯",
       "NA": "Castella Parfait",
-      "KR": null
+      "KR": "카스텔라 파르페"
     },
     "ラムネパフェ": {
       "JP": null,
       "CN": "柠檬汽水芭菲",
-      "TW": "彈珠汽水百匯",
+      "TW": "檸檬汽水百匯",
       "NA": "Ramune Parfait",
-      "KR": null
+      "KR": "라무네 파르페"
     },
     "マカロンパフェ": {
       "JP": null,
       "CN": "马卡龙芭菲",
       "TW": "馬卡龍百匯",
       "NA": "Macaron Parfait",
-      "KR": null
+      "KR": "마카롱 파르페"
     },
     "オニオニパフェ": {
       "JP": null,
       "CN": "鬼鬼芭菲",
       "TW": "鬼鬼百匯",
       "NA": "Oni Oni Parfait",
-      "KR": null
+      "KR": "오니오니 파르페"
     },
     "あげぽよパフェ": {
       "JP": null,
       "CN": "最嗨芭菲",
-      "TW": "愉快心情百匯",
-      "NA": "Exciting Parfait",
-      "KR": null
+      "TW": "最嗨百匯",
+      "NA": "Pumped-Up Parfait",
+      "KR": "짱 좋은 파르페"
     },
     "はんなまパフェ": {
       "JP": null,
       "CN": "好那摩芭菲",
-      "TW": "半生百匯",
-      "NA": "HeNamas Parfait",
-      "KR": null
+      "TW": "好那摩百匯",
+      "NA": "Helldyste Parfait",
+      "KR": "헬안나마 파르페"
     },
     "エッグプリンパフェ": {
       "JP": null,
       "CN": "蛋布丁芭菲",
       "TW": "雞蛋布丁百匯",
       "NA": "Egg Pudding Parfait",
-      "KR": null
+      "KR": "달걀 푸딩 파르페"
     },
     "パンケーキパフェ": {
       "JP": null,
       "CN": "烤薄饼芭菲",
       "TW": "鬆餅百匯",
       "NA": "Pancake Parfait",
-      "KR": null
+      "KR": "팬케이크 파르페"
     },
     "“工事用火薬”": {
       "JP": null,
-      "CN": null,
+      "CN": "“工程用火药”",
       "TW": "工事用火藥",
       "NA": null,
-      "KR": null
+      "KR": "“공사용 화약”"
     },
     "“バールのようなモノ”": {
       "JP": null,
-      "CN": null,
+      "CN": "“撬棍般物品”",
       "TW": "像撬棍的東西",
       "NA": null,
-      "KR": null
+      "KR": "“쇠지레같은 것”"
     },
     "“サバイバルソード”": {
       "JP": null,
-      "CN": null,
+      "CN": "“生存用剑”",
       "TW": "生存之劍",
       "NA": null,
-      "KR": null
+      "KR": "“서바이벌 소드”"
     },
     "“携行ランタン”": {
       "JP": null,
-      "CN": null,
+      "CN": "“便携提灯”",
       "TW": "攜行燈籠",
       "NA": null,
-      "KR": null
+      "KR": "“휴대용 랜턴”"
     },
     "“オシャレな釣り糸”": {
       "JP": null,
-      "CN": null,
+      "CN": "“时髦钓线”",
       "TW": "時尚釣線",
       "NA": null,
-      "KR": null
+      "KR": "“멋진 낚시줄”"
     },
     "“スペアギア”": {
       "JP": null,
-      "CN": null,
+      "CN": "“备用齿轮”",
       "TW": "備用齒輪",
       "NA": null,
-      "KR": null
+      "KR": "“스페어 기어”"
     },
     "“強靭なフック”": {
       "JP": null,
-      "CN": null,
+      "CN": "“坚韧钩子”",
       "TW": "強靭的鉤子",
       "NA": null,
-      "KR": null
+      "KR": "“강인한 후크”"
     },
     "“スーパーエンジン”": {
       "JP": null,
-      "CN": null,
+      "CN": "“超级引擎”",
       "TW": "超級引擎",
       "NA": null,
-      "KR": null
+      "KR": "“슈퍼 엔진”"
     },
     "“古木の苗”": {
       "JP": null,
-      "CN": null,
+      "CN": "“古树树苗”",
       "TW": "古木的苗",
       "NA": null,
-      "KR": null
+      "KR": "“고목의 묘목”"
     },
     "“よく育つ肥料”": {
       "JP": null,
-      "CN": null,
+      "CN": "“促生肥料”",
       "TW": "好生長的肥料",
       "NA": null,
-      "KR": null
+      "KR": "“잘 자라는 비료”"
     },
     "“勤労メダル”": {
       "JP": null,
-      "CN": null,
+      "CN": "“勤劳徽章”",
       "TW": "勤勞勳章",
       "NA": null,
-      "KR": null
+      "KR": "“근로 메달”"
     },
     "“金の鶏のタマゴ”": {
       "JP": null,
-      "CN": null,
+      "CN": "“金鸡的蛋”",
       "TW": "金色的雞蛋",
       "NA": null,
-      "KR": null
-    }
-  },
-  "condBranchSkillInfo": {
-    "Branch": {
-      "JP": "ブランチ{0}",
-      "CN": "分支{0}",
-      "TW": "分支{0}",
-      "NA": "Branch {0}",
-      "KR": null
-    },
-    "isSelfTarget.0": {
-      "JP": "スキル対象が自身以外の時",
-      "CN": "技能对象为自身以外时",
-      "TW": null,
-      "NA": "When targeting NOT self",
-      "KR": null
-    },
-    "isSelfTarget.1": {
-      "JP": "スキル対象が自身の時",
-      "CN": "技能对象为自身时",
-      "TW": null,
-      "NA": "When targeting self",
-      "KR": null
-    },
-    "individuality": {
-      "JP": "スキルターゲットの特性:",
-      "CN": "技能对象持有特性：",
-      "TW": null,
-      "NA": "Skill target has trait:",
-      "KR": null
+      "KR": "“금계의 달걀”"
     }
   }
 }

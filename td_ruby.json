@@ -20,6 +20,13 @@
     "NA": "One Moment, Unrepeated",
     "KR": "일기일회"
   },
+  "いとしきややこへ、ははのめを": {
+    "JP": null,
+    "CN": "为我可爱的婴孩，赠以母亲的眼睛",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "いぶきのみたま・はちみゃくどとう": {
     "JP": null,
     "CN": "Ibukinomitama Hachimyakudoto",
@@ -30,9 +37,9 @@
   "うなさかひらくみちひきのたま": {
     "JP": null,
     "CN": "Unasakahiraku Michihikinotama",
-    "TW": null,
+    "TW": "Unasakahiraku Michihikinotama",
     "NA": "Tide Jewels that Opens the Boundary Towards the Realm of Sea God",
-    "KR": null
+    "KR": "바다의 경계를 여는 만간주"
   },
   "おおえやま・ぼだいきさつ": {
     "JP": null,
@@ -76,6 +83,13 @@
     "NA": "Triple Crane Wings",
     "KR": "학익삼련"
   },
+  "かげろうけん・つるのばかんす きみとみずぎでらんでぶー": {
+    "JP": null,
+    "CN": "Kagerouken Tsuruno Vacance Kimito Mizugide Rendez-vous",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "かたらずのじん": {
     "JP": null,
     "CN": "不语之阵",
@@ -96,6 +110,13 @@
     "TW": "Karakurigenpou Dongyu",
     "NA": "Karakuri Genpou, Dongyu",
     "KR": "꼭두각시 환법・탄우"
+  },
+  "かれきにはなをさかせましょう": {
+    "JP": null,
+    "CN": "Karekinihanawosakasemashou",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "がんりゅうじま": {
     "JP": null,
@@ -205,9 +226,9 @@
   "ごおうはんてん・じんらいふうれつ": {
     "JP": null,
     "CN": "Goouhanntenn Jinnraihuuretsu",
-    "TW": null,
-    "NA": "Ox-King Reversal - Frenzied Tempest",
-    "KR": null
+    "TW": "Goouhanten Jinraifuuretsu",
+    "NA": "Ox-King Inverted - Thundering Tempest",
+    "KR": "우왕반전・신뢰풍렬"
   },
   "ごぎょうさん・しゃかにょらいしょう": {
     "JP": null,
@@ -230,6 +251,13 @@
     "NA": "Magifender Girl, Kuzuryu Massacre",
     "KR": "호법소녀・구두룡오살"
   },
+  "さきがけ・いちばんぼし！！": {
+    "JP": null,
+    "CN": "Sakigake Ichibanboshi!!",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "さんさんにっこう　ひるやすみしゅちにくりん": {
     "JP": null,
     "CN": "Sansan Nikko Hiruyasumi Shuchi Nikurin",
@@ -243,6 +271,13 @@
     "TW": "三段擊",
     "NA": "Three Line Formation",
     "KR": "삼단 사격"
+  },
+  "しなずいちもんじ": {
+    "JP": null,
+    "CN": "Shinazu Ichimonji",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "しののめにきらめくむみょうのひかり": {
     "JP": null,
@@ -324,8 +359,8 @@
   "じゅうしん・やたがらす": {
     "JP": null,
     "CN": "Juushin Yatagarasu",
-    "TW": null,
-    "NA": "Rifle God - Yatagarasu",
+    "TW": "Jyuushin Yatagarasu",
+    "NA": "God of Firearms, Yatagarasu",
     "KR": "총신・야타가라스"
   },
   "じゅうめんまいふく・むえいのごとく": {
@@ -373,16 +408,16 @@
   "ぜつぎ・はっきどとう": {
     "JP": null,
     "CN": "Zetsugi Hakkidotou",
-    "TW": null,
-    "NA": "Special Technique: Eight-Current Raging Storm",
-    "KR": null
+    "TW": "Zetsugi Hakkidotou",
+    "NA": "Special Technique, Eight-Current Raging Storm",
+    "KR": "절기・팔기노도"
   },
   "そうしせんこうみだらばけいおす": {
     "JP": null,
     "CN": "Soushisennkou Midaraba Chaos",
-    "TW": null,
+    "TW": "Soushisenkou Midaraba Chaos",
     "NA": "Flash of Origin, Yet Chaotic",
-    "KR": null
+    "KR": "창시섬광, 어지러워지면 혼돈"
   },
   "そうてんすでにしす、こうてんまさにたつべし": {
     "JP": null,
@@ -404,6 +439,13 @@
     "TW": "只為刺殺而存",
     "NA": "All I Do Is Kill",
     "KR": "그저 죽일 뿐"
+  },
+  "だいこうりんれんかんばもうしゅうげき": {
+    "JP": null,
+    "CN": "Daikourin Renkanba Moushugeki",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "だしんべん": {
     "JP": null,
@@ -559,6 +601,13 @@
     "NA": "Pāpīyas Reborn, Demon King of the Myriad Heavens",
     "KR": "파순변생・삼천대천천마왕"
   },
+  "ばっとう・かむい": {
+    "JP": null,
+    "CN": "Battou Kamui",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ばつざんがいせい": {
     "JP": null,
     "CN": "拔山盖世",
@@ -569,9 +618,9 @@
   "ひけん・ひよくせんよう": {
     "JP": null,
     "CN": "Hikenn Hiyokusennyou",
-    "TW": null,
-    "NA": "Hidden Sword: Soaring Flash",
-    "KR": null
+    "TW": "Hiken Hiyokusenyou",
+    "NA": "Hidden Sword, Soaring Brilliance",
+    "KR": "비검・비익섬요"
   },
   "ひみつかりばー": {
     "JP": null,
@@ -590,15 +639,15 @@
   "びてんはっそう・しらぬい": {
     "JP": null,
     "CN": "Bitennhassou Shiranui",
-    "TW": null,
-    "NA": "Bishamonten's Eight Aspect, Shiranui",
+    "TW": "Bitenhassou Shiranui",
+    "NA": "Biten's Eight Aspects, Shiranui",
     "KR": "비천팔상・시라누이"
   },
   "ふうりんかざん": {
     "JP": null,
     "CN": "Fuurinkazan",
-    "TW": null,
-    "NA": "Fuurin Kazan",
+    "TW": "Fuurinkazan",
+    "NA": "Furinkazan",
     "KR": "풍림화산"
   },
   "ふがくさんじゅうろっけい": {
@@ -612,7 +661,7 @@
     "JP": null,
     "CN": "Futatsutamaniteuchitesourou",
     "TW": "Futatsutamaniteuchitesourou",
-    "NA": "Shooting with Two Bullets",
+    "NA": "Two Shots Fired",
     "KR": "두 발로 쏘아 드리리다"
   },
   "ぶいあーるしんかげりゅうおうぎ・ともえがふちたいようけん": {
@@ -635,6 +684,27 @@
     "TW": "Maoukaiten Higanbana",
     "NA": "Demon King's Turning Tide, Mañjusaka",
     "KR": "마왕회천・만주사화"
+  },
+  "まことのはた": {
+    "JP": null,
+    "CN": "Makoto no Hata",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "まなしき・いざよいざんか": {
+    "JP": null,
+    "CN": "Manashiki Izayoi Zanka",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "みるくいろの・ゆめをあなたと": {
+    "JP": null,
+    "CN": "与你同见 这乳白色的梦",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "むぎょう": {
     "JP": null,
@@ -695,9 +765,9 @@
   "ゆうぐれにてぜっそく、たそがれにてちぇーんそー": {
     "JP": null,
     "CN": "Yuugurenite Zessoku,Tasogarenite Chainsaw",
-    "TW": null,
+    "TW": "Yuugurenite Zessoku,Tasogarenite Chainsaw",
     "NA": "Death at the Twilight, Chainsaw at the Dusk",
-    "KR": null
+    "KR": "저녁놀에 절명, 황혼에 체인소"
   },
   "よいやみかげるつきのみたま": {
     "JP": null,
@@ -737,8 +807,8 @@
   "りゅうひけん": {
     "JP": null,
     "CN": "Ryuuhikenn",
-    "TW": null,
-    "NA": "Dragonflight Blade",
+    "TW": "Ryuuhiken",
+    "NA": "Ryuhiken",
     "KR": "용비검"
   },
   "りゅうよ、わだつみのはらをゆけ": {
@@ -751,9 +821,9 @@
   "れっしじゅんめい・ふしゃくしんみょう": {
     "JP": null,
     "CN": "Resshijunnmei Fushakushinnmyou",
-    "TW": null,
-    "NA": "Selfless Liberator - Ātma-Parityāga",
-    "KR": null
+    "TW": "Resshijunmei Fushakushinmyou",
+    "NA": "Selfless Liberator, Unsparing Devotion",
+    "KR": "열사순명・불석신명"
   },
   "アイオニオン・ヘタイロイ": {
     "JP": null,
@@ -765,9 +835,9 @@
   "アイティオピアー・ケトゥス": {
     "JP": null,
     "CN": "Aethiopis Ketos",
-    "TW": null,
-    "NA": "Aethiopis Kētos",
-    "KR": null
+    "TW": "Aethiopis Ketos",
+    "NA": "Aethiopia Cetus",
+    "KR": "아이티오피아・케투스"
   },
   "アイラーヴァタ・キングサイズ": {
     "JP": null,
@@ -839,12 +909,19 @@
     "NA": "Athanaton Ten Thousand",
     "KR": "아타나토이 텐 사우전드"
   },
+  "アダマス・クロノス・エリニュス": {
+    "JP": null,
+    "CN": "Adamas Kronos Erinyes",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "アトムミクロス・ムリアンフット": {
     "JP": null,
     "CN": "Atom Micros Murian Foot",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "아톰 미크로스・무리안 풋"
   },
   "アプフェル・シーセン": {
     "JP": null,
@@ -892,7 +969,7 @@
     "JP": null,
     "CN": "Ariadne Apólyto Ádis",
     "TW": "Ariadne Apólyto Ádis",
-    "NA": "Ariadne Apolyto Antis",
+    "NA": "Ariadne Apolyto Hades",
     "KR": "아리아드네 아포리토 아디스"
   },
   "アルク・ドゥ・トリオンフ・ドゥ・レトワール": {
@@ -958,6 +1035,13 @@
     "NA": "Antares Snipe",
     "KR": "안타레스・스나이프"
   },
+  "アンダーワールド・フラワーガーデン": {
+    "JP": null,
+    "CN": "Under World Flower Garden",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "アンチフリング・ロンド": {
     "JP": null,
     "CN": "Anti-fling Rondo",
@@ -968,9 +1052,9 @@
   "アンフィニッシュド・ブルー": {
     "JP": null,
     "CN": "Unfinished Blue",
-    "TW": null,
+    "TW": "Unfinished Blue",
     "NA": "Unfinished Blue",
-    "KR": null
+    "KR": "언피니시드 블루"
   },
   "アンフェル・シャトー・ディフ": {
     "JP": null,
@@ -1003,9 +1087,9 @@
   "アーマード・テノチティトラン": {
     "JP": null,
     "CN": "Armored Tenochtitlan",
-    "TW": null,
+    "TW": "Armored Tenochtitlan",
     "NA": "Armored Tenochtitlan",
-    "KR": null
+    "KR": "아머드・테노치티틀란"
   },
   "イシャー・ラーアー": {
     "JP": null,
@@ -1041,6 +1125,13 @@
     "TW": "Immortal Chaos Brigade",
     "NA": "Immortal Chaos Brigade",
     "KR": "이모탈 카오스 브리게이드"
+  },
+  "インウェルシオ・リベルタティス・オウラクルム": {
+    "JP": null,
+    "CN": "Inversio Libertatis Oraculum",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "イヴァイヤー・ウェントゥ・ネベデト・ゲレク": {
     "JP": null,
@@ -1112,12 +1203,26 @@
     "NA": "Uraeus Astrape",
     "KR": "우라에우스 아스트라페"
   },
+  "ウルザルスラズル・フォルン": {
+    "JP": null,
+    "CN": "Urðarþráður Forn",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "エクスカリバー": {
     "JP": null,
     "CN": "Excalibur",
     "TW": "Excalibur",
     "NA": "Excalibur",
     "KR": "엑스칼리버"
+  },
+  "エクスカリバー・エクセルスス": {
+    "JP": null,
+    "CN": "Excalibur Excelsus",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "エクスカリバー・ガラティーン": {
     "JP": null,
@@ -1157,9 +1262,9 @@
   "エディン・シュグラ・コラプサー": {
     "JP": null,
     "CN": "Edin Shugrra Collapsar",
-    "TW": null,
+    "TW": "Edin Shugura Collapsar",
     "NA": "Edin Shugurra Collapsar",
-    "KR": null
+    "KR": "에딘 슈그라 컬랩사"
   },
   "エヌマ・エリシュ": {
     "JP": null,
@@ -1250,7 +1355,7 @@
     "CN": "Caféterras bij nacht",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "카페테라스 베이 나흐트"
   },
   "カラドボルグ": {
     "JP": null,
@@ -1283,9 +1388,9 @@
   "カルヴァリア・ガルガリン": {
     "JP": null,
     "CN": "Calvaria Galgalim",
-    "TW": null,
+    "TW": "Calvaria Galgalim",
     "NA": "Calvaria Galgalim",
-    "KR": null
+    "KR": "칼바리아 갈갈림"
   },
   "カレス・オブ・ザ・メドゥーサ": {
     "JP": null,
@@ -1327,7 +1432,7 @@
     "CN": "Gallitraps Funny Murian",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "갈리트랩・퍼니 무리안"
   },
   "ガーデン・オブ・アヴァロン": {
     "JP": null,
@@ -1356,6 +1461,13 @@
     "TW": "Candy Star Photon Ray",
     "NA": "Candy Star Photon Ray",
     "KR": "캔디스타 포톤 레이"
+  },
+  "キングエリザ・タルシスモンテス": {
+    "JP": null,
+    "CN": "King Elisa Tarsis Montes",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ギロチン・ブレイカー": {
     "JP": null,
@@ -1402,9 +1514,9 @@
   "クラデニェツ・ズメイ・タタール": {
     "JP": null,
     "CN": "Кладенец Змей Татар",
-    "TW": null,
+    "TW": "Кладенец Змей Татар",
     "NA": "Kladenets Zmey Tatar",
-    "KR": null
+    "KR": "클라데네츠・즈메이・타타르"
   },
   "クラレント・ブラッドアーサー": {
     "JP": null,
@@ -1483,6 +1595,13 @@
     "NA": "Chronos Rose",
     "KR": "크로노스 로즈"
   },
+  "グランド・イリュージョン": {
+    "JP": null,
+    "CN": "Grand Illusion",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "グラン・パ・ド・ドゥ": {
     "JP": null,
     "CN": "Grand Pas de Deux",
@@ -1500,15 +1619,22 @@
   "グレートスリー、フラットスナーク": {
     "JP": null,
     "CN": "Great Three, Flat Snark",
-    "TW": null,
+    "TW": "Great Three, Flat Snark",
     "NA": "Great Three, Flat Snark",
-    "KR": null
+    "KR": "그레이트 쓰리, 플랫 스나크"
   },
   "グレートスリー、ワンダースナッチ": {
     "JP": null,
     "CN": "Great Three, Wandersnatch",
-    "TW": null,
+    "TW": "Great Three, Wandersnatch",
     "NA": "Great Three, Wandersnatch",
+    "KR": "그레이트 쓰리, 원더스내치"
+  },
+  "グレートラム・ノアズ・アーク": {
+    "JP": null,
+    "CN": "Great Ram Noah's Ark",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "グレートラム・ノーチラス": {
@@ -1577,16 +1703,16 @@
   "コスモス・クラフト・クレーター": {
     "JP": null,
     "CN": "Cosmos Craft Crater",
-    "TW": null,
+    "TW": "Cosmos Craft Crater",
     "NA": "C.C.C.",
-    "KR": null
+    "KR": "코스모스 크래프트 크레이터"
   },
   "コード：オリジナル・シン": {
     "JP": null,
     "CN": "Code：Original Sin",
-    "TW": null,
+    "TW": "Code：Original Sin",
     "NA": "Code: Original Sin",
-    "KR": null
+    "KR": "코드: 오리지널 신"
   },
   "ゴッドフォース": {
     "JP": null,
@@ -1619,9 +1745,9 @@
   "ゴールド・ギガント・ガーメント": {
     "JP": null,
     "CN": "Gold Gigant Garment",
-    "TW": null,
+    "TW": "Gold Gigant Garment",
     "NA": "G.G.G.",
-    "KR": null
+    "KR": "골드 기간트 가먼트"
   },
   "ゴーレム・ケテルマルクト": {
     "JP": null,
@@ -1784,12 +1910,19 @@
     "NA": "Skewered Plasma Blade",
     "KR": "스큐어드 플라즈마 블레이드"
   },
+  "スクリーム・エレウシス": {
+    "JP": null,
+    "CN": "Scream Eleusis",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "スターリット・マーマレード": {
     "JP": null,
     "CN": "Starlit Marmalade",
-    "TW": null,
+    "TW": "Starlit Marmalade",
     "NA": "Starlit Marmalade",
-    "KR": null
+    "KR": "스탈릿 마멀레이드"
   },
   "スダルシャンチャクラ・ヤムラージ": {
     "JP": null,
@@ -1864,7 +1997,7 @@
   "ズメイ・ゴルィニシチェ": {
     "JP": null,
     "CN": "Zmei Gorynishche",
-    "TW": "Zmei Gorynishche",
+    "TW": "Змей Горыныч",
     "NA": "Zmei Gorynych",
     "KR": "즈메이・고리니치"
   },
@@ -2162,6 +2295,13 @@
     "NA": "Nammu Duranki",
     "KR": "남무 두르안키"
   },
+  "ナンム・マリンハート": {
+    "JP": null,
+    "CN": "Nammu Marine Heart",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ナーサリー・ライム": {
     "JP": null,
     "CN": "Nursery Rhyme",
@@ -2182,6 +2322,13 @@
     "TW": "Neferu Swen Anubis",
     "NA": "Neferu Swen Anubis",
     "KR": "네페루 수엔 아누비스"
+  },
+  "ノアズ・アーク": {
+    "JP": null,
+    "CN": "Noah's Ark",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ノブナガ・ＴＨＥ・ロックンロール": {
     "JP": null,
@@ -2246,12 +2393,19 @@
     "NA": "Báthory Brave Erzsébet",
     "KR": "바토리 브레이브 에르제베트"
   },
+  "バートリ・メグシェールト": {
+    "JP": null,
+    "CN": "Báthory Megsért",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "パラディ・シャトー・ディフ": {
     "JP": null,
     "CN": "Paradis Chateau d'If",
-    "TW": null,
+    "TW": "Paradis Chateau d'If",
     "NA": "Paradis Château d'If",
-    "KR": null
+    "KR": "파라디 샤토 디프"
   },
   "パンデモニウム・ケトゥス": {
     "JP": null,
@@ -2267,6 +2421,13 @@
     "NA": "Pashupata",
     "KR": "파슈파타"
   },
+  "パールヴァティー・グランシア": {
+    "JP": null,
+    "CN": "Parvati Grancia",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ヒポグリフ": {
     "JP": null,
     "CN": "Hippogriff",
@@ -2274,11 +2435,18 @@
     "NA": "Hippogriff",
     "KR": "히포그리프"
   },
+  "ヒュブリン・アナトレポーン・エリーニュエス": {
+    "JP": null,
+    "CN": "Húbrin Anatrépōn Erinyes",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ビブリオテーケ・バシレイオー": {
     "JP": null,
     "CN": "Bibliotheca Basileus",
     "TW": "Bibliotheca Basileus",
-    "NA": "Bibliotheca Basileus",
+    "NA": "Bibliothēkē Basileiou",
     "KR": "비블리오테케 바실레이오우"
   },
   "ビューティフル・ジャーニー": {
@@ -2294,6 +2462,13 @@
     "TW": "Pygmalion Chisel Out",
     "NA": "Pygmalion Chisel-Out",
     "KR": "피그말리온 치즐 아웃"
+  },
+  "ピレリナージ・ド・テンプル": {
+    "JP": null,
+    "CN": "Pèlerinage du Temple",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ファクス・カエレスティス": {
     "JP": null,
@@ -2313,7 +2488,7 @@
     "JP": null,
     "CN": "Pharos Tis Alexandreias",
     "TW": "Pharos Tis Alexandreias",
-    "NA": "Pharos Tis Alexandreias",
+    "NA": "Pharos Tis Alexandrias",
     "KR": "파로스 티스 알렉산드리아스"
   },
   "ファントム・メイデン": {
@@ -2596,6 +2771,13 @@
     "NA": "Hollow Heart Albion",
     "KR": "할로우 하트・알비온"
   },
+  "ホロス・ティス・セアス・ティス・トレラス": {
+    "JP": null,
+    "CN": "Holos Tis Theás Tis Trélas",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ホープウィル・キャメロット": {
     "JP": null,
     "CN": "Hope Will Camelot",
@@ -2606,9 +2788,9 @@
   "ホーリーラン・ノーチラス": {
     "JP": null,
     "CN": "Holy Run Nautilus",
-    "TW": null,
-    "NA": "Holy Land Nautilus",
-    "KR": null
+    "TW": "Holy Run Nautilus",
+    "NA": "Holy Run, Nautilus",
+    "KR": "홀리 런・노틸러스"
   },
   "ポイボス・カタストロフェ": {
     "JP": null,
@@ -2782,8 +2964,8 @@
     "JP": null,
     "CN": "Utopie Purgatoire",
     "TW": null,
-    "NA": null,
-    "KR": null
+    "NA": "Utopie Purgatoire",
+    "KR": "유토피・퓌르가투아르"
   },
   "ライ・ライク・ヴォーティガーン": {
     "JP": null,
@@ -2897,6 +3079,13 @@
     "NA": "Resurrection Fraught Hades",
     "KR": "리저렉션・플로트 하데스"
   },
+  "リッター・デア・オツェアネ": {
+    "JP": null,
+    "CN": "Ritter der Ozeane",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "リュミノジテ・エテルネッル": {
     "JP": null,
     "CN": "Luminosite Eternelle",
@@ -2949,9 +3138,9 @@
   "レベリオン・ウ・モンド": {
     "JP": null,
     "CN": "Rebellion au Monde",
-    "TW": null,
-    "NA": "Ribellione au Mondo",
-    "KR": null
+    "TW": "Rebellion au Monde",
+    "NA": "Rébellion au Monde",
+    "KR": "레벨리옹 오 몽드"
   },
   "ロンギヌス・カウントゼロ": {
     "JP": null,
@@ -3002,6 +3191,13 @@
     "NA": "Wandjina Mamaragan Seven Stars",
     "KR": "완지나・마마라간・세븐스타즈"
   },
+  "ワールズエンド・フラワーガーデン": {
+    "JP": null,
+    "CN": "World's End Flower Garden",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ワールド・フェイス・ドミネーション": {
     "JP": null,
     "CN": "World Faith Domination",
@@ -3047,9 +3243,9 @@
   "ヴィ・ヴィクテス": {
     "JP": null,
     "CN": "Vae Victis",
-    "TW": null,
-    "NA": "Vi Victis",
-    "KR": null
+    "TW": "Vae Victis",
+    "NA": "Vae Victis",
+    "KR": "베이 빅티스"
   },
   "ヴェルグ・アヴェスター": {
     "JP": null,
@@ -3058,12 +3254,19 @@
     "NA": "Verg Avesta",
     "KR": "베르그 아베스타"
   },
-  "ヴォイドレコード・ムーンアンカー": {
+  "ヴェールマールシュ・エルジェーベト": {
     "JP": null,
-    "CN": "Void Record Moon Anchor",
+    "CN": "Vér Mars Erzsébet",
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "ヴォイドレコード・ムーンアンカー": {
+    "JP": null,
+    "CN": "Void Record Moon Anchor",
+    "TW": "Void Record Moon Anchor",
+    "NA": null,
+    "KR": "보이드 레코드・문 앵커"
   },
   "ヴルカーノ・カリゴランテ": {
     "JP": null,
@@ -3078,208 +3281,5 @@
     "TW": "？？？",
     "NA": "???",
     "KR": "???"
-  },
-  "だいこうりんれんかんばもうしゅうげき": {
-    "JP": null,
-    "CN": "Daikourin Renkanba Moushugeki",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "パールヴァティー・グランシア": {
-    "JP": null,
-    "CN": "Parvati Grancia",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "リッター・デア・オツェアネ": {
-    "JP": null,
-    "CN": "Ritter der Ozeane",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "まなしき・いざよいざんか": {
-    "JP": null,
-    "CN": "Manashiki Izayoi Zanka",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "みるくいろの・ゆめをあなたと": {
-    "JP": null,
-    "CN": "与你同见 这乳白色的梦",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "かげろうけん・つるのばかんす きみとみずぎでらんでぶー": {
-    "JP": null,
-    "CN": "Kagerouken Tsuruno Vacance Kimito Mizugide Rendez-vous",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ナンム・マリンハート": {
-    "JP": null,
-    "CN": "Nammu Marine Heart",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "グレートラム・ノアズ・アーク": {
-    "JP": null,
-    "CN": "Great Ram Noah's Ark",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ノアズ・アーク": {
-    "JP": null,
-    "CN": "Noah's Ark",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "さきがけ・いちばんぼし！！": {
-    "JP": null,
-    "CN": "Sakigake Ichibanboshi!!",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "しなずいちもんじ": {
-    "JP": null,
-    "CN": "Shinazu Ichimonji",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ばっとう・かむい": {
-    "JP": null,
-    "CN": "Battou Kamui",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "まことのはた": {
-    "JP": null,
-    "CN": "Makoto no Hata",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バートリ・メグシェールト": {
-    "JP": null,
-    "CN": "Báthory Megsért",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ヴェールマールシュ・エルジェーベト": {
-    "JP": null,
-    "CN": "Vér Mars Erzsébet",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "キングエリザ・タルシスモンテス": {
-    "JP": null,
-    "CN": "King Elisa Tarsis Montes",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "エクスカリバー・エクセルスス": {
-    "JP": null,
-    "CN": "Excalibur Excelsus",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "いとしきややこへ、ははのめを": {
-    "JP": null,
-    "CN": "为我可爱的婴孩，赠以母亲的眼睛",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "かれきにはなをさかせましょう": {
-    "JP": null,
-    "CN": "Karekinihanawosakasemashou",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ワールズエンド・フラワーガーデン": {
-    "JP": null,
-    "CN": "World's End Flower Garden",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アンダーワールド・フラワーガーデン": {
-    "JP": null,
-    "CN": "Under World Flower Garden",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アダマス・クロノス・エリニュス": {
-    "JP": null,
-    "CN": "Adamas Kronos Erinyes",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "スクリーム・エレウシス": {
-    "JP": null,
-    "CN": "Scream Eleusis",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ピレリナージ・ド・テンプル": {
-    "JP": null,
-    "CN": "Pèlerinage du Temple",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "グランド・イリュージョン": {
-    "JP": null,
-    "CN": "Grand Illusion",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ヒュブリン・アナトレポーン・エリーニュエス": {
-    "JP": null,
-    "CN": "Húbrin Anatrépōn Erinyes",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ホロス・ティス・セアス・ティス・トレラス": {
-    "JP": null,
-    "CN": "Holos Tis Theás Tis Trélas",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "インウェルシオ・リベルタティス・オウラクルム": {
-    "JP": null,
-    "CN": "Inversio Libertatis Oraculum",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "ウルザルスラズル・フォルン": {
-    "JP": null,
-    "CN": "Urðarþráður Forn",
-    "TW": null,
-    "NA": null,
-    "KR": null
   }
 }

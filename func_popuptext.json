@@ -18,14 +18,14 @@
     "CN": "生命值减少",
     "TW": "HP減少",
     "NA": "HP Loss",
-    "KR": "HP DOWN"
+    "KR": "HP 감소"
   },
   "NP倍化": {
     "JP": null,
     "CN": "NP倍化",
     "TW": "NP倍化",
-    "NA": null,
-    "KR": null
+    "NA": "NP Doubling",
+    "KR": "NP 배화"
   },
   "NP吸収": {
     "JP": null,
@@ -52,8 +52,8 @@
     "JP": null,
     "CN": "NP消耗",
     "TW": "NP消耗",
-    "NA": null,
-    "KR": null
+    "NA": "NP Expended",
+    "KR": "NP 소비"
   },
   "NP減少": {
     "JP": null,
@@ -148,7 +148,7 @@
   },
   "attackBeforeFunctionMainOnly": {
     "JP": null,
-    "CN": "attackBeforeFunctionMainOnly",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -160,6 +160,13 @@
     "NA": "Trigger After Attack",
     "KR": "공격 후 발동"
   },
+  "buff245": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "cardReset": {
     "JP": "コマンドカードを配り直す",
     "CN": "指令卡重新抽取",
@@ -169,7 +176,7 @@
   },
   "classDropUp": {
     "JP": null,
-    "CN": "classDropUp",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -197,7 +204,7 @@
   },
   "commandattackBeforeFunctionMainOnly": {
     "JP": null,
-    "CN": "commandattackBeforeFunctionMainOnly",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -246,7 +253,7 @@
   },
   "confirmCommandFunction": {
     "JP": null,
-    "CN": "confirmCommandFunction",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -279,7 +286,7 @@
     "NA": "Deal NP damage",
     "KR": "보구 공격"
   },
-  "damageNpAndCheckIndividuality": {
+  "damageNpAndOrCheckIndividuality": {
     "JP": "〔{0}〕特性特攻攻撃",
     "CN": "〔{0}〕特性特攻攻击",
     "TW": "〔{0}〕特性特攻攻擊",
@@ -302,7 +309,7 @@
   },
   "damageNpHpratioHigh": {
     "JP": null,
-    "CN": "damageNpHpratioHigh",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -344,14 +351,14 @@
   },
   "damageNpSafe": {
     "JP": null,
-    "CN": "damageNpSafe",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "damageNpStateIndividual": {
     "JP": null,
-    "CN": "damageNpStateIndividual",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -386,7 +393,7 @@
   },
   "displayBuffstring": {
     "JP": null,
-    "CN": "displayBuffstring",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -449,7 +456,7 @@
   },
   "fieldIndividualityChangedFunction": {
     "JP": null,
-    "CN": "fieldIndividualityChangedFunction",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -484,7 +491,7 @@
   },
   "functionedFunction": {
     "JP": null,
-    "CN": "functionedFunction",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -573,9 +580,16 @@
     "NA": "Move to last reserve slot",
     "KR": null
   },
+  "multiGutsBeforeFunction": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "none": {
     "JP": null,
-    "CN": "none",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -624,7 +638,7 @@
   },
   "selfturnstartFunction": {
     "JP": null,
-    "CN": "selfturnstartFunction",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -636,16 +650,37 @@
     "NA": "Increase Bond Gain",
     "KR": null
   },
+  "shortenBuffcount": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "skillAfterFunctionMainOnly": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "skillBeforeFunction": {
     "JP": null,
-    "CN": "skillBeforeFunction",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "skillTargetedBeforeFunction": {
     "JP": null,
-    "CN": "skillTargetedBeforeFunction",
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "subFieldBuff": {
+    "JP": null,
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -666,14 +701,28 @@
   },
   "treasureDeviceAfterFunction": {
     "JP": null,
-    "CN": "treasureDeviceAfterFunction",
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "treasureDeviceAfterFunctionMainOnly": {
+    "JP": null,
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "treasureDeviceBeforeFunction": {
     "JP": null,
-    "CN": "treasureDeviceBeforeFunction",
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "treasureDevicePostAfterFunction": {
+    "JP": null,
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -853,6 +902,13 @@
     "NA": "Arts Up",
     "KR": "아츠 UP"
   },
+  "アーツアップ〔月下〕": {
+    "JP": null,
+    "CN": "Arts提升〔月下〕",
+    "TW": "Arts提升〔月下〕",
+    "NA": null,
+    "KR": null
+  },
   "アーツアップ：千年城": {
     "JP": null,
     "CN": "Arts提升：千年城",
@@ -877,7 +933,7 @@
   "アーツ威力アップ": {
     "JP": null,
     "CN": "Arts威力提升",
-    "TW": null,
+    "TW": "Arts威力提升",
     "NA": null,
     "KR": null
   },
@@ -909,6 +965,20 @@
     "NA": "Quick Up",
     "KR": "퀵 UP"
   },
+  "クイックアップ〔夏の承認欲求〕": {
+    "JP": null,
+    "CN": "Quick提升〔夏之认可欲望〕",
+    "TW": "Quick提升〔夏之認可慾望〕",
+    "NA": null,
+    "KR": null
+  },
+  "クイックアップ〔月下〕": {
+    "JP": null,
+    "CN": "Quick提升〔月下〕",
+    "TW": "Quick提升〔月下〕",
+    "NA": null,
+    "KR": null
+  },
   "クイックアップ：千年城": {
     "JP": null,
     "CN": "Quick提升：千年城",
@@ -926,7 +996,7 @@
   "クイック威力アップ": {
     "JP": null,
     "CN": "Quick威力提升",
-    "TW": null,
+    "TW": "Quick威力提升",
     "NA": null,
     "KR": null
   },
@@ -969,8 +1039,8 @@
     "JP": null,
     "CN": "暴击威力提升〔恶〕",
     "TW": "爆擊威力提升〔惡〕",
-    "NA": "Critical Strength Up [Evil]",
-    "KR": "크리티컬 위력 UP[악]"
+    "NA": "Critical Strength Up vs. Evil",
+    "KR": "크리티컬 위력 UP・대 악"
   },
   "クリティカル威力アップ解除": {
     "JP": null,
@@ -1066,9 +1136,9 @@
   "コマドリカウンター回数減少": {
     "JP": null,
     "CN": "知更鸟计数次数减少",
-    "TW": "知更鳥計數器次數減少",
-    "NA": null,
-    "KR": null
+    "TW": "知更鳥計數次數減少",
+    "NA": "Robin Counter Decreased",
+    "KR": "울새 카운터 횟수 감소"
   },
   "コマンドカード選出不能": {
     "JP": null,
@@ -1087,9 +1157,9 @@
   "スキル3使用不能": {
     "JP": null,
     "CN": "无法使用技能3",
-    "TW": "技能3無法使用",
-    "NA": null,
-    "KR": null
+    "TW": "無法使用技能3",
+    "NA": "Cannot Use Skill 3",
+    "KR": "스킬 3 사용 불가"
   },
   "スキルターン増加": {
     "JP": null,
@@ -1124,7 +1194,7 @@
     "CN": "晕眩＆石化＆束缚＆猪化无效",
     "TW": "暈眩＆石化＆束縛＆豬化無效",
     "NA": "Stun & Petrify & Bound & Pigify Immune",
-    "KR": null
+    "KR": "스턴&석화&구속&돼지화 무효"
   },
   "スター減少": {
     "JP": null,
@@ -1185,7 +1255,7 @@
   "ターン延長〔標的破壊〕": {
     "JP": null,
     "CN": "回合延长〔目标摧毁〕",
-    "TW": null,
+    "TW": "回合延長〔標的破壞〕",
     "NA": "Extend Turns [Target Destruction]",
     "KR": null
   },
@@ -1229,14 +1299,14 @@
     "CN": "充能减少",
     "TW": "Charge減少",
     "NA": "Charge Loss",
-    "KR": "차지 DOWN"
+    "KR": "차지 감소"
   },
   "チャージ減少：対死霊と悪魔": {
     "JP": null,
     "CN": "充能减少：对死灵和恶魔",
     "TW": "Charge減少：對死靈和惡魔",
     "NA": "Charge Decrease vs. Undead & Demon",
-    "KR": "차지 DOWN: 대 사령과 악마"
+    "KR": "차지 감소: 대 사령과 악마"
   },
   "チャージ減少：対竜": {
     "JP": null,
@@ -1265,6 +1335,13 @@
     "TW": "Buster提升〔增殖〕",
     "NA": "Buster Up [Growth]",
     "KR": "버스터 UP[증식]"
+  },
+  "バスターアップ〔月下〕": {
+    "JP": null,
+    "CN": "Buster提升〔月下〕",
+    "TW": "Buster提升〔月下〕",
+    "NA": null,
+    "KR": null
   },
   "バスターアップ・炎上": {
     "JP": null,
@@ -1297,7 +1374,7 @@
   "バスター威力アップ": {
     "JP": null,
     "CN": "Buster威力提升",
-    "TW": null,
+    "TW": "Buster威力提升",
     "NA": null,
     "KR": null
   },
@@ -1348,7 +1425,7 @@
     "CN": "御主好感度提升",
     "TW": "御主好感度提升",
     "NA": "Master Affection Up",
-    "KR": null
+    "KR": "마스터 호감도 UP"
   },
   "メンバーチェンジ": {
     "JP": null,
@@ -1374,8 +1451,15 @@
   "主人公補正解除": {
     "JP": null,
     "CN": "主人公补正解除",
-    "TW": "主人公補正解除",
-    "NA": "Remove Protagonist Correction",
+    "TW": "主角補正解除",
+    "NA": "Remove Plot Armor",
+    "KR": "주인공 보정 해제"
+  },
+  "冥界の花園解除": {
+    "JP": null,
+    "CN": "冥界的花园接触",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "即死": {
@@ -1444,7 +1528,7 @@
   "威力アップ・七騎士クラス": {
     "JP": null,
     "CN": "威力提升·七骑士职阶",
-    "TW": null,
+    "TW": "威力提升．七騎士職階",
     "NA": null,
     "KR": null
   },
@@ -1486,21 +1570,21 @@
   "威力アップ・対 対敵注視": {
     "JP": null,
     "CN": "威力提升·对 对敌注视",
-    "TW": null,
+    "TW": "威力提升．對 對敵注視",
     "NA": null,
     "KR": null
   },
   "威力アップ・対 星の力": {
     "JP": null,
     "CN": "威力提升·对 星之力",
-    "TW": "威力提升・對 星之力",
+    "TW": "威力提升．對星之力",
     "NA": "Strength Up vs. Star attribute",
-    "KR": null
+    "KR": "위력 UP・대 별의 힘"
   },
   "威力アップ・対 獣の力": {
     "JP": null,
     "CN": "威力提升·对 兽之力",
-    "TW": null,
+    "TW": "威力提升．對 獸之力",
     "NA": "Strength Up vs. Beast attribute",
     "KR": null
   },
@@ -1508,7 +1592,7 @@
     "JP": null,
     "CN": "威力提升·对灼伤",
     "TW": "威力提升．灼傷",
-    "NA": null,
+    "NA": "STR Up, Burn",
     "KR": "위력 UP・화상"
   },
   "威力アップ・対アサシン": {
@@ -1523,26 +1607,26 @@
     "CN": "威力提升·对Alterego",
     "TW": "威力提升．對Alterego",
     "NA": "STR Up vs. Alterego",
-    "KR": null
+    "KR": "위력 UP・대 얼터에고"
   },
   "威力アップ・対アヴェンジャー": {
     "JP": null,
     "CN": "威力提升·对Avenger",
     "TW": "威力提升．對Avenger",
     "NA": "STR Up vs. Avenger",
-    "KR": null
+    "KR": "위력 UP・대 어벤저"
   },
   "威力アップ・対アーチャー": {
     "JP": null,
     "CN": "威力提升·对Archer",
     "TW": "威力提升．對Archer",
     "NA": "STR Up vs. Archer",
-    "KR": null
+    "KR": "위력 UP・대 아처"
   },
   "威力アップ・対エクストラクラス": {
     "JP": null,
     "CN": "威力提升·对Extra职阶",
-    "TW": null,
+    "TW": "威力提升．對Extra職階",
     "NA": null,
     "KR": null
   },
@@ -1565,7 +1649,7 @@
     "CN": "威力提升·对樱系列系",
     "TW": "威力提升．對櫻系列",
     "NA": null,
-    "KR": null
+    "KR": "위력 UP・대 사쿠라 시리즈 계열"
   },
   "威力アップ・対サーヴァント": {
     "JP": null,
@@ -1607,21 +1691,21 @@
     "CN": "威力提升·对Foreigner",
     "TW": "威力提升．對Foreigner",
     "NA": "STR Up vs. Foreigner",
-    "KR": null
+    "KR": "위력 UP・대 포리너"
   },
   "威力アップ・対プリテンダー": {
     "JP": null,
     "CN": "威力提升·对Pretender",
     "TW": "威力提升．對Pretender",
     "NA": "STR Up vs. Pretender",
-    "KR": null
+    "KR": "위력 UP・대 프리텐더"
   },
   "威力アップ・対ムーンキャンサー": {
     "JP": null,
     "CN": "威力提升·对MoonCancer",
     "TW": "威力提升．對Moon Cancer",
     "NA": "STR Up vs. MoonCancer",
-    "KR": null
+    "KR": "위력 UP・대 문캔서"
   },
   "威力アップ・対ライダー": {
     "JP": null,
@@ -1635,7 +1719,7 @@
     "CN": "威力提升·对Lancer",
     "TW": "威力提升．對Lancer",
     "NA": "STR Up vs. Lancer",
-    "KR": null
+    "KR": "위력 UP・대 랜서"
   },
   "威力アップ・対ルーラー": {
     "JP": null,
@@ -1650,6 +1734,20 @@
     "TW": "威力提升．對羅馬",
     "NA": "STR Up vs. Roman",
     "KR": "위력 UP・대 로마"
+  },
+  "威力アップ・対中庸": {
+    "JP": null,
+    "CN": "威力提升·对中庸",
+    "TW": "威力提升．對中庸",
+    "NA": "STR Up vs. Balanced",
+    "KR": null
+  },
+  "威力アップ・対中立": {
+    "JP": null,
+    "CN": "威力提升·对中立",
+    "TW": "威力提升．對中立",
+    "NA": "STR Up vs. Neutral",
+    "KR": null
   },
   "威力アップ・対中立サーヴァント": {
     "JP": null,
@@ -1682,9 +1780,9 @@
   "威力アップ・対保護対象外": {
     "JP": null,
     "CN": "威力提升·对非保护对象",
-    "TW": "威力提升・對保護對象外",
+    "TW": "威力提升．對非保護對象",
     "NA": "STR Up vs. Not Protected Target",
-    "KR": null
+    "KR": "위력 UP・대 보호 대상 외"
   },
   "威力アップ・対円卓の騎士と妖精": {
     "JP": null,
@@ -1720,6 +1818,13 @@
     "TW": "威力提升．對女性",
     "NA": "STR Up vs. Female",
     "KR": "위력 UP・대 여성"
+  },
+  "威力アップ・対封印": {
+    "JP": null,
+    "CN": "威力提升·对封印",
+    "TW": "威力提升．對封印",
+    "NA": "STR Up vs. Seal",
+    "KR": null
   },
   "威力アップ・対巨人": {
     "JP": null,
@@ -1868,6 +1973,13 @@
     "NA": "STR Up vs. Dragon",
     "KR": "위력 UP・대 용"
   },
+  "威力アップ・対精神異常": {
+    "JP": null,
+    "CN": "威力提升·对精神异常",
+    "TW": "威力提升．對精神異常",
+    "NA": "STR Up vs. Mental Debuff",
+    "KR": null
+  },
   "威力アップ・対行動不能": {
     "JP": null,
     "CN": "威力提升·对无法行动",
@@ -1914,7 +2026,7 @@
     "JP": null,
     "CN": "威力提升·对魔兽型从者",
     "TW": "威力提升．對魔獸型從者",
-    "NA": "STR Up vs. Demonic Beast Servant",
+    "NA": "STR Up vs. Demonic Beast type Servants",
     "KR": "위력 UP・대 마수형 서번트"
   },
   "威力アップ・魅了": {
@@ -2055,7 +2167,7 @@
     "CN": "封印解除",
     "TW": "封印解除",
     "NA": "Remove Seal",
-    "KR": null
+    "KR": "봉인 해제"
   },
   "平穏の無花果": {
     "JP": null,
@@ -2088,9 +2200,9 @@
   "強化付与アップ解除": {
     "JP": null,
     "CN": "强化付与提升解除",
-    "TW": "強化狀態賦予提升解除",
+    "TW": "強化賦予提升解除",
     "NA": "Remove Buff Chance Up",
-    "KR": null
+    "KR": "강화 부여 UP 해제"
   },
   "強化付与ダウン": {
     "JP": null,
@@ -2239,6 +2351,13 @@
     "NA": "Bonus Effect on Attack",
     "KR": "공격 시 추가 효과"
   },
+  "新選組": {
+    "JP": null,
+    "CN": "新选组",
+    "TW": null,
+    "NA": "Shinsengumi",
+    "KR": null
+  },
   "无": {
     "JP": "なし",
     "CN": "无",
@@ -2246,12 +2365,26 @@
     "NA": "None",
     "KR": "없음"
   },
+  "日輪解除": {
+    "JP": null,
+    "CN": "日轮解除",
+    "TW": "日輪解除",
+    "NA": null,
+    "KR": null
+  },
   "最大HPアップ": {
     "JP": null,
     "CN": "最大生命值提升",
     "TW": "最大HP提升",
     "NA": "Max HP Up",
     "KR": "최대 HP UP"
+  },
+  "月下解除": {
+    "JP": null,
+    "CN": "月下解除",
+    "TW": "月下解除",
+    "NA": null,
+    "KR": null
   },
   "死の淵解除": {
     "JP": null,
@@ -2419,7 +2552,7 @@
     "CN": "登场时攻击力提升",
     "TW": "登場時攻擊力提升",
     "NA": "ATK Up Upon Entry",
-    "KR": null
+    "KR": "등장 시 공격력 UP"
   },
   "竜特性付与": {
     "JP": null,
@@ -2487,6 +2620,13 @@
   "防御力アップ・対 対敵注視": {
     "JP": null,
     "CN": "防御力提升·对 对敌注视",
+    "TW": "防禦力提升．對 對敵注視",
+    "NA": null,
+    "KR": null
+  },
+  "防御力アップ・対七騎士クラス": {
+    "JP": null,
+    "CN": "防御力提升·对七骑士职阶",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2538,7 +2678,7 @@
     "CN": "防御力提升：水边",
     "TW": "防禦力提升：水邊",
     "NA": "DEF Up: Near Water",
-    "KR": null
+    "KR": "방어력 UP: 물가"
   },
   "防御弱体解除": {
     "JP": null,
@@ -2593,168 +2733,21 @@
     "JP": null,
     "CN": "魔弹全消耗",
     "TW": "魔彈全消耗",
-    "NA": null,
-    "KR": null
+    "NA": "All Magic Bullets Expended",
+    "KR": "마탄 전부 소비"
   },
   "魔弾消費": {
     "JP": null,
     "CN": "魔弹消耗",
     "TW": "魔彈消耗",
-    "NA": null,
-    "KR": null
+    "NA": "Magic Bullet Expended",
+    "KR": "마탄 소비"
   },
   "魔弾生成": {
     "JP": null,
     "CN": "魔弹生成",
     "TW": "魔彈生成",
-    "NA": null,
-    "KR": null
-  },
-  "クイックアップ〔夏の承認欲求〕": {
-    "JP": null,
-    "CN": "Quick提升〔夏之认可欲望〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "アーツアップ〔月下〕": {
-    "JP": null,
-    "CN": "Arts提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "クイックアップ〔月下〕": {
-    "JP": null,
-    "CN": "Quick提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "バスターアップ〔月下〕": {
-    "JP": null,
-    "CN": "Buster提升〔月下〕",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "日輪解除": {
-    "JP": null,
-    "CN": "日轮解除",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "月下解除": {
-    "JP": null,
-    "CN": "月下解除",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ・対精神異常": {
-    "JP": null,
-    "CN": "威力提升·对精神异常",
-    "TW": null,
-    "NA": "STR Up vs. Mental Debuff",
-    "KR": null
-  },
-  "treasureDeviceAfterFunctionMainOnly": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "damageNpAndOrCheckIndividuality": {
-    "JP": "〔{0}〕特性特攻攻撃",
-    "CN": "〔{0}〕特性特攻攻击",
-    "TW": "〔{0}〕特性特攻攻擊",
-    "NA": "Deal Special Attack damage to Trait [{0}]",
-    "KR": "〔{0}〕특성 특공 공격"
-  },
-  "新選組": {
-    "JP": null,
-    "CN": "新选组",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "shortenBuffcount": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "skillAfterFunctionMainOnly": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "subFieldBuff": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "防御力アップ・対七騎士クラス": {
-    "JP": null,
-    "CN": "防御力提升·对七骑士职阶",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "treasureDevicePostAfterFunction": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "buff245": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "冥界の花園解除": {
-    "JP": null,
-    "CN": "冥界的花园接触",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ・対封印": {
-    "JP": null,
-    "CN": "威力提升·对封印",
-    "TW": "威力提升．對封印",
-    "NA": "STR Up vs. Seal",
-    "KR": null
-  },
-  "multiGutsBeforeFunction": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ・対中庸": {
-    "JP": null,
-    "CN": "威力提升·对中庸",
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
-  "威力アップ・対中立": {
-    "JP": null,
-    "CN": "威力提升·对中立",
-    "TW": "威力提升．對中立",
-    "NA": "STR Up vs. Neutral",
-    "KR": null
+    "NA": "Magic Bullet Creation",
+    "KR": "마탄 생성"
   }
 }
