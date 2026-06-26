@@ -11198,5 +11198,110 @@
     "TW": "X Alter的家",
     "NA": "X Alter's House",
     "KR": "X 얼터의 집"
+  },
+  "ネロ祭2017": {
+    "JP": null,
+    "CN": "尼禄祭2017",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "強化クエスト": {
+    "JP": null,
+    "CN": "强化任务",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "復刻クエスト2019": {
+    "JP": null,
+    "CN": "复刻任务2019",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "幕間の物語": {
+    "JP": null,
+    "CN": "幕间物语",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アドバンスドクエスト": {
+    "JP": null,
+    "CN": "进阶关卡",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "復刻:セイバーウォーズ": {
+    "JP": null,
+    "CN": "复刻：Saber Wars",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "テスラ・カップ ギガコイル級": {
+    "JP": null,
+    "CN": "特斯拉杯 超级线圈级",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "復刻:Grandネロ祭": {
+    "JP": null,
+    "CN": "复刻：Grand尼禄祭",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "復刻クエスト2018": {
+    "JP": null,
+    "CN": "复刻活动2018",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "曜日クエスト": {
+    "JP": null,
+    "CN": "曜日任务",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "バレンタイン2018　～繁栄のチョコレートガーデンズ・オブ・バレンタイン～": {
+    "JP": null,
+    "CN": "情人节2018 ～繁荣的巧克力花园·奥·情人节～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデアゲート": {
+    "JP": null,
+    "CN": "迦勒底之门",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "テスラ・カップ メガコイル級": {
+    "JP": null,
+    "CN": "特斯拉杯 超级线圈级",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "リヨイベ": {
+    "JP": null,
+    "CN": "里约活动",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ホワイトデー2019": {
+    "JP": null,
+    "CN": "白色情人节2019",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
