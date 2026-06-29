@@ -45659,5 +45659,12 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "퀘스트 클리어 시 얻는 마스터 EXP 50 증가": {
+    "JP": null,
+    "CN": "关卡通关时获得的御主经验增加50",
+    "TW": "任務通關時獲得的御主經驗增加50",
+    "NA": "Increase the amount of Master EXP gained by 50 when a quest is cleared",
+    "KR": null
   }
 }
