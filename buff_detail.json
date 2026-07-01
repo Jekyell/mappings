@@ -6763,28 +6763,28 @@
   },
   "『春の終わりに君を待つ』において与えるダメージをアップ": {
     "JP": null,
-    "CN": null,
+    "CN": "在《春之终末待君归》中提升造成的伤害",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "〔即死耐性ダウン〕状態の敵に与えるダメージをアップ": {
     "JP": null,
-    "CN": null,
+    "CN": "Increase damage dealt to enemies with [Instant-death Resist Down] status",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "クリティカル攻撃時、対象に〔急所判明〕状態を付与": {
     "JP": null,
-    "CN": null,
+    "CN": "When performing a critical attack, apply [Vital Point Revealed] to the target",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ターン経過後、自身に即死効果(ガッツ無視・耐性無効・解除不能)": {
     "JP": null,
-    "CN": null,
+    "CN": "回合结束后，自身获得即死效果（无视毅力・无效抗性・不可解除）",
     "TW": null,
     "NA": null,
     "KR": null
