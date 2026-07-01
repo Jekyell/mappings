@@ -6760,5 +6760,33 @@
     "TW": "魅惑耐性下降",
     "NA": "Decrease Charm resistance",
     "KR": "매료 내성 DOWN"
+  },
+  "『春の終わりに君を待つ』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔即死耐性ダウン〕状態の敵に与えるダメージをアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル攻撃時、対象に〔急所判明〕状態を付与": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ターン経過後、自身に即死効果(ガッツ無視・耐性無効・解除不能)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
