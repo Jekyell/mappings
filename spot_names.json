@@ -11373,5 +11373,47 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "アジト酒場": {
+    "JP": null,
+    "CN": "据点酒馆",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "わんぱく海賊船": {
+    "JP": null,
+    "CN": "顽皮海盗船",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ゲーム研究所": {
+    "JP": null,
+    "CN": "游戏研究所",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "閉鎖中の施設": {
+    "JP": null,
+    "CN": "封闭中的设施",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "裏カジノ": {
+    "JP": null,
+    "CN": "里赌场",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "工事中の施設": {
+    "JP": null,
+    "CN": "施工中的设施",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
