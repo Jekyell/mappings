@@ -911,14 +911,14 @@
   },
   "アスクレウス山": {
     "JP": null,
-    "CN": null,
+    "CN": "阿尔西亚山",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アスクレウス山の麓": {
     "JP": null,
-    "CN": null,
+    "CN": "阿斯克雷翁山麓",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1023,7 +1023,7 @@
   },
   "アルシア山": {
     "JP": null,
-    "CN": null,
+    "CN": "阿尔西亚山",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1079,7 +1079,7 @@
   },
   "アンティオキア市街": {
     "JP": null,
-    "CN": null,
+    "CN": "安条克城区",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1296,7 +1296,7 @@
   },
   "オペラハウス": {
     "JP": null,
-    "CN": null,
+    "CN": "歌剧院",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1674,7 +1674,7 @@
   },
   "クリームヒルト城": {
     "JP": null,
-    "CN": null,
+    "CN": "克里姆希尔特城",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1744,7 +1744,7 @@
   },
   "グレート・大統領・ホテル": {
     "JP": null,
-    "CN": null,
+    "CN": "大总统大饭店",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2416,7 +2416,7 @@
   },
   "テクシス社": {
     "JP": null,
-    "CN": null,
+    "CN": "特克西斯公司",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2633,21 +2633,21 @@
   },
   "ニュー新選組屯所": {
     "JP": null,
-    "CN": null,
+    "CN": "新选组新驻地",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ニュー魔王城": {
     "JP": null,
-    "CN": null,
+    "CN": "新魔王城",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ネオアマゾニス平原": {
     "JP": null,
-    "CN": null,
+    "CN": "新亚马逊平原",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2766,7 +2766,7 @@
   },
   "パッションリップ城": {
     "JP": null,
-    "CN": null,
+    "CN": "激情唇之城",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2780,14 +2780,14 @@
   },
   "パヴォニス山": {
     "JP": null,
-    "CN": null,
+    "CN": "帕沃尼斯山",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "パヴォニス山の麓": {
     "JP": null,
-    "CN": null,
+    "CN": "帕沃尼斯山麓",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2892,7 +2892,7 @@
   },
   "ファンタジータウン": {
     "JP": null,
-    "CN": null,
+    "CN": "幻想城镇",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2941,7 +2941,7 @@
   },
   "ブライダルタウン": {
     "JP": null,
-    "CN": null,
+    "CN": "婚礼小镇",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2997,7 +2997,7 @@
   },
   "プライベートビーチ": {
     "JP": null,
-    "CN": null,
+    "CN": "私人海滩",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3305,7 +3305,7 @@
   },
   "ミユノ地区": {
     "JP": null,
-    "CN": null,
+    "CN": "美游野地区",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3564,7 +3564,7 @@
   },
   "リゾートタウン": {
     "JP": null,
-    "CN": null,
+    "CN": "度假城镇",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3942,7 +3942,7 @@
   },
   "中央教会": {
     "JP": null,
-    "CN": null,
+    "CN": "圣堂教会",
     "TW": null,
     "NA": "Central Church",
     "KR": null
@@ -4040,7 +4040,7 @@
   },
   "京の町": {
     "JP": null,
-    "CN": null,
+    "CN": "京之町",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4124,7 +4124,7 @@
   },
   "伝説の樹": {
     "JP": null,
-    "CN": null,
+    "CN": "传说之树",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4208,7 +4208,7 @@
   },
   "偽りの十字軍本陣": {
     "JP": null,
-    "CN": null,
+    "CN": "虚伪的十字军本阵",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4369,7 +4369,7 @@
   },
   "制圧ポイント": {
     "JP": null,
-    "CN": null,
+    "CN": "压制点",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4719,7 +4719,7 @@
   },
   "名所の丘": {
     "JP": null,
-    "CN": null,
+    "CN": "名胜之丘",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4768,14 +4768,14 @@
   },
   "因習村入口": {
     "JP": null,
-    "CN": null,
+    "CN": "因习村入口",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "因習村集落": {
     "JP": null,
-    "CN": null,
+    "CN": "因循村落",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5020,7 +5020,7 @@
   },
   "壁外の荒野": {
     "JP": null,
-    "CN": null,
+    "CN": "壁外荒野",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5202,14 +5202,14 @@
   },
   "大森林": {
     "JP": null,
-    "CN": null,
+    "CN": "大森林",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "大樹": {
     "JP": null,
-    "CN": null,
+    "CN": "大树",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5251,7 +5251,7 @@
   },
   "大渓谷": {
     "JP": null,
-    "CN": null,
+    "CN": "大峡谷",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5489,14 +5489,14 @@
   },
   "宝物神殿": {
     "JP": null,
-    "CN": null,
+    "CN": "财宝神殿",
     "TW": "寶物神殿",
     "NA": null,
     "KR": "보물 신전"
   },
   "宵の砂丘": {
     "JP": null,
-    "CN": null,
+    "CN": "宵暗沙丘",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5531,7 +5531,7 @@
   },
   "富理主真山": {
     "JP": null,
-    "CN": null,
+    "CN": "富理主真山",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5643,7 +5643,7 @@
   },
   "屯所": {
     "JP": null,
-    "CN": null,
+    "CN": "屯所",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5706,7 +5706,7 @@
   },
   "岩山の高台": {
     "JP": null,
-    "CN": null,
+    "CN": "岩山高台",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5720,7 +5720,7 @@
   },
   "崖際の坂道": {
     "JP": null,
-    "CN": null,
+    "CN": "悬崖边的坡道",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5853,7 +5853,7 @@
   },
   "市街地": {
     "JP": null,
-    "CN": null,
+    "CN": "市街地",
     "TW": null,
     "NA": null,
     "KR": null
@@ -6658,7 +6658,7 @@
   },
   "時代の跡": {
     "JP": null,
-    "CN": null,
+    "CN": "时代的残影",
     "TW": null,
     "NA": null,
     "KR": null
@@ -6784,7 +6784,7 @@
   },
   "暴食区": {
     "JP": null,
-    "CN": null,
+    "CN": "暴食区",
     "TW": "暴食區",
     "NA": null,
     "KR": null
@@ -6840,7 +6840,7 @@
   },
   "月面上空": {
     "JP": null,
-    "CN": null,
+    "CN": "月球表面上空",
     "TW": "月面上空",
     "NA": null,
     "KR": "월면 상공"
@@ -7267,7 +7267,7 @@
   },
   "正面橋": {
     "JP": null,
-    "CN": null,
+    "CN": "正面桥",
     "TW": null,
     "NA": null,
     "KR": null
@@ -7337,7 +7337,7 @@
   },
   "死と生の荒野": {
     "JP": null,
-    "CN": null,
+    "CN": "死与生的荒野",
     "TW": null,
     "NA": null,
     "KR": null
@@ -7512,14 +7512,14 @@
   },
   "池田屋": {
     "JP": null,
-    "CN": null,
+    "CN": "池田屋",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "沼地の洋館": {
     "JP": null,
-    "CN": null,
+    "CN": "沼泽洋馆",
     "TW": null,
     "NA": null,
     "KR": null
@@ -7533,7 +7533,7 @@
   },
   "波間の離れ小島": {
     "JP": null,
-    "CN": null,
+    "CN": "波间离岛",
     "TW": null,
     "NA": null,
     "KR": null
@@ -7799,7 +7799,7 @@
   },
   "渚の喫茶店": {
     "JP": null,
-    "CN": null,
+    "CN": "海边的咖啡店",
     "TW": null,
     "NA": null,
     "KR": null
@@ -7925,7 +7925,7 @@
   },
   "潮騒の海岸": {
     "JP": null,
-    "CN": null,
+    "CN": "潮声海岸",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8002,7 +8002,7 @@
   },
   "無常の大樹": {
     "JP": null,
-    "CN": null,
+    "CN": "无常之大树",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8058,7 +8058,7 @@
   },
   "爆買い土産通り": {
     "JP": null,
-    "CN": null,
+    "CN": "爆买纪念品街",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8121,7 +8121,7 @@
   },
   "特殊矯正センター": {
     "JP": null,
-    "CN": null,
+    "CN": "特殊矫正中心",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8366,14 +8366,14 @@
   },
   "皇都神剣タワー": {
     "JP": null,
-    "CN": null,
+    "CN": "皇都神剑塔",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "皇都神剣組城塞": {
     "JP": null,
-    "CN": null,
+    "CN": "皇都神剑组城塞",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8464,7 +8464,7 @@
   },
   "真夏の砂浜": {
     "JP": null,
-    "CN": null,
+    "CN": "盛夏沙滩",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8667,7 +8667,7 @@
   },
   "秘密のアジト": {
     "JP": null,
-    "CN": null,
+    "CN": "秘密基地",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8814,7 +8814,7 @@
   },
   "第3地下室": {
     "JP": null,
-    "CN": null,
+    "CN": "地下第3层",
     "TW": "第3地下室",
     "NA": null,
     "KR": "제3 지하실"
@@ -8842,7 +8842,7 @@
   },
   "第一ストレージ": {
     "JP": null,
-    "CN": null,
+    "CN": "第一存储器",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8884,7 +8884,7 @@
   },
   "第三ストレージ": {
     "JP": null,
-    "CN": null,
+    "CN": "第三存储空间",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8926,14 +8926,14 @@
   },
   "第二エリア入口": {
     "JP": null,
-    "CN": null,
+    "CN": "第二区域入口",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "第二ストレージ": {
     "JP": null,
-    "CN": null,
+    "CN": "第二存储空间",
     "TW": null,
     "NA": null,
     "KR": null
@@ -9010,35 +9010,35 @@
   },
   "第１ＣＰ": {
     "JP": null,
-    "CN": null,
+    "CN": "第１ＣＰ",
     "TW": "第１ＣＰ",
     "NA": "First Checkpoint",
     "KR": "제1 CP"
   },
   "第２ＣＰ": {
     "JP": null,
-    "CN": null,
+    "CN": "第2CP",
     "TW": "第２ＣＰ",
     "NA": "Second Checkpoint",
     "KR": "제2 CP"
   },
   "第３ＣＰ": {
     "JP": null,
-    "CN": null,
+    "CN": "第3CP",
     "TW": "第３ＣＰ",
     "NA": "Third Checkpoint",
     "KR": "제3 CP"
   },
   "第４ＣＰ": {
     "JP": null,
-    "CN": null,
+    "CN": "第4CP",
     "TW": "第４ＣＰ",
     "NA": "Fourth Checkpoint",
     "KR": "제4 CP"
   },
   "第５ＣＰ": {
     "JP": null,
-    "CN": null,
+    "CN": "第5节",
     "TW": "第５ＣＰ",
     "NA": "Fifth Checkpoint",
     "KR": "제5 CP"
@@ -9206,14 +9206,14 @@
   },
   "聖ゲオルギウスの門": {
     "JP": null,
-    "CN": null,
+    "CN": "圣乔治之门",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "聖人の門": {
     "JP": null,
-    "CN": null,
+    "CN": "圣人之门",
     "TW": null,
     "NA": null,
     "KR": null
@@ -9262,7 +9262,7 @@
   },
   "胡散臭い秘密工場": {
     "JP": null,
-    "CN": null,
+    "CN": "可疑的秘密工厂",
     "TW": null,
     "NA": null,
     "KR": null
@@ -9353,7 +9353,7 @@
   },
   "色欲区": {
     "JP": null,
-    "CN": null,
+    "CN": "色欲区域",
     "TW": "色欲區",
     "NA": null,
     "KR": null
@@ -9388,7 +9388,7 @@
   },
   "茶の湯教室": {
     "JP": null,
-    "CN": null,
+    "CN": "茶道教室",
     "TW": null,
     "NA": null,
     "KR": null
@@ -9654,7 +9654,7 @@
   },
   "街外れのジャングル": {
     "JP": null,
-    "CN": null,
+    "CN": "城郊的丛林",
     "TW": null,
     "NA": null,
     "KR": null
@@ -9906,7 +9906,7 @@
   },
   "謎めいた遺跡": {
     "JP": null,
-    "CN": null,
+    "CN": "神秘的遗迹",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10025,7 +10025,7 @@
   },
   "超カワナカ時代劇村": {
     "JP": null,
-    "CN": null,
+    "CN": "超可爱江户时代剧村",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10242,7 +10242,7 @@
   },
   "道脇の荒野": {
     "JP": null,
-    "CN": null,
+    "CN": "路边的荒野",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10333,7 +10333,7 @@
   },
   "野営地跡": {
     "JP": null,
-    "CN": null,
+    "CN": "野营地遗址",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10508,7 +10508,7 @@
   },
   "険しい山道": {
     "JP": null,
-    "CN": null,
+    "CN": "险峻山路",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10522,7 +10522,7 @@
   },
   "隈乃温泉入口": {
     "JP": null,
-    "CN": null,
+    "CN": "隈乃温泉入口",
     "TW": "隈乃溫泉入口",
     "NA": "Kumano Hot Springs Entrance",
     "KR": "쿠마노 온천 입구"
@@ -10683,7 +10683,7 @@
   },
   "難邪亜洞": {
     "JP": null,
-    "CN": null,
+    "CN": "难邪亚洞",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10823,7 +10823,7 @@
   },
   "食肉工場": {
     "JP": null,
-    "CN": null,
+    "CN": "食肉工厂",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10956,7 +10956,7 @@
   },
   "魔力研究所": {
     "JP": null,
-    "CN": null,
+    "CN": "魔术研究所",
     "TW": "魔力研究所",
     "NA": null,
     "KR": "마력 연구소"
@@ -11180,7 +11180,7 @@
   },
   "Ｕ－セントラルタワー": {
     "JP": null,
-    "CN": null,
+    "CN": "U-中央大厦",
     "TW": null,
     "NA": null,
     "KR": null
@@ -11306,133 +11306,133 @@
   },
   "狩人の森": {
     "JP": null,
-    "CN": null,
+    "CN": "猎人之森",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデニア広場": {
     "JP": null,
-    "CN": null,
+    "CN": "迦勒底广场",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "名曲スタジオ": {
     "JP": null,
-    "CN": null,
+    "CN": "名曲工作室",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "株取引所": {
     "JP": null,
-    "CN": null,
+    "CN": "证券交易所",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "鍛冶工房": {
     "JP": null,
-    "CN": null,
+    "CN": "锻造工房",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "デメテル・キャッスル": {
     "JP": null,
-    "CN": null,
+    "CN": "德墨忒尔城堡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "裏カルデニア広場": {
     "JP": null,
-    "CN": null,
+    "CN": "里迦勒底广场",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "オニキス・キャッスル": {
     "JP": null,
-    "CN": null,
+    "CN": "玛瑙之城",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "武器倉庫": {
     "JP": null,
-    "CN": null,
+    "CN": "武器仓库",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "表カルデニア広場": {
     "JP": null,
-    "CN": null,
+    "CN": "表迦勒底亚广场",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アジト酒場": {
     "JP": null,
-    "CN": null,
+    "CN": "据点酒馆",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "わんぱく海賊船": {
     "JP": null,
-    "CN": null,
+    "CN": "淘气海盗船",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ゲーム研究所": {
     "JP": null,
-    "CN": null,
+    "CN": "游戏研究所",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "閉鎖中の施設": {
     "JP": null,
-    "CN": null,
+    "CN": "封闭中的设施",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "裏カジノ": {
     "JP": null,
-    "CN": null,
+    "CN": "地下赌场",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "工事中の施設": {
     "JP": null,
-    "CN": null,
+    "CN": "施工中的设施",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "■□■□■□": {
     "JP": null,
-    "CN": null,
+    "CN": "■□■□■□",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "暗闇病院": {
     "JP": null,
-    "CN": null,
+    "CN": "暗黑病院",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "靴屋": {
     "JP": null,
-    "CN": null,
+    "CN": "鞋店",
     "TW": null,
     "NA": null,
     "KR": null

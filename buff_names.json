@@ -64,7 +64,7 @@
   },
   "Artsブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": null,
+    "CN": "Arts性能提升〔钝之矢弹〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -197,7 +197,7 @@
   },
   "Busterブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": null,
+    "CN": "Buster卡性能提升〔钝之矢弹〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -491,7 +491,7 @@
   },
   "Quickブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": null,
+    "CN": "Quick卡性能提升〔钝之矢弹〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -708,7 +708,7 @@
   },
   "おもてなし力": {
     "JP": null,
-    "CN": null,
+    "CN": "待客之道",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1401,7 +1401,7 @@
   },
   "サスペンス・アクター": {
     "JP": null,
-    "CN": null,
+    "CN": "悬疑剧演员",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1422,7 +1422,7 @@
   },
   "サマー・エクスペリエンサー": {
     "JP": null,
-    "CN": null,
+    "CN": "夏日探险家",
     "TW": "夏日體驗者",
     "NA": null,
     "KR": null
@@ -1765,7 +1765,7 @@
   },
   "テオブロマ・カリス": {
     "JP": null,
-    "CN": null,
+    "CN": "西奥布罗马·卡里斯",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1779,7 +1779,7 @@
   },
   "トライ・アーク・ライダー": {
     "JP": null,
-    "CN": null,
+    "CN": "三位一体骑兵",
     "TW": "三弧之騎士",
     "NA": null,
     "KR": null
@@ -2031,14 +2031,14 @@
   },
   "ブルーム・フローリスト": {
     "JP": null,
-    "CN": null,
+    "CN": "盛开花艺师",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "プラネットセッション": {
     "JP": null,
-    "CN": null,
+    "CN": "行星会谈",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2122,7 +2122,7 @@
   },
   "一刺にて城を穿つ（槍）": {
     "JP": null,
-    "CN": null,
+    "CN": "一刺贯穿城池（枪）",
     "TW": "一刺貫城（槍）",
     "NA": null,
     "KR": null
@@ -2157,7 +2157,7 @@
   },
   "不倒の知る辺（此方）": {
     "JP": null,
-    "CN": null,
+    "CN": "不倒的指路人（此方）",
     "TW": "不倒的依靠（此方）",
     "NA": null,
     "KR": null
@@ -2171,21 +2171,21 @@
   },
   "不朽の寄る辺（彼方）": {
     "JP": null,
-    "CN": null,
+    "CN": "不朽的寄身（彼方）",
     "TW": "不朽的依靠（彼方）",
     "NA": null,
     "KR": null
   },
   "不沈の号令（騎）": {
     "JP": null,
-    "CN": null,
+    "CN": "不沉之号令（骑）",
     "TW": "不沈的號令（騎）",
     "NA": null,
     "KR": null
   },
   "不退の構え（槍）": {
     "JP": null,
-    "CN": null,
+    "CN": "不退之架势（枪）",
     "TW": "不屈的架勢（槍）",
     "NA": null,
     "KR": null
@@ -2290,7 +2290,7 @@
   },
   "先陣守護（此方）": {
     "JP": null,
-    "CN": null,
+    "CN": "先阵守护（此方）",
     "TW": "先陣守護（此方）",
     "NA": null,
     "KR": null
@@ -2388,7 +2388,7 @@
   },
   "去なしの石突（槍）": {
     "JP": null,
-    "CN": null,
+    "CN": "无头的石突（枪）",
     "TW": "去無的石突（槍）",
     "NA": null,
     "KR": null
@@ -2444,14 +2444,14 @@
   },
   "境域掌握": {
     "JP": null,
-    "CN": null,
+    "CN": "境界掌握",
     "TW": "境域掌握",
     "NA": null,
     "KR": null
   },
   "境域掌握（騎）": {
     "JP": null,
-    "CN": null,
+    "CN": "领域支配（骑）",
     "TW": "境域掌握（騎）",
     "NA": null,
     "KR": null
@@ -3382,7 +3382,7 @@
   },
   "対極共生（彼方）": {
     "JP": null,
-    "CN": null,
+    "CN": "对极共生（彼方）",
     "TW": "對極共生（彼方）",
     "NA": null,
     "KR": null
@@ -3424,7 +3424,7 @@
   },
   "射て晴らすは征箭の雨（弓）": {
     "JP": null,
-    "CN": null,
+    "CN": "射而霁之征箭雨（弓）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3452,7 +3452,7 @@
   },
   "幕末チャンバラパワー": {
     "JP": null,
-    "CN": null,
+    "CN": "幕末剑戟力量",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3697,7 +3697,7 @@
   },
   "指先の言葉（術）": {
     "JP": null,
-    "CN": null,
+    "CN": "指尖之言（术）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4390,7 +4390,7 @@
   },
   "無疵の間合い（殺）": {
     "JP": null,
-    "CN": null,
+    "CN": "无瑕间距（杀）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4411,7 +4411,7 @@
   },
   "熾炎翻す（此方）": {
     "JP": null,
-    "CN": null,
+    "CN": "炽炎翻覆（此方）",
     "TW": "熾炎翻轉（此方）",
     "NA": null,
     "KR": null
@@ -4537,14 +4537,14 @@
   },
   "理の傍ら": {
     "JP": null,
-    "CN": null,
+    "CN": "理之侧",
     "TW": "真理之側",
     "NA": null,
     "KR": null
   },
   "理の傍ら（彼方）": {
     "JP": null,
-    "CN": null,
+    "CN": "理之彼方",
     "TW": "真理之側（彼方）",
     "NA": null,
     "KR": null
@@ -5013,7 +5013,7 @@
   },
   "見敵迎撃": {
     "JP": null,
-    "CN": null,
+    "CN": "见敌迎击",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5181,7 +5181,7 @@
   },
   "過去改竄": {
     "JP": null,
-    "CN": null,
+    "CN": "过去改篡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5209,7 +5209,7 @@
   },
   "鈍の矢弾": {
     "JP": null,
-    "CN": null,
+    "CN": "钝色矢弹",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5391,7 +5391,7 @@
   },
   "駿馬、戦場を駆る（騎）": {
     "JP": null,
-    "CN": null,
+    "CN": "骏马，驰骋于战场（骑）",
     "TW": "駿馬、戰場馳騁（騎）",
     "NA": null,
     "KR": null
@@ -5482,21 +5482,21 @@
   },
   "鷲の目（弓）": {
     "JP": null,
-    "CN": null,
+    "CN": "鹰之眼（弓）",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデニア・クルー": {
     "JP": null,
-    "CN": null,
+    "CN": "迦勒底·船员",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "威力アップ〔即死耐性ダウン〕": {
     "JP": null,
-    "CN": null,
+    "CN": "威力提升〔即死耐性下降〕",
     "TW": null,
     "NA": null,
     "KR": null
