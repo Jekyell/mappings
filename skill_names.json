@@ -323,7 +323,7 @@
   },
   "■■■■■■■■■■": {
     "JP": null,
-    "CN": "■■■■■■■■■■",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -400,7 +400,7 @@
   },
   "あつあつ湯豆腐のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Hot Tofu",
+    "CN": null,
     "TW": null,
     "NA": "Increase amount of Hot Tofu per drop",
     "KR": null
@@ -554,35 +554,35 @@
   },
   "おもてなし力 A": {
     "JP": null,
-    "CN": "Hospitality A",
+    "CN": null,
     "TW": null,
     "NA": "Hospitality Power A",
     "KR": null
   },
   "おもてなし力 B（ケヤキ）": {
     "JP": null,
-    "CN": "Hospitality B (Zelkova)",
+    "CN": null,
     "TW": null,
     "NA": "Hospitality Power B (Keyaki)",
     "KR": null
   },
   "おもてなし力 B（スギ）": {
     "JP": null,
-    "CN": "Omotenashi B (Sugi)",
+    "CN": null,
     "TW": null,
     "NA": "Hospitality Power B (Cedar)",
     "KR": null
   },
   "おもてなし力 B（ヒノキ）": {
     "JP": null,
-    "CN": "Omotenashi (Hospitality) B (Hinoki)",
+    "CN": null,
     "TW": null,
     "NA": "Hospitality Power B (Cypress)",
     "KR": null
   },
   "おもてなし力 EX": {
     "JP": null,
-    "CN": "Hospitality EX",
+    "CN": null,
     "TW": null,
     "NA": "Hospitality Power EX",
     "KR": null
@@ -722,7 +722,7 @@
   },
   "ぐんぐん肥料のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "大幅提升强效肥料掉落获得数量",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -743,7 +743,7 @@
   },
   "すくすく肥料のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Sukusuku Fertilizer",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -792,7 +792,7 @@
   },
   "てかてかばらずしのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Tekateka Barazushi",
+    "CN": null,
     "TW": null,
     "NA": "Increase amount of Shiny Sushi per drop",
     "KR": null
@@ -820,21 +820,21 @@
   },
   "なまなま八ツ橋のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "增加八桥饼的掉落获得数量",
+    "CN": null,
     "TW": null,
     "NA": "Increase amount of Raw Yatsuhashi per drop",
     "KR": null
   },
   "のびのび肥料のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "增加伸展肥料的掉落获得数量",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "はなさかポイント獲得量アップ": {
     "JP": null,
-    "CN": "Hanasaka Point Acquisition Amount Up",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1520,7 +1520,7 @@
   },
   "ウルトラ浮き輪のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Ultra Swimsuit drop amount up",
+    "CN": null,
     "TW": "大型游泳圈的掉落獲得數提升",
     "NA": "Increase amount of Ultra Swim Floatie per drop",
     "KR": null
@@ -1758,21 +1758,21 @@
   },
   "カインド/スタッフ A": {
     "JP": null,
-    "CN": "Kind Staff A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カインド/スタッフ B": {
     "JP": null,
-    "CN": "Kind/Staff B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カインド/スタッフ EX": {
     "JP": null,
-    "CN": "Kind Staff EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -2570,21 +2570,21 @@
   },
   "サスペンス・アクター A": {
     "JP": null,
-    "CN": "Suspense Actor A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "サスペンス・アクター B": {
     "JP": null,
-    "CN": "Suspense Actor B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "サスペンス・アクター EX": {
     "JP": null,
-    "CN": "Suspense Actor EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -2717,21 +2717,21 @@
   },
   "サマー・エクスペリエンサー A": {
     "JP": null,
-    "CN": "Summer Experiencer A",
+    "CN": null,
     "TW": "夏日體驗者 A",
     "NA": null,
     "KR": null
   },
   "サマー・エクスペリエンサー B": {
     "JP": null,
-    "CN": "Summer Experiencer B",
+    "CN": null,
     "TW": "夏日體驗者 B",
     "NA": null,
     "KR": null
   },
   "サマー・エクスペリエンサー EX": {
     "JP": null,
-    "CN": "Summer Experiencer EX",
+    "CN": null,
     "TW": "夏日體驗者 EX",
     "NA": null,
     "KR": null
@@ -3459,7 +3459,7 @@
   },
   "スーパー麦わら帽のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "提升 Super Straw Hat 的掉落获得数量",
+    "CN": null,
     "TW": "超級草帽的掉落獲得數提升",
     "NA": "Increase amount of Super Straw Hat per drop",
     "KR": null
@@ -3648,14 +3648,14 @@
   },
   "テオブロマ・カリス B": {
     "JP": null,
-    "CN": "Theobroma Charis B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "テオブロマ・カリス EX": {
     "JP": null,
-    "CN": "Theobroma Calis EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3690,7 +3690,7 @@
   },
   "ディーバポイント獲得量アップ": {
     "JP": null,
-    "CN": "Diva Point获得量提升",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3718,7 +3718,7 @@
   },
   "デスピックのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "增加 Death Pick 的掉落获得数量",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3753,21 +3753,21 @@
   },
   "トライ・アーク・ライダー A": {
     "JP": null,
-    "CN": "Tri-Arc Rider A",
+    "CN": null,
     "TW": "三弧之騎士 A",
     "NA": null,
     "KR": null
   },
   "トライ・アーク・ライダー B": {
     "JP": null,
-    "CN": "Tri-Arc Rider B",
+    "CN": null,
     "TW": "三弧之騎士 B",
     "NA": null,
     "KR": null
   },
   "トライ・アーク・ライダー EX": {
     "JP": null,
-    "CN": "Tri-Ark Rider EX",
+    "CN": null,
     "TW": "三弧之騎士 EX",
     "NA": null,
     "KR": null
@@ -4089,7 +4089,7 @@
   },
   "ハイパー虫取り網のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Hyper Bug Net",
+    "CN": null,
     "TW": "高級捕蟲網的掉落獲得數提升",
     "NA": "Increase amount of Hyper Bug Net per drop",
     "KR": null
@@ -4362,7 +4362,7 @@
   },
   "パンクロックドラゴンのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Punk Rock Dragon drop rate up",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4712,21 +4712,21 @@
   },
   "ブルーム・フローリスト A": {
     "JP": null,
-    "CN": "Bloom Florist A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ブルーム・フローリスト B": {
     "JP": null,
-    "CN": "Bloom Florist B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ブルーム・フローリスト EX": {
     "JP": null,
-    "CN": "Bloom Florist EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4782,21 +4782,21 @@
   },
   "プラネットセッション A": {
     "JP": null,
-    "CN": "Planet Session A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "プラネットセッション B": {
     "JP": null,
-    "CN": "Planet Session B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "プラネットセッション EX": {
     "JP": null,
-    "CN": "Planet Session EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4866,7 +4866,7 @@
   },
   "ヘルＴシャツのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop number of Hell T-Shirt",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5153,14 +5153,14 @@
   },
   "マテリアル・コンストラクター A": {
     "JP": null,
-    "CN": "Material Constructor A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "マテリアル・コンストラクター EX": {
     "JP": null,
-    "CN": "Material Constructor EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5909,7 +5909,7 @@
   },
   "一刺にて城を穿つ（槍）": {
     "JP": null,
-    "CN": "一刺にて城を穿つ（Lancer）",
+    "CN": null,
     "TW": "一刺貫城（槍）",
     "NA": null,
     "KR": null
@@ -6133,7 +6133,7 @@
   },
   "不倒の知る辺（此方）": {
     "JP": null,
-    "CN": "Guide to the Unwavering (This Side)",
+    "CN": null,
     "TW": "不倒的依靠（此方）",
     "NA": null,
     "KR": null
@@ -6224,7 +6224,7 @@
   },
   "不朽の寄る辺（彼方）": {
     "JP": null,
-    "CN": "Immortal Haven (Beyond)",
+    "CN": null,
     "TW": "不朽的依靠（彼方）",
     "NA": null,
     "KR": null
@@ -6259,7 +6259,7 @@
   },
   "不沈の号令（騎）": {
     "JP": null,
-    "CN": "Unsinkable Order (Rider)",
+    "CN": null,
     "TW": "不沈的號令（騎）",
     "NA": null,
     "KR": null
@@ -6273,7 +6273,7 @@
   },
   "不退の構え（槍）": {
     "JP": null,
-    "CN": "Unyielding Stance (Lancer)",
+    "CN": null,
     "TW": "不屈的架勢（槍）",
     "NA": null,
     "KR": null
@@ -6882,7 +6882,7 @@
   },
   "元気なコン、陽気なコン、健気なコンのドロップ獲得数アップ＆攻撃の威力アップ": {
     "JP": null,
-    "CN": "Energetic Kon, Cheerful Kon, and Stoic Kon drop acquisition rate up & ATK up",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6903,7 +6903,7 @@
   },
   "先陣守護（此方）": {
     "JP": null,
-    "CN": "Guardian of the Vanguard (This Side)",
+    "CN": null,
     "TW": "先陣守護（此方）",
     "NA": null,
     "KR": null
@@ -7652,7 +7652,7 @@
   },
   "単独行動（弓）": {
     "JP": null,
-    "CN": "Independent Action (Archer)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -7778,7 +7778,7 @@
   },
   "去なしの石突（槍）": {
     "JP": null,
-    "CN": "无铭之石突（Lancer）",
+    "CN": null,
     "TW": "去無的石突（槍）",
     "NA": null,
     "KR": null
@@ -7862,7 +7862,7 @@
   },
   "古びた鉄兜のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Ancient Iron Helmets",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -7967,7 +7967,7 @@
   },
   "吸精公女 B": {
     "JP": null,
-    "CN": "Vampiric Princess B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -8317,7 +8317,7 @@
   },
   "境域掌握（騎）": {
     "JP": null,
-    "CN": "Territory Creation (Rider)",
+    "CN": null,
     "TW": "境域掌握（騎）",
     "NA": null,
     "KR": null
@@ -8863,7 +8863,7 @@
   },
   "天威星（夏） A": {
     "JP": null,
-    "CN": "Heavenly Authority Star (Summer) A",
+    "CN": null,
     "TW": "天威星（夏） A",
     "NA": null,
     "KR": null
@@ -9990,7 +9990,7 @@
   },
   "対極共生（彼方）": {
     "JP": null,
-    "CN": "Symbiotic Extremes (Far Side)",
+    "CN": null,
     "TW": "對極共生（彼方）",
     "NA": null,
     "KR": null
@@ -10263,7 +10263,7 @@
   },
   "射て晴らすは征箭の雨（弓）": {
     "JP": null,
-    "CN": "射落之雨，征矢之雨（Archer）",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -10515,21 +10515,21 @@
   },
   "幕末チャンバラパワー A": {
     "JP": null,
-    "CN": "Bakumatsu Chambara Power A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "幕末チャンバラパワー B": {
     "JP": null,
-    "CN": "Bakumatsu Chanbara Power B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "幕末チャンバラパワー EX": {
     "JP": null,
-    "CN": "Bakumatsu Swordplay Power EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -11201,7 +11201,7 @@
   },
   "恵愛の三角巾のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Triangular Bandage of Benevolence",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -11369,7 +11369,7 @@
   },
   "慈愛のエプロンのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop amount of Merciless One",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -11733,7 +11733,7 @@
   },
   "指先の言葉（術）": {
     "JP": null,
-    "CN": "Words of the Fingertips (Caster)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -12580,7 +12580,7 @@
   },
   "朽ちた大剣のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "增加朽坏大剑的掉落获得数量",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -12608,7 +12608,7 @@
   },
   "材木のドロップ獲得数アップ＆攻撃の威力アップ": {
     "JP": null,
-    "CN": "木材的掉落获得数提升＆攻击威力提升",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -13343,7 +13343,7 @@
   },
   "永世帝位 EX": {
     "JP": null,
-    "CN": "Eternal Imperial Throne EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -13462,42 +13462,42 @@
   },
   "流星の絆 A": {
     "JP": null,
-    "CN": "Meteor Bond A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "流星の絆 B": {
     "JP": null,
-    "CN": "Meteor Bond B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "流星の絆 C": {
     "JP": null,
-    "CN": "Meteor Bond C",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "流星の絆 D": {
     "JP": null,
-    "CN": "Meteor Bond D",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "流星の絆 E": {
     "JP": null,
-    "CN": "Meteor Bond E",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "流星の絆 EX": {
     "JP": null,
-    "CN": "Meteor Bond EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -13910,7 +13910,7 @@
   },
   "無疵の間合い（殺）": {
     "JP": null,
-    "CN": "Distance of the Flawless (Assassin)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -14134,7 +14134,7 @@
   },
   "熾炎翻す（此方）": {
     "JP": null,
-    "CN": "Scorching Flame（This Side）",
+    "CN": null,
     "TW": "熾炎翻轉（此方）",
     "NA": null,
     "KR": null
@@ -14680,7 +14680,7 @@
   },
   "理の傍ら（彼方）": {
     "JP": null,
-    "CN": "理之旁（彼方）",
+    "CN": null,
     "TW": "真理之側（彼方）",
     "NA": null,
     "KR": null
@@ -17445,7 +17445,7 @@
   },
   "褪せたマントのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Faded Mantle drop amount up",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -17501,7 +17501,7 @@
   },
   "親愛のミトンのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop number of Dear Mitten",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -17648,7 +17648,7 @@
   },
   "豊穣ポイント獲得量アップ": {
     "JP": null,
-    "CN": "Fertility Point drop rate up",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -19433,7 +19433,7 @@
   },
   "駿馬、戦場を駆る（騎）": {
     "JP": null,
-    "CN": "A fine steed, galloping across the battlefield (Rider)",
+    "CN": null,
     "TW": "駿馬、戰場馳騁（騎）",
     "NA": null,
     "KR": null
@@ -20308,7 +20308,7 @@
   },
   "鷲の目（弓）": {
     "JP": null,
-    "CN": "Eagle Eye (Archer)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -21071,42 +21071,42 @@
   },
   "おしごとウォレットのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "职介saber工作钱包掉落获得数提升",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "おしごとストラップのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "增加“工作挂件”的掉落获得数量",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "おしごとバンドのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "Increase drop count of Work Band",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデニア・クルー A": {
     "JP": null,
-    "CN": "Chaldea Crew A",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデニア・クルー B": {
     "JP": null,
-    "CN": "Chaldean Crew B",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデニア・クルー EX": {
     "JP": null,
-    "CN": "Chaldenia Crew EX",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null

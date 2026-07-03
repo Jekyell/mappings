@@ -932,7 +932,7 @@
   },
   "CBC2026特別交換券": {
     "JP": null,
-    "CN": "CBC2026 Special Item Exchange Ticket",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1100,7 +1100,7 @@
   },
   "OVER THE SAME SKY 英霊星行チケット〔AUGUST〕": {
     "JP": null,
-    "CN": "OVER THE SAME SKY Servant Star Travel Ticket〔AUGUST〕",
+    "CN": null,
     "TW": "OVER THE SAME SKY 英靈星行券〔8月〕",
     "NA": "OVER THE SAME SKY Heroic Spirit Stellar Journey Ticket (August)",
     "KR": null
@@ -1121,7 +1121,7 @@
   },
   "OVER THE SAME SKY 英霊星行チケット〔NOVEMBER〕": {
     "JP": null,
-    "CN": "OVER THE SAME SKY 英灵星行兑换券〔NOVEMBER〕",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1170,7 +1170,7 @@
   },
   "あつあつ湯豆腐": {
     "JP": null,
-    "CN": "热腾腾的汤豆腐",
+    "CN": null,
     "TW": null,
     "NA": "Hot Tofu",
     "KR": null
@@ -1310,7 +1310,7 @@
   },
   "ぐんぐん肥料": {
     "JP": null,
-    "CN": "速效肥料",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1331,7 +1331,7 @@
   },
   "すくすく肥料": {
     "JP": null,
-    "CN": "茁壮肥料",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1352,7 +1352,7 @@
   },
   "てかてかばらずし": {
     "JP": null,
-    "CN": "闪闪发光不散寿司",
+    "CN": null,
     "TW": null,
     "NA": "Shiny Sushi",
     "KR": null
@@ -1366,21 +1366,21 @@
   },
   "なまなま八ツ橋": {
     "JP": null,
-    "CN": "新鲜的八桥饼",
+    "CN": null,
     "TW": null,
     "NA": "Raw Yatsuhashi",
     "KR": null
   },
   "のびのび肥料": {
     "JP": null,
-    "CN": "伸展肥料",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "はなさかポイント": {
     "JP": null,
-    "CN": "花开点数",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1478,7 +1478,7 @@
   },
   "アサシン育成交換券": {
     "JP": null,
-    "CN": "Assassin Training Exchange Ticket",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1548,7 +1548,7 @@
   },
   "アーチャー育成交換券": {
     "JP": null,
-    "CN": "Archer Ascension Item Exchange Ticket",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1611,14 +1611,14 @@
   },
   "ウルトラ浮き輪": {
     "JP": null,
-    "CN": "Ultra Swimming Ring",
+    "CN": null,
     "TW": "超大型游泳圈",
     "NA": "Ultra Swim Floatie",
     "KR": null
   },
   "エンプーサ・グラス": {
     "JP": null,
-    "CN": "Empusa Grass",
+    "CN": null,
     "TW": "恩浦薩眼鏡",
     "NA": "Empusa Glasses",
     "KR": null
@@ -1730,7 +1730,7 @@
   },
   "カリオンの額帯": {
     "JP": null,
-    "CN": "Carion's Headband",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1947,7 +1947,7 @@
   },
   "キャスター育成交換券": {
     "JP": null,
-    "CN": "Caster Enhancement Ticket",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -2801,7 +2801,7 @@
   },
   "スーパー麦わら帽": {
     "JP": null,
-    "CN": "Super Straw Hat",
+    "CN": null,
     "TW": "超級草帽",
     "NA": "Super Straw Hat",
     "KR": null
@@ -2920,7 +2920,7 @@
   },
   "ディーバポイント": {
     "JP": null,
-    "CN": "Diva Point",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -2955,7 +2955,7 @@
   },
   "デスピック": {
     "JP": null,
-    "CN": "Death Pick",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3109,7 +3109,7 @@
   },
   "ハイパー虫取り網": {
     "JP": null,
-    "CN": "Hyper Bug Net",
+    "CN": null,
     "TW": "高級捕蟲網",
     "NA": "Hyper Bug Net",
     "KR": null
@@ -3214,7 +3214,7 @@
   },
   "パンクロックドラゴン": {
     "JP": null,
-    "CN": "Punk Rock Dragon",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3375,14 +3375,14 @@
   },
   "プレジデントポイント": {
     "JP": null,
-    "CN": "President Point",
+    "CN": null,
     "TW": "大總統點數",
     "NA": "President Point",
     "KR": null
   },
   "ヘルＴシャツ": {
     "JP": null,
-    "CN": "Hell T-shirt",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3704,7 +3704,7 @@
   },
   "ライダー育成交換券": {
     "JP": null,
-    "CN": "Rider Ascension Exchange Ticket",
+    "CN": null,
     "TW": "Rider育成交換券",
     "NA": "Rider Training Exchange Ticket",
     "KR": null
@@ -4103,7 +4103,7 @@
   },
   "創生の真珠": {
     "JP": null,
-    "CN": "Pearl of Genesis",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4208,7 +4208,7 @@
   },
   "古びた鉄兜": {
     "JP": null,
-    "CN": "古旧的铁盔",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4334,21 +4334,21 @@
   },
   "夏の夢の宝箱〔金〕": {
     "JP": null,
-    "CN": "Summer Dream Treasure Chest [Gold]",
+    "CN": null,
     "TW": "夏之夢寶箱〔金〕",
     "NA": "Summer Dream Chests (Gold)",
     "KR": null
   },
   "夏の夢の宝箱〔銀〕": {
     "JP": null,
-    "CN": "Summer Dream Treasure Chest (Silver)",
+    "CN": null,
     "TW": "夏之夢寶箱〔銀〕",
     "NA": "Summer Dream Chests (Silver)",
     "KR": null
   },
   "夏の夢の宝箱〔銅〕": {
     "JP": null,
-    "CN": "Summer Dream Treasure Chest (Bronze)",
+    "CN": null,
     "TW": "夏之夢寶箱〔銅〕",
     "NA": "Summer Dream Chests (Bronze)",
     "KR": null
@@ -4810,7 +4810,7 @@
   },
   "恵愛の三角巾": {
     "JP": null,
-    "CN": "Triangular Bandage of Benevolence",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4852,7 +4852,7 @@
   },
   "慈愛のエプロン": {
     "JP": null,
-    "CN": "慈爱围裙",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5160,7 +5160,7 @@
   },
   "朽ちた大剣": {
     "JP": null,
-    "CN": "Rusted Greatsword",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5342,7 +5342,7 @@
   },
   "母なるロックオンチョコ": {
     "JP": null,
-    "CN": "Motherly Lock-on Choco",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5510,7 +5510,7 @@
   },
   "無頼の槍先": {
     "JP": null,
-    "CN": "Lancer of the vagrant",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6063,7 +6063,7 @@
   },
   "終焉のカチューシャ": {
     "JP": null,
-    "CN": "终焉的发带",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6189,7 +6189,7 @@
   },
   "花園のコサージュ": {
     "JP": null,
-    "CN": "花之繁茂的胸花",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6210,7 +6210,7 @@
   },
   "英霊極点交換チケット": {
     "JP": null,
-    "CN": "Servant Ascension Exchange Ticket",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6364,14 +6364,14 @@
   },
   "褪せたマント": {
     "JP": null,
-    "CN": "Faded Mantle",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "親愛のミトン": {
     "JP": null,
-    "CN": "亲爱的连指手套",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6406,7 +6406,7 @@
   },
   "豊穣ポイント": {
     "JP": null,
-    "CN": "Fertility Points",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6833,7 +6833,7 @@
   },
   "魔芒石": {
     "JP": null,
-    "CN": "Magic Gem of Archer",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -6903,7 +6903,7 @@
   },
   "黎溟琥珀": {
     "JP": null,
-    "CN": "黎溟琥珀",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -7015,7 +7015,7 @@
   },
   "Ｕメダル": {
     "JP": null,
-    "CN": "U Medal",
+    "CN": null,
     "TW": "Ｕ獎牌",
     "NA": "U Medal",
     "KR": null
@@ -7057,28 +7057,28 @@
   },
   "おしごとウォレット": {
     "JP": null,
-    "CN": "工作钱包",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "おしごとストラップ": {
     "JP": null,
-    "CN": "工作挂件",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "おしごとバンド": {
     "JP": null,
-    "CN": "工作乐队",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデポイント": {
     "JP": null,
-    "CN": "迦勒底点数",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null

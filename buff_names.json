@@ -64,7 +64,7 @@
   },
   "Artsブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": "Arts Boost [Slow Projectile]",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -197,7 +197,7 @@
   },
   "Busterブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": "Buster Boost [Blunt Projectile]",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -491,7 +491,7 @@
   },
   "Quickブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": "Quick Up [Slow Bullet]",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -708,7 +708,7 @@
   },
   "おもてなし力": {
     "JP": null,
-    "CN": "待客之道",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1401,7 +1401,7 @@
   },
   "サスペンス・アクター": {
     "JP": null,
-    "CN": "Suspense Actor",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1422,7 +1422,7 @@
   },
   "サマー・エクスペリエンサー": {
     "JP": null,
-    "CN": "Summer Experiencer",
+    "CN": null,
     "TW": "夏日體驗者",
     "NA": null,
     "KR": null
@@ -1765,7 +1765,7 @@
   },
   "テオブロマ・カリス": {
     "JP": null,
-    "CN": "Theobroma Charis",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -1779,7 +1779,7 @@
   },
   "トライ・アーク・ライダー": {
     "JP": null,
-    "CN": "Tri-Ark Rider",
+    "CN": null,
     "TW": "三弧之騎士",
     "NA": null,
     "KR": null
@@ -2031,14 +2031,14 @@
   },
   "ブルーム・フローリスト": {
     "JP": null,
-    "CN": "Bloom Florist",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "プラネットセッション": {
     "JP": null,
-    "CN": "Planet Session",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -2122,7 +2122,7 @@
   },
   "一刺にて城を穿つ（槍）": {
     "JP": null,
-    "CN": "一刺穿城（Lancer）",
+    "CN": null,
     "TW": "一刺貫城（槍）",
     "NA": null,
     "KR": null
@@ -2157,7 +2157,7 @@
   },
   "不倒の知る辺（此方）": {
     "JP": null,
-    "CN": "Undying Guide (This Side)",
+    "CN": null,
     "TW": "不倒的依靠（此方）",
     "NA": null,
     "KR": null
@@ -2171,21 +2171,21 @@
   },
   "不朽の寄る辺（彼方）": {
     "JP": null,
-    "CN": "Immortal Haven (The Beyond)",
+    "CN": null,
     "TW": "不朽的依靠（彼方）",
     "NA": null,
     "KR": null
   },
   "不沈の号令（騎）": {
     "JP": null,
-    "CN": "Unsinkable Command (Rider)",
+    "CN": null,
     "TW": "不沈的號令（騎）",
     "NA": null,
     "KR": null
   },
   "不退の構え（槍）": {
     "JP": null,
-    "CN": "Unshakable Formation (Lancer)",
+    "CN": null,
     "TW": "不屈的架勢（槍）",
     "NA": null,
     "KR": null
@@ -2290,7 +2290,7 @@
   },
   "先陣守護（此方）": {
     "JP": null,
-    "CN": "Guardian of the Vanguard (This Side)",
+    "CN": null,
     "TW": "先陣守護（此方）",
     "NA": null,
     "KR": null
@@ -2388,7 +2388,7 @@
   },
   "去なしの石突（槍）": {
     "JP": null,
-    "CN": "去なしの石突（Lancer）",
+    "CN": null,
     "TW": "去無的石突（槍）",
     "NA": null,
     "KR": null
@@ -2444,14 +2444,14 @@
   },
   "境域掌握": {
     "JP": null,
-    "CN": "Territory Creation",
+    "CN": null,
     "TW": "境域掌握",
     "NA": null,
     "KR": null
   },
   "境域掌握（騎）": {
     "JP": null,
-    "CN": "Territory Creation (Rider)",
+    "CN": null,
     "TW": "境域掌握（騎）",
     "NA": null,
     "KR": null
@@ -3382,7 +3382,7 @@
   },
   "対極共生（彼方）": {
     "JP": null,
-    "CN": "Symbiotic Opposition (Far Side)",
+    "CN": null,
     "TW": "對極共生（彼方）",
     "NA": null,
     "KR": null
@@ -3424,7 +3424,7 @@
   },
   "射て晴らすは征箭の雨（弓）": {
     "JP": null,
-    "CN": "射落晴空之征箭雨（Archer）",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3452,7 +3452,7 @@
   },
   "幕末チャンバラパワー": {
     "JP": null,
-    "CN": "幕末剑戟力量",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -3697,7 +3697,7 @@
   },
   "指先の言葉（術）": {
     "JP": null,
-    "CN": "Words of the Fingertips (Caster)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4390,7 +4390,7 @@
   },
   "無疵の間合い（殺）": {
     "JP": null,
-    "CN": "Maiden's Distance (Assassin)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -4411,7 +4411,7 @@
   },
   "熾炎翻す（此方）": {
     "JP": null,
-    "CN": "炽炎翻腾（此方）",
+    "CN": null,
     "TW": "熾炎翻轉（此方）",
     "NA": null,
     "KR": null
@@ -4537,14 +4537,14 @@
   },
   "理の傍ら": {
     "JP": null,
-    "CN": "Beside the logic",
+    "CN": null,
     "TW": "真理之側",
     "NA": null,
     "KR": null
   },
   "理の傍ら（彼方）": {
     "JP": null,
-    "CN": "理的彼端（彼方）",
+    "CN": null,
     "TW": "真理之側（彼方）",
     "NA": null,
     "KR": null
@@ -5013,7 +5013,7 @@
   },
   "見敵迎撃": {
     "JP": null,
-    "CN": "迎击敌人",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5181,7 +5181,7 @@
   },
   "過去改竄": {
     "JP": null,
-    "CN": "历史改写",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5209,7 +5209,7 @@
   },
   "鈍の矢弾": {
     "JP": null,
-    "CN": "钝之弹丸",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
@@ -5391,7 +5391,7 @@
   },
   "駿馬、戦場を駆る（騎）": {
     "JP": null,
-    "CN": "Noble steed, galloping across the battlefield (Rider)",
+    "CN": null,
     "TW": "駿馬、戰場馳騁（騎）",
     "NA": null,
     "KR": null
@@ -5482,21 +5482,21 @@
   },
   "鷲の目（弓）": {
     "JP": null,
-    "CN": "Eagle Eye (Archer)",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "カルデニア・クルー": {
     "JP": null,
-    "CN": "Chaldean Crew",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
   "威力アップ〔即死耐性ダウン〕": {
     "JP": null,
-    "CN": "威力提升〔即死耐性下降〕",
+    "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
