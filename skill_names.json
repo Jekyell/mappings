@@ -1261,14 +1261,14 @@
   },
   "アーツチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Arts连携成立时发动效果〔Saber〕",
+    "CN": "技击连携成立时发动效果〔Saber〕",
     "TW": "Arts Chain 成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
   },
   "アーツチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Arts连携成立时发动效果〔Berserker〕",
+    "CN": "技击连携成立时发动效果〔Berserker〕",
     "TW": "Arts Chain 成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
@@ -2122,14 +2122,14 @@
   },
   "クイックチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Quick连携成立时发动效果〔Saber〕",
+    "CN": "迅击连携成立时发动效果〔Saber〕",
     "TW": "Quick Chain成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
   },
   "クイックチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Quick连携成立时发动效果〔Berserker〕",
+    "CN": "迅击连携成立时发动效果〔Berserker〕",
     "TW": "Quick Chain成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
@@ -4222,14 +4222,14 @@
   },
   "バスターチェイン成立時発動効果〔セイバー〕": {
     "JP": null,
-    "CN": "Buster连携成立时发动效果〔Saber〕",
+    "CN": "力击连携成立时发动效果〔Saber〕",
     "TW": "Buster Chain成立時發動效果〔Saber〕",
     "NA": null,
     "KR": null
   },
   "バスターチェイン成立時発動効果〔バーサーカー〕": {
     "JP": null,
-    "CN": "Buster连携成立时发动效果〔Berserker〕",
+    "CN": "力击连携成立时发动效果〔Berserker〕",
     "TW": "Buster Chain成立時發動效果〔Berserker〕",
     "NA": null,
     "KR": null
