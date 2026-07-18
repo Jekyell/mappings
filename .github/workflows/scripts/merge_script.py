@@ -11,13 +11,46 @@ LOW_PRIORITY_DIR = 'F_Replace'
 TARGET_LANG = 'CN'
 # --- 配置结束 ---
 
+FILE_PRIORITY = {
+    # 低优先级（先加载，允许被覆盖）
+    "quest_names.json": 10,
+    "bgm_names.json": 20,
+    "spot_names.json": 30,
+    "war_names.json": 30,
+    "event_names.json": 30,
+
+    # 中优先级（默认 50，如 td_ruby.json）
+
+    # 高优先级（后加载，覆盖其它）
+    "item_names.json": 80,
+    "mc_names.json": 80,
+    "cc_names.json": 80,
+    "costume_names.json": 80,
+    "summon_names.json": 80,
+    "func_popuptext.json": 80,
+    "chara_names.json": 85,
+    "illustrator_names.json": 85,
+    "cv_names.json": 85,
+    "voice_line_names.json": 85,
+    "buff_names.json": 90,
+    "skill_names.json": 90,
+    "td_names.json": 95,
+    "ce_names.json": 100,
+    "entity_names.json": 110,
+    "svt_names.json": 120,
+}
+
+def get_file_priority_key(path_or_name):
+    filename = os.path.basename(path_or_name)
+    return (FILE_PRIORITY.get(filename, 50), filename)
+
 def load_high_priority_translations():
     """
     加载根目录下所有 JSON 文件，并提取有效的 CN 翻译。
     返回一个字典: {"原文": "翻译"}
     """
     translations = {}
-    json_files = sorted(glob.glob(os.path.join(HIGH_PRIORITY_DIR, '*.json')))
+    json_files = sorted(glob.glob(os.path.join(HIGH_PRIORITY_DIR, '*.json')), key=get_file_priority_key)
     
     print(f"[*] 发现 {len(json_files)} 个高优先级文件，开始解析...")
 
