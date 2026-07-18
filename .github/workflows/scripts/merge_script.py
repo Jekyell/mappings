@@ -17,7 +17,7 @@ def load_high_priority_translations():
     返回一个字典: {"原文": "翻译"}
     """
     translations = {}
-    json_files = glob.glob(os.path.join(HIGH_PRIORITY_DIR, '*.json'))
+    json_files = sorted(glob.glob(os.path.join(HIGH_PRIORITY_DIR, '*.json')))
     
     print(f"[*] 发现 {len(json_files)} 个高优先级文件，开始解析...")
 
@@ -48,7 +48,7 @@ def update_low_priority_files(high_priority_translations):
         print(f"[!] 错误: 低优先级目录 '{LOW_PRIORITY_DIR}' 不存在。")
         return
 
-    json_files = glob.glob(os.path.join(LOW_PRIORITY_DIR, '*.json'))
+    json_files = sorted(glob.glob(os.path.join(LOW_PRIORITY_DIR, '*.json')))
     print(f"\n[*] 发现 {len(json_files)} 个低优先级文件，开始检查和更新...")
     total_updates = 0
 
