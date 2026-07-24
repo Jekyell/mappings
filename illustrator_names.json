@@ -120,7 +120,7 @@
   },
   "okojo＆ネコタワワ": {
     "JP": null,
-    "CN": "小猫＆猫塔哇哇",
+    "CN": "okojo＆NEKOTAWAWA",
     "TW": null,
     "NA": null,
     "KR": null
@@ -792,7 +792,7 @@
   },
   "また＆Bすけ": {
     "JP": null,
-    "CN": "又是＆B助",
+    "CN": "MATA＆BSUKE",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3519,5 +3519,54 @@
     "TW": "漣ミサ",
     "NA": "Misa Sazanami",
     "KR": "사자나미 미사"
+  },
+  "こまやま明": {
+    "JP": null,
+    "CN": "KOMAYAMA明",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カオミン": {
+    "JP": null,
+    "CN": "kaoming",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ハル": {
+    "JP": null,
+    "CN": "haru",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "中野ニン": {
+    "JP": null,
+    "CN": "中野nin",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "久賀フーナ": {
+    "JP": null,
+    "CN": "久贺Huna",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "美和野らぐ": {
+    "JP": null,
+    "CN": "美和野rag",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "鈴平ひろ": {
+    "JP": null,
+    "CN": "铃平裕",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
