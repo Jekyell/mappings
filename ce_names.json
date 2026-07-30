@@ -7288,7 +7288,7 @@
   },
   "剣士の頂に立つもの": {
     "JP": null,
-    "CN": "立于Saber之巅者",
+    "CN": "立于剑士之巅者",
     "TW": "劍士之巔",
     "NA": "The One Who Stands at the Summit of Sabers",
     "KR": null
@@ -8611,7 +8611,7 @@
   },
   "弓兵の頂に立つもの": {
     "JP": null,
-    "CN": "立于Archer之巅者",
+    "CN": "立于弓兵之巅者",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10340,7 +10340,7 @@
   },
   "槍兵の頂に立つもの": {
     "JP": null,
-    "CN": "立于Lancer之巅者",
+    "CN": "立于枪兵之巅者",
     "TW": "立於槍兵之巔者",
     "NA": "The One Who Stands at the Summit of Lancers",
     "KR": null
@@ -11026,7 +11026,7 @@
   },
   "狂戦士の頂に立つもの": {
     "JP": null,
-    "CN": "立于Berserker之巅者",
+    "CN": "立于狂战士之巅者",
     "TW": "立於狂戰士之巔者",
     "NA": "The One Who Stands at the Summit of Berserkers",
     "KR": null
@@ -11803,7 +11803,7 @@
   },
   "竜と竜の剣士": {
     "JP": null,
-    "CN": "龙与龙之Saber",
+    "CN": "龙与龙之剑士",
     "TW": "龍與龍之劍士",
     "NA": "The Dragon and the Dragon Swordsman",
     "KR": "용과 용의 검사"
@@ -17886,7 +17886,7 @@
   },
   "騎兵の頂に立つもの": {
     "JP": null,
-    "CN": "立于Rider之巅者",
+    "CN": "立于骑兵之巅者",
     "TW": "立於騎兵之巔者",
     "NA": "The One Who Stands at the Summit of Riders",
     "KR": null
@@ -18047,14 +18047,14 @@
   },
   "魔術師の頂に立つもの": {
     "JP": null,
-    "CN": "立于Caster之巅者",
+    "CN": "立于魔术师之巅者",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "魔術師殺しの武器": {
     "JP": null,
-    "CN": "屠戮Caster的武器",
+    "CN": "屠戮魔术师的武器",
     "TW": "魔術師殺手的武器",
     "NA": "Weapon of the Magus Killer",
     "KR": null
