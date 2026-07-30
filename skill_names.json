@@ -3466,14 +3466,14 @@
   },
   "セイバーの星 C++": {
     "JP": null,
-    "CN": "剑士之星 C++",
+    "CN": "Saber之星 C++",
     "TW": "Saber之星 C++",
     "NA": "Star of Saber C++",
     "KR": "세이버의 별 C++"
   },
   "セイバーオブセイバーズ": {
     "JP": null,
-    "CN": "剑士中的剑士",
+    "CN": "Saber中的Saber",
     "TW": "Saber中的Saber",
     "NA": "Saber of Sabers",
     "KR": "세이버 오브 세이버즈"
@@ -4894,7 +4894,7 @@
   },
   "ベルセルク A": {
     "JP": null,
-    "CN": "狂战士 A",
+    "CN": "Berserker A",
     "TW": "狂戰士 A",
     "NA": "Berserk A",
     "KR": "베르세르크 A"
@@ -5433,7 +5433,7 @@
   },
   "メンロパークの魔術師 A": {
     "JP": null,
-    "CN": "门洛帕克的魔术师 A",
+    "CN": "门洛帕克的Caster A",
     "TW": "門洛帕克的魔術師 A",
     "NA": "Wizard of Menlo Park A",
     "KR": "멘로파크의 마술사 A"
@@ -10753,72 +10753,72 @@
   },
   "復讐者 A": {
     "JP": null,
-    "CN": "复仇者 A",
+    "CN": "Avenger A",
     "TW": "復仇者 A",
     "NA": "Avenger A",
     "KR": "복수자 A"
   },
   "復讐者 B": {
     "JP": null,
-    "CN": "复仇者 B",
+    "CN": "Avenger B",
     "TW": "復仇者 B",
     "NA": "Avenger B",
     "KR": "복수자 B"
   },
   "復讐者 B+": {
     "JP": null,
-    "CN": "复仇者 B+",
+    "CN": "Avenger B+",
     "TW": "復仇者 B+",
     "NA": "Avenger B+",
     "KR": "복수자 B+"
   },
   "復讐者 B-": {
     "JP": null,
-    "CN": "复仇者 B-",
+    "CN": "Avenger B-",
     "TW": "復仇者 B-",
     "NA": "Avenger B-",
     "KR": "복수자 B-"
   },
   "復讐者 C": {
     "JP": null,
-    "CN": "复仇者 C",
+    "CN": "Avenger C",
     "TW": "復仇者 C",
     "NA": "Avenger C",
     "KR": "복수자 C"
   },
   "復讐者 C+": {
     "JP": null,
-    "CN": "复仇者 C+",
+    "CN": "Avenger C+",
     "TW": "復仇者 C+",
     "NA": "Avenger C+",
     "KR": "복수자 C+"
   },
   "復讐者 D": {
     "JP": null,
-    "CN": "复仇者 D",
+    "CN": "Avenger D",
     "TW": "復仇者 D",
     "NA": "Avenger D",
     "KR": "복수자 D"
   },
   "復讐者 D++": {
     "JP": null,
-    "CN": "复仇者 D++",
+    "CN": "Avenger D++",
     "TW": "復仇者 D++",
     "NA": "Avenger D++",
     "KR": "복수자 D++"
   },
   "復讐者 EX": {
     "JP": null,
-    "CN": "复仇者 EX",
+    "CN": "Avenger EX",
     "TW": "復仇者 EX",
     "NA": "Avenger EX",
     "KR": "복수자 EX"
   },
   "復讐者（建前） B+": {
     "JP": null,
-    "CN": "复仇者（名义上） B+",
+    "CN": "Avenger（名义上） B+",
     "TW": "復仇者（名義上） B+",
-    "NA": "Avenger (Facade) B+",
+    "NA": "Avenger (Face) B+",
     "KR": "복수자(명목) B+"
   },
   "復讐計画（狂奔） B++": {
@@ -18509,7 +18509,7 @@
   },
   "金のセイバーバッヂのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "金剑士徽章的掉落获得数提升",
+    "CN": "金Saber徽章的掉落获得数提升",
     "TW": "金Saber徽章的掉落獲得數提升",
     "NA": "Increase amount of Gold Saber Badge per drop",
     "KR": "금색 세이버 배지의 획득 개수 UP"
@@ -18558,7 +18558,7 @@
   },
   "銀のセイバーバッヂのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "银剑士徽章的掉落获得数提升",
+    "CN": "银Saber徽章的掉落获得数提升",
     "TW": "銀Saber徽章的掉落獲得數提升",
     "NA": "Increase amount of Silver Saber Badge per drop",
     "KR": "은색 세이버 배지의 획득 개수 UP"
@@ -18600,7 +18600,7 @@
   },
   "銅のセイバーバッヂのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "铜剑士徽章的掉落获得数提升",
+    "CN": "铜Saber徽章的掉落获得数提升",
     "TW": "銅Saber徽章的掉落獲得數提升",
     "NA": "Increase amount of Bronze Saber Badge per drop",
     "KR": "동색 세이버 배지의 획득 개수 UP"

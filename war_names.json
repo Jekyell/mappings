@@ -792,14 +792,14 @@
   },
   "冠位戴冠戦\nセイバー": {
     "JP": null,
-    "CN": "冠位戴冠战\n剑士",
+    "CN": "冠位戴冠战\nSaber",
     "TW": "冠位戴冠戰\nSaber",
     "NA": "Grand Duel\n Saber",
     "KR": null
   },
   "冠位戴冠戦\nバーサーカー": {
     "JP": null,
-    "CN": "冠位戴冠战\n狂战士",
+    "CN": "冠位戴冠战\nBerserker",
     "TW": "冠位戴冠戰\nBerserker",
     "NA": "Grand Duel\n Berserker",
     "KR": null
@@ -813,7 +813,7 @@
   },
   "冠位戴冠戦\nランサー": {
     "JP": null,
-    "CN": "冠位戴冠战\n枪兵",
+    "CN": "冠位戴冠战\nLancer",
     "TW": "冠位戴冠戰\nLancer",
     "NA": "Grand Duel\n Lancer",
     "KR": null

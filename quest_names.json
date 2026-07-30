@@ -2759,7 +2759,7 @@
   },
   "4写目 弓兵たちの写真が撮れそうだ": {
     "JP": null,
-    "CN": "第4张 似乎能拍到弓兵们的照片",
+    "CN": "第4张 似乎能拍到Archer们的照片",
     "TW": "第4張 似乎能拍到Archer們的照片",
     "NA": "Shot 4: You might be able to take a photo of the archers",
     "KR": "4장 궁병들의 사진을 찍을 수 있을 것 같다"
@@ -3704,7 +3704,7 @@
   },
   "81写目 裁定者たちのロングブーツだ": {
     "JP": null,
-    "CN": "第81张 裁定者们的长靴",
+    "CN": "第81张 Ruler们的长靴",
     "TW": "第81張 Ruler們的長靴",
     "NA": "Shot 81: These are long boots for adjudicators",
     "KR": "81장 재정자들의 롱부츠다"
@@ -15289,56 +15289,56 @@
   },
   "アサシンお試しクエスト": {
     "JP": null,
-    "CN": "暗杀者测试关卡",
+    "CN": "Assassin测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アサシンお試しクエスト〔Ⅰ〕": {
     "JP": null,
-    "CN": "暗杀者测试关卡〔Ⅰ〕",
+    "CN": "Assassin测试关卡〔Ⅰ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アサシンお試しクエスト〔Ⅱ〕": {
     "JP": null,
-    "CN": "暗杀者测试关卡〔Ⅱ〕",
+    "CN": "Assassin测试关卡〔Ⅱ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アサシン・ハント 典位++級": {
     "JP": null,
-    "CN": "暗杀者·狩猎 典位++级",
+    "CN": "Assassin·狩猎 典位++级",
     "TW": "Assassin．狩獵 典位++級",
     "NA": "Assassin Hunt - Pride++ Rank",
     "KR": "어쌔신 헌트【전위++급】"
   },
   "アサシン・ハント 典位+級": {
     "JP": null,
-    "CN": "暗杀者·狩猎 典位+级",
+    "CN": "Assassin·狩猎 典位+级",
     "TW": "Assassin．狩獵 典位+級",
     "NA": "Assassin Hunt - Pride+ Rank",
     "KR": "어쌔신 헌트【전위+급】"
   },
   "アサシン・ハント 典位級": {
     "JP": null,
-    "CN": "暗杀者·狩猎 典位级",
+    "CN": "Assassin·狩猎 典位级",
     "TW": "Assassin．狩獵 典位級",
     "NA": "Assassin Hunt - Pride Rank",
     "KR": "어쌔신 헌트【전위급】"
   },
   "アサシン・ハント 祭位級": {
     "JP": null,
-    "CN": "暗杀者·狩猎 祭位级",
+    "CN": "Assassin·狩猎 祭位级",
     "TW": "Assassin．狩獵 祭位級",
     "NA": "Assassin Hunt - Fes Rank",
     "KR": "어쌔신 헌트【제위급】"
   },
   "アサシン・ハント 開位級": {
     "JP": null,
-    "CN": "暗杀者·狩猎 开位级",
+    "CN": "Assassin·狩猎 开位级",
     "TW": "Assassin．狩獵 開位級",
     "NA": "Assassin Hunt - Cause Rank",
     "KR": "어쌔신 헌트【개위급】"
@@ -15583,7 +15583,7 @@
   },
   "アルターエゴお試しクエスト": {
     "JP": null,
-    "CN": "他人格测试关卡",
+    "CN": "Alter Ego测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -15933,7 +15933,7 @@
   },
   "アヴェンジャーお試しクエスト": {
     "JP": null,
-    "CN": "复仇者测试关卡",
+    "CN": "Avenger测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -15961,21 +15961,21 @@
   },
   "アーチャーお試しクエスト": {
     "JP": null,
-    "CN": "弓兵测试关卡",
+    "CN": "Archer测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アーチャーお試しクエスト〔Ⅰ〕": {
     "JP": null,
-    "CN": "弓兵测试关卡〔Ⅰ〕",
+    "CN": "Archer测试关卡〔Ⅰ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "アーチャーお試しクエスト〔Ⅱ〕": {
     "JP": null,
-    "CN": "弓兵测试关卡〔Ⅱ〕",
+    "CN": "Archer测试关卡〔Ⅱ〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -17564,21 +17564,21 @@
   },
   "キャスターお試しクエスト": {
     "JP": null,
-    "CN": "魔术师测试关卡",
+    "CN": "Caster测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "キャスターお試しクエスト〔Ⅰ〕": {
     "JP": null,
-    "CN": "魔术师测试关卡〔Ⅰ〕",
+    "CN": "Caster测试关卡〔Ⅰ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "キャスターお試しクエスト〔Ⅱ〕": {
     "JP": null,
-    "CN": "魔术师测试关卡〔Ⅱ〕",
+    "CN": "Caster测试关卡〔Ⅱ〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20000,7 +20000,7 @@
   },
   "セイバーお試しクエスト": {
     "JP": null,
-    "CN": "剑士测试关卡",
+    "CN": "Saber测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -21722,21 +21722,21 @@
   },
   "バーサーカーお試しクエスト": {
     "JP": null,
-    "CN": "狂战士测试关卡",
+    "CN": "Berserker测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "バーサーカーお試しクエスト〔Ⅰ〕": {
     "JP": null,
-    "CN": "狂战士测试关卡〔Ⅰ〕",
+    "CN": "Berserker测试关卡〔Ⅰ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "バーサーカーお試しクエスト〔Ⅱ〕": {
     "JP": null,
-    "CN": "狂战士测试关卡〔Ⅱ〕",
+    "CN": "Berserker测试关卡〔Ⅱ〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -22338,7 +22338,7 @@
   },
   "ファイルⅦ『外様魔術師の所感』": {
     "JP": null,
-    "CN": "档案Ⅶ『旁系魔术师的感想』",
+    "CN": "档案Ⅶ『旁系Caster的感想』",
     "TW": "檔案Ⅶ『旁系魔術師的感想』",
     "NA": "File VII: Thoughts on Outsider Mages",
     "KR": "파일Ⅶ ‘외부 마술사의 소감’"
@@ -22443,7 +22443,7 @@
   },
   "フォーリナーお試しクエスト": {
     "JP": null,
-    "CN": "降临者测试关卡",
+    "CN": "Foreigner测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -22856,7 +22856,7 @@
   },
   "プリテンダー＆ビーストお試しクエスト": {
     "JP": null,
-    "CN": "身披角色者＆兽测试关卡",
+    "CN": "Pretender＆兽测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -23878,7 +23878,7 @@
   },
   "ムーンキャンサーお試しクエスト": {
     "JP": null,
-    "CN": "月之癌测试关卡",
+    "CN": "Moon Cancer测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -24312,21 +24312,21 @@
   },
   "ライダーお試しクエスト": {
     "JP": null,
-    "CN": "骑兵测试关卡",
+    "CN": "Rider测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ライダーお試しクエスト〔Ⅰ〕": {
     "JP": null,
-    "CN": "骑兵测试关卡〔Ⅰ〕",
+    "CN": "Rider测试关卡〔Ⅰ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ライダーお試しクエスト〔Ⅱ〕": {
     "JP": null,
-    "CN": "骑兵测试关卡〔Ⅱ〕",
+    "CN": "Rider测试关卡〔Ⅱ〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -24410,21 +24410,21 @@
   },
   "ランサーお試しクエスト": {
     "JP": null,
-    "CN": "枪兵测试关卡",
+    "CN": "Lancer测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ランサーお試しクエスト〔Ⅰ〕": {
     "JP": null,
-    "CN": "枪兵测试关卡〔Ⅰ〕",
+    "CN": "Lancer测试关卡〔Ⅰ〕",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "ランサーお試しクエスト〔Ⅱ〕": {
     "JP": null,
-    "CN": "枪兵测试关卡〔Ⅱ〕",
+    "CN": "Lancer测试关卡〔Ⅱ〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -24627,7 +24627,7 @@
   },
   "ルーラーお試しクエスト": {
     "JP": null,
-    "CN": "裁定者测试关卡",
+    "CN": "Ruler测试关卡",
     "TW": null,
     "NA": null,
     "KR": null
@@ -31949,35 +31949,35 @@
   },
   "対決・フォーリナーⅡ！": {
     "JP": null,
-    "CN": "对决·降临者Ⅱ！",
+    "CN": "对决·ForeignerⅡ！",
     "TW": "對決．ForeignerⅡ！",
     "NA": "Showdown: Foreigner II!",
     "KR": "대결・포리너 Ⅱ!"
   },
   "対決・フォーリナーⅢ": {
     "JP": null,
-    "CN": "对决·降临者Ⅲ",
+    "CN": "对决·ForeignerⅢ",
     "TW": "對決．ForeignerⅢ",
     "NA": "Showdown: Foreigner III!",
     "KR": "대결・포리너 Ⅲ"
   },
   "対決・フォーリナーⅣ": {
     "JP": null,
-    "CN": "对决·降临者Ⅳ",
+    "CN": "对决·ForeignerⅣ",
     "TW": "對決．ForeignerⅣ",
     "NA": "Showdown: Foreigner IV",
     "KR": "대결・포리너 Ⅳ"
   },
   "対決・フォーリナー完結編": {
     "JP": null,
-    "CN": "对决·降临者完结篇",
+    "CN": "对决·Foreigner完结篇",
     "TW": "對決．Foreigner完結篇",
     "NA": "Showdown: Final Foreigner",
     "KR": "대결・포리너 완결편"
   },
   "対決・フォーリナー！": {
     "JP": null,
-    "CN": "对决·降临者！",
+    "CN": "对决·Foreigner！",
     "TW": "對決．Foreigner！",
     "NA": "Showdown: Foreigner!",
     "KR": "대결・포리너!"
@@ -38564,7 +38564,7 @@
   },
   "最終節 贋作｢真作に背を向けし復讐者｣": {
     "JP": null,
-    "CN": "最终节 赝作「与真作背道而驰的复仇者」",
+    "CN": "最终节 赝作「与真作背道而驰的Avenger」",
     "TW": "最終節 贗作「與真作背道而馳的Avenger」",
     "NA": "Final Section: Counterfeit \"The Avenger Who Turned Her Back on Original Works\"",
     "KR": "최종절  위작 '진품에 등을 돌린 복수자'"
@@ -38900,7 +38900,7 @@
   },
   "本戦 アリーナ級 シャイニング・ランサー": {
     "JP": null,
-    "CN": "正赛 竞技场级 闪光枪兵",
+    "CN": "正赛 竞技场级 闪光Lancer",
     "TW": "正賽 競技場級 閃光Lancer",
     "NA": "Main Event - Arena: Shining Lancers",
     "KR": "본선 아레나급・샤이닝 랜서"
@@ -45277,7 +45277,7 @@
   },
   "第4節「対決：双剣と騎兵」": {
     "JP": null,
-    "CN": "第4节「对决：双剑与骑兵」",
+    "CN": "第4节「对决：双剑与Rider」",
     "TW": "第4節「對決：雙劍與騎兵」",
     "NA": "Section 4: Confrontation: Dual Swords and Cavalry",
     "KR": "제4절 ‘대결: 쌍검과 기병’"
@@ -46481,7 +46481,7 @@
   },
   "第一節「魔術師の弟子」": {
     "JP": null,
-    "CN": "第一节「魔术师的弟子」",
+    "CN": "第一节「Caster的弟子」",
     "TW": "第一節「魔術師的弟子」",
     "NA": "Section 1: The Mage's Apprentice",
     "KR": "제1절 ‘마술사의 제자’"
@@ -47503,7 +47503,7 @@
   },
   "第九節「魔術師の推理」": {
     "JP": null,
-    "CN": "第九节「魔术师的推理」",
+    "CN": "第九节「Caster的推理」",
     "TW": "第九節「魔術師的推理」",
     "NA": "Section 9: The Mage's Inference",
     "KR": "제9절 ‘마술사의 추리’"
@@ -47580,7 +47580,7 @@
   },
   "第二リーグ アイランド級 ひみつ会社アサシン": {
     "JP": null,
-    "CN": "第二轮 岛屿级 秘密会社暗杀者",
+    "CN": "第二轮 岛屿级 秘密会社Assassin",
     "TW": "第二聯盟 島嶼級 秘密公司Assassin",
     "NA": "Second League, Island - Secret Company, Assassin",
     "KR": "제2리그 아일랜드급・비밀회사 어쌔신"
@@ -49981,7 +49981,7 @@
   },
   "第壱関門 アサシンステップス": {
     "JP": null,
-    "CN": "第壹关口 暗杀者的步法",
+    "CN": "第壹关口 Assassin的步法",
     "TW": "第壹關口 Assassin的步法",
     "NA": "First Obstacle: Assassin Steps",
     "KR": "제1관문  어쌔신 스텝스"
@@ -50611,7 +50611,7 @@
   },
   "第４節 「トライアングル・メイガス」": {
     "JP": null,
-    "CN": "第4节 「三足鼎立的魔术师」",
+    "CN": "第4节 「三足鼎立的Caster」",
     "TW": "第4節 「三足鼎立的魔術師」",
     "NA": "Section 4: Triangle Magus",
     "KR": "제4절 ‘트라이앵글 메이거스’"
@@ -52242,7 +52242,7 @@
   },
   "花の少女剣士": {
     "JP": null,
-    "CN": "花之少女剑士",
+    "CN": "花之少女Saber",
     "TW": "花之少女Saber",
     "NA": "Sword of a Young Flower",
     "KR": "꽃의 소녀검사"
@@ -52858,7 +52858,7 @@
   },
   "裁定者の憂鬱": {
     "JP": null,
-    "CN": "裁定者的忧郁",
+    "CN": "Ruler的忧郁",
     "TW": "裁定者的憂鬱\n",
     "NA": "Melancholy of the Judge",
     "KR": "재정자의 우울"
@@ -53586,7 +53586,7 @@
   },
   "謎の維新ライダーＭ": {
     "JP": null,
-    "CN": "谜之维新骑兵Ｍ",
+    "CN": "谜之维新RiderＭ",
     "TW": "謎之維新RiderＭ",
     "NA": "Mysterious Restoration Rider M",
     "KR": "수수께끼의 유신 라이더 M"
@@ -56344,7 +56344,7 @@
   },
   "防衛戦4日目　騎馬兵強襲": {
     "JP": null,
-    "CN": "防卫战第4天　骑兵猛攻",
+    "CN": "防卫战第4天　Rider猛攻",
     "TW": "防衛戰第4天　騎兵猛攻",
     "NA": "Defensive Battle Day 4 - Cavalry",
     "KR": "방위전 4일차  기마병 강습"

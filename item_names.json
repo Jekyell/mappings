@@ -1478,7 +1478,7 @@
   },
   "アサシン育成交換券": {
     "JP": null,
-    "CN": "暗杀者养成兑换券",
+    "CN": "Assassin养成兑换券",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1548,7 +1548,7 @@
   },
   "アーチャー育成交換券": {
     "JP": null,
-    "CN": "弓兵养成兑换券",
+    "CN": "Archer养成兑换券",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1947,7 +1947,7 @@
   },
   "キャスター育成交換券": {
     "JP": null,
-    "CN": "魔术师养成兑换券",
+    "CN": "Caster养成兑换券",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2822,7 +2822,7 @@
   },
   "セイバー育成交換券": {
     "JP": null,
-    "CN": "剑士养成兑换券",
+    "CN": "Saber养成兑换券",
     "TW": "Saber育成交換券",
     "NA": "Saber Training Exchange Ticket",
     "KR": null
@@ -3193,7 +3193,7 @@
   },
   "バーサーカー育成交換券": {
     "JP": null,
-    "CN": "狂战士养成兑换券",
+    "CN": "Berserker养成兑换券",
     "TW": "Berserker育成交換券",
     "NA": "Berserker Training Exchange Ticket",
     "KR": null
@@ -3704,7 +3704,7 @@
   },
   "ライダー育成交換券": {
     "JP": null,
-    "CN": "骑兵养成兑换券",
+    "CN": "Rider养成兑换券",
     "TW": "Rider育成交換券",
     "NA": "Rider Training Exchange Ticket",
     "KR": null
@@ -3746,7 +3746,7 @@
   },
   "ランサー育成交換券": {
     "JP": null,
-    "CN": "枪兵养成兑换券",
+    "CN": "Lancer养成兑换券",
     "TW": "Lancer育成交換券",
     "NA": "Lancer Training Exchange Ticket",
     "KR": null
@@ -6511,7 +6511,7 @@
   },
   "金のセイバーバッヂ": {
     "JP": null,
-    "CN": "金剑士徽章",
+    "CN": "金Saber徽章",
     "TW": "金Saber徽章",
     "NA": "Gold Saber Badge",
     "KR": "금색 세이버 배지"
@@ -6560,7 +6560,7 @@
   },
   "銀のセイバーバッヂ": {
     "JP": null,
-    "CN": "银剑士徽章",
+    "CN": "银Saber徽章",
     "TW": "銀Saber徽章",
     "NA": "Silver Saber Badge",
     "KR": "은색 세이버 배지"
@@ -6574,7 +6574,7 @@
   },
   "銅のセイバーバッヂ": {
     "JP": null,
-    "CN": "铜剑士徽章",
+    "CN": "铜Saber徽章",
     "TW": "銅Saber徽章",
     "NA": "Bronze Saber Badge",
     "KR": "동색 세이버 배지"

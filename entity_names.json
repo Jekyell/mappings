@@ -680,7 +680,7 @@
   },
   "キャスター": {
     "JP": null,
-    "CN": "魔术师",
+    "CN": "Caster",
     "TW": "Caster",
     "NA": "Caster",
     "KR": "캐스터"
@@ -799,49 +799,49 @@
   },
   "クラス・アサシン": {
     "JP": null,
-    "CN": "职阶·暗杀者",
+    "CN": "职阶·Assassin",
     "TW": "職階．Assassin",
     "NA": "Assassin-Class",
     "KR": "클래스・어쌔신"
   },
   "クラス・アーチャー": {
     "JP": null,
-    "CN": "职阶·弓兵",
+    "CN": "职阶·Archer",
     "TW": "職階．Archer",
     "NA": "Archer-Class",
     "KR": "클래스・아처"
   },
   "クラス・キャスター": {
     "JP": null,
-    "CN": "职阶·魔术师",
+    "CN": "职阶·Caster",
     "TW": "職階．Caster",
     "NA": "Caster-Class",
     "KR": "클래스・캐스터"
   },
   "クラス・セイバー": {
     "JP": null,
-    "CN": "职阶·剑士",
+    "CN": "职阶·Saber",
     "TW": "職階．Saber",
     "NA": "Saber-Class",
     "KR": "클래스・세이버"
   },
   "クラス・バーサーカー": {
     "JP": null,
-    "CN": "职阶·狂战士",
+    "CN": "职阶·Berserker",
     "TW": "職階．Berserker",
     "NA": "Berserker-Class",
     "KR": "클래스・버서커"
   },
   "クラス・ライダー": {
     "JP": null,
-    "CN": "职阶·骑兵",
+    "CN": "职阶·Rider",
     "TW": "職階．Rider",
     "NA": "Rider-Class",
     "KR": "클래스・라이더"
   },
   "クラス・ランサー": {
     "JP": null,
-    "CN": "职阶·枪兵",
+    "CN": "职阶·Lancer",
     "TW": "職階．Lancer",
     "NA": "Lancer-Class",
     "KR": "클래스・랜서"
