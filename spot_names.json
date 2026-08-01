@@ -11478,5 +11478,47 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "メインステージ": {
+    "JP": null,
+    "CN": "主舞台",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クラス展示エリア": {
+    "JP": null,
+    "CN": "职阶展示区",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "運動部エリア": {
+    "JP": null,
+    "CN": "运动部区域",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "メモリアルホール": {
+    "JP": null,
+    "CN": "纪念大厅",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "カルデア学園生徒会": {
+    "JP": null,
+    "CN": "迦勒底学园学生会",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "文化部エリア": {
+    "JP": null,
+    "CN": "文化部区域",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
