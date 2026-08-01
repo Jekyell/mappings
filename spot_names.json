@@ -11446,7 +11446,7 @@
   },
   "ランサーテアトルム": {
     "JP": null,
-    "CN": "枪兵剧场",
+    "CN": "Lancer剧场",
     "TW": null,
     "NA": null,
     "KR": null
@@ -11517,6 +11517,13 @@
   "文化部エリア": {
     "JP": null,
     "CN": "文化部区域",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "食堂＆購買部": {
+    "JP": null,
+    "CN": "食堂＆小卖部",
     "TW": null,
     "NA": null,
     "KR": null
