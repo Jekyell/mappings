@@ -4964,7 +4964,7 @@
   },
   "冠位戴冠戦：Extra": {
     "JP": null,
-    "CN": "冠位戴冠战：Extra",
+    "CN": "冠位戴冠战：额外职阶",
     "TW": "冠位戴冠戰：Extra",
     "NA": "Grand Duel: Extra",
     "KR": null
@@ -7009,6 +7009,13 @@
   "Fate/Grand Order ～11th Anniversary～": {
     "JP": null,
     "CN": "Fate/Grand Order ～11th Anniversary～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「Fate/Grand Order ～11th Anniversary～」カルデア学園祭連動キャンペーン": {
+    "JP": null,
+    "CN": "「Fate/Grand Order ～11th Anniversary～」迦勒底学园祭联动活动",
     "TW": null,
     "NA": null,
     "KR": null
