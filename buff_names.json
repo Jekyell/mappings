@@ -1779,7 +1779,7 @@
   },
   "トライ・アーク・ライダー": {
     "JP": null,
-    "CN": "三位一体骑兵",
+    "CN": "三位一体Rider",
     "TW": "三弧之騎士",
     "NA": null,
     "KR": null
@@ -5511,6 +5511,20 @@
   "威力アップ〔霊体〕": {
     "JP": null,
     "CN": "威力提升〔灵体〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "Arts攻撃ダメージ前追加効果": {
+    "JP": null,
+    "CN": "Arts攻击伤害前追加效果",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "死の渇き": {
+    "JP": null,
+    "CN": "死亡之渴",
     "TW": null,
     "NA": null,
     "KR": null

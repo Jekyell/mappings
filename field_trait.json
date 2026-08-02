@@ -1484,5 +1484,15 @@
     "warIds": [
       9202
     ]
+  },
+  "94000188": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null,
+    "warIds": [
+      1007
+    ]
   }
 }
