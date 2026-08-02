@@ -5517,14 +5517,14 @@
   },
   "Arts攻撃ダメージ前追加効果": {
     "JP": null,
-    "CN": "Arts攻击伤害前追加效果",
-    "TW": null,
-    "NA": null,
+    "CN": "Arts攻击造成伤害前追加效果",
+    "TW": "Arts攻擊造成傷害前追加效果",
+    "NA": "Pre-Arts ATK Damage Bonus Effect",
     "KR": null
   },
   "死の渇き": {
     "JP": null,
-    "CN": "死亡之渴",
+    "CN": "死之干渴",
     "TW": null,
     "NA": null,
     "KR": null
