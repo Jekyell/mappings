@@ -59480,16 +59480,51 @@
   },
   "強化クエスト 鬼女紅葉": {
     "JP": null,
-    "CN": "强化任务 鬼女红叶",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 鬼女红叶",
+    "TW": "強化任務 鬼女紅葉",
+    "NA": "Rank Up Quest: Kijyo Koyo",
+    "KR": "강화 퀘스트 귀녀 코요"
   },
   "強化クエスト ファントム 3": {
     "JP": null,
-    "CN": "强化任务 幻影 3",
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "强化关卡 魅影 3",
+    "TW": "強化任務 魅影 3",
+    "NA": "Rank Up Quest: Phantom 3",
+    "KR": "강화 퀘스트 팬텀 3"
+  },
+  "【11周年記念】宝物庫の扉を開け 上級": {
+    "JP": null,
+    "CN": "打开宝物库之门 上级",
+    "TW": "打開寶物庫之門 上級",
+    "NA": "Enter the Treasure Vault - Advanced",
+    "KR": "보물창고의 문을 열어라《상급》"
+  },
+  "【11周年記念】宝物庫の扉を開け 中級": {
+    "JP": null,
+    "CN": "打开宝物库之门 中级",
+    "TW": "打開寶物庫之門 中級",
+    "NA": "Enter the Treasure Vault - Intermediate",
+    "KR": "보물창고의 문을 열어라《중급》"
+  },
+  "【11周年記念】宝物庫の扉を開け 初級": {
+    "JP": null,
+    "CN": "打开宝物库之门 初级",
+    "TW": "打開寶物庫之門 初級",
+    "NA": "Enter the Treasure Vault - Novice",
+    "KR": "보물창고의 문을 열어라《초급》"
+  },
+  "【11周年記念】宝物庫の扉を開け 極級": {
+    "JP": null,
+    "CN": "打开宝物库之门 极级",
+    "TW": "打開寶物庫之門 極級",
+    "NA": "Enter the Treasure Vault - Extreme",
+    "KR": "보물창고의 문을 열어라《극급》"
+  },
+  "【11周年記念】宝物庫の扉を開け 超級": {
+    "JP": null,
+    "CN": "打开宝物库之门 超级",
+    "TW": "打開寶物庫之門 超級",
+    "NA": "Enter the Treasure Vault - Expert",
+    "KR": "보물창고의 문을 열어라《초월급》"
   }
 }
