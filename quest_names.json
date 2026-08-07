@@ -53068,7 +53068,7 @@
   },
   "襲撃騎馬隊": {
     "JP": null,
-    "CN": "突袭骑兵队",
+    "CN": "突袭Rider队",
     "TW": null,
     "NA": null,
     "KR": null
@@ -56211,7 +56211,7 @@
   },
   "間章４　ランサー・イン・ザ・ダーク": {
     "JP": null,
-    "CN": "间章４　黑暗中的枪兵",
+    "CN": "间章４　黑暗中的Lancer",
     "TW": null,
     "NA": "Intermission 4: Lancer in the Dark",
     "KR": null
@@ -59561,5 +59561,19 @@
     "TW": "強化任務 吉爾．德．萊斯 4",
     "NA": "Rank Up Quest: Gilles de Rais 4",
     "KR": "강화 퀘스트 질 드 레 4"
+  },
+  "強化クエスト ジキル＆ハイド 2": {
+    "JP": null,
+    "CN": "强化任务：杰基尔＆海德 2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "強化クエスト 卑弥呼": {
+    "JP": null,
+    "CN": "强化关卡 卑弥呼",
+    "TW": "強化任務 卑彌呼",
+    "NA": "Rank Up Quest: Himiko",
+    "KR": "강화 퀘스트 히미코"
   }
 }
