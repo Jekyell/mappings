@@ -5528,5 +5528,40 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "うちなーバケーション": {
+    "JP": null,
+    "CN": "冲绳度假",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "まんぷくゲージ上限アップ": {
+    "JP": null,
+    "CN": "饱腹度槽上限提升",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ターゲット捕捉": {
+    "JP": null,
+    "CN": "目标锁定",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具攻撃ダメージ前追加効果": {
+    "JP": null,
+    "CN": "宝具攻击伤害前追加效果",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具攻撃時追加効果": {
+    "JP": null,
+    "CN": "宝具攻击时追加效果",
+    "TW": null,
+    "NA": "Bonus Effect with Noble Phantasm",
+    "KR": null
   }
 }

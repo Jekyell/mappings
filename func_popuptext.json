@@ -2777,5 +2777,103 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "NP抽出": {
+    "JP": null,
+    "CN": "NP回收",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "subBattlePoint": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「カレー」配膳": {
+    "JP": null,
+    "CN": "「咖喱」配餐",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「パフェ」配膳": {
+    "JP": null,
+    "CN": "「圣代」配膳",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「フランクフルト」配膳": {
+    "JP": null,
+    "CN": "「法兰克福」配膳",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「ラーメン」配膳": {
+    "JP": null,
+    "CN": "「拉面」上菜",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「串焼き」配膳": {
+    "JP": null,
+    "CN": "「烤串」配膳",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「伝説のおにぎり」配膳": {
+    "JP": null,
+    "CN": "“传说中的饭团”配膳",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "「焼きそば」配膳": {
+    "JP": null,
+    "CN": "「炒面」配膳",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "まんぷくゲージ+2": {
+    "JP": null,
+    "CN": "满足值槽+2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "まんぷくゲージ-2": {
+    "JP": null,
+    "CN": "饱腹度计量槽-2",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "まんぷくゲージ最大": {
+    "JP": null,
+    "CN": "饱腹感槽已满",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アーツアップ：水辺": {
+    "JP": null,
+    "CN": "Arts性能提升：水边",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "威力アップ・対毒": {
+    "JP": null,
+    "CN": "威力提升・对毒",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
