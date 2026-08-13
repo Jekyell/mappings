@@ -5503,7 +5503,7 @@
   },
   "NP獲得アップ：Buster": {
     "JP": null,
-    "CN": "NP获得量提升：Buster",
+    "CN": "NP获得提升：Buster",
     "TW": null,
     "NA": "NP Gain Up: Buster",
     "KR": null
@@ -5538,7 +5538,7 @@
   },
   "まんぷくゲージ上限アップ": {
     "JP": null,
-    "CN": "饱腹度槽上限提升",
+    "CN": "满腹槽上限提升",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5552,7 +5552,7 @@
   },
   "宝具攻撃ダメージ前追加効果": {
     "JP": null,
-    "CN": "宝具攻击伤害前追加效果",
+    "CN": "宝具攻击造成伤害前追加效果",
     "TW": null,
     "NA": null,
     "KR": null
