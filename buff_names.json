@@ -5563,5 +5563,33 @@
     "TW": null,
     "NA": "Bonus Effect with Noble Phantasm",
     "KR": null
+  },
+  "威力アップ〔混乱〕": {
+    "JP": null,
+    "CN": "威力提升〔混乱〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "威力アップ〔非超巨大〕": {
+    "JP": null,
+    "CN": "威力提升〔非超巨大〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "宝具使用時追加効果": {
+    "JP": null,
+    "CN": "宝具使用时追加效果",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "巨人の庇護": {
+    "JP": null,
+    "CN": "巨人的庇护",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
