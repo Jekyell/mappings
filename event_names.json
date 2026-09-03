@@ -4964,7 +4964,7 @@
   },
   "冠位戴冠戦：Extra": {
     "JP": null,
-    "CN": "冠位戴冠战：Extra",
+    "CN": "冠位戴冠战：额外职阶",
     "TW": "冠位戴冠戰：Extra",
     "NA": "Grand Duel: Extra",
     "KR": null
@@ -7051,6 +7051,13 @@
   "ハベトロット(プリテンダー) 獲得経験値2倍！": {
     "JP": null,
     "CN": "哈贝特洛特(Pretender) 获得经验值2倍！",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "3500万DL突破キャンペーン": {
+    "JP": null,
+    "CN": "3500万DL突破纪念活动",
     "TW": null,
     "NA": null,
     "KR": null
