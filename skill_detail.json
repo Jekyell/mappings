@@ -1,18 +1,4 @@
 {
-  " 【NPが100%以上ある場合のみ使用可能】自身のNPを100%消費＆Busterカード性能をアップ[{0}](5ターン)＆Extra Attackカード性能をアップ[{0}](5ターン) ＋ 自身を除く味方全体のNPを増やす[{0}]＆スキルチャージを2進める ＋ 味方全体のHPを回復[{0}]": {
-    "JP": null,
-    "CN": "【仅限NP在100%以上时能使用】消耗自身100%的NP＆Buster指令卡性能提升[{0}](5回合)＆Extra攻击指令卡性能提升[{0}](5回合)＋除自身以外己方全体的NP增加[{0}]＆技能冷却减少2回合＋己方全体的生命值回复[{0}]",
-    "TW": "【僅限NP在100%以上時能使用】消耗自身100%的NP＆Buster指令卡性能提升[{0}](5回合)＆Extra Attack指令卡性能提升[{0}](5回合)＋除自身以外我方全體的NP增加[{0}]＆技能冷卻減少2回合＋我方全體的HP恢復[{0}]",
-    "NA": "[Usable only when NP Gauge is 100% or higher] Expend NP by 100% & increase Buster Card effectiveness [{0}] (5 turns) & Extra Attack Card effectiveness [{0}] (5 turns) for yourself + Increase NP Gauge [{0}] & reduce skill cooldown by 2 for all allies excluding yourself + Restore HP [{0}] for all allies",
-    "KR": "[NP가 100% 이상인 경우 사용 가능] 자신의 NP를 100% 소비&버스터 카드 성능 UP[{0}](5턴)&엑스트라 공격 카드 성능 UP[{0}](5턴) + 자신을 제외한 아군 전체의 NP 증가[{0}]&스킬 쿨타임 2 감소 + 아군 전체의 HP 회복[{0}]"
-  },
-  "1ターン後に敵全体に中確率[{0}]でスタン状態を付与する(1ターン)": {
-    "JP": null,
-    "CN": "1回合后以中概率付与敌方全体晕眩状态[{0}](1回合)",
-    "TW": "1回合後以中機率賦予敵方全體暈眩狀態[{0}](1回合)",
-    "NA": "Medium chance [{0}] to apply Stun (1 turn) for all enemies 1 turn later",
-    "KR": "1턴 후 적 전체에게 중간 확률[{0}]로 스턴 상태 부여(1턴)"
-  },
   "3000万DL突破キャンペーン特別チケット交換で選択したサーヴァントの攻撃の威力を50%アップ(サポート時は無効)【3000万DL突破キャンペーン期間限定】": {
     "JP": null,
     "CN": "用3000万DL突破活动特别纪念券选中的从者攻击威力提升50%(助战时无效)【3000万DL突破纪念活动限时】",
