@@ -3480,7 +3480,7 @@
   },
   "弱体付与アップ〔気配遮断〕": {
     "JP": null,
-    "CN": "弱化状态付与提升〔气息遮断〕",
+    "CN": "弱化付与率提升〔气息遮断〕",
     "TW": null,
     "NA": "Debuff Chance Up (Presence Concealment)",
     "KR": null
@@ -3963,7 +3963,7 @@
   },
   "暗剣（殺）": {
     "JP": null,
-    "CN": "暗剑（杀）",
+    "CN": "暗剑（暗）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4299,7 +4299,7 @@
   },
   "気配遮断（殺）": {
     "JP": null,
-    "CN": "气息遮断 （杀）",
+    "CN": "气息遮断（暗）",
     "TW": null,
     "NA": "Presence Concealment (Assassin)",
     "KR": null
@@ -4390,7 +4390,7 @@
   },
   "無疵の間合い（殺）": {
     "JP": null,
-    "CN": "无瑕间距（杀）",
+    "CN": "无暇的间距（暗）",
     "TW": null,
     "NA": null,
     "KR": null
