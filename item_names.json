@@ -1534,14 +1534,14 @@
   },
   "アーチャーピース": {
     "JP": null,
-    "CN": "弓阶银棋",
+    "CN": "Archer银棋",
     "TW": "弓階銀棋",
     "NA": "Archer Piece",
     "KR": "아처 피스"
   },
   "アーチャーモニュメント": {
     "JP": null,
-    "CN": "弓阶金像",
+    "CN": "Archer金像",
     "TW": "弓階金像",
     "NA": "Archer Monument",
     "KR": "아처 모뉴먼트"
@@ -1933,14 +1933,14 @@
   },
   "キャスターピース": {
     "JP": null,
-    "CN": "术阶银棋",
+    "CN": "Caster银棋",
     "TW": "術階銀棋",
     "NA": "Caster Piece",
     "KR": "캐스터 피스"
   },
   "キャスターモニュメント": {
     "JP": null,
-    "CN": "术阶金像",
+    "CN": "Caster金像",
     "TW": "術階金像",
     "NA": "Caster Monument ",
     "KR": "캐스터 모뉴먼트"
@@ -2808,14 +2808,14 @@
   },
   "セイバーピース": {
     "JP": null,
-    "CN": "剑阶银棋",
+    "CN": "Saber银棋",
     "TW": "劍階銀棋",
     "NA": "Saber Piece",
     "KR": "세이버 피스"
   },
   "セイバーモニュメント": {
     "JP": null,
-    "CN": "剑阶金像",
+    "CN": "Saber金像",
     "TW": "劍階金像",
     "NA": "Saber Monument",
     "KR": "세이버 모뉴먼트"
@@ -3179,14 +3179,14 @@
   },
   "バーサーカーピース": {
     "JP": null,
-    "CN": "狂阶银棋",
+    "CN": "Berserker银棋",
     "TW": "狂階銀棋",
     "NA": "Berserker Piece",
     "KR": "버서커 피스"
   },
   "バーサーカーモニュメント": {
     "JP": null,
-    "CN": "狂阶金像",
+    "CN": "Berserker金像",
     "TW": "狂階金像",
     "NA": "Berserker Monument",
     "KR": "버서커 모뉴먼트"
@@ -3690,14 +3690,14 @@
   },
   "ライダーピース": {
     "JP": null,
-    "CN": "骑阶银棋",
+    "CN": "Rider银棋",
     "TW": "騎階銀棋",
     "NA": "Rider Piece",
     "KR": "라이더 피스"
   },
   "ライダーモニュメント": {
     "JP": null,
-    "CN": "骑阶金像",
+    "CN": "Rider金像",
     "TW": "騎階金像",
     "NA": "Rider Monument",
     "KR": "라이더 모뉴먼트"
@@ -3732,14 +3732,14 @@
   },
   "ランサーピース": {
     "JP": null,
-    "CN": "枪阶银棋",
+    "CN": "Lancer银棋",
     "TW": "槍階銀棋",
     "NA": "Lancer Piece",
     "KR": "랜서 피스"
   },
   "ランサーモニュメント": {
     "JP": null,
-    "CN": "枪阶金像",
+    "CN": "Lancer金像",
     "TW": "槍階金像",
     "NA": "Lancer Monument",
     "KR": "랜서 모뉴먼트"
