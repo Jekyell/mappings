@@ -1226,7 +1226,7 @@
   },
   "アーツチェイン成立時発動効果〔アサシン〕": {
     "JP": null,
-    "CN": "Arts连携成立时发动效果〔Assassin〕",
+    "CN": "Arts Chain成立时发动效果〔Assassin〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1569,7 +1569,7 @@
   },
   "エリザベート・エヴォルツィオ EX": {
     "JP": null,
-    "CN": "伊丽莎白·进化 EX",
+    "CN": "进化的伊丽莎白 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1961,7 +1961,7 @@
   },
   "カ星を継ぐ者 EX": {
     "JP": null,
-    "CN": "M星的继承者 EX",
+    "CN": "瓜星的继承者 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2087,7 +2087,7 @@
   },
   "クイックチェイン成立時発動効果〔アサシン〕": {
     "JP": null,
-    "CN": "Quick连携成立时发动效果〔Assassin〕",
+    "CN": "Quick Chain成立时发动效果〔Assassin〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3718,7 +3718,7 @@
   },
   "デスピックのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "死亡拨片的掉落获得数提升",
+    "CN": "死亡之镐掉落获得数提升",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4187,7 +4187,7 @@
   },
   "バスターチェイン成立時発動効果〔アサシン〕": {
     "JP": null,
-    "CN": "Buster连携成立时发动效果〔Assassin〕",
+    "CN": "Buster Chain成立时发动效果〔Assassin〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4369,7 +4369,7 @@
   },
   "パンプキンプラネット EX": {
     "JP": null,
-    "CN": "南瓜星球 EX",
+    "CN": "南瓜行星 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4782,21 +4782,21 @@
   },
   "プラネットセッション A": {
     "JP": null,
-    "CN": "星球演奏 A",
+    "CN": "行星会话 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "プラネットセッション B": {
     "JP": null,
-    "CN": "星球演奏 B",
+    "CN": "行星会话 B",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "プラネットセッション EX": {
     "JP": null,
-    "CN": "星球演奏 EX",
+    "CN": "行星会话 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4866,7 +4866,7 @@
   },
   "ヘルＴシャツのドロップ獲得数アップ": {
     "JP": null,
-    "CN": "地狱Ｔ恤的掉落获得数提升",
+    "CN": "地狱T恤掉落获得数提升",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5020,7 +5020,7 @@
   },
   "マイティチェイン成立時発動効果〔アサシン〕": {
     "JP": null,
-    "CN": "精湛连携成立时发动效果〔Assassin〕",
+    "CN": "Mighty Chain成立时发动效果〔Assassin〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5153,14 +5153,14 @@
   },
   "マテリアル・コンストラクター A": {
     "JP": null,
-    "CN": "材料制造者 A",
+    "CN": "物质构筑 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "マテリアル・コンストラクター EX": {
     "JP": null,
-    "CN": "材料制造者 EX",
+    "CN": "物质构造 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8352,7 +8352,7 @@
   },
   "壬生の赤狼 C": {
     "JP": null,
-    "CN": "壬生的赤狼 C",
+    "CN": "壬生赤狼 C",
     "TW": null,
     "NA": null,
     "KR": null
@@ -12181,7 +12181,7 @@
   },
   "星を統べるもの B": {
     "JP": null,
-    "CN": "统领星球者 B",
+    "CN": "统领星球之物 B",
     "TW": null,
     "NA": null,
     "KR": null
@@ -12965,7 +12965,7 @@
   },
   "死損ね左之助 B+": {
     "JP": null,
-    "CN": "死未遂左之助 B+",
+    "CN": "死不了的左之助 B+",
     "TW": null,
     "NA": null,
     "KR": null
@@ -13196,7 +13196,7 @@
   },
   "気配遮断（殺）": {
     "JP": null,
-    "CN": "气息遮断（杀）",
+    "CN": "气息遮断 （杀）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -13462,14 +13462,14 @@
   },
   "流星の絆 A": {
     "JP": null,
-    "CN": "流星之绊 A",
+    "CN": "流星之羁绊 A",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "流星の絆 B": {
     "JP": null,
-    "CN": "流星之绊 B",
+    "CN": "流星之羁绊 B",
     "TW": null,
     "NA": null,
     "KR": null
@@ -13497,7 +13497,7 @@
   },
   "流星の絆 EX": {
     "JP": null,
-    "CN": "流星之绊 EX",
+    "CN": "流星之羁绊 EX",
     "TW": null,
     "NA": null,
     "KR": null
@@ -13910,7 +13910,7 @@
   },
   "無疵の間合い（殺）": {
     "JP": null,
-    "CN": "无暇的间距（杀）",
+    "CN": "无瑕之间隙（杀）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -19790,7 +19790,7 @@
   },
   "魁先生 A": {
     "JP": null,
-    "CN": "魁老师 A",
+    "CN": "魁先生 A",
     "TW": null,
     "NA": null,
     "KR": null
@@ -21743,38 +21743,37 @@
   },
   "蜘蛛の魔眼 B+": {
     "JP": null,
-    "CN": "蜘蛛之魔眼 B+"
+    "CN": "蜘蛛之魔眼 B+",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "水天の徒 A": {
     "JP": null,
-    "CN": "水天之徒 A"
-  },
-  "天眼 A+": {
-    "JP": null,
-    "CN": "天眼 A+"
+    "CN": "水天之徒 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "那須野に謡う EX": {
     "JP": null,
-    "CN": "吟谣那须野 EX"
+    "CN": "歌咏于那须野 EX",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "おかえりキャット A": {
     "JP": null,
-    "CN": "迎归猫咪 A"
+    "CN": "欢迎回家猫咪 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "恋乙女の変幻無垢 A": {
     "JP": null,
-    "CN": "怀恋少女的变幻无垢 A"
-  },
-  "呪層・狂奔歌 B": {
-    "JP": null,
-    "CN": "咒层·狂奔歌 B"
-  },
-  "愛されコーデ EX": {
-    "JP": null,
-    "CN": "惹人爱怜的装束搭配 EX"
-  },
-  "都市抱擁・無限恋 EX": {
-    "JP": null,
-    "CN": "都市拥抱·无限恋 EX"
+    "CN": "恋乙女的变幻无垢 A",
+    "TW": null,
+    "NA": null,
+    "KR": null
   }
 }
