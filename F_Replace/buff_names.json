@@ -802,5 +802,14 @@
   "南瓜を狩る者": "狩猎南瓜者",
   "反抗禁止": "禁止反抗",
   "威力アップ【全世界1億DL突破記念】": "威力提升【全世界1亿下载突破纪念】",
-  "ぷにぷにGUNMAパワー": "Q弹群马力量"
+  "ぷにぷにGUNMAパワー": "Q弹群马力量",
+  "addIndividuality": "特性追加〔{0}〕",
+  "fieldIndividuality": "场地设定〔{0}〕",
+  "overwriteBattleclass": "职阶相性变更〔{0}〕",
+  "overwriteSubattribute": "副属性变更〔{0}〕",
+  "subFieldIndividuality": "打消场地特性〔{0}〕",
+  "subIndividuality": "特性削除〔{0}〕",
+  "toFieldChangeField": "[场地]场地变化〔{0}〕",
+  "toFieldSubIndividualityField": "[场地]打消场地特性〔{0}〕",
+  "理想を刻された彫像": "铭刻了理想的雕像"
 }
