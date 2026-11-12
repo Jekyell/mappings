@@ -447,5 +447,6 @@
   "subState": "解除状态",
   "transformServant": "切换从者",
   "userEquipExpUp": "魔术礼装经验增加",
-  "无": "无"
+  "无": "无",
+  "_clean": "stale_keys_removed"
 }
