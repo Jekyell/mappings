@@ -1772,42 +1772,42 @@
   },
   "キアラパニッシャー『Artsツウジール』": {
     "JP": null,
-    "CN": "祈荒惩罚者『技奏效』",
+    "CN": "祈荒惩罚者『Arts奏效』",
     "TW": "祈荒懲罰者『Arts奏效』",
     "NA": "Kiara Punisher \"Arts XXX-Accuracy\"",
     "KR": "키아라 퍼니셔 ‘아츠 피어싱’"
   },
   "キアラパニッシャー『Artsヨクアタール』": {
     "JP": null,
-    "CN": "祈荒惩罚者『技容易命中』",
+    "CN": "祈荒惩罚者『Arts容易命中』",
     "TW": "祈荒懲罰者『Arts容易命中』",
     "NA": "Kiara Punisher \"Arts X-Accuracy\"",
     "KR": "키아라 퍼니셔 ‘아츠 어큐러시’"
   },
   "キアラパニッシャー『Busterツウジール』": {
     "JP": null,
-    "CN": "祈荒惩罚者『力奏效』",
+    "CN": "祈荒惩罚者『Buster奏效』",
     "TW": "祈荒懲罰者『Buster奏效』",
     "NA": "Kiara Punisher \"Buster XXX-Accuracy\"",
     "KR": "키아라 퍼니셔 ‘버스터 피어싱’"
   },
   "キアラパニッシャー『Busterヨクアタール』": {
     "JP": null,
-    "CN": "祈荒惩罚者『力容易命中』",
+    "CN": "祈荒惩罚者『Buster容易命中』",
     "TW": "祈荒懲罰者『Buster容易命中』",
     "NA": "Kiara Punisher \"Buster X-Accuracy\"",
     "KR": "키아라 퍼니셔 ‘버스터 어큐러시’"
   },
   "キアラパニッシャー『Quickツウジール』": {
     "JP": null,
-    "CN": "祈荒惩罚者『迅奏效』",
+    "CN": "祈荒惩罚者『Quick奏效』",
     "TW": "祈荒懲罰者『Quick奏效』",
     "NA": "Kiara Punisher \"Quick XXX-Accuracy\"",
     "KR": "키아라 퍼니셔 ‘퀵 피어싱’"
   },
   "キアラパニッシャー『Quickヨクアタール』": {
     "JP": null,
-    "CN": "祈荒惩罚者『迅容易命中』",
+    "CN": "祈荒惩罚者『Quick容易命中』",
     "TW": "祈荒懲罰者『Quick容易命中』",
     "NA": "Kiara Punisher \"Quick X-Accuracy\"",
     "KR": "키아라 퍼니셔 ‘퀵 어큐러시’"
@@ -6935,13 +6935,6 @@
     "TW": "黑色火藥",
     "NA": "Black Powder",
     "KR": "흑색 화약"
-  },
-  "？？？": {
-    "JP": null,
-    "CN": "？？？",
-    "TW": "？？？",
-    "NA": "???",
-    "KR": "???"
   },
   "ＢＢ＄札": {
     "JP": null,

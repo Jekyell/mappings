@@ -85,7 +85,7 @@
   },
   "ArtsまたはBuster攻撃時、自身のQuickカードの性能をアップ": {
     "JP": null,
-    "CN": "技或Buster攻击时，自身的Quick指令卡的性能提升",
+    "CN": "Arts或Buster攻击时，自身的Quick指令卡的性能提升",
     "TW": "Arts或Buster攻擊時，自身的Quick指令卡性能提升",
     "NA": null,
     "KR": null
@@ -4047,21 +4047,21 @@
   },
   "ターン経過後、自身のコマンドカードのタイプをArtsに変化させる＆Artsカード性能をアップ": {
     "JP": null,
-    "CN": "回合经过后，将自身的指令卡类型变化为技＆Arts指令卡性能提升",
+    "CN": "回合经过后，将自身的指令卡类型变化为Arts＆Arts指令卡性能提升",
     "TW": "回合經過後，將自身的指令卡類型變化為Arts＆Arts指令卡性能提升",
     "NA": "At the end of turn, change Command Cards to Arts type & increase Arts Card effectiveness for yourself",
     "KR": "턴 경과 후 자신의 커맨드 카드 타입을 아츠로 변경&아츠 카드 성능 UP"
   },
   "ターン経過後、自身のコマンドカードのタイプをBusterに変化させる＆Busterカード性能をアップ": {
     "JP": null,
-    "CN": "回合经过后，将自身的指令卡类型变化为力＆Buster指令卡性能提升",
+    "CN": "回合经过后，将自身的指令卡类型变化为Buster＆Buster指令卡性能提升",
     "TW": "回合經過後，將自身的指令卡類型變化為Buster＆Buster指令卡性能提升",
     "NA": "At the end of turn, change Command Cards to Buster type & increase Buster Card effectiveness for yourself",
     "KR": "턴 경과 후 자신의 커맨드 카드 타입을 버스터로 변경&버스터 카드 성능 UP"
   },
   "ターン経過後、自身のコマンドカードのタイプをQuickに変化させる＆Quickカード性能をアップ": {
     "JP": null,
-    "CN": "回合经过后，将自身的指令卡类型变化为迅＆Quick指令卡性能提升",
+    "CN": "回合经过后，将自身的指令卡类型变化为Quick＆Quick指令卡性能提升",
     "TW": "回合經過後，將自身的指令卡類型變化為Quick＆Quick指令卡性能提升",
     "NA": "At the end of turn, change Command Cards to Quick type & increase Quick Card effectiveness for yourself",
     "KR": "턴 경과 후 자신의 커맨드 카드 타입을 퀵으로 변경&퀵 카드 성능 UP"
@@ -4495,21 +4495,21 @@
   },
   "宝具のタイプをArtsにチェンジする": {
     "JP": null,
-    "CN": "将宝具的类型变更为技",
+    "CN": "将宝具的类型变更为Arts",
     "TW": "將寶具的類型變更為Arts",
     "NA": "Change NP Type to Arts",
     "KR": "보구 타입을 아츠로 체인지"
   },
   "宝具のタイプをBusterにチェンジする": {
     "JP": null,
-    "CN": "将宝具的类型变更为力",
+    "CN": "将宝具的类型变更为Buster",
     "TW": "將寶具的類型變更為Buster",
     "NA": "Change NP Type to Buster",
     "KR": "보구 타입을 버스터로 체인지"
   },
   "宝具のタイプをQuickにチェンジする": {
     "JP": null,
-    "CN": "将宝具类型变更为迅",
+    "CN": "将宝具类型变更为Quick",
     "TW": "將寶具類型變更為Quick",
     "NA": "Change NP Type to Quick",
     "KR": "보구 타입을 퀵으로 체인지"
