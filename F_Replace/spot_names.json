@@ -1,11 +1,4 @@
 {
-  " ": {
-    "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
-  },
   "0": {
     "JP": null,
     "CN": "0",
@@ -512,7 +505,7 @@
   },
   "お菓子の家": {
     "JP": null,
-    "CN": "糖果之家",
+    "CN": "糖果屋",
     "TW": "糖果之家",
     "NA": "Candy House",
     "KR": "과자의 집"
@@ -11658,5 +11651,9 @@
     "TW": null,
     "NA": null,
     "KR": null
+  },
+  "青水窟": {
+    "JP": null,
+    "CN": "青水窟"
   }
 }
