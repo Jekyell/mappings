@@ -64,7 +64,7 @@
   },
   "Artsブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": "Arts性能提升〔钝之矢弹〕",
+    "CN": "技增强〔钝之矢弹〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -197,7 +197,7 @@
   },
   "Busterブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": "Buster卡性能提升〔钝之矢弹〕",
+    "CN": "力增强〔钝之矢弹〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -491,7 +491,7 @@
   },
   "Quickブースト〔鈍の矢弾〕": {
     "JP": null,
-    "CN": "Quick卡性能提升〔钝之矢弹〕",
+    "CN": "迅增强〔钝之矢弹〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3242,14 +3242,14 @@
   },
   "宝具威力アップ：Buster": {
     "JP": null,
-    "CN": "宝具威力提升:Buster",
+    "CN": "宝具威力提升：Buster",
     "TW": "寶具威力提升：Buster",
     "NA": "NP Strength Up: Buster",
     "KR": null
   },
   "宝具威力アップ：Quick": {
     "JP": null,
-    "CN": "宝具威力提升:Quick",
+    "CN": "宝具威力提升：Quick",
     "TW": "寶具威力提升：Quick",
     "NA": "NP Strength Up: Quick",
     "KR": null
@@ -3424,7 +3424,7 @@
   },
   "射て晴らすは征箭の雨（弓）": {
     "JP": null,
-    "CN": "射而霁之征箭雨（弓）",
+    "CN": "驱散阴霾的战箭之雨（弓）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5209,7 +5209,7 @@
   },
   "鈍の矢弾": {
     "JP": null,
-    "CN": "钝色矢弹",
+    "CN": "钝之矢弹",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5482,7 +5482,7 @@
   },
   "鷲の目（弓）": {
     "JP": null,
-    "CN": "鹰之眼（弓）",
+    "CN": "雕之眼（弓）",
     "TW": null,
     "NA": null,
     "KR": null
