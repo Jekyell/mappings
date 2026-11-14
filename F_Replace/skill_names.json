@@ -1233,7 +1233,7 @@
   },
   "アーツチェイン成立時発動効果〔アーチャー〕": {
     "JP": null,
-    "CN": "Arts连携成立时发动效果〔Archer〕",
+    "CN": "Arts Chain成立时发动效果〔Archer〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2094,7 +2094,7 @@
   },
   "クイックチェイン成立時発動効果〔アーチャー〕": {
     "JP": null,
-    "CN": "Quick连携成立时发动效果〔Archer〕",
+    "CN": "Quick Chain成立时发动效果〔Archer〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4194,7 +4194,7 @@
   },
   "バスターチェイン成立時発動効果〔アーチャー〕": {
     "JP": null,
-    "CN": "Buster连携成立时发动效果〔Archer〕",
+    "CN": "Buster Chain成立时发动效果〔Archer〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5027,7 +5027,7 @@
   },
   "マイティチェイン成立時発動効果〔アーチャー〕": {
     "JP": null,
-    "CN": "精湛连携成立时发动效果〔Archer〕",
+    "CN": "Mighty Chain成立时发动效果〔Archer〕",
     "TW": null,
     "NA": null,
     "KR": null
@@ -10263,7 +10263,7 @@
   },
   "射て晴らすは征箭の雨（弓）": {
     "JP": null,
-    "CN": "驱散阴霾的战箭之雨（弓）",
+    "CN": "射落万象之征矢雨（弓）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20308,7 +20308,7 @@
   },
   "鷲の目（弓）": {
     "JP": null,
-    "CN": "雕之眼（弓）",
+    "CN": "鹰之眼（弓）",
     "TW": null,
     "NA": null,
     "KR": null
@@ -20550,6 +20550,13 @@
     "TW": "龍神的加護 C",
     "NA": "Protection of the Dragon King C",
     "KR": "용신의 가호 C"
+  },
+  "？？？": {
+    "JP": null,
+    "CN": "？？？",
+    "TW": "？？？",
+    "NA": "???",
+    "KR": "???"
   },
   "ＢＢ＄札のドロップ獲得数アップ": {
     "JP": null,
@@ -21884,13 +21891,5 @@
   "Ｆ・Ｓ・Ａ C": {
     "JP": null,
     "CN": "F·S·A C"
-  },
-  "荒兇の骨塚": {
-    "JP": null,
-    "CN": "荒凶的骨冢"
-  },
-  "日月 A+": {
-    "JP": null,
-    "CN": "日月 A+"
   }
 }
