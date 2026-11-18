@@ -3398,14 +3398,14 @@
     "JP": null,
     "CN": "51区",
     "TW": null,
-    "NA": null,
+    "NA": "Area 51",
     "KR": null
   },
   "カウントダウン": {
     "JP": null,
     "CN": "倒计时",
     "TW": null,
-    "NA": null,
+    "NA": "Countdown",
     "KR": null
   },
   "カルデア\n～Re-recording ver.～": {
@@ -3538,7 +3538,7 @@
     "JP": null,
     "CN": "冠位戴冠战",
     "TW": null,
-    "NA": null,
+    "NA": "Grand Duel",
     "KR": null
   },
   "夏の夢を追って\n～SUMMER BATTLE 11～": {

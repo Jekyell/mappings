@@ -37,9 +37,9 @@
   "すずめ紋の葛籠": {
     "JP": null,
     "CN": "雀纹的藤箱",
-    "TW": "麻雀花紋的葛籠",
+    "TW": "雀紋的葛籠",
     "NA": "Sparrow Crest Wicker Basket",
-    "KR": null
+    "KR": "참새 문양의 옷농"
   },
   "ちびノブ": {
     "JP": null,
@@ -121,16 +121,16 @@
   "キャンディスター・ケイン": {
     "JP": null,
     "CN": "星辰拐杖糖",
-    "TW": "聖夜之虹拐杖糖",
+    "TW": "星辰拐杖糖",
     "NA": "Candystar Cane",
-    "KR": null
+    "KR": "캔디스타 케인"
   },
   "キラキラ平安女子": {
     "JP": null,
     "CN": "闪耀平安女子",
-    "TW": "閃耀的平安女子",
+    "TW": "閃耀平安女子",
     "NA": "Sparking Heian Girl",
-    "KR": null
+    "KR": "반짝반짝 헤이안 소녀"
   },
   "キングメイカーの杖": {
     "JP": null,
@@ -450,9 +450,9 @@
   "不死殺しの刃": {
     "JP": null,
     "CN": "屠戮不死之刃",
-    "TW": "不死殺手之刃",
+    "TW": "屠戮不死之刃",
     "NA": "Immortal Slaying Blade",
-    "KR": null
+    "KR": "불사 살해의 칼날"
   },
   "久遠の鏡": {
     "JP": null,
@@ -508,7 +508,7 @@
     "CN": "伊吹山的神子",
     "TW": "伊吹山的神子",
     "NA": "Mount Ibuki’s child",
-    "KR": null
+    "KR": "이부키산의 아이"
   },
   "修補すべき全ての疵": {
     "JP": null,
@@ -529,7 +529,7 @@
     "CN": "勤劳的小人们",
     "TW": "勤勞的小人們",
     "NA": "Hardworking Tonttus",
-    "KR": null
+    "KR": "부지런한 소인들"
   },
   "優しい願い": {
     "JP": null,
@@ -676,7 +676,7 @@
     "CN": "天使之剑",
     "TW": "天使之劍",
     "NA": "Angel's Sword",
-    "KR": null
+    "KR": "천사의 검"
   },
   "天帝の貴妃": {
     "JP": null,
@@ -1318,9 +1318,9 @@
   "蛇遣いのマスク": {
     "JP": null,
     "CN": "蛇夫的面具",
-    "TW": "蛇使的面具",
+    "TW": "蛇夫的面具",
     "NA": "Snake Charmer Mask",
-    "KR": null
+    "KR": "뱀주인의 마스크"
   },
   "行き場なき愛の刃": {
     "JP": null,
@@ -1348,7 +1348,7 @@
     "CN": "红色唐伞",
     "TW": "紅色唐傘",
     "NA": "Red Karakasa",
-    "KR": null
+    "KR": "붉은 당산"
   },
   "赤い革ジャン": {
     "JP": null,
@@ -1411,7 +1411,7 @@
     "CN": "障碍之蛇龙",
     "TW": "障礙之蛇龍",
     "NA": "The Obstructive Serpent Dragon",
-    "KR": null
+    "KR": "장해의 사룡"
   },
   "雀の宿の女将さん": {
     "JP": null,
@@ -1544,7 +1544,7 @@
     "CN": "鼠净土的居民们",
     "TW": "鼠淨土的居民們",
     "NA": "Residents of the Rat Pure Land",
-    "KR": null
+    "KR": "서정토의 주민들"
   },
   "ＢＢスロット": {
     "JP": null,

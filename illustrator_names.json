@@ -171,7 +171,7 @@
     "JP": null,
     "CN": "akatsuki圣",
     "TW": "akatsuki聖",
-    "NA": null,
+    "NA": "Hijiri Akatsuki",
     "KR": "아카츠키 히지리"
   },
   "あさ光": {
@@ -228,7 +228,7 @@
     "CN": "ug0nba",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "우곰바"
   },
   "うまくち醤油": {
     "JP": null,
@@ -354,7 +354,7 @@
     "CN": "kuwabara",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "쿠와바라"
   },
   "けーしん": {
     "JP": null,
@@ -396,20 +396,20 @@
     "CN": "Saika Are",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "사이카 아레"
   },
   "さいとうみちる": {
     "JP": null,
     "CN": "saitoh michiru",
     "TW": "saitoh michiru",
     "NA": null,
-    "KR": null
+    "KR": "사이토 미치루"
   },
   "さおとめあげは": {
     "JP": null,
     "CN": "saotomeageha",
     "TW": "saotomeageha",
-    "NA": null,
+    "NA": "Ageha Saotome",
     "KR": "사오토메 아게하"
   },
   "さくらもち": {
@@ -431,7 +431,7 @@
     "CN": "sabamizore",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "사바 미조레"
   },
   "さらちよみ": {
     "JP": null,
@@ -557,7 +557,7 @@
     "CN": "tetubuta",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "테츠부타"
   },
   "とうふ": {
     "JP": null,
@@ -626,7 +626,7 @@
     "JP": null,
     "CN": "nekodaruma",
     "TW": "nekodaruma",
-    "NA": null,
+    "NA": "Neko Daruma",
     "KR": "네코다루마"
   },
   "ねこのけだま": {
@@ -662,14 +662,14 @@
     "CN": "hataya",
     "TW": "hataya",
     "NA": null,
-    "KR": null
+    "KR": "하타야"
   },
   "はまじあき": {
     "JP": null,
     "CN": "浜路晶",
     "TW": "浜路晶",
     "NA": null,
-    "KR": null
+    "KR": "하마지 아키"
   },
   "はよせな": {
     "JP": null,
@@ -683,7 +683,7 @@
     "CN": "harakenshi",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "하라 켄시"
   },
   "ばん！": {
     "JP": null,
@@ -704,7 +704,7 @@
     "CN": "hituzi-ro-mu",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "히츠지로무"
   },
   "ひつみ": {
     "JP": null,
@@ -844,7 +844,7 @@
     "CN": "metarogu",
     "TW": "metarogu",
     "NA": null,
-    "KR": null
+    "KR": "메타로그"
   },
   "めばる": {
     "JP": null,
@@ -863,7 +863,7 @@
   "めろん22＆TAKOLEGS": {
     "JP": null,
     "CN": "MERON22＆TAKOLEGS",
-    "TW": null,
+    "TW": "MERON22＆TAKOLEGS",
     "NA": null,
     "KR": null
   },
@@ -955,7 +955,7 @@
     "JP": null,
     "CN": "AOJI Maiko",
     "TW": "AOJI Maiko",
-    "NA": null,
+    "NA": "Maiko Aoji",
     "KR": "아오지 마이코"
   },
   "アルコポルカ": {
@@ -963,7 +963,7 @@
     "CN": "arukoporuka",
     "TW": "arukoporuka",
     "NA": null,
-    "KR": null
+    "KR": "아르코폴카"
   },
   "イノオカ": {
     "JP": null,
@@ -984,7 +984,7 @@
     "CN": "ukata/Andraft",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "우카타/Andraft"
   },
   "エナミカツミ": {
     "JP": null,
@@ -1047,7 +1047,7 @@
     "CN": "karasu BTK",
     "TW": "karasu BTK",
     "NA": null,
-    "KR": null
+    "KR": "카라스BTK"
   },
   "カリマリカ": {
     "JP": null,
@@ -1257,7 +1257,7 @@
     "CN": "noma",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "노마"
   },
   "ヒライユキオ": {
     "JP": null,
@@ -1334,7 +1334,7 @@
     "CN": "homerun·拳",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "홈런・켄"
   },
   "ポップキュン": {
     "JP": null,
@@ -1423,7 +1423,7 @@
   "ヤマウチシズ": {
     "JP": null,
     "CN": "yamauchishizu",
-    "TW": null,
+    "TW": "yamauchishizu",
     "NA": null,
     "KR": null
   },
@@ -1633,7 +1633,7 @@
   "佐々木少年＆タスクオーナ": {
     "JP": null,
     "CN": "佐佐木少年＆TASKOHNA",
-    "TW": null,
+    "TW": "佐佐木少年＆TASKOHNA",
     "NA": null,
     "KR": null
   },
@@ -1852,7 +1852,7 @@
     "CN": "涂壁",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "누리카베"
   },
   "塩島由佳(ufotable)": {
     "JP": null,
@@ -2291,7 +2291,7 @@
   "曽我誠＆米山舞": {
     "JP": null,
     "CN": "曾我诚＆米山舞",
-    "TW": null,
+    "TW": "曾我誠＆米山舞",
     "NA": null,
     "KR": null
   },
@@ -2377,7 +2377,7 @@
     "CN": "松下幸圣",
     "TW": null,
     "NA": "Yukishou Matsushita",
-    "KR": null
+    "KR": "마츠시타 코세이"
   },
   "松本規之": {
     "JP": null,
@@ -2629,7 +2629,7 @@
     "CN": "渊",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "부치"
   },
   "清原紘": {
     "JP": null,
@@ -2895,7 +2895,7 @@
     "CN": "稻守龙砂",
     "TW": "稻守龍砂",
     "NA": null,
-    "KR": null
+    "KR": "이나모리 류사"
   },
   "稲嶺暢子(LASENGLE)": {
     "JP": null,
@@ -3096,7 +3096,7 @@
   "萩谷薫": {
     "JP": null,
     "CN": "萩谷薰",
-    "TW": null,
+    "TW": "萩谷薰",
     "NA": null,
     "KR": null
   },
@@ -3104,7 +3104,7 @@
     "JP": null,
     "CN": "萩野小呗",
     "TW": null,
-    "NA": null,
+    "NA": "Kouta Hagino",
     "KR": "하기노 코우타"
   },
   "蒼月タカオ": {
@@ -3182,7 +3182,7 @@
     "CN": "读",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "요미"
   },
   "赤岸K": {
     "JP": null,
@@ -3266,7 +3266,7 @@
     "CN": "suzuke",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "스즈케"
   },
   "野分なか実": {
     "JP": null,
@@ -3469,7 +3469,7 @@
     "CN": "鸭NEGI",
     "TW": null,
     "NA": null,
-    "KR": null
+    "KR": "카모NEGI"
   },
   "黒イ森": {
     "JP": null,

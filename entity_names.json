@@ -655,7 +655,7 @@
     "CN": "石像鬼",
     "TW": "石像鬼",
     "NA": "Gargoyle",
-    "KR": null
+    "KR": "가고일"
   },
   "ガードエンフォーサー": {
     "JP": null,
@@ -716,9 +716,9 @@
   "キングサンタ・ネコアルク": {
     "JP": null,
     "CN": "圣诞老人王·猫Arc",
-    "TW": "聖誕王貓Arc",
+    "TW": "聖誕老人王．貓Arc",
     "NA": "King Santa Neco-Arc",
-    "KR": null
+    "KR": "킹 산타・네코 아르크"
   },
   "キングプレシオサウルスくん": {
     "JP": null,
@@ -760,7 +760,7 @@
     "CN": "庞大巨蛇",
     "TW": "巨蟒",
     "NA": "Gigant Serpent",
-    "KR": null
+    "KR": "기간트 서펀트"
   },
   "ギャラハッド": {
     "JP": null,
@@ -905,23 +905,23 @@
   "グランホーンＬ": {
     "JP": null,
     "CN": "巨角Ｌ",
-    "TW": "偉大的角L",
+    "TW": "巨角Ｌ",
     "NA": "Grand Horn L",
-    "KR": null
+    "KR": "그랑 혼 L"
   },
   "グランホーンＲ": {
     "JP": null,
     "CN": "巨角Ｒ",
-    "TW": "偉大的角R",
+    "TW": "巨角Ｒ",
     "NA": "Grand Horn R",
-    "KR": null
+    "KR": "그랑 혼 R"
   },
   "グランマリー": {
     "JP": null,
     "CN": "宏玛丽",
-    "TW": "宏偉瑪麗",
+    "TW": "宏瑪麗",
     "NA": "Grand Marie",
-    "KR": null
+    "KR": "그랑마리"
   },
   "グリムクロウ": {
     "JP": null,
@@ -1145,7 +1145,7 @@
     "CN": "蓝宝石魔偶",
     "TW": "藍寶石魔像",
     "NA": "Sapphire Golem",
-    "KR": null
+    "KR": "사파이어 골렘"
   },
   "サベージホーク": {
     "JP": null,
@@ -1691,7 +1691,7 @@
     "CN": "半龙人",
     "TW": "龍人",
     "NA": "Dragonewt",
-    "KR": null
+    "KR": "드래고뉴트"
   },
   "ドラゴン": {
     "JP": null,
@@ -1768,7 +1768,7 @@
     "CN": "猫１０８",
     "TW": "貓１０８",
     "NA": "Neko 108",
-    "KR": null
+    "KR": "네코 108"
   },
   "ネフィリム": {
     "JP": null,
@@ -1852,7 +1852,7 @@
     "CN": "拜亚基",
     "TW": "拜亞基",
     "NA": "Byakhee",
-    "KR": null
+    "KR": "바이아키"
   },
   "バイコーン": {
     "JP": null,
@@ -2928,9 +2928,9 @@
   "大輪天花": {
     "JP": null,
     "CN": "大朵天花",
-    "TW": "大輪天花",
+    "TW": "大朵天花",
     "NA": "Large Heavenly Blossom",
-    "KR": null
+    "KR": "대륜천화"
   },
   "天使・第一階梯": {
     "JP": null,
@@ -3007,7 +3007,7 @@
     "CN": "天花",
     "TW": "天花",
     "NA": "Heavenly Blossom",
-    "KR": null
+    "KR": "천화"
   },
   "奇兵隊": {
     "JP": null,
@@ -3084,7 +3084,7 @@
     "CN": "小野篁",
     "TW": "小野篁",
     "NA": "Ono no Takamura",
-    "KR": null
+    "KR": "오노노 타카무라"
   },
   "小鬼": {
     "JP": null,
@@ -3700,7 +3700,7 @@
     "CN": "红拱心石",
     "TW": "紅要石",
     "NA": "Crimson Keystone",
-    "KR": null
+    "KR": "홍요석"
   },
   "経験値ボーナス": {
     "JP": null,
@@ -3903,7 +3903,7 @@
     "CN": "蛇王扎哈克",
     "TW": "蛇王扎哈克",
     "NA": "Serpent King Zahhak",
-    "KR": null
+    "KR": "사왕 자하크"
   },
   "蠢魔": {
     "JP": null,

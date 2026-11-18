@@ -172,7 +172,7 @@
     "CN": "阿比盖尔·威廉姆斯〔圣诞〕",
     "TW": "艾比蓋兒．威廉斯〔Santa〕",
     "NA": "Abigail Williams (Santa)",
-    "KR": null
+    "KR": "애비게일 윌리엄스[산타]"
   },
   "アビゲイル・ウィリアムズ〔夏〕": {
     "JP": null,
@@ -493,7 +493,7 @@
     "JP": null,
     "CN": "乌尔德",
     "TW": null,
-    "NA": null,
+    "NA": "Urðr",
     "KR": null
   },
   "エイリーク": {
@@ -1047,7 +1047,7 @@
     "CN": "Santasmoon",
     "TW": "Santasmoon",
     "NA": "Santa's Moon",
-    "KR": null
+    "KR": "산타즈문"
   },
   "シェイクスピア": {
     "JP": null,
@@ -1325,9 +1325,9 @@
   "スペース・ファンタズムーンＶ": {
     "JP": null,
     "CN": "Space PhantasmoonＶ",
-    "TW": "Space Phantasmoon Ⅴ",
+    "TW": "Space PhantasmoonＶ",
     "NA": "Space Phantasmoon V",
-    "KR": null
+    "KR": "스페이스 판타즈문V"
   },
   "スルーズ": {
     "JP": null,
@@ -1439,7 +1439,7 @@
     "CN": "但丁·阿利吉耶里",
     "TW": "但丁・阿利吉耶里",
     "NA": "Dante Alighieri",
-    "KR": null
+    "KR": "단테 알리기에리"
   },
   "ダ・ヴィンチ": {
     "JP": null,
@@ -1558,7 +1558,7 @@
     "CN": "梣",
     "TW": "托內莉可",
     "NA": "Aesc",
-    "KR": null
+    "KR": "토네리코"
   },
   "トラロック": {
     "JP": null,
@@ -1915,14 +1915,14 @@
     "CN": "比肖内",
     "TW": "比修內",
     "NA": "Biscione",
-    "KR": null
+    "KR": "비쇼네"
   },
   "ビショーネ〔ウロボロスシフト〕": {
     "JP": null,
     "CN": "比肖内〔乌洛波洛斯转变〕",
     "TW": "比修內〔烏洛波羅斯轉變〕",
     "NA": "Biscione (Ouroboros Shift)",
-    "KR": null
+    "KR": "비쇼네[우로보로스 시프트]"
   },
   "ビリー": {
     "JP": null,
@@ -1971,7 +1971,7 @@
     "CN": "Phantasmoon",
     "TW": "Phantasmoon",
     "NA": "Phantasmoon",
-    "KR": null
+    "KR": "판타즈문"
   },
   "ファントム": {
     "JP": null,
@@ -2552,7 +2552,7 @@
     "CN": "娄希",
     "TW": "婁希",
     "NA": "Louhi",
-    "KR": null
+    "KR": "로우히"
   },
   "ロクスタ": {
     "JP": null,
@@ -2992,8 +2992,8 @@
     "JP": null,
     "CN": "小野小町",
     "TW": "小野小町",
-    "NA": "Ono no Komachi",
-    "KR": null
+    "NA": "Ono-no-Komachi",
+    "KR": "오노노 코마치"
   },
   "山南敬助": {
     "JP": null,
@@ -3812,7 +3812,7 @@
     "CN": "黑姬",
     "TW": "黑姬",
     "NA": "Kurohime",
-    "KR": null
+    "KR": "쿠로히메"
   },
   "ＢＢ": {
     "JP": null,
@@ -3847,7 +3847,7 @@
     "CN": "Ｅ－宏玛丽",
     "TW": "E-宏偉瑪麗",
     "NA": "E-Grand Marie",
-    "KR": null
+    "KR": "E-그랑마리"
   },
   "Ｅ－ステラマリー": {
     "JP": null,
@@ -3866,9 +3866,9 @@
   "Ｓ・ファンタズムーン": {
     "JP": null,
     "CN": "S·Phantasmoon",
-    "TW": "S Phantasmoon",
+    "TW": "S．Phantasmoon",
     "NA": "S Phantasmoon",
-    "KR": null
+    "KR": "S・판타즈문"
   },
   "Ｕ－オルガマリー": {
     "JP": null,
@@ -3888,21 +3888,21 @@
     "JP": null,
     "CN": "阿斯卡拉福斯",
     "TW": null,
-    "NA": null,
+    "NA": "Ascalaphus",
     "KR": null
   },
   "グレイ・リリィ": {
     "JP": null,
     "CN": "格蕾·Lily",
     "TW": null,
-    "NA": null,
+    "NA": "Gray Lily",
     "KR": null
   },
   "アスカラポス＝アケローン": {
     "JP": null,
     "CN": "阿斯卡拉福斯·阿刻戎",
     "TW": null,
-    "NA": null,
+    "NA": "Ascalaphus-Acheron",
     "KR": null
   },
   "アズライール": {
@@ -3916,33 +3916,36 @@
     "JP": null,
     "CN": "惜德拉·亚兹拉尔",
     "TW": null,
-    "NA": null,
+    "NA": "Sidra Azrael",
     "KR": null
   },
   "ハサン・サッバーハ": {
     "JP": null,
     "CN": "哈桑·萨巴赫",
     "TW": null,
-    "NA": null,
+    "NA": "Hassan-i Sabbah",
     "KR": null
   },
   "蒼きアズライール": {
     "JP": null,
     "CN": "苍蓝亚兹拉尔",
     "TW": null,
-    "NA": null,
+    "NA": "Azrael the Pale",
     "KR": null
   },
   "キングプロテア・オルタ": {
     "JP": null,
     "CN": "Kingprotea·Alter",
     "TW": null,
-    "NA": null,
+    "NA": "Kingprotea Alter",
     "KR": null
   },
   "ダイダロス": {
     "JP": null,
-    "CN": "代达罗斯"
+    "CN": "代达罗斯",
+    "TW": "代達洛斯",
+    "NA": "Daedalus",
+    "KR": "다이달로스"
   },
   "真打・虎徹 A": {
     "JP": null,

@@ -18,7 +18,7 @@
     "CN": "冬日便装",
     "TW": "冬日便裝",
     "NA": "Winter Casual",
-    "KR": null
+    "KR": "윈터 캐주얼"
   },
   "カルデア・パスファインダー": {
     "JP": null,
@@ -38,7 +38,7 @@
     "JP": null,
     "CN": "二十八怪物",
     "TW": null,
-    "NA": null,
+    "NA": "Clan Calatin",
     "KR": null
   },
   "サマー・ストリート": {
@@ -59,7 +59,7 @@
     "JP": null,
     "CN": "普通迦勒底制服",
     "TW": null,
-    "NA": null,
+    "NA": "Normal Chaldea Uniform",
     "KR": null
   },
   "ハロウィン・ロイヤリティ": {
@@ -192,7 +192,7 @@
     "JP": null,
     "CN": "迦勒底学园制服",
     "TW": null,
-    "NA": null,
+    "NA": "Chaldea Academy Uniform",
     "KR": null
   }
 }
