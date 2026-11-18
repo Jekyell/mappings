@@ -2034,7 +2034,7 @@
   "10007": {
     "eventId": 80576,
     "JP": "甲冑をまとう",
-    "CN": null,
+    "CN": "身着甲胄",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2042,7 +2042,7 @@
   "10008": {
     "eventId": 80576,
     "JP": "爆発する",
-    "CN": null,
+    "CN": "会爆炸",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2058,7 +2058,7 @@
   "10034": {
     "eventId": 80608,
     "JP": "翼を持つ",
-    "CN": null,
+    "CN": "拥有翅膀",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2066,7 +2066,7 @@
   "10035": {
     "eventId": 80608,
     "JP": "角の生えた",
-    "CN": null,
+    "CN": "长有角",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2074,7 +2074,7 @@
   "10036": {
     "eventId": 80608,
     "JP": "幸運D",
-    "CN": null,
+    "CN": "幸运D",
     "TW": null,
     "NA": null,
     "KR": null
